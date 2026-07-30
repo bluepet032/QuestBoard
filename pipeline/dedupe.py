@@ -1,0 +1,77 @@
+from __future__ import annotations
+
+from datetime import date
+from difflib import SequenceMatcher
+
+from pipeline.models import Opportunity
+from pipeline.normalize import normalize_text
+
+
+def similarity(left: str, right: str) -> float:
+    return SequenceMatcher(None, normalize_text(left), normalize_text(right)).ratio()
+
+
+def date_distance(left: str | None, right: str | None) -> int | None:
+    if not left or not right:
+        return None
+    try:
+        return abs((date.fromisoformat(left[:10]) - date.fromisoformat(right[:10])).days)
+    except ValueError:
+        return None
+
+
+def is_duplicate(left: Opportunity, right: Opportunity) -> bool:
+    left_urls = {source.source_url for source in left.sources}
+    right_urls = {source.source_url for source in right.sources}
+    if left_urls & right_urls:
+        return True
+    if left.application_url and left.application_url == right.application_url:
+        return True
+    if left.dedupe_key and left.dedupe_key == right.dedupe_key:
+        return True
+    distance = date_distance(left.recruit_end, right.recruit_end)
+    return (
+        similarity(left.title, right.title) >= 0.90
+        and similarity(left.organizer, right.organizer) >= 0.80
+        and distance is not None
+        and distance <= 1
+    )
+
+
+def merge(left: Opportunity, right: Opportunity) -> Opportunity:
+    all_sources = {source.source_url: source for source in [*left.sources, *right.sources]}
+    representative = max(all_sources.values(), key=lambda source: source.priority)
+    winner = left if any(source.source_url == representative.source_url for source in left.sources) else right
+    other = right if winner is left else left
+    winner.sources = sorted(all_sources.values(), key=lambda source: (-source.priority, source.source_name))
+    winner.source_name = representative.source_name
+    winner.source_url = representative.source_url
+    winner.application_url = winner.application_url or other.application_url
+    winner.document_url = winner.document_url or other.document_url
+    winner.eligibility = winner.eligibility or other.eligibility
+    winner.benefits = winner.benefits or other.benefits
+    winner.location = winner.location or other.location
+    winner.field_tags = sorted(set(winner.field_tags + other.field_tags))
+    winner.audience_tags = sorted(set(winner.audience_tags + other.audience_tags))
+    winner.relevance.score = max(winner.relevance.score, other.relevance.score)
+    winner.relevance.reasons = list(dict.fromkeys(winner.relevance.reasons + other.relevance.reasons))
+    winner.relevance.decision = (
+        "publish" if winner.relevance.score >= 70
+        else "review" if winner.relevance.score >= 50
+        else "exclude"
+    )
+    winner.first_seen_at = min(winner.first_seen_at, other.first_seen_at)
+    winner.last_seen_at = max(winner.last_seen_at, other.last_seen_at)
+    return winner
+
+
+def deduplicate(items: list[Opportunity]) -> list[Opportunity]:
+    merged: list[Opportunity] = []
+    for item in items:
+        for index, existing in enumerate(merged):
+            if is_duplicate(existing, item):
+                merged[index] = merge(existing, item)
+                break
+        else:
+            merged.append(item)
+    return merged

@@ -1,0 +1,55 @@
+types:
+  contest:
+    label: 공모전
+    keywords: [공모전, 경진대회, 콘테스트, 챌린지, 대회]
+  support:
+    label: 지원사업
+    keywords: [지원사업, 제작지원, 사업화, 창업지원, 지원금, 입주기업, 참가기업]
+  hackathon:
+    label: 해커톤·게임잼
+    keywords: [해커톤, 아이디어톤, 게임잼, game jam]
+  event:
+    label: 행사·네트워킹
+    keywords: [컨퍼런스, 세미나, 밋업, 네트워킹, 박람회, 전시회, 데모데이]
+  education:
+    label: 교육·프로그램
+    keywords: [교육, 부트캠프, 아카데미, 멘토링, 프로그램, 캠프]
+  supporters:
+    label: 서포터즈
+    keywords: [서포터즈, 기자단, 홍보단]
+  employment:
+    label: 채용·인턴
+    keywords: [채용, 인턴, 인턴십, 신입, 취업]
+  other:
+    label: 기타
+    keywords: []
+
+fields:
+  game: [게임, 게임개발, 게임기획, 인디게임, 게임그래픽, 게임아트, 게임사운드, e스포츠]
+  indie: [인디게임, 인디 게임, indie]
+  ai: [인공지능, 생성형 ai, ai, aix, genai, aiengineering, 머신러닝, machine learning]
+  software: [소프트웨어, sw, 프로그래밍, 코딩, 개발자, ict, it, api, 알고리즘, 컴퓨터, 시스템, 오픈소스, 임베디드, 자동화, 디지털 전환, dx, ax]
+  web_app: [웹, 앱, 모바일, saas, 플랫폼, it 서비스]
+  data: [데이터, 빅데이터, 데이터분석]
+  immersive: [메타버스, vr, ar, xr]
+  cloud_security: [클라우드, 보안, 오픈소스]
+  startup: [스타트업, 창업, 사업화]
+  digital_content: [디지털 콘텐츠, 콘텐츠 제작, 인터랙티브, 콘텐츠, 캐릭터, 웹툰, 애니메이션, 미디어아트, 3d, 그래픽]
+
+audiences:
+  university: [대학생, 대학원생, 재학생, 대학생 대상]
+  youth: [청년, 만 19세, 만 34세, 만 39세]
+  developer: [개발자, 프로그래머]
+  startup: [예비창업자, 초기창업자, 스타트업, 중소기업]
+
+exclude_phrases:
+  - 스포츠 경기 관람
+  - 경품 이벤트
+  - 단순 체험단
+  - 할인 행사
+  - 상품 판매
+  - 보험 서포터즈
+  - 식품 서포터즈
+  - 화장품 서포터즈
+  - 입찰
+  - 용역
