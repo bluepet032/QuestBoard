@@ -15,6 +15,7 @@ describe('QuestBoard', () => {
     render(<App />)
     expect(screen.getByRole('link', { name: /QuestBoard/ })).toBeInTheDocument()
     expect(screen.getByRole('button', { name: /전체/ })).toBeInTheDocument()
+    expect(screen.getByLabelText('분류 색상 안내')).toHaveTextContent('인디')
     await waitFor(() => expect(screen.getByText('조건에 맞는 공고가 없습니다.')).toBeInTheDocument())
   })
 })

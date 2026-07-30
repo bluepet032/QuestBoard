@@ -75,7 +75,7 @@ export function OpportunityPage({ dataset, title, description }: Props) {
         <p><strong>{visible.length}개</strong> 공고 · {payload.generated ? `${new Date(payload.generated).toLocaleString('ko-KR')} 갱신` : '갱신 정보 없음'}</p>
         <label>정렬 <select value={filters.sort} onChange={event => update('sort', event.target.value)}><option value="deadline">마감임박순</option><option value="newest">신규등록순</option><option value="updated">최근갱신순</option><option value="relevance">관련도순</option></select></label>
       </div>
-      <div className="legend" aria-label="분류 색상 안내"><span><i className="type-support" /> 지원사업</span><span><i className="type-contest" /> 공모전</span><span><i className="type-hackathon" /> 해커톤·게임잼</span><span><b className="badge badge-new">NEW</b> 최초 수집 72시간</span><span><b className="badge badge-updated">UPDATED</b> 중요 변경 48시간</span></div>
+      <div className="legend" aria-label="분류 색상 안내"><span><i className="type-support" /> 지원사업</span><span><i className="type-contest" /> 공모전</span><span><i className="type-hackathon" /> 해커톤·게임잼</span><span><i className="type-indie" /> 인디</span><span><b className="badge badge-new">NEW</b> 최초 수집 72시간</span><span><b className="badge badge-updated">UPDATED</b> 중요 변경 48시간</span></div>
       {loading && <div className="message" role="status">공고 데이터를 불러오는 중입니다…</div>}
       {error && <div className="message error" role="alert"><strong>데이터 로드 실패</strong><span>{error}</span><small>먼저 <code>python -m pipeline.cli</code>를 실행해 데이터를 생성하세요.</small></div>}
       {!loading && !error && pageItems.length === 0 && <div className="message"><strong>조건에 맞는 공고가 없습니다.</strong><span>필터를 줄이거나 수집 파이프라인을 실행해보세요.</span></div>}

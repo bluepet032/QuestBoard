@@ -6,16 +6,6 @@ export const isNew = (item: Opportunity, now = Date.now()) => now - new Date(ite
 export const isUpdated = (item: Opportunity, now = Date.now()) => Boolean(item.last_changed_at) && now - new Date(item.last_changed_at!).getTime() <= 48 * HOUR
 export const isDeadlineSoon = (item: Opportunity) => item.d_day != null && item.d_day >= 0 && item.d_day <= 7
 
-export function isIndieGameContest(item: Opportunity) {
-  if (item.primary_type !== 'contest') return false
-
-  const fieldTags = new Set(item.field_tags.map(tag => tag.trim().toLocaleLowerCase('ko-KR')))
-  if (fieldTags.has('인디') && fieldTags.has('게임')) return true
-
-  const searchableText = [item.title, item.summary, ...item.field_tags].join(' ').replace(/\s+/g, '')
-  return searchableText.includes('인디게임') || /indiegame/i.test(searchableText)
-}
-
 export function dDayLabel(item: Opportunity) {
   if (item.status === 'ongoing') return '상시'
   if (item.status === 'unknown') return '미정'
