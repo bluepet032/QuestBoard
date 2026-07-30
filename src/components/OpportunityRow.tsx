@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { STATUS_LABELS, TYPE_LABELS } from '../constants'
 import type { Opportunity, PersonalState } from '../types'
-import { dDayLabel, formatDate, isNew, isUpdated } from '../utils'
+import { dDayLabel, formatDate, isIndieGameContest, isNew, isUpdated } from '../utils'
 
 interface Props {
   item: Opportunity
@@ -23,6 +23,7 @@ export function OpportunityRow({ item, personal, onToggle }: Props) {
       <div className="opportunity-main">
         <div className="title-line">
           <a href={item.source_url} target="_blank" rel="noopener noreferrer" onClick={() => onToggle('read', item.id)}>{item.title}</a>
+          {isIndieGameContest(item) && <span className="badge badge-indie">인디</span>}
           {isNew(item) && <span className="badge badge-new">NEW</span>}
           {isUpdated(item) && <span className="badge badge-updated">UPDATED</span>}
         </div>

@@ -138,8 +138,10 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
 .opportunity-main > p { margin: 6px 0 10px; color: var(--muted); font-size: 12px; line-height: 1.6; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
 .tags { display: flex; flex-wrap: wrap; gap: 5px; }
 .badge { display: inline-flex; align-items: center; width: fit-content; border-radius: 5px; padding: 3px 6px; font-size: 10px; font-weight: 800; white-space: nowrap; }
+.badge-indie { color: #a81864; background: #ffe0f0; }
 .badge-new { color: #08783b; background: #dff7e8; }
 .badge-updated { color: #a34800; background: #ffead7; }
+:root[data-theme='dark'] .badge-indie { color: #ff91c8; background: #4d1834; }
 :root[data-theme='dark'] .badge-new { color: #75efaa; background: #183d2a; }
 :root[data-theme='dark'] .badge-updated { color: #ffb572; background: #4a2b16; }
 .type-badge { color: var(--type-color); background: color-mix(in srgb, var(--type-color) 13%, transparent); }
