@@ -30,11 +30,15 @@ def is_duplicate(left: Opportunity, right: Opportunity) -> bool:
     if left.dedupe_key and left.dedupe_key == right.dedupe_key:
         return True
     distance = date_distance(left.recruit_end, right.recruit_end)
+    left_source_ids = {source.source_id for source in left.sources}
+    right_source_ids = {source.source_id for source in right.sources}
+    cross_source = left_source_ids.isdisjoint(right_source_ids)
+    title_similarity = similarity(left.title, right.title)
     return (
-        similarity(left.title, right.title) >= 0.90
-        and similarity(left.organizer, right.organizer) >= 0.80
+        title_similarity >= 0.90
         and distance is not None
         and distance <= 1
+        and (cross_source or similarity(left.organizer, right.organizer) >= 0.80)
     )
 
 

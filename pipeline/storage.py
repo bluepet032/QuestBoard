@@ -1,12 +1,12 @@
 from __future__ import annotations
 
 import json
-from datetime import datetime, timedelta
+from datetime import datetime
 from pathlib import Path
 from typing import Any
 
 from pipeline import SCHEMA_VERSION
-from pipeline.dates import KST, parse_iso_date
+from pipeline.dates import KST, months_ago, parse_iso_date
 from pipeline.models import CrawlStatus, Opportunity
 
 
@@ -37,7 +37,7 @@ def partition(items: list[Opportunity], now: datetime) -> tuple[list[Opportunity
     undated: list[Opportunity] = []
     closed: list[Opportunity] = []
     review: list[Opportunity] = []
-    cutoff = now.astimezone(KST).date() - timedelta(days=365)
+    cutoff = months_ago(now, 3)
     for item in items:
         if item.relevance.decision == "review":
             review.append(item)
@@ -63,4 +63,3 @@ def write_all(output_dir: Path, items: list[Opportunity], statuses: list[CrawlSt
     write_payload(output_dir / "closed.json", [item.to_dict() for item in sorted(closed, key=sort_key, reverse=True)], now)
     write_payload(output_dir / "review.json", [item.to_dict() for item in sorted(review, key=lambda item: -item.relevance.score)], now)
     write_payload(output_dir / "sources.json", [status.to_dict() for status in statuses], now)
-

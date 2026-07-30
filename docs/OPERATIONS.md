@@ -6,7 +6,7 @@
 
 - `active.json`: 모집 예정·진행 중인 공개 공고
 - `undated.json`: 마감일이 정확하지 않은 공개 공고
-- `closed.json`: 최근 1년 내 마감 공고
+- `closed.json`: 최근 3개월 내 마감 공고
 - `review.json`: 점수 50~69점의 비공개 검토 후보
 - `sources.json`: 출처별 최근 실행 결과와 오류
 

@@ -16,12 +16,12 @@ export function matchesOpportunity(item: Opportunity, filters: OpportunityFilter
   if (filters.field && !item.field_tags.includes(filters.field)) return false
   if (filters.status && item.status !== filters.status) return false
 
-  const query = filters.search.trim().toLocaleLowerCase('ko-KR')
-  if (query) {
+  const terms = filters.search.trim().toLocaleLowerCase('ko-KR').split(/\s+/).filter(Boolean)
+  if (terms.length) {
     const haystack = [item.title, item.organizer, item.summary, item.source_name, ...item.field_tags, ...item.audience_tags]
       .join(' ')
       .toLocaleLowerCase('ko-KR')
-    if (!haystack.includes(query)) return false
+    if (!terms.every(term => haystack.includes(term))) return false
   }
   return true
 }

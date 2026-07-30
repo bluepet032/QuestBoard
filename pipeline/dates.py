@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+from calendar import monthrange
 from datetime import date, datetime, time
 from zoneinfo import ZoneInfo
 
@@ -7,6 +8,14 @@ from pipeline.models import DateKind, OpportunityStatus
 
 
 KST = ZoneInfo("Asia/Seoul")
+
+
+def months_ago(value: datetime, months: int) -> date:
+    current = value.astimezone(KST).date()
+    month_index = current.year * 12 + current.month - 1 - months
+    year, zero_based_month = divmod(month_index, 12)
+    month = zero_based_month + 1
+    return date(year, month, min(current.day, monthrange(year, month)[1]))
 
 
 def parse_iso_date(value: str | None) -> date | None:
@@ -46,4 +55,3 @@ def status_for(
 def end_of_day(value: str | None) -> datetime | None:
     parsed = parse_iso_date(value)
     return datetime.combine(parsed, time.max, KST) if parsed else None
-

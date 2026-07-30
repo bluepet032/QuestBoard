@@ -17,6 +17,7 @@ LINK_RE = re.compile(
 )
 TAG_RE = re.compile(r"<[^>]+>")
 DDAY_RE = re.compile(r"D-(\d+)", re.I)
+DPLUS_RE = re.compile(r"D\+(\d+)", re.I)
 
 
 def _text(markup: str) -> str:
@@ -39,7 +40,7 @@ class WevityCollector(Collector):
     """Collect Wevity's IT and game categories instead of sampling its front page."""
 
     CATEGORY_IDS = ("21", "20")  # 게임/소프트웨어, 웹/모바일/IT
-    MODES = ("soon", "ing", "future")
+    MODES = ("soon", "ing", "future", "end")
 
     def collect(self, now: datetime, limit: int = 30) -> list[RawOpportunity]:
         results: list[RawOpportunity] = []
@@ -87,7 +88,12 @@ class WevityCollector(Collector):
             post_id = (query.get("ix") or [source_url])[0]
             category = re.sub(r"^분야\s*:\s*", "", fields.get("sub-tit", ""))
             dday = DDAY_RE.search(fields.get("day", ""))
-            recruit_end = (now.date() + timedelta(days=int(dday.group(1)))).isoformat() if dday else None
+            elapsed = DPLUS_RE.search(fields.get("day", ""))
+            recruit_end = None
+            if dday:
+                recruit_end = (now.date() + timedelta(days=int(dday.group(1)))).isoformat()
+            elif elapsed:
+                recruit_end = (now.date() - timedelta(days=int(elapsed.group(1)))).isoformat()
             results.append(RawOpportunity(
                 source_id=self.config.id,
                 source_name=self.config.name,

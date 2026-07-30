@@ -105,6 +105,13 @@ def test_wevity_category_row_contract():
     assert item.recruit_end == "2026-08-09"
 
 
+def test_wevity_closed_row_uses_d_plus_deadline():
+    cfg = config("wevity")
+    markup = '''<li><div class="tit"><a href="?gbn=view&ix=43">지난 게임 공모전</a><div class="sub-tit">분야 : 게임/소프트웨어</div></div><div class="organ">게임재단</div><div class="day">D+10 <span>마감</span></div></li>'''
+    item = WevityCollector(cfg, FakeClient({}))._parse_page(markup, cfg.list_url, NOW)[0]
+    assert item.recruit_end == "2026-07-20"
+
+
 def test_kocca_support_table_contract():
     cfg = config("kocca")
     url = "https://example.com/list?pageIndex=1"
@@ -134,6 +141,14 @@ def test_thinkcontest_game_category_contract():
     item = ThinkContestCollector(cfg, FakeClient({ThinkContestCollector.ENDPOINT: payload})).collect(NOW, 1)[0]
     assert item.source_post_id == "42"
     assert item.recruit_end == "2026-08-20"
+
+
+def test_thinkcontest_keeps_recent_closed_record():
+    cfg = config("thinkcontest")
+    records = [{"contest_pk": 43, "program_nm": "이동 안내//지난 AI 게임 공모전", "host_company": "게임사", "finish_dt": "2026-07-20", "process": "END"}]
+    item = ThinkContestCollector(cfg, FakeClient({}))._records(records, NOW, ended_only=True)[0]
+    assert item.title == "지난 AI 게임 공모전"
+    assert item.recruit_end == "2026-07-20"
 
 
 def test_linkareer_server_state_contract():

@@ -20,6 +20,12 @@ describe('matchesOpportunity', () => {
     expect(matchesOpportunity(item, { ...filters, search: '게임재단', field: '데이터' })).toBe(false)
   })
 
+  it('matches every whitespace-separated search term across fields', () => {
+    const companyItem = { ...item, organizer: '콘텐츠 기업 지원센터' }
+    expect(matchesOpportunity(companyItem, { ...filters, search: '게임 기업' })).toBe(true)
+    expect(matchesOpportunity(companyItem, { ...filters, search: '게임 의료' })).toBe(false)
+  })
+
   it('hides adjacent opportunities by default but exposes their selected type', () => {
     const adjacent = { ...item, primary_type: 'employment', is_adjacent: true } satisfies Opportunity
     expect(matchesOpportunity(adjacent, filters)).toBe(false)
