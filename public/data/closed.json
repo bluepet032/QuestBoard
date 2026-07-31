@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-31T21:19:41+09:00",
+  "generated_at": "2026-08-01T00:07:32+09:00",
   "items": [
     {
       "id": "48a6567171add6a24822",
@@ -467,65 +467,6 @@
       "dedupe_key": "2026가명정보활용경진대회|개인정보보호위원회과학기술정보통신부보건복지부금융위원회|2026-07-28"
     },
     {
-      "id": "059e389eef70d019b884",
-      "title": "[사업화] --> 2026년도 소프트웨어 산업발전 유공자 포상계획 공고",
-      "source_name": "정보통신산업진흥원",
-      "source_url": "https://www.nipa.kr/home/2-2/16846",
-      "organizer": "정보통신산업진흥원",
-      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "창업"
-      ],
-      "audience_tags": [],
-      "status": "closed",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: 사업화, 소프트웨어",
-          "본문·분류 키워드: ai, it, sw, 모바일",
-          "공고 유형: support",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T16:42:45+09:00",
-      "last_seen_at": "2026-07-31T18:30:42+09:00",
-      "sources": [
-        {
-          "source_id": "nipa",
-          "source_name": "정보통신산업진흥원",
-          "source_url": "https://www.nipa.kr/home/2-2/16846",
-          "source_post_id": "16846",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-07-31T18:30:42+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-07-07",
-      "recruit_end": "2026-07-24",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": -7,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "사업화2026년도소프트웨어산업발전유공자포상계획공고|정보통신산업진흥원|2026-07-24"
-    },
-    {
       "id": "98158ef2cc7015acbe15",
       "title": "2026년 장애인 분야 해커톤 대회 (장애 플러스 기술)",
       "source_name": "위비티",
@@ -592,6 +533,65 @@
       ],
       "is_manual_reviewed": false,
       "dedupe_key": "2026년장애인분야해커톤대회장애플러스기술|한국장애인재단|2026-07-24"
+    },
+    {
+      "id": "059e389eef70d019b884",
+      "title": "[사업화] --> 2026년도 소프트웨어 산업발전 유공자 포상계획 공고",
+      "source_name": "정보통신산업진흥원",
+      "source_url": "https://www.nipa.kr/home/2-2/16846",
+      "organizer": "정보통신산업진흥원",
+      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "창업"
+      ],
+      "audience_tags": [],
+      "status": "closed",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: 사업화, 소프트웨어",
+          "본문·분류 키워드: ai, it, sw, 모바일",
+          "공고 유형: support",
+          "공식 전문기관 출처",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-07-30T16:42:45+09:00",
+      "last_seen_at": "2026-08-01T00:07:32+09:00",
+      "sources": [
+        {
+          "source_id": "nipa",
+          "source_name": "정보통신산업진흥원",
+          "source_url": "https://www.nipa.kr/home/2-2/16846",
+          "source_post_id": "16846",
+          "kind": "official",
+          "priority": 100,
+          "fetched_at": "2026-08-01T00:07:32+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-07-07",
+      "recruit_end": "2026-07-24",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -8,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "사업화2026년도소프트웨어산업발전유공자포상계획공고|정보통신산업진흥원|2026-07-24"
     },
     {
       "id": "fd26cf055872a7bf2887",
@@ -709,70 +709,6 @@
       ],
       "is_manual_reviewed": false,
       "dedupe_key": "2026관광데이터활용공모전웹앱구현부문|한국관광공사|2026-07-21"
-    },
-    {
-      "id": "95040ee8c624fb44e68b",
-      "title": "[사업화] --> 2026년도 SaaS 전환 컨설팅 2차 수요기업 모집",
-      "source_name": "정보통신산업진흥원",
-      "source_url": "https://www.nipa.kr/home/2-2/16827",
-      "organizer": "정보통신산업진흥원",
-      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "창업"
-      ],
-      "audience_tags": [],
-      "status": "closed",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: saas, 사업화",
-          "본문·분류 키워드: ai, it, saas, 모바일",
-          "공고 유형: support",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-07-31T18:30:42+09:00",
-      "sources": [
-        {
-          "source_id": "nipa",
-          "source_name": "정보통신산업진흥원",
-          "source_url": "https://www.nipa.kr/home/2-2/16827",
-          "source_post_id": "16827",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-07-31T18:30:42+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-06-23",
-      "recruit_end": "2026-07-20",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": -11,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-07-30T16:42:45+09:00",
-      "change_flags": [
-        "title",
-        "organizer",
-        "eligibility",
-        "benefits"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "사업화2026년도saas전환컨설팅2차수요기업모집|정보통신산업진흥원|2026-07-20"
     },
     {
       "id": "a7c5f97da5dad430d72f",
@@ -904,6 +840,70 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "게임물관리위원회sns서포터즈모집|게임물관리위원회|2026-07-19"
+    },
+    {
+      "id": "95040ee8c624fb44e68b",
+      "title": "[사업화] --> 2026년도 SaaS 전환 컨설팅 2차 수요기업 모집",
+      "source_name": "정보통신산업진흥원",
+      "source_url": "https://www.nipa.kr/home/2-2/16827",
+      "organizer": "정보통신산업진흥원",
+      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "창업"
+      ],
+      "audience_tags": [],
+      "status": "closed",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: saas, 사업화",
+          "본문·분류 키워드: ai, it, saas, 모바일",
+          "공고 유형: support",
+          "공식 전문기관 출처",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-07-30T16:37:20+09:00",
+      "last_seen_at": "2026-08-01T00:07:32+09:00",
+      "sources": [
+        {
+          "source_id": "nipa",
+          "source_name": "정보통신산업진흥원",
+          "source_url": "https://www.nipa.kr/home/2-2/16827",
+          "source_post_id": "16827",
+          "kind": "official",
+          "priority": 100,
+          "fetched_at": "2026-08-01T00:07:32+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-06-23",
+      "recruit_end": "2026-07-20",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -12,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-07-30T16:42:45+09:00",
+      "change_flags": [
+        "title",
+        "organizer",
+        "eligibility",
+        "benefits"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "사업화2026년도saas전환컨설팅2차수요기업모집|정보통신산업진흥원|2026-07-20"
     },
     {
       "id": "d4ea0bd035cabe3a250a",
@@ -4576,179 +4576,6 @@
       ],
       "is_manual_reviewed": false,
       "dedupe_key": "대한민국대표인디게임축제2026인디크래프트출품작모집|성남시성남산업진흥원한국모바일게임협회|2026-05-06"
-    },
-    {
-      "id": "e08f37de554c78e4f413",
-      "title": "퀄컴 AI 이노베이터 프로그램 (QAIPI) 2026-APAC",
-      "source_name": "위비티",
-      "source_url": "https://www.wevity.com/?c=find&s=1&mode=end&gub=1&cidx=21&gbn=view&gp=3&ix=105067",
-      "organizer": "퀄컴코리아",
-      "summary": "위비티 등록 분야: 게임/소프트웨어. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "education",
-      "field_tags": [
-        "게임",
-        "AI",
-        "소프트웨어"
-      ],
-      "audience_tags": [],
-      "status": "closed",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai",
-          "본문·분류 키워드: ai, 게임, 소프트웨어",
-          "공고 유형: education",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-07-31T21:19:41+09:00",
-      "sources": [
-        {
-          "source_id": "wevity",
-          "source_name": "위비티",
-          "source_url": "https://www.wevity.com/?c=find&s=1&mode=end&gub=1&cidx=21&gbn=view&gp=3&ix=105067",
-          "source_post_id": "105067",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-07-31T21:19:41+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-04-30",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": -92,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-07-31T12:56:58+09:00",
-      "change_flags": [
-        "recruit_end"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "퀄컴ai이노베이터프로그램qaipi2026apac|퀄컴코리아|2026-04-30"
-    },
-    {
-      "id": "1136870933aa0e21ea61",
-      "title": "유니티 스튜디오 챌린지",
-      "source_name": "위비티",
-      "source_url": "https://www.wevity.com/?c=find&s=1&mode=end&gub=1&cidx=21&gbn=view&gp=3&ix=106353",
-      "organizer": "유니티 코리아",
-      "summary": "위비티 등록 분야: 게임/소프트웨어. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "게임",
-        "소프트웨어"
-      ],
-      "audience_tags": [],
-      "status": "closed",
-      "relevance": {
-        "score": 88,
-        "reasons": [
-          "본문·분류 키워드: 게임, 소프트웨어",
-          "공고 유형: contest",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-07-31T21:19:41+09:00",
-      "sources": [
-        {
-          "source_id": "wevity",
-          "source_name": "위비티",
-          "source_url": "https://www.wevity.com/?c=find&s=1&mode=end&gub=1&cidx=21&gbn=view&gp=3&ix=106353",
-          "source_post_id": "106353",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-07-31T21:19:41+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-04-30",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": -92,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-07-31T12:56:58+09:00",
-      "change_flags": [
-        "recruit_end"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "유니티스튜디오챌린지|유니티코리아|2026-04-30"
-    },
-    {
-      "id": "f7125ff9dc654d29624d",
-      "title": "[LoL/리그오브레전드] 제2회 국제 아마추어 E-스포츠 대회 (인제대 총장배) 참가자 모집",
-      "source_name": "위비티",
-      "source_url": "https://www.wevity.com/?c=find&s=1&mode=end&gub=1&cidx=21&gbn=view&gp=3&ix=106357",
-      "organizer": "인제대학교",
-      "summary": "위비티 등록 분야: 게임/소프트웨어. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "게임",
-        "소프트웨어"
-      ],
-      "audience_tags": [],
-      "status": "closed",
-      "relevance": {
-        "score": 88,
-        "reasons": [
-          "본문·분류 키워드: 게임, 소프트웨어",
-          "공고 유형: contest",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-07-31T21:19:41+09:00",
-      "sources": [
-        {
-          "source_id": "wevity",
-          "source_name": "위비티",
-          "source_url": "https://www.wevity.com/?c=find&s=1&mode=end&gub=1&cidx=21&gbn=view&gp=3&ix=106357",
-          "source_post_id": "106357",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-07-31T21:19:41+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-04-30",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": -92,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-07-31T12:56:58+09:00",
-      "change_flags": [
-        "recruit_end"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "lol리그오브레전드제2회국제아마추어e스포츠대회인제대총장배참가자모집|인제대학교|2026-04-30"
     }
   ]
 }
