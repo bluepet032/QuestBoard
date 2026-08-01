@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-02T04:50:08+09:00",
+  "generated_at": "2026-08-02T07:13:14+09:00",
   "items": [
     {
       "id": "fae9a4ceb7581b47da46",
@@ -18,6 +18,7 @@
         "창업"
       ],
       "audience_tags": [
+        "청년",
         "창업자·기업"
       ],
       "status": "closed",
@@ -32,7 +33,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T14:33:47+09:00",
-      "last_seen_at": "2026-08-01T00:30:58+09:00",
+      "last_seen_at": "2026-08-02T07:13:14+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -41,7 +42,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-01T00:30:58+09:00"
+          "fetched_at": "2026-08-02T07:13:14+09:00"
         }
       ],
       "application_url": null,
@@ -51,7 +52,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -31,
+      "d_day": -32,
       "eligibility": "",
       "benefits": "",
       "location": "대구 북구 호암로 51 메이커스페이스동 204호 지도보기 와이앤아처(주) 무료 · 명 선착순 정원 20 명 2026.8.7 (금) 23:59 까지 17 명 신청가능 신청 가능한 최",
@@ -66,12 +67,12 @@
       "dedupe_key": "2026대구특구글로벌딥테크지원사업deepbound참가자모집|측가아닙니다이벤트내용과관련한사항은이벤트개설자에게문의바랍니다hoti|2026-07-01"
     },
     {
-      "id": "1ee0f91ad47c718d1752",
-      "title": "[경제적 독립] 화려한 싱글로 살기",
+      "id": "dcf9c9dbf177ec898a29",
+      "title": "[선착순 마감] 현금 파이프라인 만들기",
       "source_name": "온오프믹스",
-      "source_url": "https://onoffmix.com/event/342230",
+      "source_url": "https://onoffmix.com/event/342136",
       "organizer": "측)가 아닙니다. 이벤트 내용과 관련한 사항은 이벤트 개설자에게 문의 바랍니다. HOT I",
-      "summary": "품격 있는 삶, 경제적 독립으로 완성하는 우리의 이야기 세미나 안내사항 신청해주시면 담당자가 확인 후 개별적으로 연락드립니다. ﻿ 세미나 문의하기 https://open.kakao.com/o/sF6XNDLh ﻿ 세미나 Q&A 가장 많이 하시는 질문들 Q1. 세미나는 얼마나 진행되나요?…",
+      "summary": "당신의 꿈을 현실로 이끄는 확실한 길 ⦁ 매일 아침, 출근길에 오르며 이런 생각 해보신 적 없으신가요? ‘언제까지 이렇게 일만 해야 할까?’ ‘내가 잠든 사이에도 돈이 벌리는 방법은 없을까?’ 열심히 일해도 늘 부족한 통장 잔고, 예측 불가능한 미래에 대한 불안감은 우리를 지치게 합니…",
       "primary_type": "contest",
       "field_tags": [
         "게임",
@@ -83,7 +84,7 @@
       "audience_tags": [
         "창업자·기업"
       ],
-      "status": "upcoming",
+      "status": "closed",
       "relevance": {
         "score": 69,
         "reasons": [
@@ -94,109 +95,37 @@
         ],
         "decision": "review"
       },
-      "first_seen_at": "2026-08-01T00:30:58+09:00",
-      "last_seen_at": "2026-08-01T00:30:58+09:00",
+      "first_seen_at": "2026-08-02T07:13:14+09:00",
+      "last_seen_at": "2026-08-02T07:13:14+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
           "source_name": "온오프믹스",
-          "source_url": "https://onoffmix.com/event/342230",
+          "source_url": "https://onoffmix.com/event/342136",
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-01T00:30:58+09:00"
+          "fetched_at": "2026-08-02T07:13:14+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
-      "recruit_start": "2026-09-01",
-      "recruit_end": "2026-08-01",
+      "recruit_start": "2026-06-13",
+      "recruit_end": "2026-06-13",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 0,
+      "d_day": -50,
       "eligibility": "",
       "benefits": "",
-      "location": "서울 강남구 영동대로85길 13 2호선 코엑스 인근 세미나실 (5분 거리) 지도보기 무료 · 명 선착순 정원 4 명 2026.9.1 (화) 16:00 까지 3 명 신청가능 8월 주",
+      "location": "서울 강남구 영동대로 513 주변 세미나실 지도보기 무료 · 명 선착순 정원 5 명 2026.8.5 (수) 21:19 까지 4 명 신청가능 8/8(토) 갓생반 이벤트기간 2026.",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
-      "dedupe_key": "경제적독립화려한싱글로살기|측가아닙니다이벤트내용과관련한사항은이벤트개설자에게문의바랍니다hoti|2026-08-01"
-    },
-    {
-      "id": "253e77fa68b226dc86ca",
-      "title": "26년 8월 13일 사안처리 담당 교원(7시간)",
-      "source_name": "온오프믹스",
-      "source_url": "https://onoffmix.com/event/345794",
-      "organizer": "측)가 아닙니다. 이벤트 내용과 관련한 사항은 이벤트 개설자에게 문의 바랍니다. HOT I",
-      "summary": "2026년 학교 내 성희롱·성폭력 업무담당자 사안처리 역량강화 직무연수. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "AI",
-        "게임",
-        "소프트웨어",
-        "웹·앱",
-        "창업"
-      ],
-      "audience_tags": [
-        "창업자·기업"
-      ],
-      "status": "upcoming",
-      "relevance": {
-        "score": 69,
-        "reasons": [
-          "본문·분류 키워드: ai, it, 게임, 스타트업",
-          "공고 유형: contest",
-          "IT·게임 전문 출처",
-          "제목의 IT·게임 직접 근거 부족"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-01T00:30:58+09:00",
-      "sources": [
-        {
-          "source_id": "onoffmix",
-          "source_name": "온오프믹스",
-          "source_url": "https://onoffmix.com/event/345794",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-08-01T00:30:58+09:00"
-        },
-        {
-          "source_id": "onoffmix",
-          "source_name": "온오프믹스",
-          "source_url": "https://onoffmix.com/event/345796",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-08-01T00:30:58+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-09-11",
-      "recruit_end": "2026-09-10",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 40,
-      "eligibility": "",
-      "benefits": "",
-      "location": "스트리밍 8월 13일 사안처리담당교원 마감 무료 선착순 정원 70 명 2026.7.31 (금) 23:59 까지 대기자 신청가능 신청 가능한 최대 그룹수는 1 개 입니다. 6 참여",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-08-01T00:30:58+09:00",
-      "change_flags": [
-        "location"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "26년8월13일사안처리담당교원7시간|측가아닙니다이벤트내용과관련한사항은이벤트개설자에게문의바랍니다hoti|2026-09-10"
+      "dedupe_key": "선착순마감현금파이프라인만들기|측가아닙니다이벤트내용과관련한사항은이벤트개설자에게문의바랍니다hoti|2026-06-13"
     },
     {
       "id": "8ddecb4b8bf406a76cd9",
@@ -211,6 +140,7 @@
         "AI",
         "소프트웨어",
         "웹·앱",
+        "데이터",
         "창업"
       ],
       "audience_tags": [
@@ -220,7 +150,7 @@
       "relevance": {
         "score": 69,
         "reasons": [
-          "본문·분류 키워드: ai, it, 게임, 스타트업",
+          "본문·분류 키워드: ai, it, 게임, 데이터",
           "공고 유형: contest",
           "IT·게임 전문 출처",
           "제목의 IT·게임 직접 근거 부족"
@@ -228,7 +158,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-01T00:30:58+09:00",
+      "last_seen_at": "2026-08-02T07:13:14+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -237,7 +167,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-01T00:30:58+09:00"
+          "fetched_at": "2026-08-02T07:13:14+09:00"
         }
       ],
       "application_url": null,
@@ -247,7 +177,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -159,
+      "d_day": -160,
       "eligibility": "",
       "benefits": "",
       "location": "서울 서초구 주흥길 9 지하1층 브릴란트 아트 스튜디오 지도보기 2,200,000 원 선착순 2026.8.29 (토) 23:59 까지 신청가능 주말반 이벤트기간 2026.9.5 (",
@@ -291,7 +221,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-01T00:30:58+09:00",
+      "last_seen_at": "2026-08-02T07:13:14+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -300,7 +230,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-01T00:30:58+09:00"
+          "fetched_at": "2026-08-02T07:13:14+09:00"
         }
       ],
       "application_url": null,
@@ -310,7 +240,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -639,
+      "d_day": -640,
       "eligibility": "",
       "benefits": "",
       "location": "서울 마포구 백범로 35 서강대학교 다산관 101호 지도보기 일반 200,000 원 · 명 선착순 정원 100 명 2026.8.10 (월) 15:00 까지 96 명 신청가능 학생",
@@ -340,6 +270,7 @@
         "창업"
       ],
       "audience_tags": [
+        "청년",
         "창업자·기업"
       ],
       "status": "upcoming",
@@ -354,7 +285,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-01T00:30:58+09:00",
+      "last_seen_at": "2026-08-02T07:13:14+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -363,7 +294,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-01T00:30:58+09:00"
+          "fetched_at": "2026-08-02T07:13:14+09:00"
         }
       ],
       "application_url": null,
@@ -373,7 +304,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 0,
+      "d_day": -1,
       "eligibility": "",
       "benefits": "",
       "location": "서울 강남구 영동대로85길 13 2호선 코엑스 인근 세미나실 (5분 거리) 지도보기 무료 · 명 선착순 정원 4 명 2026.9.1 (화) 16:28 까지 3 명 신청가능 8월 주",
@@ -418,7 +349,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-01T00:30:58+09:00",
+      "last_seen_at": "2026-08-02T07:13:14+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -427,7 +358,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-01T00:30:58+09:00"
+          "fetched_at": "2026-08-02T07:13:14+09:00"
         }
       ],
       "application_url": null,
@@ -437,7 +368,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -1044,
+      "d_day": -1045,
       "eligibility": "",
       "benefits": "",
       "location": "서울 관악구 관악로 1 관정도서관 양두석홀 지도보기 무료 선착순 정원 110 명 2026.8.31 (월) 23:59 까지 80 명 신청가능 Tutorial Lecture 이벤트기간",
@@ -467,6 +398,7 @@
         "창업"
       ],
       "audience_tags": [
+        "청년",
         "창업자·기업"
       ],
       "status": "closed",
@@ -481,7 +413,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-01T00:30:58+09:00",
+      "last_seen_at": "2026-08-02T07:13:14+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -490,7 +422,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-01T00:30:58+09:00"
+          "fetched_at": "2026-08-02T07:13:14+09:00"
         }
       ],
       "application_url": null,
@@ -500,7 +432,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -176,
+      "d_day": -177,
       "eligibility": "",
       "benefits": "",
       "location": "서울 강남구 테헤란로 231 조선팰리스 4F 지도보기 디지털인사이트포럼 무료 · 명 개설자선정 정원 70 명 2026.8.12 (수) 23:59 까지 70 명 신청가능 신청 가능한",
@@ -513,6 +445,68 @@
       ],
       "is_manual_reviewed": false,
       "dedupe_key": "제15차디지털인사이트포럼|측가아닙니다이벤트내용과관련한사항은이벤트개설자에게문의바랍니다hoti|2026-02-06"
+    },
+    {
+      "id": "7c4d17dc1ee45f009b2c",
+      "title": "[무료초청] 이교원의 NEWBORN (71기)",
+      "source_name": "온오프믹스",
+      "source_url": "https://onoffmix.com/event/344832",
+      "organizer": "측)가 아닙니다. 이벤트 내용과 관련한 사항은 이벤트 개설자에게 문의 바랍니다. HOT I",
+      "summary": "강북삼성병원 이교원 교수의 [이교원의 NEWBORN]에 여러분을 초대합니다. ‘이교원의 NEWBORN’은 매일 새롭게 태어나는 신생아들의 의학적 탐구에서 시작합니다. 놀랍게도 그 NEWBORN의 모든 것을 결정하고 있는 것은 우리들의 오래고 낡은 관념이지요. 오래고 낡은 것이 나쁜 것…",
+      "primary_type": "contest",
+      "field_tags": [
+        "게임",
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "창업"
+      ],
+      "audience_tags": [
+        "청년",
+        "창업자·기업"
+      ],
+      "status": "closed",
+      "relevance": {
+        "score": 69,
+        "reasons": [
+          "본문·분류 키워드: ai, it, 게임, 스타트업",
+          "공고 유형: contest",
+          "IT·게임 전문 출처",
+          "제목의 IT·게임 직접 근거 부족"
+        ],
+        "decision": "review"
+      },
+      "first_seen_at": "2026-08-02T07:13:14+09:00",
+      "last_seen_at": "2026-08-02T07:13:14+09:00",
+      "sources": [
+        {
+          "source_id": "onoffmix",
+          "source_name": "온오프믹스",
+          "source_url": "https://onoffmix.com/event/344832",
+          "source_post_id": null,
+          "kind": "specialist",
+          "priority": 60,
+          "fetched_at": "2026-08-02T07:13:14+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-06-20",
+      "recruit_end": "2026-04-25",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -99,
+      "eligibility": "",
+      "benefits": "",
+      "location": "서울 종로구 새문안로 29 강북삼성병원 C관 B2 대강당 지도보기 1인 무료 개설자선정 정원 10 명 2026.8.21 (금) 22:00 까지 4 명 신청가능 2인 무료 개설자선정",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "무료초청이교원의newborn71기|측가아닙니다이벤트내용과관련한사항은이벤트개설자에게문의바랍니다hoti|2026-04-25"
     },
     {
       "id": "3a0f272de268bec60b52",
@@ -542,7 +536,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-01T00:30:58+09:00",
+      "last_seen_at": "2026-08-02T07:13:14+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -551,7 +545,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-01T00:30:58+09:00"
+          "fetched_at": "2026-08-02T07:13:14+09:00"
         }
       ],
       "application_url": null,
@@ -597,7 +591,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-01T00:30:58+09:00",
+      "last_seen_at": "2026-08-02T07:13:14+09:00",
       "sources": [
         {
           "source_id": "eventus",
@@ -606,7 +600,7 @@
           "source_post_id": "131374",
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-01T00:30:58+09:00"
+          "fetched_at": "2026-08-02T07:13:14+09:00"
         }
       ],
       "application_url": "https://event-us.kr/dimaco/event/131374",
@@ -616,7 +610,7 @@
       "event_start": "2026-09-01",
       "event_end": "2026-09-01",
       "date_kind": "exact",
-      "d_day": 24,
+      "d_day": 23,
       "eligibility": "",
       "benefits": "",
       "location": "서울 강남구",
@@ -641,7 +635,7 @@
         "클라우드·보안"
       ],
       "audience_tags": [],
-      "status": "urgent",
+      "status": "today",
       "relevance": {
         "score": 68,
         "reasons": [
@@ -652,7 +646,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-31T19:01:13+09:00",
-      "last_seen_at": "2026-08-01T00:30:58+09:00",
+      "last_seen_at": "2026-08-02T07:13:14+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -661,7 +655,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-01T00:30:58+09:00"
+          "fetched_at": "2026-08-02T07:13:14+09:00"
         }
       ],
       "application_url": null,
@@ -671,7 +665,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 1,
+      "d_day": 0,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -707,7 +701,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-01T00:30:58+09:00",
+      "last_seen_at": "2026-08-02T07:13:14+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -716,7 +710,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-01T00:30:58+09:00"
+          "fetched_at": "2026-08-02T07:13:14+09:00"
         }
       ],
       "application_url": null,
@@ -726,7 +720,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 13,
+      "d_day": 12,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -762,7 +756,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-01T00:30:58+09:00",
+      "last_seen_at": "2026-08-02T07:13:14+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -771,7 +765,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-01T00:30:58+09:00"
+          "fetched_at": "2026-08-02T07:13:14+09:00"
         }
       ],
       "application_url": null,
@@ -781,7 +775,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 26,
+      "d_day": 25,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -816,7 +810,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-01T00:30:58+09:00",
+      "last_seen_at": "2026-08-02T07:13:14+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -825,7 +819,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-01T00:30:58+09:00"
+          "fetched_at": "2026-08-02T07:13:14+09:00"
         }
       ],
       "application_url": null,
@@ -835,7 +829,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 6,
+      "d_day": 5,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -870,7 +864,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-01T00:30:58+09:00",
+      "last_seen_at": "2026-08-02T07:13:14+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -879,7 +873,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-01T00:30:58+09:00"
+          "fetched_at": "2026-08-02T07:13:14+09:00"
         }
       ],
       "application_url": null,
@@ -889,7 +883,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 13,
+      "d_day": 12,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -924,7 +918,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-01T00:30:58+09:00",
+      "last_seen_at": "2026-08-02T07:13:14+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -933,7 +927,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-01T00:30:58+09:00"
+          "fetched_at": "2026-08-02T07:13:14+09:00"
         }
       ],
       "application_url": null,
@@ -943,7 +937,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 48,
+      "d_day": 47,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1062,64 +1056,6 @@
       "dedupe_key": "전국2026년과학기술정보통신부ict한이음드림업신규멘토모집|한국정보산업연합회|2026-10-31"
     },
     {
-      "id": "789feba5c1a8fa559d95",
-      "title": "제7회 국립재활원 보조기기 해커톤",
-      "source_name": "씽굿",
-      "source_url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=107810",
-      "organizer": "국립재활원",
-      "summary": "씽굿 공모 분야: 과학, 광고/마케팅, 기획/아이디어, 디자인 · 상금 200만원. 어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
-      "primary_type": "hackathon",
-      "field_tags": [
-        "소프트웨어",
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [
-        "대학생",
-        "개발자"
-      ],
-      "status": "closed",
-      "relevance": {
-        "score": 54,
-        "reasons": [
-          "본문·분류 키워드: 3d, 개발자, 컴퓨터, 코딩",
-          "공고 유형: hackathon",
-          "게임·디지털 콘텐츠 형태로 참가 가능"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-01T00:30:58+09:00",
-      "sources": [
-        {
-          "source_id": "thinkcontest",
-          "source_name": "씽굿",
-          "source_url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=107810",
-          "source_post_id": "107810",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-08-01T00:30:58+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-07-01",
-      "recruit_end": "2026-07-31",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": -1,
-      "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
-      "benefits": "200만원",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "제7회국립재활원보조기기해커톤|국립재활원|2026-07-31"
-    },
-    {
       "id": "e6f852abd20d66366fa1",
       "title": "AWSKRUG #부산 지역 소모임 7월 30일 (목) With BIPA",
       "source_name": "Dev-Event GitHub",
@@ -1141,7 +1077,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-01T00:30:58+09:00",
+      "last_seen_at": "2026-08-02T07:13:14+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1150,7 +1086,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-01T00:30:58+09:00"
+          "fetched_at": "2026-08-02T07:13:14+09:00"
         }
       ],
       "application_url": null,
@@ -1160,7 +1096,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -2,
+      "d_day": -3,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1194,7 +1130,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-01T00:30:58+09:00",
+      "last_seen_at": "2026-08-02T07:13:14+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1203,7 +1139,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-01T00:30:58+09:00"
+          "fetched_at": "2026-08-02T07:13:14+09:00"
         }
       ],
       "application_url": null,
@@ -1213,7 +1149,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -2,
+      "d_day": -3,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1237,7 +1173,7 @@
         "클라우드·보안"
       ],
       "audience_tags": [],
-      "status": "today",
+      "status": "closed",
       "relevance": {
         "score": 53,
         "reasons": [
@@ -1247,7 +1183,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-01T00:30:58+09:00",
+      "last_seen_at": "2026-08-02T07:13:14+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1256,7 +1192,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-01T00:30:58+09:00"
+          "fetched_at": "2026-08-02T07:13:14+09:00"
         }
       ],
       "application_url": null,
@@ -1266,7 +1202,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 0,
+      "d_day": -1,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1300,7 +1236,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T23:34:44+09:00",
-      "last_seen_at": "2026-08-01T00:30:58+09:00",
+      "last_seen_at": "2026-08-02T07:13:14+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1309,7 +1245,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-01T00:30:58+09:00"
+          "fetched_at": "2026-08-02T07:13:14+09:00"
         }
       ],
       "application_url": null,
@@ -1319,7 +1255,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 18,
+      "d_day": 17,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1353,7 +1289,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-01T00:30:58+09:00",
+      "last_seen_at": "2026-08-02T07:13:14+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1362,7 +1298,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-01T00:30:58+09:00"
+          "fetched_at": "2026-08-02T07:13:14+09:00"
         }
       ],
       "application_url": null,
@@ -1372,7 +1308,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 25,
+      "d_day": 24,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1400,7 +1336,7 @@
       "audience_tags": [
         "대학생"
       ],
-      "status": "open",
+      "status": "urgent",
       "relevance": {
         "score": 51,
         "reasons": [
@@ -1411,7 +1347,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-01T00:30:58+09:00",
+      "last_seen_at": "2026-08-02T07:13:14+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -1420,7 +1356,7 @@
           "source_post_id": "108640",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-01T00:30:58+09:00"
+          "fetched_at": "2026-08-02T07:13:14+09:00"
         }
       ],
       "application_url": null,
@@ -1430,7 +1366,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 4,
+      "d_day": 3,
       "eligibility": "대학생, 대학원생, 일반인, 기업",
       "benefits": "500만원",
       "location": "",
