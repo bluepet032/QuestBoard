@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-01T23:09:40+09:00",
+  "generated_at": "2026-08-02T04:50:08+09:00",
   "items": [
     {
       "id": "fae9a4ceb7581b47da46",
@@ -794,59 +794,6 @@
       "dedupe_key": "snowflakeworldtour2026서울|snowflake|2026-08-27"
     },
     {
-      "id": "3654a81d85b78bab518b",
-      "title": "[경기] 고양시 2026년 생성형 AI 활용 실무 훈련생 모집 안내(국가인적자원개발 컨소시엄 재직자 훈련)",
-      "source_name": "기업마당",
-      "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=AI&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069028",
-      "organizer": "고양산업진흥원",
-      "summary": "기업마당 공개 행사 · 행사정보 · 검색어 AI. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "other",
-      "field_tags": [
-        "AI"
-      ],
-      "audience_tags": [],
-      "status": "today",
-      "relevance": {
-        "score": 66,
-        "reasons": [
-          "제목 핵심 키워드: ai, 생성형 ai",
-          "본문·분류 키워드: ai, 생성형 ai"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-01T23:09:40+09:00",
-      "sources": [
-        {
-          "source_id": "bizinfo",
-          "source_name": "기업마당",
-          "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=AI&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069028",
-          "source_post_id": "EVEN_000000000069028",
-          "kind": "government",
-          "priority": 80,
-          "fetched_at": "2026-08-01T23:09:40+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-08-01",
-      "recruit_end": "2026-08-01",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 0,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "경기고양시2026년생성형ai활용실무훈련생모집안내국가인적자원개발컨소시엄재직자훈련|고양산업진흥원|2026-08-01"
-    },
-    {
       "id": "8649ee7f24c119ee17df",
       "title": "지그재그 세미나 5회 - 온톨로지로 만나는 휴먼 네트워킹",
       "source_name": "Dev-Event GitHub",
@@ -1030,7 +977,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-01T23:09:40+09:00",
+      "last_seen_at": "2026-08-02T04:50:08+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1039,7 +986,7 @@
           "source_post_id": "EVEN_000000000069000",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-01T23:09:40+09:00"
+          "fetched_at": "2026-08-02T04:50:08+09:00"
         }
       ],
       "application_url": null,
@@ -1049,7 +996,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 73,
+      "d_day": 72,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1083,7 +1030,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-01T23:09:40+09:00",
+      "last_seen_at": "2026-08-02T04:50:08+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1092,7 +1039,7 @@
           "source_post_id": "EVEN_000000000067915",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-01T23:09:40+09:00"
+          "fetched_at": "2026-08-02T04:50:08+09:00"
         }
       ],
       "application_url": null,
@@ -1102,7 +1049,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 91,
+      "d_day": 90,
       "eligibility": "",
       "benefits": "",
       "location": "",
