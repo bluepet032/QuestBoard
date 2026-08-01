@@ -58,3 +58,22 @@ def test_cross_site_posts_merge_at_ninety_percent_title_similarity():
 
     assert len(merged) == 1
     assert {source.source_id for source in merged[0].sources} == {"wevity", "official"}
+
+
+def test_same_stable_id_merges_even_when_other_fields_diverge():
+    original = make("fixture", "https://example.com/original", 40)
+    repeated = make(
+        "fixture",
+        "https://example.com/changed-url",
+        40,
+        title="제목과 일정이 크게 변경된 공고",
+        organizer="다른 표기 기관",
+    )
+    repeated.id = original.id
+    repeated.recruit_end = "2026-12-31"
+    repeated.dedupe_key = "completely-different"
+
+    merged = deduplicate([original, repeated])
+
+    assert len(merged) == 1
+    assert len(merged[0].sources) == 2

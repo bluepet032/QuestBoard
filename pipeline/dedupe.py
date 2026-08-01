@@ -21,6 +21,8 @@ def date_distance(left: str | None, right: str | None) -> int | None:
 
 
 def is_duplicate(left: Opportunity, right: Opportunity) -> bool:
+    if left.id == right.id:
+        return True
     left_urls = {source.source_url for source in left.sources}
     right_urls = {source.source_url for source in right.sources}
     if left_urls & right_urls:

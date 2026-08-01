@@ -35,15 +35,34 @@ def identity_keys(item: Opportunity) -> set[str]:
 
 
 def find_previous(items: Iterable[Opportunity], previous: list[Opportunity]) -> dict[int, Opportunity]:
+    current_items = list(items)
     index: dict[str, Opportunity] = {}
     for item in previous:
         for key in identity_keys(item):
             index.setdefault(key, item)
+
     matches: dict[int, Opportunity] = {}
-    for item in items:
-        match = next((index[key] for key in identity_keys(item) if key in index), None)
+    claimed_previous: set[int] = set()
+
+    # Preserve an exact stable ID before considering weaker source or dedupe keys.
+    # This also makes the result independent of the current collection order.
+    for item in current_items:
+        match = index.get(f"id:{item.id}")
+        if match and id(match) not in claimed_previous:
+            matches[id(item)] = match
+            claimed_previous.add(id(match))
+
+    for item in current_items:
+        if id(item) in matches:
+            continue
+        keys = sorted(identity_keys(item) - {f"id:{item.id}"})
+        match = next(
+            (index[key] for key in keys if key in index and id(index[key]) not in claimed_previous),
+            None,
+        )
         if match:
             matches[id(item)] = match
+            claimed_previous.add(id(match))
     return matches
 
 
