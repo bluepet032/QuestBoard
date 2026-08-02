@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-02T23:12:26+09:00",
+  "generated_at": "2026-08-03T00:29:25+09:00",
   "items": [
     {
       "id": "fae9a4ceb7581b47da46",
@@ -32,7 +32,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T14:33:47+09:00",
-      "last_seen_at": "2026-08-02T22:59:26+09:00",
+      "last_seen_at": "2026-08-03T00:29:25+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -41,7 +41,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-02T22:59:26+09:00"
+          "fetched_at": "2026-08-03T00:29:25+09:00"
         }
       ],
       "application_url": null,
@@ -51,7 +51,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -32,
+      "d_day": -33,
       "eligibility": "",
       "benefits": "",
       "location": "대구 북구 호암로 51 메이커스페이스동 204호 지도보기 와이앤아처(주) 무료 · 명 선착순 정원 20 명 2026.8.7 (금) 23:59 까지 17 명 신청가능 신청 가능한 최",
@@ -64,6 +64,67 @@
       ],
       "is_manual_reviewed": false,
       "dedupe_key": "2026대구특구글로벌딥테크지원사업deepbound참가자모집|측가아닙니다이벤트내용과관련한사항은이벤트개설자에게문의바랍니다hoti|2026-07-01"
+    },
+    {
+      "id": "dcf9c9dbf177ec898a29",
+      "title": "[선착순 마감] 현금 파이프라인 만들기",
+      "source_name": "온오프믹스",
+      "source_url": "https://onoffmix.com/event/342136",
+      "organizer": "측)가 아닙니다. 이벤트 내용과 관련한 사항은 이벤트 개설자에게 문의 바랍니다. HOT I",
+      "summary": "당신의 꿈을 현실로 이끄는 확실한 길 ⦁ 매일 아침, 출근길에 오르며 이런 생각 해보신 적 없으신가요? ‘언제까지 이렇게 일만 해야 할까?’ ‘내가 잠든 사이에도 돈이 벌리는 방법은 없을까?’ 열심히 일해도 늘 부족한 통장 잔고, 예측 불가능한 미래에 대한 불안감은 우리를 지치게 합니…",
+      "primary_type": "contest",
+      "field_tags": [
+        "게임",
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "창업"
+      ],
+      "audience_tags": [
+        "창업자·기업"
+      ],
+      "status": "closed",
+      "relevance": {
+        "score": 69,
+        "reasons": [
+          "본문·분류 키워드: ai, it, 게임, 스타트업",
+          "공고 유형: contest",
+          "IT·게임 전문 출처",
+          "제목의 IT·게임 직접 근거 부족"
+        ],
+        "decision": "review"
+      },
+      "first_seen_at": "2026-08-03T00:29:25+09:00",
+      "last_seen_at": "2026-08-03T00:29:25+09:00",
+      "sources": [
+        {
+          "source_id": "onoffmix",
+          "source_name": "온오프믹스",
+          "source_url": "https://onoffmix.com/event/342136",
+          "source_post_id": null,
+          "kind": "specialist",
+          "priority": 60,
+          "fetched_at": "2026-08-03T00:29:25+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-06-13",
+      "recruit_end": "2026-06-13",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -51,
+      "eligibility": "",
+      "benefits": "",
+      "location": "서울 강남구 영동대로 513 주변 세미나실 지도보기 무료 · 명 선착순 정원 5 명 2026.8.5 (수) 21:19 까지 4 명 신청가능 8/8(토) 갓생반 이벤트기간 2026.",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "선착순마감현금파이프라인만들기|측가아닙니다이벤트내용과관련한사항은이벤트개설자에게문의바랍니다hoti|2026-06-13"
     },
     {
       "id": "8ddecb4b8bf406a76cd9",
@@ -95,7 +156,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-02T22:59:26+09:00",
+      "last_seen_at": "2026-08-03T00:29:25+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -104,7 +165,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-02T22:59:26+09:00"
+          "fetched_at": "2026-08-03T00:29:25+09:00"
         }
       ],
       "application_url": null,
@@ -114,7 +175,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -160,
+      "d_day": -161,
       "eligibility": "",
       "benefits": "",
       "location": "서울 서초구 주흥길 9 지하1층 브릴란트 아트 스튜디오 지도보기 2,200,000 원 선착순 2026.8.29 (토) 23:59 까지 신청가능 주말반 이벤트기간 2026.9.5 (",
@@ -158,7 +219,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-02T22:59:26+09:00",
+      "last_seen_at": "2026-08-03T00:29:25+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -167,7 +228,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-02T22:59:26+09:00"
+          "fetched_at": "2026-08-03T00:29:25+09:00"
         }
       ],
       "application_url": null,
@@ -177,7 +238,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -640,
+      "d_day": -641,
       "eligibility": "",
       "benefits": "",
       "location": "서울 마포구 백범로 35 서강대학교 다산관 101호 지도보기 일반 200,000 원 · 명 선착순 정원 100 명 2026.8.10 (월) 15:00 까지 96 명 신청가능 학생",
@@ -221,7 +282,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-02T22:59:26+09:00",
+      "last_seen_at": "2026-08-03T00:29:25+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -230,7 +291,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-02T22:59:26+09:00"
+          "fetched_at": "2026-08-03T00:29:25+09:00"
         }
       ],
       "application_url": null,
@@ -240,7 +301,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -1,
+      "d_day": -2,
       "eligibility": "",
       "benefits": "",
       "location": "서울 강남구 영동대로85길 13 2호선 코엑스 인근 세미나실 (5분 거리) 지도보기 무료 · 명 선착순 정원 4 명 2026.9.1 (화) 16:28 까지 3 명 신청가능 8월 주",
@@ -285,7 +346,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-02T22:59:26+09:00",
+      "last_seen_at": "2026-08-03T00:29:25+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -294,7 +355,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-02T22:59:26+09:00"
+          "fetched_at": "2026-08-03T00:29:25+09:00"
         }
       ],
       "application_url": null,
@@ -304,7 +365,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -1045,
+      "d_day": -1046,
       "eligibility": "",
       "benefits": "",
       "location": "서울 관악구 관악로 1 관정도서관 양두석홀 지도보기 무료 선착순 정원 110 명 2026.8.31 (월) 23:59 까지 78 명 신청가능 Tutorial Lecture 이벤트기간",
@@ -348,7 +409,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-02T22:59:26+09:00",
+      "last_seen_at": "2026-08-03T00:29:25+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -357,7 +418,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-02T22:59:26+09:00"
+          "fetched_at": "2026-08-03T00:29:25+09:00"
         }
       ],
       "application_url": null,
@@ -367,7 +428,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -177,
+      "d_day": -178,
       "eligibility": "",
       "benefits": "",
       "location": "서울 강남구 테헤란로 231 조선팰리스 4F 지도보기 디지털인사이트포럼 무료 · 명 개설자선정 정원 70 명 2026.8.12 (수) 23:59 까지 70 명 신청가능 신청 가능한",
@@ -409,7 +470,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-02T22:59:26+09:00",
+      "last_seen_at": "2026-08-03T00:29:25+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -418,7 +479,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-02T22:59:26+09:00"
+          "fetched_at": "2026-08-03T00:29:25+09:00"
         }
       ],
       "application_url": null,
@@ -464,7 +525,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-02T22:59:26+09:00",
+      "last_seen_at": "2026-08-03T00:29:25+09:00",
       "sources": [
         {
           "source_id": "eventus",
@@ -473,7 +534,7 @@
           "source_post_id": "131374",
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-02T22:59:26+09:00"
+          "fetched_at": "2026-08-03T00:29:25+09:00"
         }
       ],
       "application_url": "https://event-us.kr/dimaco/event/131374",
@@ -483,7 +544,7 @@
       "event_start": "2026-09-01",
       "event_end": "2026-09-01",
       "date_kind": "exact",
-      "d_day": 23,
+      "d_day": 22,
       "eligibility": "",
       "benefits": "",
       "location": "서울 강남구",
@@ -508,7 +569,7 @@
         "클라우드·보안"
       ],
       "audience_tags": [],
-      "status": "today",
+      "status": "closed",
       "relevance": {
         "score": 68,
         "reasons": [
@@ -519,7 +580,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-31T19:01:13+09:00",
-      "last_seen_at": "2026-08-02T22:59:26+09:00",
+      "last_seen_at": "2026-08-03T00:29:25+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -528,7 +589,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-02T22:59:26+09:00"
+          "fetched_at": "2026-08-03T00:29:25+09:00"
         }
       ],
       "application_url": null,
@@ -538,7 +599,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 0,
+      "d_day": -1,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -574,7 +635,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-02T22:59:26+09:00",
+      "last_seen_at": "2026-08-03T00:29:25+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -583,7 +644,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-02T22:59:26+09:00"
+          "fetched_at": "2026-08-03T00:29:25+09:00"
         }
       ],
       "application_url": null,
@@ -593,7 +654,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 12,
+      "d_day": 11,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -629,7 +690,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-02T22:59:26+09:00",
+      "last_seen_at": "2026-08-03T00:29:25+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -638,7 +699,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-02T22:59:26+09:00"
+          "fetched_at": "2026-08-03T00:29:25+09:00"
         }
       ],
       "application_url": null,
@@ -648,7 +709,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 25,
+      "d_day": 24,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -683,7 +744,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-02T22:59:26+09:00",
+      "last_seen_at": "2026-08-03T00:29:25+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -692,7 +753,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-02T22:59:26+09:00"
+          "fetched_at": "2026-08-03T00:29:25+09:00"
         }
       ],
       "application_url": null,
@@ -702,7 +763,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 5,
+      "d_day": 4,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -737,7 +798,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-02T22:59:26+09:00",
+      "last_seen_at": "2026-08-03T00:29:25+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -746,7 +807,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-02T22:59:26+09:00"
+          "fetched_at": "2026-08-03T00:29:25+09:00"
         }
       ],
       "application_url": null,
@@ -756,7 +817,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 12,
+      "d_day": 11,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -791,7 +852,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-02T22:59:26+09:00",
+      "last_seen_at": "2026-08-03T00:29:25+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -800,7 +861,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-02T22:59:26+09:00"
+          "fetched_at": "2026-08-03T00:29:25+09:00"
         }
       ],
       "application_url": null,
@@ -810,7 +871,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 47,
+      "d_day": 46,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -950,7 +1011,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-02T22:59:26+09:00",
+      "last_seen_at": "2026-08-03T00:29:25+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -959,7 +1020,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-02T22:59:26+09:00"
+          "fetched_at": "2026-08-03T00:29:25+09:00"
         }
       ],
       "application_url": null,
@@ -969,7 +1030,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -3,
+      "d_day": -4,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1003,7 +1064,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-02T22:59:26+09:00",
+      "last_seen_at": "2026-08-03T00:29:25+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1012,7 +1073,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-02T22:59:26+09:00"
+          "fetched_at": "2026-08-03T00:29:25+09:00"
         }
       ],
       "application_url": null,
@@ -1022,7 +1083,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -3,
+      "d_day": -4,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1056,7 +1117,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-02T22:59:26+09:00",
+      "last_seen_at": "2026-08-03T00:29:25+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1065,7 +1126,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-02T22:59:26+09:00"
+          "fetched_at": "2026-08-03T00:29:25+09:00"
         }
       ],
       "application_url": null,
@@ -1075,7 +1136,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -1,
+      "d_day": -2,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1109,7 +1170,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T23:34:44+09:00",
-      "last_seen_at": "2026-08-02T22:59:26+09:00",
+      "last_seen_at": "2026-08-03T00:29:25+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1118,7 +1179,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-02T22:59:26+09:00"
+          "fetched_at": "2026-08-03T00:29:25+09:00"
         }
       ],
       "application_url": null,
@@ -1128,7 +1189,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 17,
+      "d_day": 16,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1162,7 +1223,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-02T22:59:26+09:00",
+      "last_seen_at": "2026-08-03T00:29:25+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1171,7 +1232,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-02T22:59:26+09:00"
+          "fetched_at": "2026-08-03T00:29:25+09:00"
         }
       ],
       "application_url": null,
@@ -1181,7 +1242,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 24,
+      "d_day": 23,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1220,7 +1281,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-02T22:59:26+09:00",
+      "last_seen_at": "2026-08-03T00:29:25+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -1229,7 +1290,7 @@
           "source_post_id": "108640",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-02T22:59:26+09:00"
+          "fetched_at": "2026-08-03T00:29:25+09:00"
         }
       ],
       "application_url": null,
@@ -1239,7 +1300,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 3,
+      "d_day": 2,
       "eligibility": "대학생, 대학원생, 일반인, 기업",
       "benefits": "500만원",
       "location": "",
