@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-04T00:19:43+09:00",
+  "generated_at": "2026-08-04T00:29:59+09:00",
   "items": [
     {
       "id": "fae9a4ceb7581b47da46",
@@ -1028,7 +1028,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-03T19:26:05+09:00",
+      "last_seen_at": "2026-08-04T00:29:59+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1037,7 +1037,7 @@
           "source_post_id": "EVEN_000000000069000",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-03T19:26:05+09:00"
+          "fetched_at": "2026-08-04T00:29:59+09:00"
         }
       ],
       "application_url": null,
@@ -1047,7 +1047,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 71,
+      "d_day": 70,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1081,7 +1081,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-03T19:26:05+09:00",
+      "last_seen_at": "2026-08-04T00:29:59+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1090,7 +1090,7 @@
           "source_post_id": "EVEN_000000000067915",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-03T19:26:05+09:00"
+          "fetched_at": "2026-08-04T00:29:59+09:00"
         }
       ],
       "application_url": null,
@@ -1100,7 +1100,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 89,
+      "d_day": 88,
       "eligibility": "",
       "benefits": "",
       "location": "",
