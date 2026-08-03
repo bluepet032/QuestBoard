@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-03T16:49:49+09:00",
+  "generated_at": "2026-08-03T19:26:05+09:00",
   "items": [
     {
       "id": "fae9a4ceb7581b47da46",
@@ -1010,9 +1010,9 @@
       "id": "a6819bf051b831b7603e",
       "title": "[대전ㆍ세종ㆍ충북ㆍ충남] 인공지능 최고위과정 CAIO In DAEJEON 모집 안내",
       "source_name": "기업마당",
-      "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=AI&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069000",
+      "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069000",
       "organizer": "이노폴리스벤처협회",
-      "summary": "기업마당 공개 행사 · 행사정보 · 검색어 AI. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "summary": "기업마당 공개 행사 · 행사정보 · 검색어 인공지능. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
       "primary_type": "other",
       "field_tags": [
         "AI"
@@ -1020,24 +1020,24 @@
       "audience_tags": [],
       "status": "upcoming",
       "relevance": {
-        "score": 61,
+        "score": 58,
         "reasons": [
           "제목 핵심 키워드: 인공지능",
-          "본문·분류 키워드: ai, 인공지능"
+          "본문·분류 키워드: 인공지능"
         ],
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-03T13:19:42+09:00",
+      "last_seen_at": "2026-08-03T19:26:05+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
           "source_name": "기업마당",
-          "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=AI&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069000",
+          "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069000",
           "source_post_id": "EVEN_000000000069000",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-03T13:19:42+09:00"
+          "fetched_at": "2026-08-03T19:26:05+09:00"
         }
       ],
       "application_url": null,
@@ -1081,7 +1081,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-03T13:19:42+09:00",
+      "last_seen_at": "2026-08-03T19:26:05+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1090,7 +1090,7 @@
           "source_post_id": "EVEN_000000000067915",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-03T13:19:42+09:00"
+          "fetched_at": "2026-08-03T19:26:05+09:00"
         }
       ],
       "application_url": null,
