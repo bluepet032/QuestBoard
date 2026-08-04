@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-04T12:41:11+09:00",
+  "generated_at": "2026-08-04T12:53:08+09:00",
   "items": [
     {
       "id": "cc34a51d442c98b8be58",
@@ -128,61 +128,6 @@
       ],
       "is_manual_reviewed": false,
       "dedupe_key": "aisummitseoulexpo2026엑스포사전등록|측가아닙니다이벤트내용과관련한사항은이벤트개설자에게문의바랍니다hoti|2026-05-26"
-    },
-    {
-      "id": "8efa4ec5ba0b43dbdc2e",
-      "title": "2026년 글로벌 비즈니스 라운드테이블 참가기업 모집",
-      "source_name": "한국콘텐츠진흥원",
-      "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00089009&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
-      "organizer": "한국콘텐츠진흥원",
-      "summary": "한국콘텐츠진흥원 공식 모집공모 공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [],
-      "status": "today",
-      "relevance": {
-        "score": 98,
-        "reasons": [
-          "본문·분류 키워드: 디지털 콘텐츠, 콘텐츠",
-          "공고 유형: support",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-04T05:17:13+09:00",
-      "sources": [
-        {
-          "source_id": "kocca",
-          "source_name": "한국콘텐츠진흥원",
-          "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00089009&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
-          "source_post_id": "326D00089009",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-08-04T05:17:13+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-07-10",
-      "recruit_end": "2026-08-04",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 0,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026년글로벌비즈니스라운드테이블참가기업모집|한국콘텐츠진흥원|2026-08-04"
     },
     {
       "id": "dd5f05aac22157a5858f",
@@ -681,7 +626,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-04T05:17:13+09:00",
+      "last_seen_at": "2026-08-04T12:53:08+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -690,7 +635,7 @@
           "source_post_id": "326D00068009",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-04T05:17:13+09:00"
+          "fetched_at": "2026-08-04T12:53:08+09:00"
         }
       ],
       "application_url": null,
@@ -1742,7 +1687,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-04T05:17:13+09:00",
+      "last_seen_at": "2026-08-04T12:53:08+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -1859,7 +1804,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:42:45+09:00",
-      "last_seen_at": "2026-08-04T05:17:13+09:00",
+      "last_seen_at": "2026-08-04T12:53:08+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -1868,7 +1813,7 @@
           "source_post_id": "178481",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-04T05:17:13+09:00"
+          "fetched_at": "2026-08-04T12:53:08+09:00"
         }
       ],
       "application_url": null,
@@ -1920,7 +1865,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-31T13:04:56+09:00",
-      "last_seen_at": "2026-08-04T05:17:13+09:00",
+      "last_seen_at": "2026-08-04T12:53:08+09:00",
       "sources": [
         {
           "source_id": "gcon",
@@ -1929,7 +1874,7 @@
           "source_post_id": "11211",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-04T05:17:13+09:00"
+          "fetched_at": "2026-08-04T12:53:08+09:00"
         }
       ],
       "application_url": null,
@@ -2388,7 +2333,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-04T05:17:13+09:00",
+      "last_seen_at": "2026-08-04T12:53:08+09:00",
       "sources": [
         {
           "source_id": "gcon",
@@ -2397,7 +2342,7 @@
           "source_post_id": "11207",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-04T05:17:13+09:00"
+          "fetched_at": "2026-08-04T12:53:08+09:00"
         }
       ],
       "application_url": null,
@@ -2851,7 +2796,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-04T05:17:13+09:00",
+      "last_seen_at": "2026-08-04T12:53:08+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -2921,7 +2866,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-04T05:17:13+09:00",
+      "last_seen_at": "2026-08-04T12:53:08+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -2930,7 +2875,7 @@
           "source_post_id": "16852",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-04T05:17:13+09:00"
+          "fetched_at": "2026-08-04T12:53:08+09:00"
         }
       ],
       "application_url": null,
@@ -2978,7 +2923,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:42:45+09:00",
-      "last_seen_at": "2026-08-04T05:17:13+09:00",
+      "last_seen_at": "2026-08-04T12:53:08+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -2987,7 +2932,7 @@
           "source_post_id": "178662",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-04T05:17:13+09:00"
+          "fetched_at": "2026-08-04T12:53:08+09:00"
         }
       ],
       "application_url": null,
@@ -4316,7 +4261,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-04T05:17:13+09:00",
+      "last_seen_at": "2026-08-04T12:53:08+09:00",
       "sources": [
         {
           "source_id": "gcon",
@@ -4325,7 +4270,7 @@
           "source_post_id": "11208",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-04T05:17:13+09:00"
+          "fetched_at": "2026-08-04T12:53:08+09:00"
         }
       ],
       "application_url": null,
@@ -4556,7 +4501,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-03T19:26:05+09:00",
-      "last_seen_at": "2026-08-04T05:17:13+09:00",
+      "last_seen_at": "2026-08-04T12:53:08+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -4565,7 +4510,7 @@
           "source_post_id": "326D00068010",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-04T05:17:13+09:00"
+          "fetched_at": "2026-08-04T12:53:08+09:00"
         }
       ],
       "application_url": null,
@@ -4672,7 +4617,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-04T05:17:13+09:00",
+      "last_seen_at": "2026-08-04T12:53:08+09:00",
       "sources": [
         {
           "source_id": "gcon",
@@ -4681,7 +4626,7 @@
           "source_post_id": "11210",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-04T05:17:13+09:00"
+          "fetched_at": "2026-08-04T12:53:08+09:00"
         }
       ],
       "application_url": null,
@@ -4790,7 +4735,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-04T05:17:13+09:00",
+      "last_seen_at": "2026-08-04T12:53:08+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -4857,7 +4802,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-03T13:19:42+09:00",
-      "last_seen_at": "2026-08-04T05:17:13+09:00",
+      "last_seen_at": "2026-08-04T12:53:08+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -4866,7 +4811,7 @@
           "source_post_id": "326D00088009",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-04T05:17:13+09:00"
+          "fetched_at": "2026-08-04T12:53:08+09:00"
         }
       ],
       "application_url": null,
@@ -4914,7 +4859,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-04T05:17:13+09:00",
+      "last_seen_at": "2026-08-04T12:53:08+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -5309,7 +5254,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-04T05:17:13+09:00",
+      "last_seen_at": "2026-08-04T12:53:08+09:00",
       "sources": [
         {
           "source_id": "gcon",
@@ -5318,7 +5263,7 @@
           "source_post_id": "11209",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-04T05:17:13+09:00"
+          "fetched_at": "2026-08-04T12:53:08+09:00"
         }
       ],
       "application_url": null,
@@ -5813,7 +5758,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-04T05:17:13+09:00",
+      "last_seen_at": "2026-08-04T12:53:08+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -5822,7 +5767,7 @@
           "source_post_id": "16872",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-04T05:17:13+09:00"
+          "fetched_at": "2026-08-04T12:53:08+09:00"
         }
       ],
       "application_url": null,
@@ -5875,7 +5820,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-04T05:17:13+09:00",
+      "last_seen_at": "2026-08-04T12:53:08+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -5884,7 +5829,7 @@
           "source_post_id": "16861",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-04T05:17:13+09:00"
+          "fetched_at": "2026-08-04T12:53:08+09:00"
         }
       ],
       "application_url": null,
@@ -5939,7 +5884,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:42:45+09:00",
-      "last_seen_at": "2026-08-04T05:17:13+09:00",
+      "last_seen_at": "2026-08-04T12:53:08+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -5948,7 +5893,7 @@
           "source_post_id": "16866",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-04T05:17:13+09:00"
+          "fetched_at": "2026-08-04T12:53:08+09:00"
         }
       ],
       "application_url": null,
@@ -6789,7 +6734,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:42:45+09:00",
-      "last_seen_at": "2026-08-04T05:17:13+09:00",
+      "last_seen_at": "2026-08-04T12:53:08+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -6798,7 +6743,7 @@
           "source_post_id": "178506",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-04T05:17:13+09:00"
+          "fetched_at": "2026-08-04T12:53:08+09:00"
         }
       ],
       "application_url": null,
@@ -6907,7 +6852,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-04T05:17:13+09:00",
+      "last_seen_at": "2026-08-04T12:53:08+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -7925,7 +7870,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-31T13:04:56+09:00",
-      "last_seen_at": "2026-08-04T05:17:13+09:00",
+      "last_seen_at": "2026-08-04T12:53:08+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -7934,7 +7879,7 @@
           "source_post_id": "326D00092010",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-04T05:17:13+09:00"
+          "fetched_at": "2026-08-04T12:53:08+09:00"
         }
       ],
       "application_url": null,
@@ -7980,7 +7925,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-31T13:04:56+09:00",
-      "last_seen_at": "2026-08-04T05:17:13+09:00",
+      "last_seen_at": "2026-08-04T12:53:08+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -7989,7 +7934,7 @@
           "source_post_id": "326D00037012",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-04T05:17:13+09:00"
+          "fetched_at": "2026-08-04T12:53:08+09:00"
         }
       ],
       "application_url": null,
@@ -8035,7 +7980,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-31T13:04:56+09:00",
-      "last_seen_at": "2026-08-04T05:17:13+09:00",
+      "last_seen_at": "2026-08-04T12:53:08+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -8044,7 +7989,7 @@
           "source_post_id": "326D00037011",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-04T05:17:13+09:00"
+          "fetched_at": "2026-08-04T12:53:08+09:00"
         }
       ],
       "application_url": null,
@@ -8090,7 +8035,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-31T13:04:56+09:00",
-      "last_seen_at": "2026-08-04T05:17:13+09:00",
+      "last_seen_at": "2026-08-04T12:53:08+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -8099,7 +8044,7 @@
           "source_post_id": "326D00091013",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-04T05:17:13+09:00"
+          "fetched_at": "2026-08-04T12:53:08+09:00"
         }
       ],
       "application_url": null,
@@ -8439,7 +8384,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-03T13:19:42+09:00",
-      "last_seen_at": "2026-08-04T05:17:13+09:00",
+      "last_seen_at": "2026-08-04T12:53:08+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -8448,7 +8393,7 @@
           "source_post_id": "16887",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-04T05:17:13+09:00"
+          "fetched_at": "2026-08-04T12:53:08+09:00"
         }
       ],
       "application_url": null,
@@ -8498,7 +8443,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-31T13:04:56+09:00",
-      "last_seen_at": "2026-08-04T05:17:13+09:00",
+      "last_seen_at": "2026-08-04T12:53:08+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -8507,7 +8452,7 @@
           "source_post_id": "16878",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-04T05:17:13+09:00"
+          "fetched_at": "2026-08-04T12:53:08+09:00"
         }
       ],
       "application_url": null,
@@ -8794,7 +8739,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-03T13:19:42+09:00",
-      "last_seen_at": "2026-08-04T05:17:13+09:00",
+      "last_seen_at": "2026-08-04T12:53:08+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -8803,7 +8748,7 @@
           "source_post_id": "178709",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-04T05:17:13+09:00"
+          "fetched_at": "2026-08-04T12:53:08+09:00"
         }
       ],
       "application_url": null,
@@ -10429,7 +10374,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:42:45+09:00",
-      "last_seen_at": "2026-08-04T05:17:13+09:00",
+      "last_seen_at": "2026-08-04T12:53:08+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -10438,7 +10383,7 @@
           "source_post_id": "176391",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-04T05:17:13+09:00"
+          "fetched_at": "2026-08-04T12:53:08+09:00"
         }
       ],
       "application_url": null,
@@ -10483,7 +10428,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:42:45+09:00",
-      "last_seen_at": "2026-08-04T05:17:13+09:00",
+      "last_seen_at": "2026-08-04T12:53:08+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -10492,7 +10437,7 @@
           "source_post_id": "175783",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-04T05:17:13+09:00"
+          "fetched_at": "2026-08-04T12:53:08+09:00"
         }
       ],
       "application_url": null,
@@ -10537,7 +10482,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:42:45+09:00",
-      "last_seen_at": "2026-08-04T05:17:13+09:00",
+      "last_seen_at": "2026-08-04T12:53:08+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -10546,7 +10491,7 @@
           "source_post_id": "176076",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-04T05:17:13+09:00"
+          "fetched_at": "2026-08-04T12:53:08+09:00"
         }
       ],
       "application_url": null,
@@ -10681,7 +10626,7 @@
       "id": "7e5ec484c780c97c1dd1",
       "title": "[수정/상시공고] 2026년 글로벌게임허브센터 신규 입주기업 추가모집(상시) 수정공고",
       "source_name": "한국콘텐츠진흥원",
-      "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00034004&menuNo=204104&recptSt=&category=&pageIndex=2&search=&searchWrd=",
+      "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00034004&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
       "organizer": "한국콘텐츠진흥원",
       "summary": "한국콘텐츠진흥원 공식 모집공모 공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
       "primary_type": "support",
@@ -10703,16 +10648,16 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-04T05:17:13+09:00",
+      "last_seen_at": "2026-08-04T12:53:08+09:00",
       "sources": [
         {
           "source_id": "kocca",
           "source_name": "한국콘텐츠진흥원",
-          "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00034004&menuNo=204104&recptSt=&category=&pageIndex=2&search=&searchWrd=",
+          "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00034004&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
           "source_post_id": "326D00034004",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-04T05:17:13+09:00"
+          "fetched_at": "2026-08-04T12:53:08+09:00"
         }
       ],
       "application_url": null,
