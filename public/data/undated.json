@@ -1,7 +1,66 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-05T08:19:55+09:00",
+  "generated_at": "2026-08-05T12:36:21+09:00",
   "items": [
+    {
+      "id": "7d34b901ed02de95d506",
+      "title": "Aimers 9기 : 투구 제구 성공 확률 예측 AI 온라인 해커톤",
+      "source_name": "DACON",
+      "source_url": "https://dacon.io/competitions/official/236743/overview/description",
+      "organizer": ", 타자 대응 전략에 직접적인 영향을 주는 핵심 요소입니다. 기존에는 투수의 제구력을 평균",
+      "summary": "LG Aimers | 채용 | 알고리즘 | 코드제출 | 정형 | 스포츠 | 야구. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "hackathon",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "데이터"
+      ],
+      "audience_tags": [],
+      "status": "unknown",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: ai",
+          "본문·분류 키워드: ai, 데이터, 시스템, 알고리즘",
+          "공고 유형: hackathon",
+          "IT·게임 전문 출처",
+          "게임·디지털 콘텐츠 형태로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-08-05T12:36:21+09:00",
+      "last_seen_at": "2026-08-05T12:36:21+09:00",
+      "sources": [
+        {
+          "source_id": "dacon",
+          "source_name": "DACON",
+          "source_url": "https://dacon.io/competitions/official/236743/overview/description",
+          "source_post_id": null,
+          "kind": "specialist",
+          "priority": 60,
+          "fetched_at": "2026-08-05T12:36:21+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": null,
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "unknown",
+      "d_day": null,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "aimers9기투구제구성공확률예측ai온라인해커톤|타자대응전략에직접적인영향을주는핵심요소입니다기존에는투수의제구력을평균|"
+    },
     {
       "id": "1fe719993762b5a8f149",
       "title": "제3회 풍력발전량 예측 AI 경진대회 - BARAM 2026",
@@ -31,7 +90,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T14:33:47+09:00",
-      "last_seen_at": "2026-08-05T08:19:55+09:00",
+      "last_seen_at": "2026-08-05T12:36:21+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -40,7 +99,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-05T08:19:55+09:00"
+          "fetched_at": "2026-08-05T12:36:21+09:00"
         }
       ],
       "application_url": null,
@@ -92,7 +151,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T14:50:14+09:00",
-      "last_seen_at": "2026-08-05T08:19:55+09:00",
+      "last_seen_at": "2026-08-05T12:36:21+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -101,7 +160,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-05T08:19:55+09:00"
+          "fetched_at": "2026-08-05T12:36:21+09:00"
         }
       ],
       "application_url": null,
@@ -151,7 +210,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-05T08:19:55+09:00",
+      "last_seen_at": "2026-08-05T12:36:21+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -160,7 +219,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-05T08:19:55+09:00"
+          "fetched_at": "2026-08-05T12:36:21+09:00"
         }
       ],
       "application_url": null,
@@ -209,7 +268,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-05T08:19:55+09:00",
+      "last_seen_at": "2026-08-05T12:36:21+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -218,7 +277,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-05T08:19:55+09:00"
+          "fetched_at": "2026-08-05T12:36:21+09:00"
         }
       ],
       "application_url": null,
@@ -268,7 +327,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-05T08:19:55+09:00",
+      "last_seen_at": "2026-08-05T12:36:21+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -277,7 +336,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-05T08:19:55+09:00"
+          "fetched_at": "2026-08-05T12:36:21+09:00"
         }
       ],
       "application_url": null,
@@ -326,7 +385,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-05T08:19:55+09:00",
+      "last_seen_at": "2026-08-05T12:36:21+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -335,7 +394,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-05T08:19:55+09:00"
+          "fetched_at": "2026-08-05T12:36:21+09:00"
         }
       ],
       "application_url": null,
@@ -385,7 +444,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-05T08:19:55+09:00",
+      "last_seen_at": "2026-08-05T12:36:21+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -394,7 +453,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-05T08:19:55+09:00"
+          "fetched_at": "2026-08-05T12:36:21+09:00"
         }
       ],
       "application_url": null,
@@ -445,7 +504,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-05T08:19:55+09:00",
+      "last_seen_at": "2026-08-05T12:36:21+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -454,7 +513,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-05T08:19:55+09:00"
+          "fetched_at": "2026-08-05T12:36:21+09:00"
         }
       ],
       "application_url": null,
@@ -506,7 +565,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-05T08:19:55+09:00",
+      "last_seen_at": "2026-08-05T12:36:21+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -515,7 +574,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-05T08:19:55+09:00"
+          "fetched_at": "2026-08-05T12:36:21+09:00"
         }
       ],
       "application_url": null,
@@ -565,7 +624,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-05T08:19:55+09:00",
+      "last_seen_at": "2026-08-05T12:36:21+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -574,7 +633,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-05T08:19:55+09:00"
+          "fetched_at": "2026-08-05T12:36:21+09:00"
         }
       ],
       "application_url": null,
@@ -595,64 +654,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "한양대x현대엔지비산업체제조환경기반문제해결aiagent해커톤|주관주최주관현대ngv한양대학교운영데이콘장소한양대학교정몽구|"
-    },
-    {
-      "id": "38d4a14549b8fe708405",
-      "title": "Track1 알고리즘 부문 : K리그-서울시립대 공개 AI 경진대회",
-      "source_name": "DACON",
-      "source_url": "https://dacon.io/competitions/official/236647/overview/description",
-      "organizer": "/ 주관] 주최/주관: 서울시립대, 한국프로축구연맹 후원: 서울시립대 운영: 데이콘 [참가",
-      "summary": "알고리즘 | 서울시립대 | 스포츠 | 시계열 | 유클리드 거리. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "데이터"
-      ],
-      "audience_tags": [],
-      "status": "unknown",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai, 알고리즘",
-          "본문·분류 키워드: ai, 데이터, 시스템, 알고리즘",
-          "공고 유형: contest",
-          "IT·게임 전문 출처"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-05T08:19:55+09:00",
-      "sources": [
-        {
-          "source_id": "dacon",
-          "source_name": "DACON",
-          "source_url": "https://dacon.io/competitions/official/236647/overview/description",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-08-05T08:19:55+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": null,
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "unknown",
-      "d_day": null,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "track1알고리즘부문k리그서울시립대공개ai경진대회|주관주최주관서울시립대한국프로축구연맹후원서울시립대운영데이콘참가|"
     },
     {
       "id": "679238eaf29512dd0573",
