@@ -1,193 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-08T08:49:49+09:00",
+  "generated_at": "2026-08-08T11:23:49+09:00",
   "items": [
-    {
-      "id": "82c7aef6fb405b592c4d",
-      "title": "AUSGCON 2026 CHALLENGE: Dive into Tech, Jump into Future",
-      "source_name": "이벤터스",
-      "source_url": "https://event-us.kr/awskrug/event/131417",
-      "organizer": "AWS한국사용자모임(AWSKRUG)",
-      "summary": "AWSKRUG(AWS한국사용자모임) 대학생 소모임 AUSG의 연간 최대 규모의 컨퍼런스로 대학생 개발자부터 시니어 개발자까지 모두가 경험과 성장에 대한 이야기를 나눌 수 있는 기술의 장입니다.",
-      "primary_type": "event",
-      "field_tags": [
-        "소프트웨어"
-      ],
-      "audience_tags": [
-        "대학생",
-        "개발자"
-      ],
-      "status": "open",
-      "relevance": {
-        "score": 69,
-        "reasons": [
-          "본문·분류 키워드: it, 개발자, 프로그래밍",
-          "공고 유형: event",
-          "IT·게임 전문 출처",
-          "제목의 IT·게임 직접 근거 부족"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-08-05T15:44:06+09:00",
-      "last_seen_at": "2026-08-08T08:49:49+09:00",
-      "sources": [
-        {
-          "source_id": "eventus",
-          "source_name": "이벤터스",
-          "source_url": "https://event-us.kr/awskrug/event/131417",
-          "source_post_id": "131417",
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-08-08T08:49:49+09:00"
-        }
-      ],
-      "application_url": "https://event-us.kr/awskrug/event/131417",
-      "document_url": null,
-      "recruit_start": "2026-08-05",
-      "recruit_end": "2026-08-30",
-      "event_start": "2026-09-05",
-      "event_end": "2026-09-05",
-      "date_kind": "exact",
-      "d_day": 22,
-      "eligibility": "",
-      "benefits": "",
-      "location": "서울 강남구",
-      "mode": "offline",
-      "fee": "paid",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "ausgcon2026challengediveintotechjumpintofuture|aws한국사용자모임awskrug|2026-08-30"
-    },
-    {
-      "id": "fae9a4ceb7581b47da46",
-      "title": "2026 대구특구 글로벌 딥테크 지원사업 DEEP-BOUND 참가자 모집",
-      "source_name": "온오프믹스",
-      "source_url": "https://onoffmix.com/event/346375",
-      "organizer": "측)가 아닙니다. 이벤트 내용과 관련한 사항은 이벤트 개설자에게 문의 바랍니다. HOT I",
-      "summary": "대구특구 글로벌 딥테크 지원사업에서 글로벌로 함께 할 우수 기업을 모집합니다 (공고문)_2026년_대구특구_글로벌_딥테크_지원사업.hwp (28.32 KiB) (양식)_2026년_대구특구_글로벌_딥테크_지원사업_참가신청서.hwp (54.688 KiB) [DEEP-BOUND 프로그램이란…",
-      "primary_type": "support",
-      "field_tags": [
-        "게임",
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "창업",
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [
-        "창업자·기업"
-      ],
-      "status": "closed",
-      "relevance": {
-        "score": 69,
-        "reasons": [
-          "본문·분류 키워드: ai, it, 게임, 스타트업",
-          "공고 유형: support",
-          "IT·게임 전문 출처",
-          "제목의 IT·게임 직접 근거 부족"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-07-30T14:33:47+09:00",
-      "last_seen_at": "2026-08-08T08:49:49+09:00",
-      "sources": [
-        {
-          "source_id": "onoffmix",
-          "source_name": "온오프믹스",
-          "source_url": "https://onoffmix.com/event/346375",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-08-08T08:49:49+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-07-14",
-      "recruit_end": "2026-07-01",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": -38,
-      "eligibility": "",
-      "benefits": "",
-      "location": "대구 북구 호암로 51 메이커스페이스동 204호 지도보기 와이앤아처(주) 마감 무료 · 명 선착순 정원 20 명 2026.8.7 (금) 23:59 까지 17 명 신청가능 신청 가능",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-08-08T00:10:49+09:00",
-      "change_flags": [
-        "location"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026대구특구글로벌딥테크지원사업deepbound참가자모집|측가아닙니다이벤트내용과관련한사항은이벤트개설자에게문의바랍니다hoti|2026-07-01"
-    },
-    {
-      "id": "44f3c1668a056f15996d",
-      "title": "TEDxSNU 2026 Summer Event <Love over Hate>",
-      "source_name": "온오프믹스",
-      "source_url": "https://onoffmix.com/event/346770",
-      "organizer": "측)가 아닙니다. 이벤트 내용과 관련한 사항은 이벤트 개설자에게 문의 바랍니다. HOT I",
-      "summary": "TEDxSNU의 30번째 강연에서는 증오를 권하는 사회 속에서 우리가 놓쳐 온 사랑의 의미를 다시 돌아봅니다. 당신은 사랑을 선택하시겠습니까?",
-      "primary_type": "contest",
-      "field_tags": [
-        "게임",
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "창업",
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [
-        "창업자·기업"
-      ],
-      "status": "closed",
-      "relevance": {
-        "score": 69,
-        "reasons": [
-          "본문·분류 키워드: ai, it, 게임, 스타트업",
-          "공고 유형: contest",
-          "IT·게임 전문 출처",
-          "제목의 IT·게임 직접 근거 부족"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-08-05T21:18:59+09:00",
-      "last_seen_at": "2026-08-08T08:49:49+09:00",
-      "sources": [
-        {
-          "source_id": "onoffmix",
-          "source_name": "온오프믹스",
-          "source_url": "https://onoffmix.com/event/346770",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-08-08T08:49:49+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-08-08",
-      "recruit_end": "2026-08-07",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": -1,
-      "eligibility": "",
-      "benefits": "",
-      "location": "서울 관악구 관악로 1 서울대학교 인문대학 14동 지하 1층 지도보기 11,900 원 · 명 선착순 정원 87 명 2026.8.7 (금) 23:59 까지 11 명 신청가능 AP권(",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-08-08T00:10:49+09:00",
-      "change_flags": [
-        "location"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "tedxsnu2026summereventloveoverhate|측가아닙니다이벤트내용과관련한사항은이벤트개설자에게문의바랍니다hoti|2026-08-07"
-    },
     {
       "id": "8f7c855b45ada91ddfbc",
       "title": "Kwon Lecture 2026: P. R. Kumar 교수 초청 강연",
@@ -220,7 +34,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-08T08:49:49+09:00",
+      "last_seen_at": "2026-08-08T11:23:49+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -229,7 +43,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-08T08:49:49+09:00"
+          "fetched_at": "2026-08-08T11:23:49+09:00"
         }
       ],
       "application_url": null,
@@ -284,7 +98,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-03T13:01:54+09:00",
-      "last_seen_at": "2026-08-08T08:49:49+09:00",
+      "last_seen_at": "2026-08-08T11:23:49+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -293,7 +107,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-08T08:49:49+09:00"
+          "fetched_at": "2026-08-08T11:23:49+09:00"
         }
       ],
       "application_url": null,
@@ -348,7 +162,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-08T08:49:49+09:00",
+      "last_seen_at": "2026-08-08T11:23:49+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -357,7 +171,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-08T08:49:49+09:00"
+          "fetched_at": "2026-08-08T11:23:49+09:00"
         }
       ],
       "application_url": null,
@@ -412,7 +226,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-08T08:49:49+09:00",
+      "last_seen_at": "2026-08-08T11:23:49+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -421,7 +235,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-08T08:49:49+09:00"
+          "fetched_at": "2026-08-08T11:23:49+09:00"
         }
       ],
       "application_url": null,
@@ -444,6 +258,68 @@
       ],
       "is_manual_reviewed": false,
       "dedupe_key": "2026한국블록체인학회학술대회장소변경서강대학교정하상관118호|측가아닙니다이벤트내용과관련한사항은이벤트개설자에게문의바랍니다hoti|2024-10-31"
+    },
+    {
+      "id": "87371e3f72d1f6f711b5",
+      "title": "[직장인 재테크 세미나] 기초부터 실전까지 재테크 A to Z",
+      "source_name": "온오프믹스",
+      "source_url": "https://onoffmix.com/event/342984",
+      "organizer": "측)가 아닙니다. 이벤트 내용과 관련한 사항은 이벤트 개설자에게 문의 바랍니다. HOT I",
+      "summary": "적금은 아무것도 안 하는 것 같고, 주식은 패가망신 한다고 하고, 코인은 도박처럼 느껴진다면 지금 필요한 건 ‘안전하게 꾸준히 굴릴 수 있는 자산 전략’입니다.",
+      "primary_type": "event",
+      "field_tags": [
+        "게임",
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "창업",
+        "디지털 콘텐츠"
+      ],
+      "audience_tags": [
+        "창업자·기업"
+      ],
+      "status": "upcoming",
+      "relevance": {
+        "score": 69,
+        "reasons": [
+          "본문·분류 키워드: ai, it, 게임, 스타트업",
+          "공고 유형: event",
+          "IT·게임 전문 출처",
+          "제목의 IT·게임 직접 근거 부족"
+        ],
+        "decision": "review"
+      },
+      "first_seen_at": "2026-08-08T11:23:49+09:00",
+      "last_seen_at": "2026-08-08T11:23:49+09:00",
+      "sources": [
+        {
+          "source_id": "onoffmix",
+          "source_name": "온오프믹스",
+          "source_url": "https://onoffmix.com/event/342984",
+          "source_post_id": null,
+          "kind": "specialist",
+          "priority": 60,
+          "fetched_at": "2026-08-08T11:23:49+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-09-01",
+      "recruit_end": "2026-08-01",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -7,
+      "eligibility": "",
+      "benefits": "",
+      "location": "서울 강남구 영동대로85길 13 2호선 코엑스 인근 세미나실 (5분 거리) 지도보기 무료 · 명 선착순 정원 4 명 2026.9.1 (화) 16:28 까지 3 명 신청가능 8월 주",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "직장인재테크세미나기초부터실전까지재테크atoz|측가아닙니다이벤트내용과관련한사항은이벤트개설자에게문의바랍니다hoti|2026-08-01"
     },
     {
       "id": "3a0f272de268bec60b52",
@@ -473,7 +349,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-08T08:49:49+09:00",
+      "last_seen_at": "2026-08-08T11:23:49+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -482,7 +358,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-08T08:49:49+09:00"
+          "fetched_at": "2026-08-08T11:23:49+09:00"
         }
       ],
       "application_url": null,
@@ -528,7 +404,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-08T08:49:49+09:00",
+      "last_seen_at": "2026-08-08T11:23:49+09:00",
       "sources": [
         {
           "source_id": "eventus",
@@ -537,7 +413,7 @@
           "source_post_id": "131374",
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-08T08:49:49+09:00"
+          "fetched_at": "2026-08-08T11:23:49+09:00"
         }
       ],
       "application_url": "https://event-us.kr/dimaco/event/131374",
@@ -583,7 +459,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-07T22:41:30+09:00",
-      "last_seen_at": "2026-08-08T08:49:49+09:00",
+      "last_seen_at": "2026-08-08T11:23:49+09:00",
       "sources": [
         {
           "source_id": "eventus",
@@ -592,7 +468,7 @@
           "source_post_id": "131230",
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-08T08:49:49+09:00"
+          "fetched_at": "2026-08-08T11:23:49+09:00"
         }
       ],
       "application_url": "https://event-us.kr/2026able/event/131230",
@@ -638,7 +514,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-08T08:49:49+09:00",
+      "last_seen_at": "2026-08-08T11:23:49+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -647,7 +523,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-08T08:49:49+09:00"
+          "fetched_at": "2026-08-08T11:23:49+09:00"
         }
       ],
       "application_url": null,
@@ -693,7 +569,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-08T08:49:49+09:00",
+      "last_seen_at": "2026-08-08T11:23:49+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -702,7 +578,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-08T08:49:49+09:00"
+          "fetched_at": "2026-08-08T11:23:49+09:00"
         }
       ],
       "application_url": null,
@@ -801,7 +677,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-08T08:49:49+09:00",
+      "last_seen_at": "2026-08-08T11:23:49+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -810,7 +686,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-08T08:49:49+09:00"
+          "fetched_at": "2026-08-08T11:23:49+09:00"
         }
       ],
       "application_url": null,
@@ -855,7 +731,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-05T21:18:59+09:00",
-      "last_seen_at": "2026-08-08T08:49:49+09:00",
+      "last_seen_at": "2026-08-08T11:23:49+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -864,7 +740,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-08T08:49:49+09:00"
+          "fetched_at": "2026-08-08T11:23:49+09:00"
         }
       ],
       "application_url": null,
@@ -909,7 +785,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-08T08:49:49+09:00",
+      "last_seen_at": "2026-08-08T11:23:49+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -918,7 +794,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-08T08:49:49+09:00"
+          "fetched_at": "2026-08-08T11:23:49+09:00"
         }
       ],
       "application_url": null,
@@ -963,7 +839,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-04T12:41:11+09:00",
-      "last_seen_at": "2026-08-08T08:49:49+09:00",
+      "last_seen_at": "2026-08-08T11:23:49+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -972,7 +848,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-08T08:49:49+09:00"
+          "fetched_at": "2026-08-08T11:23:49+09:00"
         }
       ],
       "application_url": null,
@@ -1017,7 +893,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-05T21:18:59+09:00",
-      "last_seen_at": "2026-08-08T08:49:49+09:00",
+      "last_seen_at": "2026-08-08T11:23:49+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1026,7 +902,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-08T08:49:49+09:00"
+          "fetched_at": "2026-08-08T11:23:49+09:00"
         }
       ],
       "application_url": null,
@@ -1071,7 +947,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-08T08:49:49+09:00",
+      "last_seen_at": "2026-08-08T11:23:49+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1080,7 +956,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-08T08:49:49+09:00"
+          "fetched_at": "2026-08-08T11:23:49+09:00"
         }
       ],
       "application_url": null,
@@ -1230,7 +1106,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-04T12:41:11+09:00",
-      "last_seen_at": "2026-08-08T08:49:49+09:00",
+      "last_seen_at": "2026-08-08T11:23:49+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1239,7 +1115,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-08T08:49:49+09:00"
+          "fetched_at": "2026-08-08T11:23:49+09:00"
         }
       ],
       "application_url": null,
@@ -1283,7 +1159,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-04T12:41:11+09:00",
-      "last_seen_at": "2026-08-08T08:49:49+09:00",
+      "last_seen_at": "2026-08-08T11:23:49+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1292,7 +1168,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-08T08:49:49+09:00"
+          "fetched_at": "2026-08-08T11:23:49+09:00"
         }
       ],
       "application_url": null,
@@ -1336,7 +1212,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T23:34:44+09:00",
-      "last_seen_at": "2026-08-08T08:49:49+09:00",
+      "last_seen_at": "2026-08-08T11:23:49+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1345,7 +1221,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-08T08:49:49+09:00"
+          "fetched_at": "2026-08-08T11:23:49+09:00"
         }
       ],
       "application_url": null,
@@ -1389,7 +1265,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-08T08:49:49+09:00",
+      "last_seen_at": "2026-08-08T11:23:49+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1398,7 +1274,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-08T08:49:49+09:00"
+          "fetched_at": "2026-08-08T11:23:49+09:00"
         }
       ],
       "application_url": null,
@@ -1442,7 +1318,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-04T12:41:11+09:00",
-      "last_seen_at": "2026-08-08T08:49:49+09:00",
+      "last_seen_at": "2026-08-08T11:23:49+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1451,7 +1327,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-08T08:49:49+09:00"
+          "fetched_at": "2026-08-08T11:23:49+09:00"
         }
       ],
       "application_url": null,
