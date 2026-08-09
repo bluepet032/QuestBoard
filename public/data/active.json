@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-10T02:49:04+09:00",
+  "generated_at": "2026-08-10T03:59:04+09:00",
   "items": [
     {
       "id": "f766c3d4c59d6d96d837",
@@ -15,9 +15,11 @@
         "AI",
         "소프트웨어",
         "웹·앱",
-        "창업"
+        "창업",
+        "디지털 콘텐츠"
       ],
       "audience_tags": [
+        "개발자",
         "창업자·기업"
       ],
       "status": "upcoming",
@@ -25,14 +27,14 @@
         "score": 100,
         "reasons": [
           "제목 핵심 키워드: ai",
-          "본문·분류 키워드: ai, it, 게임, 스타트업",
+          "본문·분류 키워드: ai, ax, it, 개발자",
           "공고 유형: contest",
           "IT·게임 전문 출처"
         ],
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -41,7 +43,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -94,7 +96,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -103,7 +105,7 @@
           "source_post_id": "106935",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -124,6 +126,136 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "ai컷드라마공모전ai숏폼드라마챌린지|중원대학교|2026-08-10"
+    },
+    {
+      "id": "40fbebc565e5226acd9b",
+      "title": "2026 스웨덴 게임 컨퍼런스(Sweden Game Conference) 참가기업 모집 연장공고",
+      "source_name": "한국콘텐츠진흥원",
+      "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00089010&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
+      "organizer": "한국콘텐츠진흥원",
+      "summary": "한국콘텐츠진흥원 공식 모집공모 공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "게임",
+        "디지털 콘텐츠"
+      ],
+      "audience_tags": [],
+      "status": "today",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: 게임",
+          "본문·분류 키워드: 게임, 디지털 콘텐츠, 콘텐츠",
+          "공고 유형: support",
+          "공식 전문기관 출처",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능",
+          "본문·분류 키워드: 게임"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-07-30T16:37:20+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
+      "sources": [
+        {
+          "source_id": "kocca",
+          "source_name": "한국콘텐츠진흥원",
+          "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00089010&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
+          "source_post_id": "326D00089010",
+          "kind": "official",
+          "priority": 100,
+          "fetched_at": "2026-08-09T22:35:02+09:00"
+        },
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EA%B2%8C%EC%9E%84&condition=searchPblancNm&condition1=AND&keyword=%EA%B2%8C%EC%9E%84&pblancId=PBLN_000000000124258",
+          "source_post_id": "PBLN_000000000124258",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-08-09T22:35:02+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-07-10",
+      "recruit_end": "2026-08-10",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 0,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026스웨덴게임컨퍼런스swedengameconference참가기업모집연장공고|한국콘텐츠진흥원|2026-08-10"
+    },
+    {
+      "id": "406b07888caad9d1e8ff",
+      "title": "2026년 하반기 경기글로벌게임센터 신규 입주기업 추가 모집",
+      "source_name": "경기콘텐츠진흥원",
+      "source_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11211&menuNo=200061&pageIndex=1",
+      "organizer": "사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우",
+      "summary": "사업공고 | 사업공고 | 알림마당 | 경기콘텐츠진흥원. ) 회원서비스 본 신청은 회원을 위한 서비스입니다. 로그인하시거나 회원가입하여 이용하여 주시기 바랍니다. 회원가입 로그인 신청하기 닫기 사이트명 개인정보처리방침 이메일무단수집거부",
+      "primary_type": "support",
+      "field_tags": [
+        "게임",
+        "소프트웨어",
+        "창업",
+        "디지털 콘텐츠"
+      ],
+      "audience_tags": [
+        "창업자·기업"
+      ],
+      "status": "today",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: 게임",
+          "본문·분류 키워드: 게임, 디지털 콘텐츠, 소프트웨어, 스타트업",
+          "공고 유형: support",
+          "공식 전문기관 출처",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-07-31T13:04:56+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
+      "sources": [
+        {
+          "source_id": "gcon",
+          "source_name": "경기콘텐츠진흥원",
+          "source_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11211&menuNo=200061&pageIndex=1",
+          "source_post_id": "11211",
+          "kind": "official",
+          "priority": 100,
+          "fetched_at": "2026-08-10T03:59:04+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-07-31",
+      "recruit_end": "2026-08-10",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 0,
+      "eligibility": ") 회원서비스 본 신청은 회원을 위한 서비스입니다. 로그인하시거나 회원가입하여 이용하여 주시기 바랍니다. 회원가입 로그인 신청하기 닫기 사이트명 개인정보처리방침 이메일무단수집거부",
+      "benefits": "지원항목 네트워킹 프로그램 스타트업 오피스 지원 지원내용 6인실 1개사 모집 모집개요 모집기간 2026년 07월 31일 09시 00분 ~ 2026년 08월 10일 17시 00분 모",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-08-05T18:22:24+09:00",
+      "change_flags": [
+        "eligibility"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026년하반기경기글로벌게임센터신규입주기업추가모집|사업소개2026년지원사업안내주력사업주력사업개요g유니콘패스ai패키지크라우|2026-08-10"
     },
     {
       "id": "8ac37ba1b58eb5e1ce1c",
@@ -150,7 +282,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "eventus",
@@ -159,7 +291,7 @@
           "source_post_id": "130695",
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": "https://event-us.kr/omikorea/event/130695",
@@ -208,7 +340,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -217,7 +349,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -263,7 +395,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -272,7 +404,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -321,7 +453,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -330,7 +462,7 @@
           "source_post_id": "108698",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -408,6 +540,66 @@
       "dedupe_key": "경북경산시2026년산업ax미니프로젝트지원사업참여기업모집연장공고산업인공지능ai전환및확산기반조성|경북테크노파크|2026-08-09"
     },
     {
+      "id": "b5b2d84c715aab733ad4",
+      "title": "「2026년 경기 레벨업 프로그램」지원기업 통합 모집공고(하반기) ※사전등록관련 사항 수정",
+      "source_name": "경기콘텐츠진흥원",
+      "source_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11207&menuNo=200061&pageIndex=1",
+      "organizer": "사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우",
+      "summary": "사업공고 | 사업공고 | 알림마당 | 경기콘텐츠진흥원. 투자 네트워킹) - 레벨업 피칭데이, 레벨업 투자라운드, 레벨업 성과발표회 ○ 단계별 특화 프로그램 진행 ※ 자세한 사항은 모집 통합공고문 참고 모집개요 모집기간 2026년 07월",
+      "primary_type": "education",
+      "field_tags": [
+        "게임",
+        "소프트웨어",
+        "디지털 콘텐츠"
+      ],
+      "audience_tags": [],
+      "status": "today",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "본문·분류 키워드: 게임, 디지털 콘텐츠, 소프트웨어, 콘텐츠",
+          "공고 유형: education",
+          "공식 전문기관 출처",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-07-30T16:37:20+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
+      "sources": [
+        {
+          "source_id": "gcon",
+          "source_name": "경기콘텐츠진흥원",
+          "source_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11207&menuNo=200061&pageIndex=1",
+          "source_post_id": "11207",
+          "kind": "official",
+          "priority": 100,
+          "fetched_at": "2026-08-10T03:59:04+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-07-16",
+      "recruit_end": "2026-08-10",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 0,
+      "eligibility": "투자 네트워킹) - 레벨업 피칭데이, 레벨업 투자라운드, 레벨업 성과발표회 ○ 단계별 특화 프로그램 진행 ※ 자세한 사항은 모집 통합공고문 참고 모집개요 모집기간 2026년 07월",
+      "benefits": "지원항목 자금지원 엑셀러레이팅 프로그램 데모데이 프로그램(투자연계) 네트워킹 프로그램 데모데이 프로그램(네트워킹) 기업피칭 지원내용 ※ 경기 레벨업 프로그램 사업설명회 사전신청 :",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-07-30T17:05:31+09:00",
+      "change_flags": [
+        "recruit_start",
+        "recruit_end"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026년경기레벨업프로그램지원기업통합모집공고하반기사전등록관련사항수정|사업소개2026년지원사업안내주력사업주력사업개요g유니콘패스ai패키지크라우|2026-08-10"
+    },
+    {
       "id": "d10b94fdc9d78534fd8b",
       "title": "게임 X AI 해커톤 (NAN2026)",
       "source_name": "씽굿",
@@ -436,7 +628,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -445,7 +637,7 @@
           "source_post_id": "108118",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -497,7 +689,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -506,7 +698,7 @@
           "source_post_id": "106404",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -527,73 +719,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "총상금2400만원2026대전디자인어워드참가자모집|대전광역시|2026-08-10"
-    },
-    {
-      "id": "40fbebc565e5226acd9b",
-      "title": "2026 스웨덴 게임 컨퍼런스(Sweden Game Conference) 참가기업 모집 연장공고",
-      "source_name": "한국콘텐츠진흥원",
-      "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00089010&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
-      "organizer": "한국콘텐츠진흥원",
-      "summary": "한국콘텐츠진흥원 공식 모집공모 공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "게임",
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [],
-      "status": "urgent",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: 게임",
-          "본문·분류 키워드: 게임, 디지털 콘텐츠, 콘텐츠",
-          "공고 유형: support",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능",
-          "본문·분류 키워드: 게임"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-09T22:35:02+09:00",
-      "sources": [
-        {
-          "source_id": "kocca",
-          "source_name": "한국콘텐츠진흥원",
-          "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00089010&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
-          "source_post_id": "326D00089010",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
-        },
-        {
-          "source_id": "bizinfo",
-          "source_name": "기업마당",
-          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EA%B2%8C%EC%9E%84&condition=searchPblancNm&condition1=AND&keyword=%EA%B2%8C%EC%9E%84&pblancId=PBLN_000000000124258",
-          "source_post_id": "PBLN_000000000124258",
-          "kind": "government",
-          "priority": 80,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-07-10",
-      "recruit_end": "2026-08-10",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 1,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026스웨덴게임컨퍼런스swedengameconference참가기업모집연장공고|한국콘텐츠진흥원|2026-08-10"
     },
     {
       "id": "db1c97b96035d0f200f7",
@@ -648,125 +773,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "2026년인간ai협업형lam개발글로벌실증사업재공고|정보통신산업진흥원|2026-08-10"
-    },
-    {
-      "id": "0e193de3ea4ec320ca34",
-      "title": "2026년 프리 팁스 2차 창업기업 모집 공고",
-      "source_name": "K-Startup",
-      "source_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178481",
-      "organizer": "K-Startup",
-      "summary": "K-Startup 모집중 창업지원 공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "창업"
-      ],
-      "audience_tags": [],
-      "status": "urgent",
-      "relevance": {
-        "score": 70,
-        "reasons": [
-          "제목 핵심 키워드: 창업",
-          "본문·분류 키워드: 창업",
-          "공고 유형: support"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T16:42:45+09:00",
-      "last_seen_at": "2026-08-09T22:35:02+09:00",
-      "sources": [
-        {
-          "source_id": "kstartup",
-          "source_name": "K-Startup",
-          "source_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178481",
-          "source_post_id": "178481",
-          "kind": "government",
-          "priority": 80,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-08-10",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 1,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-08-06T04:52:04+09:00",
-      "change_flags": [
-        "recruit_end"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026년프리팁스2차창업기업모집공고|kstartup|2026-08-10"
-    },
-    {
-      "id": "406b07888caad9d1e8ff",
-      "title": "2026년 하반기 경기글로벌게임센터 신규 입주기업 추가 모집",
-      "source_name": "경기콘텐츠진흥원",
-      "source_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11211&menuNo=200061&pageIndex=1",
-      "organizer": "사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우",
-      "summary": "사업공고 | 사업공고 | 알림마당 | 경기콘텐츠진흥원. ) 회원서비스 본 신청은 회원을 위한 서비스입니다. 로그인하시거나 회원가입하여 이용하여 주시기 바랍니다. 회원가입 로그인 신청하기 닫기 사이트명 개인정보처리방침 이메일무단수집거부",
-      "primary_type": "support",
-      "field_tags": [
-        "게임",
-        "소프트웨어",
-        "창업",
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [
-        "창업자·기업"
-      ],
-      "status": "urgent",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: 게임",
-          "본문·분류 키워드: 게임, 디지털 콘텐츠, 소프트웨어, 스타트업",
-          "공고 유형: support",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-31T13:04:56+09:00",
-      "last_seen_at": "2026-08-09T22:35:02+09:00",
-      "sources": [
-        {
-          "source_id": "gcon",
-          "source_name": "경기콘텐츠진흥원",
-          "source_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11211&menuNo=200061&pageIndex=1",
-          "source_post_id": "11211",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-07-31",
-      "recruit_end": "2026-08-10",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 1,
-      "eligibility": ") 회원서비스 본 신청은 회원을 위한 서비스입니다. 로그인하시거나 회원가입하여 이용하여 주시기 바랍니다. 회원가입 로그인 신청하기 닫기 사이트명 개인정보처리방침 이메일무단수집거부",
-      "benefits": "지원항목 네트워킹 프로그램 스타트업 오피스 지원 지원내용 6인실 1개사 모집 모집개요 모집기간 2026년 07월 31일 09시 00분 ~ 2026년 08월 10일 17시 00분 모",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-08-05T18:22:24+09:00",
-      "change_flags": [
-        "eligibility"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026년하반기경기글로벌게임센터신규입주기업추가모집|사업소개2026년지원사업안내주력사업주력사업개요g유니콘패스ai패키지크라우|2026-08-10"
     },
     {
       "id": "052749de6ad7e4db3c8e",
@@ -824,6 +830,78 @@
       "dedupe_key": "경북2026년데이터센터국산장비및sw개발실증지원추가모집공고|포항테크노파크|2026-08-10"
     },
     {
+      "id": "39070cc6defd53b6f8e1",
+      "title": "[사업화] --> 2026년도 소프트웨어 산업발전 유공자 포상계획 연장 공고",
+      "source_name": "정보통신산업진흥원",
+      "source_url": "https://www.nipa.kr/home/2-2/16874",
+      "organizer": "정보통신산업진흥원",
+      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "창업"
+      ],
+      "audience_tags": [],
+      "status": "urgent",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: 사업화, 소프트웨어",
+          "본문·분류 키워드: ai, it, sw, 모바일",
+          "공고 유형: support",
+          "공식 전문기관 출처",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능",
+          "제목 핵심 키워드: 소프트웨어",
+          "본문·분류 키워드: 소프트웨어"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-07-30T16:37:20+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
+      "sources": [
+        {
+          "source_id": "nipa",
+          "source_name": "정보통신산업진흥원",
+          "source_url": "https://www.nipa.kr/home/2-2/16874",
+          "source_post_id": "16874",
+          "kind": "official",
+          "priority": 100,
+          "fetched_at": "2026-08-09T22:35:02+09:00"
+        },
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4&condition=searchPblancNm&condition1=AND&keyword=%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4&pblancId=PBLN_000000000124933",
+          "source_post_id": "PBLN_000000000124933",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-08-09T22:35:02+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-07-29",
+      "recruit_end": "2026-08-11",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 1,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-07-30T16:42:45+09:00",
+      "change_flags": [
+        "title"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "사업화2026년도소프트웨어산업발전유공자포상계획연장공고|정보통신산업진흥원|2026-08-11"
+    },
+    {
       "id": "f78e85ddc9aa7ee6b74a",
       "title": "[전남광주] AI 이미지·영상 콘텐츠 제작 실습 : 초보자 무료 공개 1시간 클래스",
       "source_name": "이벤터스",
@@ -848,7 +926,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-09T16:18:40+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "eventus",
@@ -857,7 +935,7 @@
           "source_post_id": "132014",
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": "https://event-us.kr/devdive/event/132014",
@@ -878,66 +956,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "전남광주ai이미지영상콘텐츠제작실습초보자무료공개1시간클래스|데브다이브|2026-08-11"
-    },
-    {
-      "id": "b5b2d84c715aab733ad4",
-      "title": "「2026년 경기 레벨업 프로그램」지원기업 통합 모집공고(하반기) ※사전등록관련 사항 수정",
-      "source_name": "경기콘텐츠진흥원",
-      "source_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11207&menuNo=200061&pageIndex=1",
-      "organizer": "사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우",
-      "summary": "사업공고 | 사업공고 | 알림마당 | 경기콘텐츠진흥원. 투자 네트워킹) - 레벨업 피칭데이, 레벨업 투자라운드, 레벨업 성과발표회 ○ 단계별 특화 프로그램 진행 ※ 자세한 사항은 모집 통합공고문 참고 모집개요 모집기간 2026년 07월",
-      "primary_type": "education",
-      "field_tags": [
-        "게임",
-        "소프트웨어",
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [],
-      "status": "urgent",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "본문·분류 키워드: 게임, 디지털 콘텐츠, 소프트웨어, 콘텐츠",
-          "공고 유형: education",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-09T22:35:02+09:00",
-      "sources": [
-        {
-          "source_id": "gcon",
-          "source_name": "경기콘텐츠진흥원",
-          "source_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11207&menuNo=200061&pageIndex=1",
-          "source_post_id": "11207",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-07-16",
-      "recruit_end": "2026-08-10",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 1,
-      "eligibility": "투자 네트워킹) - 레벨업 피칭데이, 레벨업 투자라운드, 레벨업 성과발표회 ○ 단계별 특화 프로그램 진행 ※ 자세한 사항은 모집 통합공고문 참고 모집개요 모집기간 2026년 07월",
-      "benefits": "지원항목 자금지원 엑셀러레이팅 프로그램 데모데이 프로그램(투자연계) 네트워킹 프로그램 데모데이 프로그램(네트워킹) 기업피칭 지원내용 ※ 경기 레벨업 프로그램 사업설명회 사전신청 :",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-07-30T17:05:31+09:00",
-      "change_flags": [
-        "recruit_start",
-        "recruit_end"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026년경기레벨업프로그램지원기업통합모집공고하반기사전등록관련사항수정|사업소개2026년지원사업안내주력사업주력사업개요g유니콘패스ai패키지크라우|2026-08-10"
     },
     {
       "id": "cf596bc9741517c504ed",
@@ -963,7 +981,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-08T00:10:49+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "eventus",
@@ -972,7 +990,7 @@
           "source_post_id": "131814",
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": "https://event-us.kr/eduplusweek/event/131814",
@@ -1021,7 +1039,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-06T15:48:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -1030,7 +1048,7 @@
           "source_post_id": "109181",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -1076,7 +1094,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -1085,7 +1103,7 @@
           "source_post_id": "108549",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -1108,6 +1126,118 @@
       ],
       "is_manual_reviewed": false,
       "dedupe_key": "2026장애공감공모전specialidea|한국장애인재단|2026-08-12"
+    },
+    {
+      "id": "331c6072561332d334db",
+      "title": "2026년 창업진흥원 대전 팁스타운 일본 파트너 초청 상담회 참가기업 모집 공고",
+      "source_name": "K-Startup",
+      "source_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178839",
+      "organizer": "K-Startup",
+      "summary": "K-Startup 모집중 창업지원 공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "창업"
+      ],
+      "audience_tags": [],
+      "status": "urgent",
+      "relevance": {
+        "score": 70,
+        "reasons": [
+          "제목 핵심 키워드: 창업",
+          "본문·분류 키워드: 창업",
+          "공고 유형: support"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-08-06T18:28:06+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
+      "sources": [
+        {
+          "source_id": "kstartup",
+          "source_name": "K-Startup",
+          "source_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178839",
+          "source_post_id": "178839",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-08-10T03:59:04+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-08-12",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 2,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-08-10T03:59:04+09:00",
+      "change_flags": [
+        "title"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026년창업진흥원대전팁스타운일본파트너초청상담회참가기업모집공고|kstartup|2026-08-12"
+    },
+    {
+      "id": "329c44a31b00ed5ebb7e",
+      "title": "2026년도 방산 특화 창업중심대학 창업기업 모집 공고",
+      "source_name": "K-Startup",
+      "source_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178662",
+      "organizer": "K-Startup",
+      "summary": "K-Startup 모집중 창업지원 공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "창업"
+      ],
+      "audience_tags": [],
+      "status": "urgent",
+      "relevance": {
+        "score": 70,
+        "reasons": [
+          "제목 핵심 키워드: 창업",
+          "본문·분류 키워드: 창업",
+          "공고 유형: support"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-07-30T16:42:45+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
+      "sources": [
+        {
+          "source_id": "kstartup",
+          "source_name": "K-Startup",
+          "source_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178662",
+          "source_post_id": "178662",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-08-10T03:59:04+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-08-12",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 2,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-08-06T04:52:04+09:00",
+      "change_flags": [
+        "recruit_end"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026년도방산특화창업중심대학창업기업모집공고|kstartup|2026-08-12"
     },
     {
       "id": "567a22f430eb27d1c538",
@@ -1134,7 +1264,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-03T13:01:54+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "eventus",
@@ -1143,7 +1273,7 @@
           "source_post_id": "131112",
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": "https://event-us.kr/flexteam/event/131112",
@@ -1275,188 +1405,6 @@
       "dedupe_key": "대구제조ai혁신교육및사업설명회개최|대구테크노파크|2026-08-11"
     },
     {
-      "id": "39070cc6defd53b6f8e1",
-      "title": "[사업화] --> 2026년도 소프트웨어 산업발전 유공자 포상계획 연장 공고",
-      "source_name": "정보통신산업진흥원",
-      "source_url": "https://www.nipa.kr/home/2-2/16874",
-      "organizer": "정보통신산업진흥원",
-      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "창업"
-      ],
-      "audience_tags": [],
-      "status": "urgent",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: 사업화, 소프트웨어",
-          "본문·분류 키워드: ai, it, sw, 모바일",
-          "공고 유형: support",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능",
-          "제목 핵심 키워드: 소프트웨어",
-          "본문·분류 키워드: 소프트웨어"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-09T22:35:02+09:00",
-      "sources": [
-        {
-          "source_id": "nipa",
-          "source_name": "정보통신산업진흥원",
-          "source_url": "https://www.nipa.kr/home/2-2/16874",
-          "source_post_id": "16874",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
-        },
-        {
-          "source_id": "bizinfo",
-          "source_name": "기업마당",
-          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4&condition=searchPblancNm&condition1=AND&keyword=%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4&pblancId=PBLN_000000000124933",
-          "source_post_id": "PBLN_000000000124933",
-          "kind": "government",
-          "priority": 80,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-07-29",
-      "recruit_end": "2026-08-11",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 2,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-07-30T16:42:45+09:00",
-      "change_flags": [
-        "title"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "사업화2026년도소프트웨어산업발전유공자포상계획연장공고|정보통신산업진흥원|2026-08-11"
-    },
-    {
-      "id": "331c6072561332d334db",
-      "title": "2026년 창업진흥원 대전 팁스타운 일본 파트너 초청 상담회 참가기업 모집 공고 새로운게시글",
-      "source_name": "K-Startup",
-      "source_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178839",
-      "organizer": "K-Startup",
-      "summary": "K-Startup 모집중 창업지원 공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "창업"
-      ],
-      "audience_tags": [],
-      "status": "urgent",
-      "relevance": {
-        "score": 70,
-        "reasons": [
-          "제목 핵심 키워드: 창업",
-          "본문·분류 키워드: 창업",
-          "공고 유형: support"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-08-06T18:28:06+09:00",
-      "last_seen_at": "2026-08-09T22:35:02+09:00",
-      "sources": [
-        {
-          "source_id": "kstartup",
-          "source_name": "K-Startup",
-          "source_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178839",
-          "source_post_id": "178839",
-          "kind": "government",
-          "priority": 80,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-08-12",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 3,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026년창업진흥원대전팁스타운일본파트너초청상담회참가기업모집공고새로운게시글|kstartup|2026-08-12"
-    },
-    {
-      "id": "329c44a31b00ed5ebb7e",
-      "title": "2026년도 방산 특화 창업중심대학 창업기업 모집 공고",
-      "source_name": "K-Startup",
-      "source_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178662",
-      "organizer": "K-Startup",
-      "summary": "K-Startup 모집중 창업지원 공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "창업"
-      ],
-      "audience_tags": [],
-      "status": "urgent",
-      "relevance": {
-        "score": 70,
-        "reasons": [
-          "제목 핵심 키워드: 창업",
-          "본문·분류 키워드: 창업",
-          "공고 유형: support"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T16:42:45+09:00",
-      "last_seen_at": "2026-08-09T22:35:02+09:00",
-      "sources": [
-        {
-          "source_id": "kstartup",
-          "source_name": "K-Startup",
-          "source_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178662",
-          "source_post_id": "178662",
-          "kind": "government",
-          "priority": 80,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-08-12",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 3,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-08-06T04:52:04+09:00",
-      "change_flags": [
-        "recruit_end"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026년도방산특화창업중심대학창업기업모집공고|kstartup|2026-08-12"
-    },
-    {
       "id": "0e15c6677faf97e2fe82",
       "title": "[국가정보원] 2026 사이버공격방어대회 참가자 모집",
       "source_name": "위비티",
@@ -1480,7 +1428,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-05T18:58:35+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -1489,7 +1437,7 @@
           "source_post_id": "340509",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         },
         {
           "source_id": "wevity",
@@ -1498,7 +1446,7 @@
           "source_post_id": "109851",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -1708,7 +1656,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-07T18:17:18+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -1717,7 +1665,7 @@
           "source_post_id": "341027",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -1765,7 +1713,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -1774,7 +1722,7 @@
           "source_post_id": "108100",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -1822,7 +1770,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -1831,7 +1779,7 @@
           "source_post_id": "107977",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -1923,9 +1871,11 @@
         "AI",
         "소프트웨어",
         "웹·앱",
-        "창업"
+        "창업",
+        "디지털 콘텐츠"
       ],
       "audience_tags": [
+        "개발자",
         "창업자·기업"
       ],
       "status": "upcoming",
@@ -1933,14 +1883,14 @@
         "score": 100,
         "reasons": [
           "제목 핵심 키워드: ai",
-          "본문·분류 키워드: ai, ax, it, 게임",
+          "본문·분류 키워드: ai, ax, it, 개발자",
           "공고 유형: education",
           "IT·게임 전문 출처"
         ],
         "decision": "publish"
       },
       "first_seen_at": "2026-07-31T19:01:13+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -1949,7 +1899,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -1999,7 +1949,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -2008,7 +1958,7 @@
           "source_post_id": "106756",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -2043,9 +1993,11 @@
         "AI",
         "소프트웨어",
         "웹·앱",
-        "창업"
+        "창업",
+        "디지털 콘텐츠"
       ],
       "audience_tags": [
+        "개발자",
         "창업자·기업"
       ],
       "status": "upcoming",
@@ -2053,14 +2005,14 @@
         "score": 100,
         "reasons": [
           "제목 핵심 키워드: ai",
-          "본문·분류 키워드: ai, ax, it, 게임",
+          "본문·분류 키워드: ai, ax, it, 개발자",
           "공고 유형: education",
           "IT·게임 전문 출처"
         ],
         "decision": "publish"
       },
       "first_seen_at": "2026-07-31T19:01:13+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -2069,7 +2021,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -2226,7 +2178,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2235,7 +2187,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -2280,7 +2232,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -2289,7 +2241,7 @@
           "source_post_id": "109527",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -2608,7 +2560,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -2617,7 +2569,7 @@
           "source_post_id": "108509",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -2666,7 +2618,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-06T19:00:50+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -2675,7 +2627,7 @@
           "source_post_id": "340702",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -2696,6 +2648,128 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "제4회학교밖청소년비진학청년창업가및예술가공익활동지원사업공익프로젝트모집|다다다사회적협동조합|2026-08-16"
+    },
+    {
+      "id": "9999779f063265775eb8",
+      "title": "2026년 문화체육관광 연구개발사업 기술사업화 및 글로벌 전시 참가기업 모집공고",
+      "source_name": "한국콘텐츠진흥원",
+      "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00115001&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
+      "organizer": "한국콘텐츠진흥원",
+      "summary": "한국콘텐츠진흥원 공식 모집공모 공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "창업",
+        "디지털 콘텐츠"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: 사업화",
+          "본문·분류 키워드: 디지털 콘텐츠, 사업화, 콘텐츠",
+          "공고 유형: support",
+          "공식 전문기관 출처",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-08-05T18:22:24+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
+      "sources": [
+        {
+          "source_id": "kocca",
+          "source_name": "한국콘텐츠진흥원",
+          "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00115001&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
+          "source_post_id": "326D00115001",
+          "kind": "official",
+          "priority": 100,
+          "fetched_at": "2026-08-10T03:59:04+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-08-05",
+      "recruit_end": "2026-08-17",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 7,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026년문화체육관광연구개발사업기술사업화및글로벌전시참가기업모집공고|한국콘텐츠진흥원|2026-08-17"
+    },
+    {
+      "id": "38aa6d40a5a0d479f02b",
+      "title": "<2026 로컬 스타트업 챌린지, 의정부 2026> 참가모집 공고",
+      "source_name": "경기콘텐츠진흥원",
+      "source_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11208&menuNo=200061&pageIndex=1",
+      "organizer": "사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우",
+      "summary": "사업공고 | 사업공고 | 알림마당 | 경기콘텐츠진흥원. 지원항목 자금지원 엑셀러레이팅 프로그램 데모데이 프로그램(투자연계) 네트워킹 프로그램 기업피칭 지원내용 엑셀러레이팅 프로그램, 피칭 컨설팅, 데모데이 및 시상(총 5천만원), 투자",
+      "primary_type": "contest",
+      "field_tags": [
+        "게임",
+        "소프트웨어",
+        "창업",
+        "디지털 콘텐츠"
+      ],
+      "audience_tags": [
+        "창업자·기업"
+      ],
+      "status": "open",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: 스타트업",
+          "본문·분류 키워드: 게임, 디지털 콘텐츠, 소프트웨어, 스타트업",
+          "공고 유형: contest",
+          "공식 전문기관 출처",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-07-30T16:37:20+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
+      "sources": [
+        {
+          "source_id": "gcon",
+          "source_name": "경기콘텐츠진흥원",
+          "source_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11208&menuNo=200061&pageIndex=1",
+          "source_post_id": "11208",
+          "kind": "official",
+          "priority": 100,
+          "fetched_at": "2026-08-10T03:59:04+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-07-20",
+      "recruit_end": "2026-08-17",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 7,
+      "eligibility": "",
+      "benefits": "지원항목 자금지원 엑셀러레이팅 프로그램 데모데이 프로그램(투자연계) 네트워킹 프로그램 기업피칭 지원내용 엑셀러레이팅 프로그램, 피칭 컨설팅, 데모데이 및 시상(총 5천만원), 투자",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-07-30T17:05:31+09:00",
+      "change_flags": [
+        "title",
+        "recruit_start",
+        "recruit_end"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026로컬스타트업챌린지의정부2026참가모집공고|사업소개2026년지원사업안내주력사업주력사업개요g유니콘패스ai패키지크라우|2026-08-17"
     },
     {
       "id": "27f52c03071c4325e49c",
@@ -2776,7 +2850,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-07T18:17:18+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -2785,7 +2859,7 @@
           "source_post_id": "340962",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -2832,7 +2906,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-08T00:10:49+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -2841,7 +2915,7 @@
           "source_post_id": "334947",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -2922,47 +2996,45 @@
       "dedupe_key": "2026년8월부산청년게임개발자정착지원사업공고|부산정보산업진흥원|2026-08-17"
     },
     {
-      "id": "9999779f063265775eb8",
-      "title": "2026년 문화체육관광 연구개발사업 기술사업화 및 글로벌 전시 참가기업 모집공고",
+      "id": "d5454b45843b66e69f06",
+      "title": "2026년 CKL기업지원센터 입주기업 하반기 모집",
       "source_name": "한국콘텐츠진흥원",
-      "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00115001&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
+      "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00068010&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
       "organizer": "한국콘텐츠진흥원",
       "summary": "한국콘텐츠진흥원 공식 모집공모 공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
       "primary_type": "support",
       "field_tags": [
-        "창업",
         "디지털 콘텐츠"
       ],
       "audience_tags": [],
       "status": "open",
       "relevance": {
-        "score": 100,
+        "score": 98,
         "reasons": [
-          "제목 핵심 키워드: 사업화",
-          "본문·분류 키워드: 디지털 콘텐츠, 사업화, 콘텐츠",
+          "본문·분류 키워드: 디지털 콘텐츠, 콘텐츠",
           "공고 유형: support",
           "공식 전문기관 출처",
           "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
         ],
         "decision": "publish"
       },
-      "first_seen_at": "2026-08-05T18:22:24+09:00",
-      "last_seen_at": "2026-08-09T22:35:02+09:00",
+      "first_seen_at": "2026-08-03T19:26:05+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "kocca",
           "source_name": "한국콘텐츠진흥원",
-          "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00115001&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
-          "source_post_id": "326D00115001",
+          "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00068010&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
+          "source_post_id": "326D00068010",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
-      "recruit_start": "2026-08-05",
-      "recruit_end": "2026-08-17",
+      "recruit_start": "2026-08-10",
+      "recruit_end": "2026-08-18",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -2976,7 +3048,129 @@
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026년문화체육관광연구개발사업기술사업화및글로벌전시참가기업모집공고|한국콘텐츠진흥원|2026-08-17"
+      "dedupe_key": "2026년ckl기업지원센터입주기업하반기모집|한국콘텐츠진흥원|2026-08-18"
+    },
+    {
+      "id": "053a979783da60503bb1",
+      "title": "2026년 경기게임오디션 후속지원 프로그램 지원기업 모집 공고(’24~’25년 선정기업 대상)",
+      "source_name": "경기콘텐츠진흥원",
+      "source_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11212&menuNo=200061&pageIndex=1",
+      "organizer": "사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우",
+      "summary": "사업공고 | 사업공고 | 알림마당 | 경기콘텐츠진흥원. ) [제 2026-106호] 등록일 2026.08.05 조회수 975 담당자 박경난 담당부서 게임산업팀 전화번호 031-776-4781 접수기간 2026년 08월 05일 12시 0",
+      "primary_type": "education",
+      "field_tags": [
+        "게임",
+        "소프트웨어",
+        "디지털 콘텐츠"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: 게임",
+          "본문·분류 키워드: 게임, 디지털 콘텐츠, 소프트웨어, 콘텐츠",
+          "공고 유형: education",
+          "공식 전문기관 출처",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-08-05T18:22:24+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
+      "sources": [
+        {
+          "source_id": "gcon",
+          "source_name": "경기콘텐츠진흥원",
+          "source_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11212&menuNo=200061&pageIndex=1",
+          "source_post_id": "11212",
+          "kind": "official",
+          "priority": 100,
+          "fetched_at": "2026-08-10T03:59:04+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-08-05",
+      "recruit_end": "2026-08-18",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 8,
+      "eligibility": ") [제 2026-106호] 등록일 2026.08.05 조회수 975 담당자 박경난 담당부서 게임산업팀 전화번호 031-776-4781 접수기간 2026년 08월 05일 12시 0",
+      "benefits": "지원항목 유통지원 지원내용 - 분야 : 마케팅, QA, 번역 및 LQA, 사운드, 영상 - 지원 규모 : 기업 당 15,000천원 이내 서비스 지원 모집개요 모집기간 2026년 0",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-08-10T03:59:04+09:00",
+      "change_flags": [
+        "eligibility"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026년경기게임오디션후속지원프로그램지원기업모집공고2425년선정기업대상|사업소개2026년지원사업안내주력사업주력사업개요g유니콘패스ai패키지크라우|2026-08-18"
+    },
+    {
+      "id": "a1dd7d7f5122713b3618",
+      "title": "2026년 서부 경기문화창조허브 공간입주 17기 2차 입주기업 모집",
+      "source_name": "경기콘텐츠진흥원",
+      "source_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11210&menuNo=200061&pageIndex=1",
+      "organizer": "사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우",
+      "summary": "사업공고 | 사업공고 | 알림마당 | 경기콘텐츠진흥원. 간담회(네트워킹데이) 운영 - 기타 진흥원 사업 연계 지원 모집개요 모집기간 2026년 07월 24일 14시 00분 ~ 2026년 08월 18일 14시 00분 모집조건 사업(행사)",
+      "primary_type": "support",
+      "field_tags": [
+        "게임",
+        "소프트웨어",
+        "창업",
+        "디지털 콘텐츠"
+      ],
+      "audience_tags": [
+        "창업자·기업"
+      ],
+      "status": "open",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "본문·분류 키워드: 게임, 디지털 콘텐츠, 소프트웨어, 스타트업",
+          "공고 유형: support",
+          "공식 전문기관 출처",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-07-30T16:37:20+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
+      "sources": [
+        {
+          "source_id": "gcon",
+          "source_name": "경기콘텐츠진흥원",
+          "source_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11210&menuNo=200061&pageIndex=1",
+          "source_post_id": "11210",
+          "kind": "official",
+          "priority": 100,
+          "fetched_at": "2026-08-10T03:59:04+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-07-24",
+      "recruit_end": "2026-08-18",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 8,
+      "eligibility": "간담회(네트워킹데이) 운영 - 기타 진흥원 사업 연계 지원 모집개요 모집기간 2026년 07월 24일 14시 00분 ~ 2026년 08월 18일 14시 00분 모집조건 사업(행사)",
+      "benefits": "지원항목 교육프로그램 네트워킹 프로그램 스타트업 오피스 지원 지원내용 ㅇ 사무공간 지원 - 개방형 지정석 사무공간 24시간 개방 - 부대시설 이용(회의실, 탕비실, 휘트니스센터,",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-07-30T17:05:31+09:00",
+      "change_flags": [
+        "recruit_end"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026년서부경기문화창조허브공간입주17기2차입주기업모집|사업소개2026년지원사업안내주력사업주력사업개요g유니콘패스ai패키지크라우|2026-08-18"
     },
     {
       "id": "eb1061bf8fbdb857dc0e",
@@ -3036,71 +3230,6 @@
       "dedupe_key": "2026년의정부로컬스타트업챌린지시티온cityon트랙참가기업팀모집공고|경기콘텐츠진흥원|2026-08-17"
     },
     {
-      "id": "38aa6d40a5a0d479f02b",
-      "title": "<2026 로컬 스타트업 챌린지, 의정부 2026> 참가모집 공고",
-      "source_name": "경기콘텐츠진흥원",
-      "source_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11208&menuNo=200061&pageIndex=1",
-      "organizer": "사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우",
-      "summary": "사업공고 | 사업공고 | 알림마당 | 경기콘텐츠진흥원. 지원항목 자금지원 엑셀러레이팅 프로그램 데모데이 프로그램(투자연계) 네트워킹 프로그램 기업피칭 지원내용 엑셀러레이팅 프로그램, 피칭 컨설팅, 데모데이 및 시상(총 5천만원), 투자",
-      "primary_type": "contest",
-      "field_tags": [
-        "게임",
-        "소프트웨어",
-        "창업",
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [
-        "창업자·기업"
-      ],
-      "status": "open",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: 스타트업",
-          "본문·분류 키워드: 게임, 디지털 콘텐츠, 소프트웨어, 스타트업",
-          "공고 유형: contest",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-09T22:35:02+09:00",
-      "sources": [
-        {
-          "source_id": "gcon",
-          "source_name": "경기콘텐츠진흥원",
-          "source_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11208&menuNo=200061&pageIndex=1",
-          "source_post_id": "11208",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-07-20",
-      "recruit_end": "2026-08-17",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 8,
-      "eligibility": "",
-      "benefits": "지원항목 자금지원 엑셀러레이팅 프로그램 데모데이 프로그램(투자연계) 네트워킹 프로그램 기업피칭 지원내용 엑셀러레이팅 프로그램, 피칭 컨설팅, 데모데이 및 시상(총 5천만원), 투자",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-07-30T17:05:31+09:00",
-      "change_flags": [
-        "title",
-        "recruit_start",
-        "recruit_end"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026로컬스타트업챌린지의정부2026참가모집공고|사업소개2026년지원사업안내주력사업주력사업개요g유니콘패스ai패키지크라우|2026-08-17"
-    },
-    {
       "id": "c3738412d0fe5e0e9499",
       "title": "[대구] 2026년 모빌리티 부품 제조AI 확산센터 구축 사업 기업지원 수혜기업 모집 통합 공고",
       "source_name": "기업마당",
@@ -3155,6 +3284,79 @@
       "dedupe_key": "대구2026년모빌리티부품제조ai확산센터구축사업기업지원수혜기업모집통합공고|지능형자동차부품진흥원|2026-08-17"
     },
     {
+      "id": "55d48683efb0e2a7952a",
+      "title": "[사업화] --> 전 국민 AI 서비스 보편적 활용 지원 (모두의 AI) 사업 수정 공고",
+      "source_name": "정보통신산업진흥원",
+      "source_url": "https://www.nipa.kr/home/2-2/16883",
+      "organizer": "정보통신산업진흥원",
+      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "창업"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: ai, 사업화",
+          "본문·분류 키워드: ai, it, 모바일, 사업화",
+          "공고 유형: support",
+          "공식 전문기관 출처",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능",
+          "제목 핵심 키워드: ai",
+          "본문·분류 키워드: ai"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-07-30T16:37:20+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
+      "sources": [
+        {
+          "source_id": "nipa",
+          "source_name": "정보통신산업진흥원",
+          "source_url": "https://www.nipa.kr/home/2-2/16883",
+          "source_post_id": "16883",
+          "kind": "official",
+          "priority": 100,
+          "fetched_at": "2026-08-09T22:35:02+09:00"
+        },
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=AI&condition=searchPblancNm&condition1=AND&keyword=AI&pblancId=PBLN_000000000124976",
+          "source_post_id": "PBLN_000000000124976",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-08-09T22:35:02+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-07-13",
+      "recruit_end": "2026-08-18",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 8,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-07-30T16:42:45+09:00",
+      "change_flags": [
+        "title",
+        "organizer"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "사업화전국민ai서비스보편적활용지원모두의ai사업수정공고|정보통신산업진흥원|2026-08-18"
+    },
+    {
       "id": "94c6af7f59bf3c05afe0",
       "title": "제2회 매일유업 대학생 AI 영상 공모전 SPECIAL",
       "source_name": "위비티",
@@ -3182,7 +3384,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3191,7 +3393,7 @@
           "source_post_id": "109144",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -3214,6 +3416,61 @@
       ],
       "is_manual_reviewed": false,
       "dedupe_key": "제2회매일유업대학생ai영상공모전special|매일유업|2026-08-18"
+    },
+    {
+      "id": "eaa8ea74e1d261361984",
+      "title": "참가기업 모집 공고",
+      "source_name": "한국콘텐츠진흥원",
+      "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00088009&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
+      "organizer": "한국콘텐츠진흥원",
+      "summary": "한국콘텐츠진흥원 공식 모집공모 공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "디지털 콘텐츠"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 98,
+        "reasons": [
+          "본문·분류 키워드: 디지털 콘텐츠, 콘텐츠",
+          "공고 유형: support",
+          "공식 전문기관 출처",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-08-03T13:19:42+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
+      "sources": [
+        {
+          "source_id": "kocca",
+          "source_name": "한국콘텐츠진흥원",
+          "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00088009&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
+          "source_post_id": "326D00088009",
+          "kind": "official",
+          "priority": 100,
+          "fetched_at": "2026-08-10T03:59:04+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-08-03",
+      "recruit_end": "2026-08-18",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 8,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "참가기업모집공고|한국콘텐츠진흥원|2026-08-18"
     },
     {
       "id": "c7b44f3ec9e3fc5c7eda",
@@ -3241,7 +3498,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3250,7 +3507,7 @@
           "source_post_id": "109142",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -3275,10 +3532,10 @@
       "dedupe_key": "2026대전ai영상공모전special|대전광역시|2026-08-19"
     },
     {
-      "id": "d5454b45843b66e69f06",
-      "title": "2026년 CKL기업지원센터 입주기업 하반기 모집",
+      "id": "722f8b867e16f107121a",
+      "title": "2026 콘텐츠IP 마켓 참가기업 모집",
       "source_name": "한국콘텐츠진흥원",
-      "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00068010&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
+      "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00091012&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
       "organizer": "한국콘텐츠진흥원",
       "summary": "한국콘텐츠진흥원 공식 모집공모 공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
       "primary_type": "support",
@@ -3286,10 +3543,11 @@
         "디지털 콘텐츠"
       ],
       "audience_tags": [],
-      "status": "upcoming",
+      "status": "open",
       "relevance": {
-        "score": 98,
+        "score": 100,
         "reasons": [
+          "제목 핵심 키워드: 콘텐츠",
           "본문·분류 키워드: 디지털 콘텐츠, 콘텐츠",
           "공고 유형: support",
           "공식 전문기관 출처",
@@ -3297,23 +3555,23 @@
         ],
         "decision": "publish"
       },
-      "first_seen_at": "2026-08-03T19:26:05+09:00",
-      "last_seen_at": "2026-08-09T22:35:02+09:00",
+      "first_seen_at": "2026-07-30T16:37:20+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "kocca",
           "source_name": "한국콘텐츠진흥원",
-          "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00068010&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
-          "source_post_id": "326D00068010",
+          "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00091012&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
+          "source_post_id": "326D00091012",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
-      "recruit_start": "2026-08-10",
-      "recruit_end": "2026-08-18",
+      "recruit_start": "2026-07-15",
+      "recruit_end": "2026-08-19",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -3327,129 +3585,7 @@
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026년ckl기업지원센터입주기업하반기모집|한국콘텐츠진흥원|2026-08-18"
-    },
-    {
-      "id": "053a979783da60503bb1",
-      "title": "2026년 경기게임오디션 후속지원 프로그램 지원기업 모집 공고(’24~’25년 선정기업 대상)",
-      "source_name": "경기콘텐츠진흥원",
-      "source_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11212&menuNo=200061&pageIndex=1",
-      "organizer": "사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우",
-      "summary": "사업공고 | 사업공고 | 알림마당 | 경기콘텐츠진흥원. ) [제 2026-106호] 등록일 2026.08.05 조회수 955 담당자 박경난 담당부서 게임산업팀 전화번호 031-776-4781 접수기간 2026년 08월 05일 12시 0",
-      "primary_type": "education",
-      "field_tags": [
-        "게임",
-        "소프트웨어",
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: 게임",
-          "본문·분류 키워드: 게임, 디지털 콘텐츠, 소프트웨어, 콘텐츠",
-          "공고 유형: education",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-08-05T18:22:24+09:00",
-      "last_seen_at": "2026-08-09T22:35:02+09:00",
-      "sources": [
-        {
-          "source_id": "gcon",
-          "source_name": "경기콘텐츠진흥원",
-          "source_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11212&menuNo=200061&pageIndex=1",
-          "source_post_id": "11212",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-08-05",
-      "recruit_end": "2026-08-18",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 9,
-      "eligibility": ") [제 2026-106호] 등록일 2026.08.05 조회수 955 담당자 박경난 담당부서 게임산업팀 전화번호 031-776-4781 접수기간 2026년 08월 05일 12시 0",
-      "benefits": "지원항목 유통지원 지원내용 - 분야 : 마케팅, QA, 번역 및 LQA, 사운드, 영상 - 지원 규모 : 기업 당 15,000천원 이내 서비스 지원 모집개요 모집기간 2026년 0",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-08-09T22:35:02+09:00",
-      "change_flags": [
-        "eligibility"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026년경기게임오디션후속지원프로그램지원기업모집공고2425년선정기업대상|사업소개2026년지원사업안내주력사업주력사업개요g유니콘패스ai패키지크라우|2026-08-18"
-    },
-    {
-      "id": "a1dd7d7f5122713b3618",
-      "title": "2026년 서부 경기문화창조허브 공간입주 17기 2차 입주기업 모집",
-      "source_name": "경기콘텐츠진흥원",
-      "source_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11210&menuNo=200061&pageIndex=1",
-      "organizer": "사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우",
-      "summary": "사업공고 | 사업공고 | 알림마당 | 경기콘텐츠진흥원. 간담회(네트워킹데이) 운영 - 기타 진흥원 사업 연계 지원 모집개요 모집기간 2026년 07월 24일 14시 00분 ~ 2026년 08월 18일 14시 00분 모집조건 사업(행사)",
-      "primary_type": "support",
-      "field_tags": [
-        "게임",
-        "소프트웨어",
-        "창업",
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [
-        "창업자·기업"
-      ],
-      "status": "open",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "본문·분류 키워드: 게임, 디지털 콘텐츠, 소프트웨어, 스타트업",
-          "공고 유형: support",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-09T22:35:02+09:00",
-      "sources": [
-        {
-          "source_id": "gcon",
-          "source_name": "경기콘텐츠진흥원",
-          "source_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11210&menuNo=200061&pageIndex=1",
-          "source_post_id": "11210",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-07-24",
-      "recruit_end": "2026-08-18",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 9,
-      "eligibility": "간담회(네트워킹데이) 운영 - 기타 진흥원 사업 연계 지원 모집개요 모집기간 2026년 07월 24일 14시 00분 ~ 2026년 08월 18일 14시 00분 모집조건 사업(행사)",
-      "benefits": "지원항목 교육프로그램 네트워킹 프로그램 스타트업 오피스 지원 지원내용 ㅇ 사무공간 지원 - 개방형 지정석 사무공간 24시간 개방 - 부대시설 이용(회의실, 탕비실, 휘트니스센터,",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-07-30T17:05:31+09:00",
-      "change_flags": [
-        "recruit_end"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026년서부경기문화창조허브공간입주17기2차입주기업모집|사업소개2026년지원사업안내주력사업주력사업개요g유니콘패스ai패키지크라우|2026-08-18"
+      "dedupe_key": "2026콘텐츠ip마켓참가기업모집|한국콘텐츠진흥원|2026-08-19"
     },
     {
       "id": "29c5dd41447a28057706",
@@ -3530,7 +3666,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-04T12:41:11+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -3539,7 +3675,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -3616,79 +3752,6 @@
       "dedupe_key": "대구2026년대한민국ict융합엑스포fix2026가상융합공동관조성지원사업모집공고|대구디지털혁신진흥원|2026-08-18"
     },
     {
-      "id": "55d48683efb0e2a7952a",
-      "title": "[사업화] --> 전 국민 AI 서비스 보편적 활용 지원 (모두의 AI) 사업 수정 공고",
-      "source_name": "정보통신산업진흥원",
-      "source_url": "https://www.nipa.kr/home/2-2/16883",
-      "organizer": "정보통신산업진흥원",
-      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "창업"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai, 사업화",
-          "본문·분류 키워드: ai, it, 모바일, 사업화",
-          "공고 유형: support",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능",
-          "제목 핵심 키워드: ai",
-          "본문·분류 키워드: ai"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-09T22:35:02+09:00",
-      "sources": [
-        {
-          "source_id": "nipa",
-          "source_name": "정보통신산업진흥원",
-          "source_url": "https://www.nipa.kr/home/2-2/16883",
-          "source_post_id": "16883",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
-        },
-        {
-          "source_id": "bizinfo",
-          "source_name": "기업마당",
-          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=AI&condition=searchPblancNm&condition1=AND&keyword=AI&pblancId=PBLN_000000000124976",
-          "source_post_id": "PBLN_000000000124976",
-          "kind": "government",
-          "priority": 80,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-07-13",
-      "recruit_end": "2026-08-18",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 9,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-07-30T16:42:45+09:00",
-      "change_flags": [
-        "title",
-        "organizer"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "사업화전국민ai서비스보편적활용지원모두의ai사업수정공고|정보통신산업진흥원|2026-08-18"
-    },
-    {
       "id": "a8768fe25d51a5f06c90",
       "title": "무인 운영 시스템 <모두의 지배인> 5차 시연회",
       "source_name": "이벤터스",
@@ -3713,7 +3776,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-05T08:19:55+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "eventus",
@@ -3722,7 +3785,7 @@
           "source_post_id": "131546",
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": "https://event-us.kr/hsoperation/event/131546",
@@ -3745,69 +3808,16 @@
       "dedupe_key": "무인운영시스템모두의지배인5차시연회|권아카데미|2026-08-19"
     },
     {
-      "id": "eaa8ea74e1d261361984",
-      "title": "참가기업 모집 공고",
-      "source_name": "한국콘텐츠진흥원",
-      "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00088009&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
-      "organizer": "한국콘텐츠진흥원",
-      "summary": "한국콘텐츠진흥원 공식 모집공모 공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
+      "id": "b6e51d7f5b4cf9dc76c9",
+      "title": "2026년 제21회 경기게임오디션 참가사 모집",
+      "source_name": "경기콘텐츠진흥원",
+      "source_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11209&menuNo=200061&pageIndex=1",
+      "organizer": "사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우",
+      "summary": "사업공고 | 사업공고 | 알림마당 | 경기콘텐츠진흥원. 빌드 제출이 가능한 단계의 미출시 게임 ※미출시 기준 : 사업종료일(2026.11.)까지 매출액 미발생, 퍼블리싱 계약 미체결 게임 선정개요 해당 사업의 심사일정, 발표일정은 변동",
+      "primary_type": "education",
       "field_tags": [
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 98,
-        "reasons": [
-          "본문·분류 키워드: 디지털 콘텐츠, 콘텐츠",
-          "공고 유형: support",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-08-03T13:19:42+09:00",
-      "last_seen_at": "2026-08-09T22:35:02+09:00",
-      "sources": [
-        {
-          "source_id": "kocca",
-          "source_name": "한국콘텐츠진흥원",
-          "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00088009&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
-          "source_post_id": "326D00088009",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-08-03",
-      "recruit_end": "2026-08-18",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 9,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "참가기업모집공고|한국콘텐츠진흥원|2026-08-18"
-    },
-    {
-      "id": "722f8b867e16f107121a",
-      "title": "2026 콘텐츠IP 마켓 참가기업 모집",
-      "source_name": "한국콘텐츠진흥원",
-      "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00091012&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
-      "organizer": "한국콘텐츠진흥원",
-      "summary": "한국콘텐츠진흥원 공식 모집공모 공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
+        "게임",
+        "소프트웨어",
         "디지털 콘텐츠"
       ],
       "audience_tags": [],
@@ -3815,45 +3825,47 @@
       "relevance": {
         "score": 100,
         "reasons": [
-          "제목 핵심 키워드: 콘텐츠",
-          "본문·분류 키워드: 디지털 콘텐츠, 콘텐츠",
-          "공고 유형: support",
+          "제목 핵심 키워드: 게임",
+          "본문·분류 키워드: 게임, 디지털 콘텐츠, 소프트웨어, 콘텐츠",
+          "공고 유형: education",
           "공식 전문기관 출처",
           "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
         ],
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-09T22:35:02+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
-          "source_id": "kocca",
-          "source_name": "한국콘텐츠진흥원",
-          "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00091012&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
-          "source_post_id": "326D00091012",
+          "source_id": "gcon",
+          "source_name": "경기콘텐츠진흥원",
+          "source_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11209&menuNo=200061&pageIndex=1",
+          "source_post_id": "11209",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
-      "recruit_start": "2026-07-15",
-      "recruit_end": "2026-08-19",
+      "recruit_start": "2026-07-21",
+      "recruit_end": "2026-08-20",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
       "d_day": 10,
-      "eligibility": "",
-      "benefits": "",
+      "eligibility": "빌드 제출이 가능한 단계의 미출시 게임 ※미출시 기준 : 사업종료일(2026.11.)까지 매출액 미발생, 퍼블리싱 계약 미체결 게임 선정개요 해당 사업의 심사일정, 발표일정은 변동",
+      "benefits": "지원항목 자금지원 전문가 컨설팅&멘토링 기업피칭 마케팅지원 지원내용 총상금 2억원, 전시지원, 홍보지원, 협력서비스 지원 등 모집개요 모집기간 2026년 07월 21일 09시 00",
       "location": "",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
+      "last_changed_at": "2026-07-30T17:05:31+09:00",
+      "change_flags": [
+        "recruit_end"
+      ],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026콘텐츠ip마켓참가기업모집|한국콘텐츠진흥원|2026-08-19"
+      "dedupe_key": "2026년제21회경기게임오디션참가사모집|사업소개2026년지원사업안내주력사업주력사업개요g유니콘패스ai패키지크라우|2026-08-20"
     },
     {
       "id": "b9ac506ecfdacbdfce52",
@@ -4041,7 +4053,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -4050,7 +4062,7 @@
           "source_post_id": "107841",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -4099,7 +4111,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-06T15:48:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -4108,7 +4120,7 @@
           "source_post_id": "109182",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -4153,7 +4165,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-05T18:58:35+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -4162,7 +4174,7 @@
           "source_post_id": "340599",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -4240,66 +4252,6 @@
       "dedupe_key": "2026년딥테크창업기업기술지원사업labtocityl2c반도체공고|나노종합기술원|2026-08-20"
     },
     {
-      "id": "b6e51d7f5b4cf9dc76c9",
-      "title": "2026년 제21회 경기게임오디션 참가사 모집",
-      "source_name": "경기콘텐츠진흥원",
-      "source_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11209&menuNo=200061&pageIndex=1",
-      "organizer": "사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우",
-      "summary": "사업공고 | 사업공고 | 알림마당 | 경기콘텐츠진흥원. 빌드 제출이 가능한 단계의 미출시 게임 ※미출시 기준 : 사업종료일(2026.11.)까지 매출액 미발생, 퍼블리싱 계약 미체결 게임 선정개요 해당 사업의 심사일정, 발표일정은 변동",
-      "primary_type": "education",
-      "field_tags": [
-        "게임",
-        "소프트웨어",
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: 게임",
-          "본문·분류 키워드: 게임, 디지털 콘텐츠, 소프트웨어, 콘텐츠",
-          "공고 유형: education",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-09T22:35:02+09:00",
-      "sources": [
-        {
-          "source_id": "gcon",
-          "source_name": "경기콘텐츠진흥원",
-          "source_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11209&menuNo=200061&pageIndex=1",
-          "source_post_id": "11209",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-07-21",
-      "recruit_end": "2026-08-20",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 11,
-      "eligibility": "빌드 제출이 가능한 단계의 미출시 게임 ※미출시 기준 : 사업종료일(2026.11.)까지 매출액 미발생, 퍼블리싱 계약 미체결 게임 선정개요 해당 사업의 심사일정, 발표일정은 변동",
-      "benefits": "지원항목 자금지원 전문가 컨설팅&멘토링 기업피칭 마케팅지원 지원내용 총상금 2억원, 전시지원, 홍보지원, 협력서비스 지원 등 모집개요 모집기간 2026년 07월 21일 09시 00",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-07-30T17:05:31+09:00",
-      "change_flags": [
-        "recruit_end"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026년제21회경기게임오디션참가사모집|사업소개2026년지원사업안내주력사업주력사업개요g유니콘패스ai패키지크라우|2026-08-20"
-    },
-    {
       "id": "d4a7bf9db72aacd1ff13",
       "title": "AI Summit Seoul & Expo 2026",
       "source_name": "Dev-Event GitHub",
@@ -4323,7 +4275,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -4332,7 +4284,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -4377,7 +4329,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-06T19:00:50+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -4386,7 +4338,7 @@
           "source_post_id": "340658",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -4587,6 +4539,7 @@
         "디지털 콘텐츠"
       ],
       "audience_tags": [
+        "개발자",
         "창업자·기업"
       ],
       "status": "upcoming",
@@ -4594,14 +4547,14 @@
         "score": 100,
         "reasons": [
           "제목 핵심 키워드: ai",
-          "본문·분류 키워드: ai, it, 게임, 스타트업",
+          "본문·분류 키워드: ai, ax, it, 개발자",
           "공고 유형: contest",
           "IT·게임 전문 출처"
         ],
         "decision": "publish"
       },
       "first_seen_at": "2026-08-08T11:23:49+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -4610,7 +4563,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -4687,6 +4640,191 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "부산2026년국제게임전시회지스타btbbtc부산공동관참가기업모집공고|부산정보산업진흥원|2026-08-20"
+    },
+    {
+      "id": "0cdf28b0e0afe6104fb0",
+      "title": "[사업화] --> 2026 가상융합산업허브 입주기업 모집(2차)",
+      "source_name": "정보통신산업진흥원",
+      "source_url": "https://www.nipa.kr/home/2-2/16872",
+      "organizer": "정보통신산업진흥원",
+      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "창업"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: 사업화",
+          "본문·분류 키워드: ai, it, 모바일, 사업화",
+          "공고 유형: support",
+          "공식 전문기관 출처",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-07-30T16:37:20+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
+      "sources": [
+        {
+          "source_id": "nipa",
+          "source_name": "정보통신산업진흥원",
+          "source_url": "https://www.nipa.kr/home/2-2/16872",
+          "source_post_id": "16872",
+          "kind": "official",
+          "priority": 100,
+          "fetched_at": "2026-08-10T03:59:04+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-07-28",
+      "recruit_end": "2026-08-21",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 11,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-07-30T16:42:45+09:00",
+      "change_flags": [
+        "title",
+        "organizer"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "사업화2026가상융합산업허브입주기업모집2차|정보통신산업진흥원|2026-08-21"
+    },
+    {
+      "id": "3fa6d5b744b86e3d4239",
+      "title": "[사업화] --> 싱가포르IT지원센터 2026년 하반기 입주기업 모집 공고",
+      "source_name": "정보통신산업진흥원",
+      "source_url": "https://www.nipa.kr/home/2-2/16861",
+      "organizer": "정보통신산업진흥원",
+      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "창업"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: it, 사업화",
+          "본문·분류 키워드: ai, it, 모바일, 사업화",
+          "공고 유형: support",
+          "공식 전문기관 출처",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-07-30T16:37:20+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
+      "sources": [
+        {
+          "source_id": "nipa",
+          "source_name": "정보통신산업진흥원",
+          "source_url": "https://www.nipa.kr/home/2-2/16861",
+          "source_post_id": "16861",
+          "kind": "official",
+          "priority": 100,
+          "fetched_at": "2026-08-10T03:59:04+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-07-21",
+      "recruit_end": "2026-08-21",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 11,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-07-30T16:42:45+09:00",
+      "change_flags": [
+        "title",
+        "organizer",
+        "eligibility"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "사업화싱가포르it지원센터2026년하반기입주기업모집공고|정보통신산업진흥원|2026-08-21"
+    },
+    {
+      "id": "aa84fd5e8444724afe69",
+      "title": "[사업화] --> 특화 인공지능 파운데이션 모델 개발(사이버 보안 분야) 사업 공고",
+      "source_name": "정보통신산업진흥원",
+      "source_url": "https://www.nipa.kr/home/2-2/16866",
+      "organizer": "정보통신산업진흥원",
+      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "클라우드·보안",
+        "창업"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: 보안, 사업화, 인공지능",
+          "본문·분류 키워드: ai, it, 모바일, 보안",
+          "공고 유형: support",
+          "공식 전문기관 출처",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-07-30T16:42:45+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
+      "sources": [
+        {
+          "source_id": "nipa",
+          "source_name": "정보통신산업진흥원",
+          "source_url": "https://www.nipa.kr/home/2-2/16866",
+          "source_post_id": "16866",
+          "kind": "official",
+          "priority": 100,
+          "fetched_at": "2026-08-10T03:59:04+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-07-22",
+      "recruit_end": "2026-08-21",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 11,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "사업화특화인공지능파운데이션모델개발사이버보안분야사업공고|정보통신산업진흥원|2026-08-21"
     },
     {
       "id": "92260d1ffdb746c8a591",
@@ -4819,7 +4957,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-07T18:17:18+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -4828,7 +4966,7 @@
           "source_post_id": "341314",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -4873,7 +5011,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-06T19:00:50+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -4882,7 +5020,7 @@
           "source_post_id": "340706",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -4985,7 +5123,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -4994,7 +5132,7 @@
           "source_post_id": "108079",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -5043,7 +5181,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-07T20:59:38+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -5052,7 +5190,7 @@
           "source_post_id": "109956",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -5186,191 +5324,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "경남창원시2026년의료기기부품모듈국산화및기술개발지원사업공고ai빅데이터기반의료바이오첨단기기연구제조센터구축사업|창원산업진흥원|2026-08-21"
-    },
-    {
-      "id": "0cdf28b0e0afe6104fb0",
-      "title": "[사업화] --> 2026 가상융합산업허브 입주기업 모집(2차)",
-      "source_name": "정보통신산업진흥원",
-      "source_url": "https://www.nipa.kr/home/2-2/16872",
-      "organizer": "정보통신산업진흥원",
-      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "창업"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: 사업화",
-          "본문·분류 키워드: ai, it, 모바일, 사업화",
-          "공고 유형: support",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-09T22:35:02+09:00",
-      "sources": [
-        {
-          "source_id": "nipa",
-          "source_name": "정보통신산업진흥원",
-          "source_url": "https://www.nipa.kr/home/2-2/16872",
-          "source_post_id": "16872",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-07-28",
-      "recruit_end": "2026-08-21",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 12,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-07-30T16:42:45+09:00",
-      "change_flags": [
-        "title",
-        "organizer"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "사업화2026가상융합산업허브입주기업모집2차|정보통신산업진흥원|2026-08-21"
-    },
-    {
-      "id": "3fa6d5b744b86e3d4239",
-      "title": "[사업화] --> 싱가포르IT지원센터 2026년 하반기 입주기업 모집 공고",
-      "source_name": "정보통신산업진흥원",
-      "source_url": "https://www.nipa.kr/home/2-2/16861",
-      "organizer": "정보통신산업진흥원",
-      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "창업"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: it, 사업화",
-          "본문·분류 키워드: ai, it, 모바일, 사업화",
-          "공고 유형: support",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-09T22:35:02+09:00",
-      "sources": [
-        {
-          "source_id": "nipa",
-          "source_name": "정보통신산업진흥원",
-          "source_url": "https://www.nipa.kr/home/2-2/16861",
-          "source_post_id": "16861",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-07-21",
-      "recruit_end": "2026-08-21",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 12,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-07-30T16:42:45+09:00",
-      "change_flags": [
-        "title",
-        "organizer",
-        "eligibility"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "사업화싱가포르it지원센터2026년하반기입주기업모집공고|정보통신산업진흥원|2026-08-21"
-    },
-    {
-      "id": "aa84fd5e8444724afe69",
-      "title": "[사업화] --> 특화 인공지능 파운데이션 모델 개발(사이버 보안 분야) 사업 공고",
-      "source_name": "정보통신산업진흥원",
-      "source_url": "https://www.nipa.kr/home/2-2/16866",
-      "organizer": "정보통신산업진흥원",
-      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "클라우드·보안",
-        "창업"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: 보안, 사업화, 인공지능",
-          "본문·분류 키워드: ai, it, 모바일, 보안",
-          "공고 유형: support",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T16:42:45+09:00",
-      "last_seen_at": "2026-08-09T22:35:02+09:00",
-      "sources": [
-        {
-          "source_id": "nipa",
-          "source_name": "정보통신산업진흥원",
-          "source_url": "https://www.nipa.kr/home/2-2/16866",
-          "source_post_id": "16866",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-07-22",
-      "recruit_end": "2026-08-21",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 12,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "사업화특화인공지능파운데이션모델개발사이버보안분야사업공고|정보통신산업진흥원|2026-08-21"
     },
     {
       "id": "f13d38916ba1c0265371",
@@ -5560,7 +5513,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -5569,7 +5522,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -5615,7 +5568,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -5624,7 +5577,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -5671,7 +5624,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -5680,7 +5633,7 @@
           "source_post_id": "108421",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -5733,7 +5686,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-02T07:13:14+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -5742,7 +5695,7 @@
           "source_post_id": "108811",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -5788,7 +5741,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-07T18:17:18+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -5797,7 +5750,7 @@
           "source_post_id": "341160",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -5850,7 +5803,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -5859,7 +5812,7 @@
           "source_post_id": "106643",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         },
         {
           "source_id": "wevity",
@@ -5868,7 +5821,7 @@
           "source_post_id": "108046",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -5891,6 +5844,62 @@
       ],
       "is_manual_reviewed": false,
       "dedupe_key": "제1회일상뒤집기ai어플개발공모전|나무서원|2026-08-23"
+    },
+    {
+      "id": "ad69fd5415b7601e36fb",
+      "title": "2026년 모두의 창업 글로벌 프로그램 주관기관 모집",
+      "source_name": "K-Startup",
+      "source_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178779",
+      "organizer": "K-Startup",
+      "summary": "K-Startup 모집중 창업지원 공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "education",
+      "field_tags": [
+        "창업"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 70,
+        "reasons": [
+          "제목 핵심 키워드: 창업",
+          "본문·분류 키워드: 창업",
+          "공고 유형: education"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-08-04T18:25:16+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
+      "sources": [
+        {
+          "source_id": "kstartup",
+          "source_name": "K-Startup",
+          "source_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178779",
+          "source_post_id": "178779",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-08-10T03:59:04+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-08-24",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 14,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-08-08T04:12:39+09:00",
+      "change_flags": [
+        "title"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026년모두의창업글로벌프로그램주관기관모집|kstartup|2026-08-24"
     },
     {
       "id": "fd41df5f8183e2ffcfae",
@@ -5971,7 +5980,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -5980,7 +5989,7 @@
           "source_post_id": "108680",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -6001,62 +6010,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "제4차kcure데이터경진대회|보건복지부국립암센터한국보건의료정보원|2026-08-24"
-    },
-    {
-      "id": "ad69fd5415b7601e36fb",
-      "title": "2026년 모두의 창업 글로벌 프로그램 주관기관 모집",
-      "source_name": "K-Startup",
-      "source_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178779",
-      "organizer": "K-Startup",
-      "summary": "K-Startup 모집중 창업지원 공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "education",
-      "field_tags": [
-        "창업"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 70,
-        "reasons": [
-          "제목 핵심 키워드: 창업",
-          "본문·분류 키워드: 창업",
-          "공고 유형: education"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-08-04T18:25:16+09:00",
-      "last_seen_at": "2026-08-09T22:35:02+09:00",
-      "sources": [
-        {
-          "source_id": "kstartup",
-          "source_name": "K-Startup",
-          "source_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178779",
-          "source_post_id": "178779",
-          "kind": "government",
-          "priority": 80,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-08-24",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 15,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-08-08T04:12:39+09:00",
-      "change_flags": [
-        "title"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026년모두의창업글로벌프로그램주관기관모집|kstartup|2026-08-24"
     },
     {
       "id": "cecaf1e5d60cb078b93d",
@@ -6083,7 +6036,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-04T12:41:11+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -6092,7 +6045,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -6113,6 +6066,62 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "마케터를위한ax실전아는만큼누리는api와mcp지표정의부터대시보드자동화까지|모두의연구소|2026-08-25"
+    },
+    {
+      "id": "13a5a1866147f5f13f71",
+      "title": "2026년 재창업 활성화 유공포상 공고(재창업기업, 재창업 지원 부문)",
+      "source_name": "K-Startup",
+      "source_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178506",
+      "organizer": "K-Startup",
+      "summary": "K-Startup 모집중 창업지원 공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "창업"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 70,
+        "reasons": [
+          "제목 핵심 키워드: 창업",
+          "본문·분류 키워드: 창업",
+          "공고 유형: support"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-07-30T16:42:45+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
+      "sources": [
+        {
+          "source_id": "kstartup",
+          "source_name": "K-Startup",
+          "source_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178506",
+          "source_post_id": "178506",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-08-10T03:59:04+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-08-26",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 16,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-08-06T04:52:04+09:00",
+      "change_flags": [
+        "recruit_end"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026년재창업활성화유공포상공고재창업기업재창업지원부문|kstartup|2026-08-26"
     },
     {
       "id": "fac6d124a070ed68c0a1",
@@ -6169,6 +6178,79 @@
       "dedupe_key": "대구2026년대구글로벌게임센터글로벌공동관참가기업지스타추가모집공고|대구디지털혁신진흥원|2026-08-25"
     },
     {
+      "id": "15341aad3901207c175a",
+      "title": "[사업화] --> 특화 인공지능 파운데이션 모델 개발(사이버 보안 분야) 사업 수정 공고",
+      "source_name": "정보통신산업진흥원",
+      "source_url": "https://www.nipa.kr/home/2-2/16882",
+      "organizer": "정보통신산업진흥원",
+      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "창업",
+        "클라우드·보안"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: 보안, 사업화, 인공지능",
+          "본문·분류 키워드: ai, it, 모바일, 보안",
+          "공고 유형: support",
+          "공식 전문기관 출처",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능",
+          "제목 핵심 키워드: 보안, 인공지능",
+          "본문·분류 키워드: 보안, 인공지능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-07-30T16:37:20+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
+      "sources": [
+        {
+          "source_id": "nipa",
+          "source_name": "정보통신산업진흥원",
+          "source_url": "https://www.nipa.kr/home/2-2/16882",
+          "source_post_id": "16882",
+          "kind": "official",
+          "priority": 100,
+          "fetched_at": "2026-08-09T22:35:02+09:00"
+        },
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5&condition=searchPblancNm&condition1=AND&keyword=%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5&pblancId=PBLN_000000000124664",
+          "source_post_id": "PBLN_000000000124664",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-08-09T22:35:02+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-08-07",
+      "recruit_end": "2026-08-26",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 16,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-07-30T16:42:45+09:00",
+      "change_flags": [
+        "title"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "사업화특화인공지능파운데이션모델개발사이버보안분야사업수정공고|정보통신산업진흥원|2026-08-26"
+    },
+    {
       "id": "8049bc6e627e464b557f",
       "title": "「AI로 만드는 나의 실감세계」 — 2026 SUMMER WEEK AI+XR 공모전",
       "source_name": "씽굿",
@@ -6199,7 +6281,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-05T18:58:35+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -6208,7 +6290,7 @@
           "source_post_id": "340520",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         },
         {
           "source_id": "thinkcontest",
@@ -6217,7 +6299,7 @@
           "source_post_id": "109126",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -6244,10 +6326,10 @@
       "dedupe_key": "ai로만드는나의실감세계2026summerweekaixr공모전|실감미디어혁신융합대학사업단|2026-08-26"
     },
     {
-      "id": "13a5a1866147f5f13f71",
-      "title": "2026년 재창업 활성화 유공포상 공고(재창업기업, 재창업 지원 부문)",
+      "id": "cf29df790029a08b6925",
+      "title": "「민관협력 오픈이노베이션 지원」2026년 '성과기업 후속 지원' 창업기업 모집공고",
       "source_name": "K-Startup",
-      "source_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178506",
+      "source_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178821",
       "organizer": "K-Startup",
       "summary": "K-Startup 모집중 창업지원 공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
       "primary_type": "support",
@@ -6265,17 +6347,17 @@
         ],
         "decision": "publish"
       },
-      "first_seen_at": "2026-07-30T16:42:45+09:00",
-      "last_seen_at": "2026-08-09T22:35:02+09:00",
+      "first_seen_at": "2026-08-07T09:28:44+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "kstartup",
           "source_name": "K-Startup",
-          "source_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178506",
-          "source_post_id": "178506",
+          "source_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178821",
+          "source_post_id": "178821",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -6285,19 +6367,19 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 17,
+      "d_day": 16,
       "eligibility": "",
       "benefits": "",
       "location": "",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-06T04:52:04+09:00",
+      "last_changed_at": "2026-08-10T03:59:04+09:00",
       "change_flags": [
-        "recruit_end"
+        "title"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026년재창업활성화유공포상공고재창업기업재창업지원부문|kstartup|2026-08-26"
+      "dedupe_key": "민관협력오픈이노베이션지원2026년성과기업후속지원창업기업모집공고|kstartup|2026-08-26"
     },
     {
       "id": "6150d197b741ace63102",
@@ -6354,133 +6436,6 @@
       "dedupe_key": "경기제4회경기ai클러스터밋업ai시그널톡톡참석자모집|경기도경제과학진흥원|2026-08-26"
     },
     {
-      "id": "15341aad3901207c175a",
-      "title": "[사업화] --> 특화 인공지능 파운데이션 모델 개발(사이버 보안 분야) 사업 수정 공고",
-      "source_name": "정보통신산업진흥원",
-      "source_url": "https://www.nipa.kr/home/2-2/16882",
-      "organizer": "정보통신산업진흥원",
-      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "창업",
-        "클라우드·보안"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: 보안, 사업화, 인공지능",
-          "본문·분류 키워드: ai, it, 모바일, 보안",
-          "공고 유형: support",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능",
-          "제목 핵심 키워드: 보안, 인공지능",
-          "본문·분류 키워드: 보안, 인공지능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-09T22:35:02+09:00",
-      "sources": [
-        {
-          "source_id": "nipa",
-          "source_name": "정보통신산업진흥원",
-          "source_url": "https://www.nipa.kr/home/2-2/16882",
-          "source_post_id": "16882",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
-        },
-        {
-          "source_id": "bizinfo",
-          "source_name": "기업마당",
-          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5&condition=searchPblancNm&condition1=AND&keyword=%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5&pblancId=PBLN_000000000124664",
-          "source_post_id": "PBLN_000000000124664",
-          "kind": "government",
-          "priority": 80,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-08-07",
-      "recruit_end": "2026-08-26",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 17,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-07-30T16:42:45+09:00",
-      "change_flags": [
-        "title"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "사업화특화인공지능파운데이션모델개발사이버보안분야사업수정공고|정보통신산업진흥원|2026-08-26"
-    },
-    {
-      "id": "cf29df790029a08b6925",
-      "title": "「민관협력 오픈이노베이션 지원」2026년 '성과기업 후속 지원' 창업기업 모집공고 새로운게시글",
-      "source_name": "K-Startup",
-      "source_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178821",
-      "organizer": "K-Startup",
-      "summary": "K-Startup 모집중 창업지원 공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "창업"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 70,
-        "reasons": [
-          "제목 핵심 키워드: 창업",
-          "본문·분류 키워드: 창업",
-          "공고 유형: support"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-08-07T09:28:44+09:00",
-      "last_seen_at": "2026-08-09T22:35:02+09:00",
-      "sources": [
-        {
-          "source_id": "kstartup",
-          "source_name": "K-Startup",
-          "source_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178821",
-          "source_post_id": "178821",
-          "kind": "government",
-          "priority": 80,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-08-26",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 17,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "민관협력오픈이노베이션지원2026년성과기업후속지원창업기업모집공고새로운게시글|kstartup|2026-08-26"
-    },
-    {
       "id": "74b12fd87970b809f47a",
       "title": "(2시)커뮤니티가 돈이 되는 시대｜PEEPLE 앱 론칭 파티",
       "source_name": "이벤터스",
@@ -6504,7 +6459,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-04T04:54:47+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "eventus",
@@ -6513,7 +6468,7 @@
           "source_post_id": "131590",
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": "https://event-us.kr/pabilica/event/131590",
@@ -6563,7 +6518,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T14:47:50+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -6572,7 +6527,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -6622,7 +6577,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -6631,7 +6586,7 @@
           "source_post_id": "108714",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -6670,6 +6625,7 @@
         "디지털 콘텐츠"
       ],
       "audience_tags": [
+        "개발자",
         "창업자·기업"
       ],
       "status": "upcoming",
@@ -6677,14 +6633,14 @@
         "score": 100,
         "reasons": [
           "제목 핵심 키워드: 시스템",
-          "본문·분류 키워드: ai, it, 게임, 스타트업",
+          "본문·분류 키워드: ai, ax, it, 개발자",
           "공고 유형: contest",
           "IT·게임 전문 출처"
         ],
         "decision": "publish"
       },
       "first_seen_at": "2026-08-05T18:58:35+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -6693,7 +6649,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -6740,7 +6696,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-07T22:41:30+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -6749,7 +6705,7 @@
           "source_post_id": "332498",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -6958,7 +6914,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -6967,7 +6923,7 @@
           "source_post_id": "108733",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -7074,7 +7030,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -7083,7 +7039,7 @@
           "source_post_id": "108495",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -7353,7 +7309,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-06T21:20:48+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -7362,7 +7318,7 @@
           "source_post_id": "341136",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         },
         {
           "source_id": "wevity",
@@ -7371,7 +7327,7 @@
           "source_post_id": "109905",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -7421,7 +7377,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -7430,7 +7386,7 @@
           "source_post_id": "108544",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -7478,7 +7434,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -7487,7 +7443,7 @@
           "source_post_id": "109568",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -7535,7 +7491,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-05T18:58:35+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -7544,7 +7500,7 @@
           "source_post_id": "340624",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -7590,7 +7546,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -7599,7 +7555,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -7620,6 +7576,226 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "2026공공기관ai혁신챌린지govaiinnovation2026|과학기술정보통신부|2026-08-31"
+    },
+    {
+      "id": "5bd87d069c796c14d50f",
+      "title": "2026 대한민국 콘텐츠대상(만화) 정부시상 후보작 추천 공고",
+      "source_name": "한국콘텐츠진흥원",
+      "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00092010&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
+      "organizer": "한국콘텐츠진흥원",
+      "summary": "한국콘텐츠진흥원 공식 모집공모 공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "other",
+      "field_tags": [
+        "디지털 콘텐츠"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: 콘텐츠",
+          "본문·분류 키워드: 디지털 콘텐츠, 콘텐츠",
+          "공식 전문기관 출처",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-07-31T13:04:56+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
+      "sources": [
+        {
+          "source_id": "kocca",
+          "source_name": "한국콘텐츠진흥원",
+          "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00092010&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
+          "source_post_id": "326D00092010",
+          "kind": "official",
+          "priority": 100,
+          "fetched_at": "2026-08-10T03:59:04+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-07-31",
+      "recruit_end": "2026-08-31",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 21,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026대한민국콘텐츠대상만화정부시상후보작추천공고|한국콘텐츠진흥원|2026-08-31"
+    },
+    {
+      "id": "c41a3e1d82bb7f67670c",
+      "title": "2026 대한민국 콘텐츠대상(애니메이션) 국민심사위원 모집 공고",
+      "source_name": "한국콘텐츠진흥원",
+      "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00037012&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
+      "organizer": "한국콘텐츠진흥원",
+      "summary": "한국콘텐츠진흥원 공식 모집공모 공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "other",
+      "field_tags": [
+        "디지털 콘텐츠"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: 애니메이션, 콘텐츠",
+          "본문·분류 키워드: 디지털 콘텐츠, 애니메이션, 콘텐츠",
+          "공식 전문기관 출처",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-07-31T13:04:56+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
+      "sources": [
+        {
+          "source_id": "kocca",
+          "source_name": "한국콘텐츠진흥원",
+          "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00037012&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
+          "source_post_id": "326D00037012",
+          "kind": "official",
+          "priority": 100,
+          "fetched_at": "2026-08-10T03:59:04+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-07-31",
+      "recruit_end": "2026-08-31",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 21,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026대한민국콘텐츠대상애니메이션국민심사위원모집공고|한국콘텐츠진흥원|2026-08-31"
+    },
+    {
+      "id": "6878ddef73fb271f7992",
+      "title": "2026 대한민국 콘텐츠대상(애니메이션) 정부시상 후보작 추천 공고",
+      "source_name": "한국콘텐츠진흥원",
+      "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00037011&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
+      "organizer": "한국콘텐츠진흥원",
+      "summary": "한국콘텐츠진흥원 공식 모집공모 공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "other",
+      "field_tags": [
+        "디지털 콘텐츠"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: 애니메이션, 콘텐츠",
+          "본문·분류 키워드: 디지털 콘텐츠, 애니메이션, 콘텐츠",
+          "공식 전문기관 출처",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-07-31T13:04:56+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
+      "sources": [
+        {
+          "source_id": "kocca",
+          "source_name": "한국콘텐츠진흥원",
+          "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00037011&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
+          "source_post_id": "326D00037011",
+          "kind": "official",
+          "priority": 100,
+          "fetched_at": "2026-08-10T03:59:04+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-07-31",
+      "recruit_end": "2026-08-31",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 21,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026대한민국콘텐츠대상애니메이션정부시상후보작추천공고|한국콘텐츠진흥원|2026-08-31"
+    },
+    {
+      "id": "eeee123fb77f5e4b16ca",
+      "title": "2026 대한민국 콘텐츠대상(캐릭터 부문) 정부시상 후보작 추천 공고",
+      "source_name": "한국콘텐츠진흥원",
+      "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00091013&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
+      "organizer": "한국콘텐츠진흥원",
+      "summary": "한국콘텐츠진흥원 공식 모집공모 공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "other",
+      "field_tags": [
+        "디지털 콘텐츠"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: 캐릭터, 콘텐츠",
+          "본문·분류 키워드: 디지털 콘텐츠, 캐릭터, 콘텐츠",
+          "공식 전문기관 출처",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-07-31T13:04:56+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
+      "sources": [
+        {
+          "source_id": "kocca",
+          "source_name": "한국콘텐츠진흥원",
+          "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00091013&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
+          "source_post_id": "326D00091013",
+          "kind": "official",
+          "priority": 100,
+          "fetched_at": "2026-08-10T03:59:04+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-07-31",
+      "recruit_end": "2026-08-31",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 21,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026대한민국콘텐츠대상캐릭터부문정부시상후보작추천공고|한국콘텐츠진흥원|2026-08-31"
     },
     {
       "id": "b3a59b124f223acf95fe",
@@ -7651,7 +7827,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -7660,7 +7836,7 @@
           "source_post_id": "106474",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -7713,7 +7889,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -7722,7 +7898,7 @@
           "source_post_id": "108559",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -7768,7 +7944,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-05T18:58:35+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -7777,7 +7953,7 @@
           "source_post_id": "340626",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -7798,6 +7974,125 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "과학기술정보통신부전국민ai경진대회마스코트캐릭터공모전|과학기술정보통신부|2026-08-31"
+    },
+    {
+      "id": "1ffdcd4df192cdca2ba8",
+      "title": "[사업화] --> 2026년 누리꿈스퀘어 XR기업성장지원센터 입주 기업 모집(2차)",
+      "source_name": "정보통신산업진흥원",
+      "source_url": "https://www.nipa.kr/home/2-2/16887",
+      "organizer": "정보통신산업진흥원",
+      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "XR·메타버스",
+        "창업"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: xr, 사업화",
+          "본문·분류 키워드: ai, it, xr, 모바일",
+          "공고 유형: support",
+          "공식 전문기관 출처",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-08-03T13:19:42+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
+      "sources": [
+        {
+          "source_id": "nipa",
+          "source_name": "정보통신산업진흥원",
+          "source_url": "https://www.nipa.kr/home/2-2/16887",
+          "source_post_id": "16887",
+          "kind": "official",
+          "priority": 100,
+          "fetched_at": "2026-08-10T03:59:04+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-08-03",
+      "recruit_end": "2026-08-31",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 21,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "사업화2026년누리꿈스퀘어xr기업성장지원센터입주기업모집2차|정보통신산업진흥원|2026-08-31"
+    },
+    {
+      "id": "da3a58124c2c7c008d25",
+      "title": "[사업화] --> 2026년 일본 디지털 시장개척단 참가기업 모집 공고",
+      "source_name": "정보통신산업진흥원",
+      "source_url": "https://www.nipa.kr/home/2-2/16878",
+      "organizer": "정보통신산업진흥원",
+      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "창업"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: 사업화",
+          "본문·분류 키워드: ai, it, 모바일, 사업화",
+          "공고 유형: support",
+          "공식 전문기관 출처",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-07-31T13:04:56+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
+      "sources": [
+        {
+          "source_id": "nipa",
+          "source_name": "정보통신산업진흥원",
+          "source_url": "https://www.nipa.kr/home/2-2/16878",
+          "source_post_id": "16878",
+          "kind": "official",
+          "priority": 100,
+          "fetched_at": "2026-08-10T03:59:04+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-07-31",
+      "recruit_end": "2026-08-31",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 21,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "사업화2026년일본디지털시장개척단참가기업모집공고|정보통신산업진흥원|2026-08-31"
     },
     {
       "id": "a4fc0d9e7046a669a90b",
@@ -7822,7 +8117,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-07T13:04:17+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -7831,7 +8126,7 @@
           "source_post_id": "341149",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -7877,7 +8172,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-06T19:00:50+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -7886,7 +8181,7 @@
           "source_post_id": "340711",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -7907,226 +8202,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "전국민ai경진대회캐릭터공모전알고의친구를찾습니다|과학기술정보통신부|2026-08-31"
-    },
-    {
-      "id": "5bd87d069c796c14d50f",
-      "title": "2026 대한민국 콘텐츠대상(만화) 정부시상 후보작 추천 공고",
-      "source_name": "한국콘텐츠진흥원",
-      "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00092010&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
-      "organizer": "한국콘텐츠진흥원",
-      "summary": "한국콘텐츠진흥원 공식 모집공모 공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "other",
-      "field_tags": [
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: 콘텐츠",
-          "본문·분류 키워드: 디지털 콘텐츠, 콘텐츠",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-31T13:04:56+09:00",
-      "last_seen_at": "2026-08-09T22:35:02+09:00",
-      "sources": [
-        {
-          "source_id": "kocca",
-          "source_name": "한국콘텐츠진흥원",
-          "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00092010&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
-          "source_post_id": "326D00092010",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-07-31",
-      "recruit_end": "2026-08-31",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 22,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026대한민국콘텐츠대상만화정부시상후보작추천공고|한국콘텐츠진흥원|2026-08-31"
-    },
-    {
-      "id": "c41a3e1d82bb7f67670c",
-      "title": "2026 대한민국 콘텐츠대상(애니메이션) 국민심사위원 모집 공고",
-      "source_name": "한국콘텐츠진흥원",
-      "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00037012&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
-      "organizer": "한국콘텐츠진흥원",
-      "summary": "한국콘텐츠진흥원 공식 모집공모 공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "other",
-      "field_tags": [
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: 애니메이션, 콘텐츠",
-          "본문·분류 키워드: 디지털 콘텐츠, 애니메이션, 콘텐츠",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-31T13:04:56+09:00",
-      "last_seen_at": "2026-08-09T22:35:02+09:00",
-      "sources": [
-        {
-          "source_id": "kocca",
-          "source_name": "한국콘텐츠진흥원",
-          "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00037012&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
-          "source_post_id": "326D00037012",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-07-31",
-      "recruit_end": "2026-08-31",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 22,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026대한민국콘텐츠대상애니메이션국민심사위원모집공고|한국콘텐츠진흥원|2026-08-31"
-    },
-    {
-      "id": "6878ddef73fb271f7992",
-      "title": "2026 대한민국 콘텐츠대상(애니메이션) 정부시상 후보작 추천 공고",
-      "source_name": "한국콘텐츠진흥원",
-      "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00037011&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
-      "organizer": "한국콘텐츠진흥원",
-      "summary": "한국콘텐츠진흥원 공식 모집공모 공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "other",
-      "field_tags": [
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: 애니메이션, 콘텐츠",
-          "본문·분류 키워드: 디지털 콘텐츠, 애니메이션, 콘텐츠",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-31T13:04:56+09:00",
-      "last_seen_at": "2026-08-09T22:35:02+09:00",
-      "sources": [
-        {
-          "source_id": "kocca",
-          "source_name": "한국콘텐츠진흥원",
-          "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00037011&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
-          "source_post_id": "326D00037011",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-07-31",
-      "recruit_end": "2026-08-31",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 22,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026대한민국콘텐츠대상애니메이션정부시상후보작추천공고|한국콘텐츠진흥원|2026-08-31"
-    },
-    {
-      "id": "eeee123fb77f5e4b16ca",
-      "title": "2026 대한민국 콘텐츠대상(캐릭터 부문) 정부시상 후보작 추천 공고",
-      "source_name": "한국콘텐츠진흥원",
-      "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00091013&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
-      "organizer": "한국콘텐츠진흥원",
-      "summary": "한국콘텐츠진흥원 공식 모집공모 공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "other",
-      "field_tags": [
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: 캐릭터, 콘텐츠",
-          "본문·분류 키워드: 디지털 콘텐츠, 캐릭터, 콘텐츠",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-31T13:04:56+09:00",
-      "last_seen_at": "2026-08-09T22:35:02+09:00",
-      "sources": [
-        {
-          "source_id": "kocca",
-          "source_name": "한국콘텐츠진흥원",
-          "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00091013&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
-          "source_post_id": "326D00091013",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-07-31",
-      "recruit_end": "2026-08-31",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 22,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026대한민국콘텐츠대상캐릭터부문정부시상후보작추천공고|한국콘텐츠진흥원|2026-08-31"
     },
     {
       "id": "29a42f8da7949a348d29",
@@ -8151,7 +8226,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-05T18:58:35+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -8160,7 +8235,7 @@
           "source_post_id": "340601",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -8240,125 +8315,6 @@
       "dedupe_key": "부산울산경남2026년자립준비청년ai활용교육과정모집ict이노베이션확산사업동남권|부산정보산업진흥원|2026-08-31"
     },
     {
-      "id": "1ffdcd4df192cdca2ba8",
-      "title": "[사업화] --> 2026년 누리꿈스퀘어 XR기업성장지원센터 입주 기업 모집(2차)",
-      "source_name": "정보통신산업진흥원",
-      "source_url": "https://www.nipa.kr/home/2-2/16887",
-      "organizer": "정보통신산업진흥원",
-      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "XR·메타버스",
-        "창업"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: xr, 사업화",
-          "본문·분류 키워드: ai, it, xr, 모바일",
-          "공고 유형: support",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-08-03T13:19:42+09:00",
-      "last_seen_at": "2026-08-09T22:35:02+09:00",
-      "sources": [
-        {
-          "source_id": "nipa",
-          "source_name": "정보통신산업진흥원",
-          "source_url": "https://www.nipa.kr/home/2-2/16887",
-          "source_post_id": "16887",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-08-03",
-      "recruit_end": "2026-08-31",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 22,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "사업화2026년누리꿈스퀘어xr기업성장지원센터입주기업모집2차|정보통신산업진흥원|2026-08-31"
-    },
-    {
-      "id": "da3a58124c2c7c008d25",
-      "title": "[사업화] --> 2026년 일본 디지털 시장개척단 참가기업 모집 공고",
-      "source_name": "정보통신산업진흥원",
-      "source_url": "https://www.nipa.kr/home/2-2/16878",
-      "organizer": "정보통신산업진흥원",
-      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "창업"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: 사업화",
-          "본문·분류 키워드: ai, it, 모바일, 사업화",
-          "공고 유형: support",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-31T13:04:56+09:00",
-      "last_seen_at": "2026-08-09T22:35:02+09:00",
-      "sources": [
-        {
-          "source_id": "nipa",
-          "source_name": "정보통신산업진흥원",
-          "source_url": "https://www.nipa.kr/home/2-2/16878",
-          "source_post_id": "16878",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-07-31",
-      "recruit_end": "2026-08-31",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 22,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "사업화2026년일본디지털시장개척단참가기업모집공고|정보통신산업진흥원|2026-08-31"
-    },
-    {
       "id": "31c41533d375e81c1a51",
       "title": "제4회 스마트축산 AI 경진대회",
       "source_name": "위비티",
@@ -8390,7 +8346,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -8399,7 +8355,7 @@
           "source_post_id": "107526",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         },
         {
           "source_id": "wevity",
@@ -8408,7 +8364,7 @@
           "source_post_id": "108767",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -8460,7 +8416,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -8469,7 +8425,7 @@
           "source_post_id": "108735",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -8490,6 +8446,65 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "2026pubg모바일크래프트그라운드공모전|크래프톤|2026-09-02"
+    },
+    {
+      "id": "c40c66b8b810fdea5995",
+      "title": "[사업화] --> 2026년 2차 ICT 비즈니스 파트너십(일본) 참가기업 모집 안내",
+      "source_name": "정보통신산업진흥원",
+      "source_url": "https://www.nipa.kr/home/2-2/16895",
+      "organizer": "정보통신산업진흥원",
+      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "창업"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: ict, 사업화",
+          "본문·분류 키워드: ai, ict, it, 모바일",
+          "공고 유형: support",
+          "공식 전문기관 출처",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-08-05T18:22:24+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
+      "sources": [
+        {
+          "source_id": "nipa",
+          "source_name": "정보통신산업진흥원",
+          "source_url": "https://www.nipa.kr/home/2-2/16895",
+          "source_post_id": "16895",
+          "kind": "official",
+          "priority": 100,
+          "fetched_at": "2026-08-10T03:59:04+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-08-05",
+      "recruit_end": "2026-09-02",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 23,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "사업화2026년2차ict비즈니스파트너십일본참가기업모집안내|정보통신산업진흥원|2026-09-02"
     },
     {
       "id": "a34e08ceff26117bbcb9",
@@ -8515,7 +8530,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-07T18:17:18+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -8524,7 +8539,7 @@
           "source_post_id": "341109",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -8569,7 +8584,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-05T18:58:35+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -8578,7 +8593,7 @@
           "source_post_id": "340618",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -8655,49 +8670,44 @@
       "dedupe_key": "2026년2차ict비즈니스파트너십일본참가기업모집공고|정보통신산업진흥원|2026-09-02"
     },
     {
-      "id": "c40c66b8b810fdea5995",
-      "title": "[사업화] --> 2026년 2차 ICT 비즈니스 파트너십(일본) 참가기업 모집 안내",
-      "source_name": "정보통신산업진흥원",
-      "source_url": "https://www.nipa.kr/home/2-2/16895",
-      "organizer": "정보통신산업진흥원",
-      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
+      "id": "698c6b3847358037a851",
+      "title": "2026년 창업진흥원 정책 아이디어 공모전",
+      "source_name": "K-Startup",
+      "source_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178709",
+      "organizer": "K-Startup",
+      "summary": "K-Startup 모집중 창업지원 공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
       "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
         "창업"
       ],
       "audience_tags": [],
       "status": "open",
       "relevance": {
-        "score": 100,
+        "score": 70,
         "reasons": [
-          "제목 핵심 키워드: ict, 사업화",
-          "본문·분류 키워드: ai, ict, it, 모바일",
-          "공고 유형: support",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+          "제목 핵심 키워드: 창업",
+          "본문·분류 키워드: 창업",
+          "공고 유형: contest"
         ],
         "decision": "publish"
       },
-      "first_seen_at": "2026-08-05T18:22:24+09:00",
-      "last_seen_at": "2026-08-09T22:35:02+09:00",
+      "first_seen_at": "2026-08-03T13:19:42+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
-          "source_id": "nipa",
-          "source_name": "정보통신산업진흥원",
-          "source_url": "https://www.nipa.kr/home/2-2/16895",
-          "source_post_id": "16895",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
+          "source_id": "kstartup",
+          "source_name": "K-Startup",
+          "source_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178709",
+          "source_post_id": "178709",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
-      "recruit_start": "2026-08-05",
-      "recruit_end": "2026-09-02",
+      "recruit_start": null,
+      "recruit_end": "2026-09-03",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -8708,10 +8718,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
+      "last_changed_at": "2026-08-06T04:52:04+09:00",
+      "change_flags": [
+        "recruit_end"
+      ],
       "is_manual_reviewed": false,
-      "dedupe_key": "사업화2026년2차ict비즈니스파트너십일본참가기업모집안내|정보통신산업진흥원|2026-09-02"
+      "dedupe_key": "2026년창업진흥원정책아이디어공모전|kstartup|2026-09-03"
     },
     {
       "id": "0443f4dfd95920a35393",
@@ -8796,7 +8808,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-03T09:16:05+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -8805,7 +8817,7 @@
           "source_post_id": "108804",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -8851,7 +8863,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -8860,7 +8872,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -8937,62 +8949,6 @@
       "dedupe_key": "2026년2차ai응용제품신속상용화지원사업신규지원대상과제공고|한국산업기술기획평가원|2026-09-03"
     },
     {
-      "id": "698c6b3847358037a851",
-      "title": "2026년 창업진흥원 정책 아이디어 공모전",
-      "source_name": "K-Startup",
-      "source_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178709",
-      "organizer": "K-Startup",
-      "summary": "K-Startup 모집중 창업지원 공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "창업"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 70,
-        "reasons": [
-          "제목 핵심 키워드: 창업",
-          "본문·분류 키워드: 창업",
-          "공고 유형: contest"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-08-03T13:19:42+09:00",
-      "last_seen_at": "2026-08-09T22:35:02+09:00",
-      "sources": [
-        {
-          "source_id": "kstartup",
-          "source_name": "K-Startup",
-          "source_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178709",
-          "source_post_id": "178709",
-          "kind": "government",
-          "priority": 80,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-09-03",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 25,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-08-06T04:52:04+09:00",
-      "change_flags": [
-        "recruit_end"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026년창업진흥원정책아이디어공모전|kstartup|2026-09-03"
-    },
-    {
       "id": "bdecde3f970ae67b53e6",
       "title": "[AI 대항해 시대, 공주 관광 활성화 아이디어 공모전]",
       "source_name": "링커리어",
@@ -9015,7 +8971,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-07T18:17:18+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -9024,7 +8980,7 @@
           "source_post_id": "340944",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -9072,7 +9028,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-02T07:13:14+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -9081,7 +9037,7 @@
           "source_post_id": "107135",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -9132,7 +9088,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -9141,7 +9097,7 @@
           "source_post_id": "107930",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -9188,7 +9144,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -9197,7 +9153,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -9246,7 +9202,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-07T18:17:18+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -9255,7 +9211,7 @@
           "source_post_id": "109240",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -9307,7 +9263,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-06T19:00:50+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -9316,7 +9272,7 @@
           "source_post_id": "340719",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -9366,7 +9322,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-05T12:36:21+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -9375,7 +9331,7 @@
           "source_post_id": "109102",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -9424,7 +9380,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-03T20:47:13+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -9433,7 +9389,7 @@
           "source_post_id": "109792",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -9482,7 +9438,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -9491,7 +9447,7 @@
           "source_post_id": "109003",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -9546,7 +9502,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -9555,7 +9511,7 @@
           "source_post_id": "108789",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         },
         {
           "source_id": "wevity",
@@ -9564,7 +9520,7 @@
           "source_post_id": "109674",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -9613,7 +9569,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-06T00:29:54+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -9622,7 +9578,7 @@
           "source_post_id": "109883",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -9670,7 +9626,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-07T00:30:18+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -9679,7 +9635,7 @@
           "source_post_id": "341021",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -9782,7 +9738,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -9791,7 +9747,7 @@
           "source_post_id": "108321",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -9842,7 +9798,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -9851,7 +9807,7 @@
           "source_post_id": "340592",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         },
         {
           "source_id": "thinkcontest",
@@ -9860,7 +9816,7 @@
           "source_post_id": "109125",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         },
         {
           "source_id": "wevity",
@@ -9869,7 +9825,7 @@
           "source_post_id": "108653",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -10028,7 +9984,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -10037,7 +9993,7 @@
           "source_post_id": "108687",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -10085,7 +10041,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-03T16:49:49+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -10094,7 +10050,7 @@
           "source_post_id": "109076",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -10143,7 +10099,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-04T18:59:49+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -10152,7 +10108,7 @@
           "source_post_id": "340305",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -10197,7 +10153,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-06T15:48:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -10206,7 +10162,7 @@
           "source_post_id": "340878",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -10251,7 +10207,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-06T15:48:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -10260,7 +10216,7 @@
           "source_post_id": "340856",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -10305,7 +10261,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -10314,7 +10270,7 @@
           "source_post_id": "108984",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -10365,7 +10321,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-06T19:00:50+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -10374,7 +10330,7 @@
           "source_post_id": "341165",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         },
         {
           "source_id": "wevity",
@@ -10383,7 +10339,7 @@
           "source_post_id": "109888",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -10488,7 +10444,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -10497,7 +10453,7 @@
           "source_post_id": "107813",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -10598,7 +10554,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-07T00:30:18+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -10607,7 +10563,7 @@
           "source_post_id": "341020",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -10655,7 +10611,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -10664,7 +10620,7 @@
           "source_post_id": "108240",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -10719,7 +10675,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-04T15:42:55+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -10728,7 +10684,7 @@
           "source_post_id": "340563",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         },
         {
           "source_id": "thinkcontest",
@@ -10737,7 +10693,7 @@
           "source_post_id": "109042",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -10785,7 +10741,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-07T13:04:17+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -10794,7 +10750,7 @@
           "source_post_id": "109210",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -10829,9 +10785,11 @@
         "AI",
         "소프트웨어",
         "웹·앱",
-        "창업"
+        "창업",
+        "디지털 콘텐츠"
       ],
       "audience_tags": [
+        "개발자",
         "창업자·기업"
       ],
       "status": "upcoming",
@@ -10839,14 +10797,14 @@
         "score": 100,
         "reasons": [
           "제목 핵심 키워드: ai",
-          "본문·분류 키워드: ai, ax, it, 게임",
+          "본문·분류 키워드: ai, ax, it, 개발자",
           "공고 유형: contest",
           "IT·게임 전문 출처"
         ],
         "decision": "publish"
       },
       "first_seen_at": "2026-08-09T11:31:12+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -10855,7 +10813,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -10903,7 +10861,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T02:49:04+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -10912,7 +10870,7 @@
           "source_post_id": "107956",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-10T02:49:04+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -11164,6 +11122,62 @@
       "dedupe_key": "전국2026년글로벌공공조달및수출지능화교육과정안내산업전문인력ai역량강화지원사업|정부조달수출진흥협회|2026-11-18"
     },
     {
+      "id": "3a1cd59bfa612c64ea80",
+      "title": "창업지원사업 예비위원단 재모집 (신산업분야)",
+      "source_name": "K-Startup",
+      "source_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176391",
+      "organizer": "K-Startup",
+      "summary": "K-Startup 모집중 창업지원 공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "창업"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 70,
+        "reasons": [
+          "제목 핵심 키워드: 창업",
+          "본문·분류 키워드: 창업",
+          "공고 유형: support"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-07-30T16:42:45+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
+      "sources": [
+        {
+          "source_id": "kstartup",
+          "source_name": "K-Startup",
+          "source_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176391",
+          "source_post_id": "176391",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-08-10T03:59:04+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-11-30",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 112,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-08-06T04:52:04+09:00",
+      "change_flags": [
+        "recruit_end"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "창업지원사업예비위원단재모집신산업분야|kstartup|2026-11-30"
+    },
+    {
       "id": "aa972589889d98f491d6",
       "title": "[충북] 2026년 SW제품 경쟁력 강화 지원사업 모집 공고",
       "source_name": "기업마당",
@@ -11218,62 +11232,6 @@
       "dedupe_key": "충북2026년sw제품경쟁력강화지원사업모집공고|충북과학기술혁신원|2026-11-30"
     },
     {
-      "id": "3a1cd59bfa612c64ea80",
-      "title": "창업지원사업 예비위원단 재모집 (신산업분야)",
-      "source_name": "K-Startup",
-      "source_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176391",
-      "organizer": "K-Startup",
-      "summary": "K-Startup 모집중 창업지원 공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "창업"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 70,
-        "reasons": [
-          "제목 핵심 키워드: 창업",
-          "본문·분류 키워드: 창업",
-          "공고 유형: support"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T16:42:45+09:00",
-      "last_seen_at": "2026-08-09T22:35:02+09:00",
-      "sources": [
-        {
-          "source_id": "kstartup",
-          "source_name": "K-Startup",
-          "source_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176391",
-          "source_post_id": "176391",
-          "kind": "government",
-          "priority": 80,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-11-30",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 113,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-08-06T04:52:04+09:00",
-      "change_flags": [
-        "recruit_end"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "창업지원사업예비위원단재모집신산업분야|kstartup|2026-11-30"
-    },
-    {
       "id": "085018a0606209c53409",
       "title": "2026년 중앙부처 및 지자체 창업지원사업 통합공고",
       "source_name": "K-Startup",
@@ -11296,7 +11254,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:42:45+09:00",
-      "last_seen_at": "2026-08-09T22:35:02+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -11305,7 +11263,7 @@
           "source_post_id": "175783",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -11315,7 +11273,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 144,
+      "d_day": 143,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -11352,7 +11310,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:42:45+09:00",
-      "last_seen_at": "2026-08-09T22:35:02+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -11361,7 +11319,7 @@
           "source_post_id": "176076",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
+          "fetched_at": "2026-08-10T03:59:04+09:00"
         }
       ],
       "application_url": null,
@@ -11371,7 +11329,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 144,
+      "d_day": 143,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -11384,6 +11342,63 @@
       ],
       "is_manual_reviewed": false,
       "dedupe_key": "2026년팁스tips창업기업지원계획수정공고|kstartup|2026-12-31"
+    },
+    {
+      "id": "7e5ec484c780c97c1dd1",
+      "title": "[수정/상시공고] 2026년 글로벌게임허브센터 신규 입주기업 추가모집(상시) 수정공고",
+      "source_name": "한국콘텐츠진흥원",
+      "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00034004&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
+      "organizer": "한국콘텐츠진흥원",
+      "summary": "한국콘텐츠진흥원 공식 모집공모 공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "게임",
+        "디지털 콘텐츠"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: 게임",
+          "본문·분류 키워드: 게임, 디지털 콘텐츠, 콘텐츠",
+          "공고 유형: support",
+          "공식 전문기관 출처",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-07-30T16:37:20+09:00",
+      "last_seen_at": "2026-08-10T03:59:04+09:00",
+      "sources": [
+        {
+          "source_id": "kocca",
+          "source_name": "한국콘텐츠진흥원",
+          "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00034004&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
+          "source_post_id": "326D00034004",
+          "kind": "official",
+          "priority": 100,
+          "fetched_at": "2026-08-10T03:59:04+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-04-27",
+      "recruit_end": "2026-12-31",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 143,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "수정상시공고2026년글로벌게임허브센터신규입주기업추가모집상시수정공고|한국콘텐츠진흥원|2026-12-31"
     },
     {
       "id": "2d9f8016c9a09853252a",
@@ -11493,63 +11508,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "비수도권2026년재직자ai실무교육안내및교육생모집|한국팹리스산업협회|2026-12-31"
-    },
-    {
-      "id": "7e5ec484c780c97c1dd1",
-      "title": "[수정/상시공고] 2026년 글로벌게임허브센터 신규 입주기업 추가모집(상시) 수정공고",
-      "source_name": "한국콘텐츠진흥원",
-      "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00034004&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
-      "organizer": "한국콘텐츠진흥원",
-      "summary": "한국콘텐츠진흥원 공식 모집공모 공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "게임",
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: 게임",
-          "본문·분류 키워드: 게임, 디지털 콘텐츠, 콘텐츠",
-          "공고 유형: support",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-09T22:35:02+09:00",
-      "sources": [
-        {
-          "source_id": "kocca",
-          "source_name": "한국콘텐츠진흥원",
-          "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00034004&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
-          "source_post_id": "326D00034004",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-04-27",
-      "recruit_end": "2026-12-31",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 144,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "수정상시공고2026년글로벌게임허브센터신규입주기업추가모집상시수정공고|한국콘텐츠진흥원|2026-12-31"
     },
     {
       "id": "12e7b4405cee8c8bcfe5",
