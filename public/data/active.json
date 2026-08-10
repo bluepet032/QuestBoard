@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-10T15:43:25+09:00",
+  "generated_at": "2026-08-10T17:15:30+09:00",
   "items": [
     {
       "id": "f766c3d4c59d6d96d837",
@@ -127,42 +127,29 @@
     },
     {
       "id": "40fbebc565e5226acd9b",
-      "title": "2026 스웨덴 게임 컨퍼런스(Sweden Game Conference) 참가기업 모집 연장공고",
-      "source_name": "한국콘텐츠진흥원",
-      "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00089010&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
+      "title": "2026년 스웨덴 게임 컨퍼런스(Sweden Game Conference) 참가기업 모집 연장 공고",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EA%B2%8C%EC%9E%84&condition=searchPblancNm&condition1=AND&keyword=%EA%B2%8C%EC%9E%84&pblancId=PBLN_000000000124258",
       "organizer": "한국콘텐츠진흥원",
-      "summary": "한국콘텐츠진흥원 공식 모집공모 공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "summary": "기업마당 공개 지원사업 · 수출 · 검색어 게임. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
       "primary_type": "support",
       "field_tags": [
-        "게임",
-        "디지털 콘텐츠"
+        "게임"
       ],
       "audience_tags": [],
       "status": "today",
       "relevance": {
-        "score": 100,
+        "score": 70,
         "reasons": [
           "제목 핵심 키워드: 게임",
-          "본문·분류 키워드: 게임, 디지털 콘텐츠, 콘텐츠",
-          "공고 유형: support",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능",
-          "본문·분류 키워드: 게임"
+          "본문·분류 키워드: 게임",
+          "공고 유형: support"
         ],
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
-        {
-          "source_id": "kocca",
-          "source_name": "한국콘텐츠진흥원",
-          "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00089010&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
-          "source_post_id": "326D00089010",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
-        },
         {
           "source_id": "bizinfo",
           "source_name": "기업마당",
@@ -170,7 +157,7 @@
           "source_post_id": "PBLN_000000000124258",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-09T22:35:02+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -187,10 +174,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
+      "last_changed_at": "2026-08-10T17:15:30+09:00",
+      "change_flags": [
+        "title"
+      ],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026스웨덴게임컨퍼런스swedengameconference참가기업모집연장공고|한국콘텐츠진흥원|2026-08-10"
+      "dedupe_key": "2026년스웨덴게임컨퍼런스swedengameconference참가기업모집연장공고|한국콘텐츠진흥원|2026-08-10"
     },
     {
       "id": "db1c97b96035d0f200f7",
@@ -215,7 +204,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-07T09:13:30+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -224,7 +213,7 @@
           "source_post_id": "PBLN_000000000125169",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -245,69 +234,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "2026년인간ai협업형lam개발글로벌실증사업재공고|정보통신산업진흥원|2026-08-10"
-    },
-    {
-      "id": "406b07888caad9d1e8ff",
-      "title": "2026년 하반기 경기글로벌게임센터 신규 입주기업 추가 모집",
-      "source_name": "경기콘텐츠진흥원",
-      "source_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11211&menuNo=200061&pageIndex=1",
-      "organizer": "사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우",
-      "summary": "사업공고 | 사업공고 | 알림마당 | 경기콘텐츠진흥원. ) 회원서비스 본 신청은 회원을 위한 서비스입니다. 로그인하시거나 회원가입하여 이용하여 주시기 바랍니다. 회원가입 로그인 신청하기 닫기 사이트명 개인정보처리방침 이메일무단수집거부",
-      "primary_type": "support",
-      "field_tags": [
-        "게임",
-        "소프트웨어",
-        "창업",
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [
-        "창업자·기업"
-      ],
-      "status": "today",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: 게임",
-          "본문·분류 키워드: 게임, 디지털 콘텐츠, 소프트웨어, 스타트업",
-          "공고 유형: support",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-31T13:04:56+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
-      "sources": [
-        {
-          "source_id": "gcon",
-          "source_name": "경기콘텐츠진흥원",
-          "source_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11211&menuNo=200061&pageIndex=1",
-          "source_post_id": "11211",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-07-31",
-      "recruit_end": "2026-08-10",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 0,
-      "eligibility": ") 회원서비스 본 신청은 회원을 위한 서비스입니다. 로그인하시거나 회원가입하여 이용하여 주시기 바랍니다. 회원가입 로그인 신청하기 닫기 사이트명 개인정보처리방침 이메일무단수집거부",
-      "benefits": "지원항목 네트워킹 프로그램 스타트업 오피스 지원 지원내용 6인실 1개사 모집 모집개요 모집기간 2026년 07월 31일 09시 00분 ~ 2026년 08월 10일 17시 00분 모",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-08-05T18:22:24+09:00",
-      "change_flags": [
-        "eligibility"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026년하반기경기글로벌게임센터신규입주기업추가모집|사업소개2026년지원사업안내주력사업주력사업개요g유니콘패스ai패키지크라우|2026-08-10"
     },
     {
       "id": "8ac37ba1b58eb5e1ce1c",
@@ -560,7 +486,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -569,7 +495,7 @@
           "source_post_id": "PBLN_000000000124809",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -590,66 +516,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "경북2026년데이터센터국산장비및sw개발실증지원추가모집공고|포항테크노파크|2026-08-10"
-    },
-    {
-      "id": "b5b2d84c715aab733ad4",
-      "title": "「2026년 경기 레벨업 프로그램」지원기업 통합 모집공고(하반기) ※사전등록관련 사항 수정",
-      "source_name": "경기콘텐츠진흥원",
-      "source_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11207&menuNo=200061&pageIndex=1",
-      "organizer": "사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우",
-      "summary": "사업공고 | 사업공고 | 알림마당 | 경기콘텐츠진흥원. 투자 네트워킹) - 레벨업 피칭데이, 레벨업 투자라운드, 레벨업 성과발표회 ○ 단계별 특화 프로그램 진행 ※ 자세한 사항은 모집 통합공고문 참고 모집개요 모집기간 2026년 07월",
-      "primary_type": "education",
-      "field_tags": [
-        "게임",
-        "소프트웨어",
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [],
-      "status": "today",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "본문·분류 키워드: 게임, 디지털 콘텐츠, 소프트웨어, 콘텐츠",
-          "공고 유형: education",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
-      "sources": [
-        {
-          "source_id": "gcon",
-          "source_name": "경기콘텐츠진흥원",
-          "source_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11207&menuNo=200061&pageIndex=1",
-          "source_post_id": "11207",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-07-16",
-      "recruit_end": "2026-08-10",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 0,
-      "eligibility": "투자 네트워킹) - 레벨업 피칭데이, 레벨업 투자라운드, 레벨업 성과발표회 ○ 단계별 특화 프로그램 진행 ※ 자세한 사항은 모집 통합공고문 참고 모집개요 모집기간 2026년 07월",
-      "benefits": "지원항목 자금지원 엑셀러레이팅 프로그램 데모데이 프로그램(투자연계) 네트워킹 프로그램 데모데이 프로그램(네트워킹) 기업피칭 지원내용 ※ 경기 레벨업 프로그램 사업설명회 사전신청 :",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-07-30T17:05:31+09:00",
-      "change_flags": [
-        "recruit_start",
-        "recruit_end"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026년경기레벨업프로그램지원기업통합모집공고하반기사전등록관련사항수정|사업소개2026년지원사업안내주력사업주력사업개요g유니콘패스ai패키지크라우|2026-08-10"
     },
     {
       "id": "d10b94fdc9d78534fd8b",
@@ -853,7 +719,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-08T11:33:13+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -862,7 +728,7 @@
           "source_post_id": "EVEN_000000000069043",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -907,7 +773,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-03T19:26:05+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -916,7 +782,7 @@
           "source_post_id": "EVEN_000000000069111",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -968,7 +834,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -977,7 +843,7 @@
           "source_post_id": "16874",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         },
         {
           "source_id": "bizinfo",
@@ -986,7 +852,7 @@
           "source_post_id": "PBLN_000000000124933",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -1146,7 +1012,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-06T18:28:06+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -1155,7 +1021,7 @@
           "source_post_id": "178839",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -1202,7 +1068,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:42:45+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -1211,7 +1077,7 @@
           "source_post_id": "178662",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -1380,7 +1246,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-04T18:25:16+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1389,7 +1255,7 @@
           "source_post_id": "PBLN_000000000125075",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -1435,7 +1301,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1444,7 +1310,7 @@
           "source_post_id": "EVEN_000000000068827",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -1489,7 +1355,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-03T19:26:05+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1498,7 +1364,7 @@
           "source_post_id": "PBLN_000000000125027",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -1546,7 +1412,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1555,7 +1421,7 @@
           "source_post_id": "PBLN_000000000124208",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -1601,7 +1467,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-31T18:30:42+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1610,7 +1476,7 @@
           "source_post_id": "PBLN_000000000124941",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -1655,7 +1521,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-06T05:13:08+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1664,7 +1530,7 @@
           "source_post_id": "PBLN_000000000125126",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -1996,7 +1862,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-08T11:33:13+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2005,7 +1871,7 @@
           "source_post_id": "PBLN_000000000125123",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -2050,7 +1916,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2059,7 +1925,7 @@
           "source_post_id": "PBLN_000000000124493",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -2161,7 +2027,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-07T16:55:40+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2170,7 +2036,7 @@
           "source_post_id": "EVEN_000000000069158",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -2256,61 +2122,6 @@
       "dedupe_key": "디지털입문패키지경력보유여성ai디지털재도약교육|측가아닙니다이벤트내용과관련한사항은이벤트개설자에게문의바랍니다hoti|2026-08-14"
     },
     {
-      "id": "8d48db5c6be8ebc84571",
-      "title": "[울산] 2026년 맞춤형 AI 솔루션 지원사업 수혜기업 모집 공고(지역특화 제조데이터 활성화 사업)",
-      "source_name": "기업마당",
-      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=AI&condition=searchPblancNm&condition1=AND&keyword=AI&pblancId=PBLN_000000000124919",
-      "organizer": "울산테크노파크",
-      "summary": "기업마당 공개 지원사업 · 기술 · 검색어 AI. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "AI",
-        "데이터"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 78,
-        "reasons": [
-          "제목 핵심 키워드: ai, 데이터",
-          "본문·분류 키워드: ai, 데이터",
-          "공고 유형: support"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
-      "sources": [
-        {
-          "source_id": "bizinfo",
-          "source_name": "기업마당",
-          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=AI&condition=searchPblancNm&condition1=AND&keyword=AI&pblancId=PBLN_000000000124919",
-          "source_post_id": "PBLN_000000000124919",
-          "kind": "government",
-          "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-07-29",
-      "recruit_end": "2026-08-14",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 4,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "울산2026년맞춤형ai솔루션지원사업수혜기업모집공고지역특화제조데이터활성화사업|울산테크노파크|2026-08-14"
-    },
-    {
       "id": "a1b21b070d9515461667",
       "title": "[전국] 창업자를 위한 생성형 AI활용법",
       "source_name": "기업마당",
@@ -2333,7 +2144,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T23:53:55+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2342,7 +2153,7 @@
           "source_post_id": "EVEN_000000000069098",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -2555,7 +2366,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2564,7 +2375,7 @@
           "source_post_id": "EVEN_000000000068913",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -2613,7 +2424,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-03T19:26:05+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2622,7 +2433,7 @@
           "source_post_id": "PBLN_000000000124997",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -2670,7 +2481,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-05T18:22:24+09:00",
-      "last_seen_at": "2026-08-10T04:18:18+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -2679,7 +2490,7 @@
           "source_post_id": "326D00115001",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-10T04:18:18+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -2727,7 +2538,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2736,7 +2547,7 @@
           "source_post_id": "PBLN_000000000124572",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -2788,7 +2599,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "gcon",
@@ -2797,7 +2608,7 @@
           "source_post_id": "11208",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -2846,7 +2657,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-07T09:13:30+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2855,7 +2666,7 @@
           "source_post_id": "PBLN_000000000125175",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -2876,60 +2687,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "대구2026년모빌리티부품제조ai확산센터구축사업기업지원수혜기업모집통합공고|지능형자동차부품진흥원|2026-08-17"
-    },
-    {
-      "id": "ebf75db4e9b1a29d2b40",
-      "title": "[부산] 2026년 3차 부산콘텐츠아카데미 일자리 지원사업 모집 공고",
-      "source_name": "기업마당",
-      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EC%BD%98%ED%85%90%EC%B8%A0&condition=searchPblancNm&condition1=AND&keyword=%EC%BD%98%ED%85%90%EC%B8%A0&pblancId=PBLN_000000000125060",
-      "organizer": "부산정보산업진흥원",
-      "summary": "기업마당 공개 지원사업 · 인력 · 검색어 콘텐츠. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 70,
-        "reasons": [
-          "제목 핵심 키워드: 콘텐츠",
-          "본문·분류 키워드: 콘텐츠",
-          "공고 유형: support"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-08-10T11:56:39+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
-      "sources": [
-        {
-          "source_id": "bizinfo",
-          "source_name": "기업마당",
-          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EC%BD%98%ED%85%90%EC%B8%A0&condition=searchPblancNm&condition1=AND&keyword=%EC%BD%98%ED%85%90%EC%B8%A0&pblancId=PBLN_000000000125060",
-          "source_post_id": "PBLN_000000000125060",
-          "kind": "government",
-          "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-08-03",
-      "recruit_end": "2026-08-17",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 7,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "부산2026년3차부산콘텐츠아카데미일자리지원사업모집공고|부산정보산업진흥원|2026-08-17"
     },
     {
       "id": "9e15e5f9fed110079a60",
@@ -3187,7 +2944,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-03T19:26:05+09:00",
-      "last_seen_at": "2026-08-10T04:18:18+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -3196,7 +2953,7 @@
           "source_post_id": "326D00068010",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-10T04:18:18+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -3224,7 +2981,7 @@
       "source_name": "경기콘텐츠진흥원",
       "source_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11212&menuNo=200061&pageIndex=1",
       "organizer": "사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우",
-      "summary": "사업공고 | 사업공고 | 알림마당 | 경기콘텐츠진흥원. ) [제 2026-106호] 등록일 2026.08.05 조회수 1,039 담당자 박경난 담당부서 게임산업팀 전화번호 031-776-4781 접수기간 2026년 08월 05일 12시",
+      "summary": "사업공고 | 사업공고 | 알림마당 | 경기콘텐츠진흥원. ) [제 2026-106호] 등록일 2026.08.05 조회수 1,088 담당자 박경난 담당부서 게임산업팀 전화번호 031-776-4781 접수기간 2026년 08월 05일 12시",
       "primary_type": "education",
       "field_tags": [
         "게임",
@@ -3245,7 +3002,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-05T18:22:24+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "gcon",
@@ -3254,7 +3011,7 @@
           "source_post_id": "11212",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -3265,13 +3022,13 @@
       "event_end": null,
       "date_kind": "exact",
       "d_day": 8,
-      "eligibility": ") [제 2026-106호] 등록일 2026.08.05 조회수 1,039 담당자 박경난 담당부서 게임산업팀 전화번호 031-776-4781 접수기간 2026년 08월 05일 12시",
+      "eligibility": ") [제 2026-106호] 등록일 2026.08.05 조회수 1,088 담당자 박경난 담당부서 게임산업팀 전화번호 031-776-4781 접수기간 2026년 08월 05일 12시",
       "benefits": "지원항목 유통지원 지원내용 - 분야 : 마케팅, QA, 번역 및 LQA, 사운드, 영상 - 지원 규모 : 기업 당 15,000천원 이내 서비스 지원 모집개요 모집기간 2026년 0",
       "location": "",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-10T11:56:39+09:00",
+      "last_changed_at": "2026-08-10T17:15:30+09:00",
       "change_flags": [
         "eligibility"
       ],
@@ -3307,7 +3064,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "gcon",
@@ -3316,7 +3073,7 @@
           "source_post_id": "11210",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -3364,7 +3121,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -3373,7 +3130,7 @@
           "source_post_id": "PBLN_000000000124858",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -3418,7 +3175,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-06T05:13:08+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -3427,7 +3184,7 @@
           "source_post_id": "PBLN_000000000125091",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -3479,7 +3236,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -3488,7 +3245,7 @@
           "source_post_id": "16883",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         },
         {
           "source_id": "bizinfo",
@@ -3497,7 +3254,7 @@
           "source_post_id": "PBLN_000000000124976",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -3546,7 +3303,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-03T13:19:42+09:00",
-      "last_seen_at": "2026-08-10T04:18:18+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -3555,7 +3312,7 @@
           "source_post_id": "326D00088009",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-10T04:18:18+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -3602,7 +3359,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T04:18:18+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -3611,7 +3368,7 @@
           "source_post_id": "326D00091012",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-10T04:18:18+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -3656,7 +3413,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-06T05:13:08+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -3665,7 +3422,7 @@
           "source_post_id": "PBLN_000000000125140",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -3766,7 +3523,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -3775,7 +3532,7 @@
           "source_post_id": "PBLN_000000000124924",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -3820,7 +3577,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-07T16:55:40+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -3829,7 +3586,7 @@
           "source_post_id": "PBLN_000000000125226",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -3964,6 +3721,60 @@
       "dedupe_key": "무인운영시스템모두의지배인5차시연회|권아카데미|2026-08-19"
     },
     {
+      "id": "5dedf944c831874162b4",
+      "title": "2026년 K-AI 글로벌 밸류체인 진출 지원 참가기업 공고",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=AI&condition=searchPblancNm&condition1=AND&keyword=AI&pblancId=PBLN_000000000125295",
+      "organizer": "중소벤처기업진흥공단",
+      "summary": "기업마당 공개 지원사업 · 수출 · 검색어 AI. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "AI"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 70,
+        "reasons": [
+          "제목 핵심 키워드: ai",
+          "본문·분류 키워드: ai",
+          "공고 유형: support"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-08-10T17:15:30+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=AI&condition=searchPblancNm&condition1=AND&keyword=AI&pblancId=PBLN_000000000125295",
+          "source_post_id": "PBLN_000000000125295",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-08-10T17:15:30+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-08-05",
+      "recruit_end": "2026-08-20",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 10,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026년kai글로벌밸류체인진출지원참가기업공고|중소벤처기업진흥공단|2026-08-20"
+    },
+    {
       "id": "0e3f4f6b3a83968d888b",
       "title": "2026년 딥테크 창업기업 기술지원사업 LAB TO CITY (L2C)ㆍ반도체 공고",
       "source_name": "기업마당",
@@ -3987,7 +3798,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-07T09:13:30+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -3996,7 +3807,7 @@
           "source_post_id": "PBLN_000000000125151",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -4045,7 +3856,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "gcon",
@@ -4054,7 +3865,7 @@
           "source_post_id": "11209",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -4101,7 +3912,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-07T16:55:40+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -4110,7 +3921,7 @@
           "source_post_id": "PBLN_000000000125236",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -4155,7 +3966,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-07T16:55:40+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -4164,7 +3975,7 @@
           "source_post_id": "EVEN_000000000069159",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -4209,7 +4020,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-07T16:55:40+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -4218,7 +4029,7 @@
           "source_post_id": "PBLN_000000000125233",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -4263,7 +4074,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-07T09:13:30+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -4272,7 +4083,7 @@
           "source_post_id": "PBLN_000000000125179",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -4317,7 +4128,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-03T19:26:05+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -4326,7 +4137,7 @@
           "source_post_id": "EVEN_000000000069113",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -4371,7 +4182,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-06T05:13:08+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -4380,7 +4191,7 @@
           "source_post_id": "PBLN_000000000125108",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -4425,7 +4236,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -4434,7 +4245,7 @@
           "source_post_id": "PBLN_000000000124597",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -4816,7 +4627,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-07T16:55:40+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -4825,7 +4636,7 @@
           "source_post_id": "EVEN_000000000069166",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -4846,61 +4657,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "경기ai특화공동훈련센터개소식및중소기업ai전환실천전략세미나개최|경기도경제과학진흥원|2026-08-21"
-    },
-    {
-      "id": "b7189d6db561534f054e",
-      "title": "[경남] 창원시 2026년 의료기기 부품ㆍ모듈 국산화 및 기술개발 지원사업 공고(AI 빅데이터 기반 의료바이오 첨단기기 연구제조센터 구축사업)",
-      "source_name": "기업마당",
-      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=AI&condition=searchPblancNm&condition1=AND&keyword=AI&pblancId=PBLN_000000000124914",
-      "organizer": "창원산업진흥원",
-      "summary": "기업마당 공개 지원사업 · 기술 · 검색어 AI. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "AI",
-        "데이터"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 86,
-        "reasons": [
-          "제목 핵심 키워드: ai, 데이터, 빅데이터",
-          "본문·분류 키워드: ai, 데이터, 빅데이터",
-          "공고 유형: support"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
-      "sources": [
-        {
-          "source_id": "bizinfo",
-          "source_name": "기업마당",
-          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=AI&condition=searchPblancNm&condition1=AND&keyword=AI&pblancId=PBLN_000000000124914",
-          "source_post_id": "PBLN_000000000124914",
-          "kind": "government",
-          "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-07-22",
-      "recruit_end": "2026-08-21",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 11,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "경남창원시2026년의료기기부품모듈국산화및기술개발지원사업공고ai빅데이터기반의료바이오첨단기기연구제조센터구축사업|창원산업진흥원|2026-08-21"
     },
     {
       "id": "1841c6a79a9b98d064ce",
@@ -4994,7 +4750,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -5003,7 +4759,7 @@
           "source_post_id": "16872",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -5027,69 +4783,6 @@
       ],
       "is_manual_reviewed": false,
       "dedupe_key": "사업화2026가상융합산업허브입주기업모집2차|정보통신산업진흥원|2026-08-21"
-    },
-    {
-      "id": "3fa6d5b744b86e3d4239",
-      "title": "[사업화] --> 싱가포르IT지원센터 2026년 하반기 입주기업 모집 공고",
-      "source_name": "정보통신산업진흥원",
-      "source_url": "https://www.nipa.kr/home/2-2/16861",
-      "organizer": "정보통신산업진흥원",
-      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "창업"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: it, 사업화",
-          "본문·분류 키워드: ai, it, 모바일, 사업화",
-          "공고 유형: support",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
-      "sources": [
-        {
-          "source_id": "nipa",
-          "source_name": "정보통신산업진흥원",
-          "source_url": "https://www.nipa.kr/home/2-2/16861",
-          "source_post_id": "16861",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-07-21",
-      "recruit_end": "2026-08-21",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 11,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-07-30T16:42:45+09:00",
-      "change_flags": [
-        "title",
-        "organizer",
-        "eligibility"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "사업화싱가포르it지원센터2026년하반기입주기업모집공고|정보통신산업진흥원|2026-08-21"
     },
     {
       "id": "aa84fd5e8444724afe69",
@@ -5120,7 +4813,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:42:45+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -5129,7 +4822,7 @@
           "source_post_id": "16866",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -5175,7 +4868,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-06T05:13:08+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -5184,7 +4877,7 @@
           "source_post_id": "EVEN_000000000069136",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -5229,7 +4922,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-03T19:26:05+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -5238,7 +4931,7 @@
           "source_post_id": "PBLN_000000000124994",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -5259,6 +4952,63 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "전남광주ai산학연프로젝트ai솔루션랩지원사업공고|전남테크노파크|2026-08-21"
+    },
+    {
+      "id": "f58fbaff874a7a796df5",
+      "title": "[전남광주] AI어장 현장실증(응용 서비스 사업화) 지원 모집 3차 재공고(AI기반 어장공간정보 빅데이터 플랫폼 구축 및 활용사업)",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=AI&condition=searchPblancNm&condition1=AND&keyword=AI&pblancId=PBLN_000000000125250",
+      "organizer": "전남정보문화산업진흥원",
+      "summary": "기업마당 공개 지원사업 · 기술 · 검색어 AI. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "AI",
+        "웹·앱",
+        "데이터",
+        "창업"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 92,
+        "reasons": [
+          "제목 핵심 키워드: ai, 데이터, 빅데이터, 사업화",
+          "본문·분류 키워드: ai, 데이터, 빅데이터, 사업화",
+          "공고 유형: support"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-08-10T17:15:30+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=AI&condition=searchPblancNm&condition1=AND&keyword=AI&pblancId=PBLN_000000000125250",
+          "source_post_id": "PBLN_000000000125250",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-08-10T17:15:30+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-08-07",
+      "recruit_end": "2026-08-21",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 11,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "전남광주ai어장현장실증응용서비스사업화지원모집3차재공고ai기반어장공간정보빅데이터플랫폼구축및활용사업|전남정보문화산업진흥원|2026-08-21"
     },
     {
       "id": "0849eb05123a9e1758db",
@@ -5283,7 +5033,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-03T19:26:05+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -5292,7 +5042,7 @@
           "source_post_id": "PBLN_000000000124996",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -5919,7 +5669,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-03T19:26:05+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -5928,7 +5678,7 @@
           "source_post_id": "PBLN_000000000124987",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -5973,7 +5723,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-04T18:25:16+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -5982,7 +5732,7 @@
           "source_post_id": "178779",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -6085,7 +5835,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -6094,7 +5844,7 @@
           "source_post_id": "PBLN_000000000124833",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -6195,7 +5945,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:42:45+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -6204,7 +5954,7 @@
           "source_post_id": "178506",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -6251,7 +6001,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-07T16:55:40+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -6260,7 +6010,7 @@
           "source_post_id": "EVEN_000000000069164",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -6313,7 +6063,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -6322,7 +6072,7 @@
           "source_post_id": "16882",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         },
         {
           "source_id": "bizinfo",
@@ -6331,7 +6081,7 @@
           "source_post_id": "PBLN_000000000124664",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -6453,7 +6203,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-07T09:28:44+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -6462,7 +6212,7 @@
           "source_post_id": "178821",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -6509,7 +6259,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -6518,7 +6268,7 @@
           "source_post_id": "EVEN_000000000068388",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -6564,7 +6314,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -6573,7 +6323,7 @@
           "source_post_id": "EVEN_000000000069056",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -6618,7 +6368,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-03T19:26:05+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -6627,7 +6377,7 @@
           "source_post_id": "EVEN_000000000069106",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -6843,7 +6593,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-06T05:13:08+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -6852,7 +6602,7 @@
           "source_post_id": "PBLN_000000000125105",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -7138,7 +6888,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -7147,7 +6897,7 @@
           "source_post_id": "EVEN_000000000069007",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -7192,7 +6942,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -7201,7 +6951,7 @@
           "source_post_id": "EVEN_000000000069017",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -7246,7 +6996,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -7255,7 +7005,7 @@
           "source_post_id": "PBLN_000000000120783",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -7300,7 +7050,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-07T16:55:40+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -7309,7 +7059,7 @@
           "source_post_id": "PBLN_000000000125213",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -7650,7 +7400,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-31T13:04:56+09:00",
-      "last_seen_at": "2026-08-10T04:18:18+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -7659,7 +7409,7 @@
           "source_post_id": "326D00092010",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-10T04:18:18+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -7705,7 +7455,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-31T13:04:56+09:00",
-      "last_seen_at": "2026-08-10T04:18:18+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -7714,7 +7464,7 @@
           "source_post_id": "326D00037012",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-10T04:18:18+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -7760,7 +7510,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-31T13:04:56+09:00",
-      "last_seen_at": "2026-08-10T04:18:18+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -7769,7 +7519,7 @@
           "source_post_id": "326D00037011",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-10T04:18:18+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -7815,7 +7565,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-31T13:04:56+09:00",
-      "last_seen_at": "2026-08-10T04:18:18+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -7824,7 +7574,7 @@
           "source_post_id": "326D00091013",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-10T04:18:18+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -7845,6 +7595,60 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "2026대한민국콘텐츠대상캐릭터부문정부시상후보작추천공고|한국콘텐츠진흥원|2026-08-31"
+    },
+    {
+      "id": "8f0911fd565022745312",
+      "title": "2026 더현대글로벌×더셀렉츠 글로벌 팝업스토어(일본 도쿄) 참가 브랜드 모집(2차)",
+      "source_name": "한국콘텐츠진흥원",
+      "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00091014&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
+      "organizer": "한국콘텐츠진흥원",
+      "summary": "한국콘텐츠진흥원 공식 모집공모 공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "other",
+      "field_tags": [
+        "디지털 콘텐츠"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 86,
+        "reasons": [
+          "본문·분류 키워드: 디지털 콘텐츠, 콘텐츠",
+          "공식 전문기관 출처",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-08-10T17:15:30+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
+      "sources": [
+        {
+          "source_id": "kocca",
+          "source_name": "한국콘텐츠진흥원",
+          "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00091014&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
+          "source_post_id": "326D00091014",
+          "kind": "official",
+          "priority": 100,
+          "fetched_at": "2026-08-10T17:15:30+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-08-10",
+      "recruit_end": "2026-08-31",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 21,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026더현대글로벌더셀렉츠글로벌팝업스토어일본도쿄참가브랜드모집2차|한국콘텐츠진흥원|2026-08-31"
     },
     {
       "id": "b3a59b124f223acf95fe",
@@ -8050,7 +7854,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -8059,7 +7863,7 @@
           "source_post_id": "EVEN_000000000068768",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -8110,7 +7914,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-03T13:19:42+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -8119,7 +7923,7 @@
           "source_post_id": "16887",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -8169,7 +7973,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-31T13:04:56+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -8178,7 +7982,7 @@
           "source_post_id": "16878",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -8519,7 +8323,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-07T09:13:30+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -8528,7 +8332,7 @@
           "source_post_id": "PBLN_000000000125178",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -8578,7 +8382,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-05T18:22:24+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -8587,7 +8391,7 @@
           "source_post_id": "16895",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -8633,7 +8437,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -8642,7 +8446,7 @@
           "source_post_id": "EVEN_000000000069053",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -8796,7 +8600,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-06T05:13:08+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -8805,7 +8609,7 @@
           "source_post_id": "PBLN_000000000125096",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -8850,7 +8654,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-03T13:19:42+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -8859,7 +8663,7 @@
           "source_post_id": "178709",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -9225,6 +9029,60 @@
       "dedupe_key": "2026금융aichallenge|금융보안원|2026-09-07"
     },
     {
+      "id": "dbb4a94793432ae5d6ed",
+      "title": "2026년 AI응용제품신속상용화 지원사업(국방)사업 재공고",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=AI&condition=searchPblancNm&condition1=AND&keyword=AI&pblancId=PBLN_000000000125272",
+      "organizer": "정보통신기획평가원",
+      "summary": "기업마당 공개 지원사업 · 기술 · 검색어 AI. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "AI"
+      ],
+      "audience_tags": [],
+      "status": "upcoming",
+      "relevance": {
+        "score": 70,
+        "reasons": [
+          "제목 핵심 키워드: ai",
+          "본문·분류 키워드: ai",
+          "공고 유형: support"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-08-10T17:15:30+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=AI&condition=searchPblancNm&condition1=AND&keyword=AI&pblancId=PBLN_000000000125272",
+          "source_post_id": "PBLN_000000000125272",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-08-10T17:15:30+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-08-20",
+      "recruit_end": "2026-09-07",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 28,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026년ai응용제품신속상용화지원사업국방사업재공고|정보통신기획평가원|2026-09-07"
+    },
+    {
       "id": "a12ed3b8de24da046de3",
       "title": "[NST] 대한민국 AI Native R&D를 함께 만드는 NAIS AI 해커톤",
       "source_name": "씽굿",
@@ -9287,6 +9145,66 @@
       ],
       "is_manual_reviewed": false,
       "dedupe_key": "nst대한민국ainativerd를함께만드는naisai해커톤|국가과학기술연구회nst|2026-09-07"
+    },
+    {
+      "id": "693fa047d7eae262fd8c",
+      "title": "[사업화] --> 2026년「디지털콘텐츠 융합기업 글로벌 마켓 참가사업」지원기업 모집 공고",
+      "source_name": "정보통신산업진흥원",
+      "source_url": "https://www.nipa.kr/home/2-2/16897",
+      "organizer": "정보통신산업진흥원",
+      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "창업",
+        "디지털 콘텐츠"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: 사업화, 콘텐츠",
+          "본문·분류 키워드: ai, it, 모바일, 사업화",
+          "공고 유형: support",
+          "공식 전문기관 출처",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-08-10T17:15:30+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
+      "sources": [
+        {
+          "source_id": "nipa",
+          "source_name": "정보통신산업진흥원",
+          "source_url": "https://www.nipa.kr/home/2-2/16897",
+          "source_post_id": "16897",
+          "kind": "official",
+          "priority": 100,
+          "fetched_at": "2026-08-10T17:15:30+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-08-10",
+      "recruit_end": "2026-09-08",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 29,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "사업화2026년디지털콘텐츠융합기업글로벌마켓참가사업지원기업모집공고|정보통신산업진흥원|2026-09-08"
     },
     {
       "id": "fd824e1fc2b21d843612",
@@ -9674,7 +9592,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-04T18:25:16+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -9683,7 +9601,7 @@
           "source_post_id": "EVEN_000000000069128",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -9977,7 +9895,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-05T12:48:01+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -9986,7 +9904,7 @@
           "source_post_id": "EVEN_000000000069130",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -10031,7 +9949,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -10040,7 +9958,7 @@
           "source_post_id": "EVEN_000000000069095",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -10382,7 +10300,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-07T16:55:40+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -10391,7 +10309,7 @@
           "source_post_id": "PBLN_000000000125199",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -10474,6 +10392,60 @@
       "dedupe_key": "2026년창원시ai데이터활용공모전|창원시|2026-09-30"
     },
     {
+      "id": "7a3c5857f6060d1d033e",
+      "title": "[전남광주] 2026년 투자진흥지구 및 지역 콘텐츠기업 보증료ㆍ출원료 지원사업 참여기업 모집 공고",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EC%BD%98%ED%85%90%EC%B8%A0&condition=searchPblancNm&condition1=AND&keyword=%EC%BD%98%ED%85%90%EC%B8%A0&pblancId=PBLN_000000000125282",
+      "organizer": "광주정보문화산업진흥원",
+      "summary": "기업마당 공개 지원사업 · 경영 · 검색어 콘텐츠. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "디지털 콘텐츠"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 70,
+        "reasons": [
+          "제목 핵심 키워드: 콘텐츠",
+          "본문·분류 키워드: 콘텐츠",
+          "공고 유형: support"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-08-10T17:15:30+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EC%BD%98%ED%85%90%EC%B8%A0&condition=searchPblancNm&condition1=AND&keyword=%EC%BD%98%ED%85%90%EC%B8%A0&pblancId=PBLN_000000000125282",
+          "source_post_id": "PBLN_000000000125282",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-08-10T17:15:30+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-08-05",
+      "recruit_end": "2026-09-30",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 51,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "전남광주2026년투자진흥지구및지역콘텐츠기업보증료출원료지원사업참여기업모집공고|광주정보문화산업진흥원|2026-09-30"
+    },
+    {
       "id": "c6216f38eec7b6b71e77",
       "title": "[전북] 신기술 콘텐츠 전문인력양성 교육(JB-NEXCON) 교육생 모집",
       "source_name": "기업마당",
@@ -10496,7 +10468,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-09T03:55:55+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -10505,7 +10477,7 @@
           "source_post_id": "EVEN_000000000068849",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -11029,7 +11001,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -11038,7 +11010,7 @@
           "source_post_id": "PBLN_000000000124309",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -11084,7 +11056,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-06T05:13:08+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -11093,7 +11065,7 @@
           "source_post_id": "EVEN_000000000069138",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -11139,7 +11111,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -11148,7 +11120,7 @@
           "source_post_id": "EVEN_000000000068325",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         },
         {
           "source_id": "bizinfo",
@@ -11157,7 +11129,7 @@
           "source_post_id": "EVEN_000000000068313",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -11202,7 +11174,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-04T18:25:16+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -11211,7 +11183,7 @@
           "source_post_id": "EVEN_000000000069120",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -11256,7 +11228,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -11265,7 +11237,7 @@
           "source_post_id": "PBLN_000000000124214",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -11310,7 +11282,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:42:45+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -11319,7 +11291,7 @@
           "source_post_id": "176391",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -11366,7 +11338,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:42:45+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -11375,7 +11347,7 @@
           "source_post_id": "175783",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -11422,7 +11394,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:42:45+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -11431,7 +11403,7 @@
           "source_post_id": "176076",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -11479,7 +11451,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -11488,7 +11460,7 @@
           "source_post_id": "PBLN_000000000123753",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -11533,7 +11505,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-31T18:30:42+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -11542,7 +11514,7 @@
           "source_post_id": "EVEN_000000000069102",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -11590,7 +11562,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T04:18:18+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -11599,7 +11571,7 @@
           "source_post_id": "326D00034004",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-10T04:18:18+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
@@ -11645,7 +11617,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-10T11:56:39+09:00",
+      "last_seen_at": "2026-08-10T17:15:30+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -11654,7 +11626,7 @@
           "source_post_id": "EVEN_000000000068967",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-10T11:56:39+09:00"
+          "fetched_at": "2026-08-10T17:15:30+09:00"
         }
       ],
       "application_url": null,
