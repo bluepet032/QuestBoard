@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-15T17:47:36+09:00",
+  "generated_at": "2026-08-15T18:43:16+09:00",
   "items": [
     {
       "id": "2c44f51ae6b13711507a",
@@ -26,7 +26,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -35,7 +35,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -81,7 +81,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-15T00:08:34+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -90,7 +90,7 @@
           "source_post_id": "108509",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -127,8 +127,8 @@
         "AI",
         "소프트웨어",
         "웹·앱",
-        "창업",
-        "디지털 콘텐츠"
+        "데이터",
+        "창업"
       ],
       "audience_tags": [
         "창업자·기업"
@@ -145,7 +145,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-14T09:01:14+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -154,7 +154,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -175,63 +175,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "디지털입문패키지경력보유여성ai디지털재도약교육|측가아닙니다이벤트내용과관련한사항은이벤트개설자에게문의바랍니다hoti|2026-08-14"
-    },
-    {
-      "id": "d8cab25b70108cc0ce1d",
-      "title": "2026 Kids' AI Summit (국내 최초 한국·홍콩 주니어 AI 서밋)",
-      "source_name": "씽굿",
-      "source_url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=107977",
-      "organizer": "(주)유니원커뮤니케이션즈, 홍콩 스마트시티 컨소시엄(SCC)",
-      "summary": "씽굿 공모 분야: 게임/소프트웨어, 과학, 기획/아이디어, 대회, 해외. 초등학생, 중학생. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "게임",
-        "AI",
-        "소프트웨어"
-      ],
-      "audience_tags": [],
-      "status": "closed",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai",
-          "본문·분류 키워드: ai, 게임, 소프트웨어",
-          "공고 유형: contest",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
-      "sources": [
-        {
-          "source_id": "thinkcontest",
-          "source_name": "씽굿",
-          "source_url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=107977",
-          "source_post_id": "107977",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-07-13",
-      "recruit_end": "2026-08-14",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": -1,
-      "eligibility": "초등학생, 중학생",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026kidsaisummit국내최초한국홍콩주니어ai서밋|주유니원커뮤니케이션즈홍콩스마트시티컨소시엄scc|2026-08-14"
     },
     {
       "id": "7c68ff4609d7ea281f4d",
@@ -256,7 +199,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-15T00:08:34+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -265,7 +208,7 @@
           "source_post_id": "109527",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -312,7 +255,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-10T22:47:09+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -321,7 +264,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -367,7 +310,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-13T00:16:31+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -376,7 +319,7 @@
           "source_post_id": "109851",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -485,7 +428,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-12T00:18:09+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -494,7 +437,7 @@
           "source_post_id": "108549",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -542,7 +485,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-11T00:18:46+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -551,7 +494,7 @@
           "source_post_id": "109554",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -602,7 +545,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -611,7 +554,7 @@
           "source_post_id": "109182",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -659,7 +602,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -668,7 +611,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -717,7 +660,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -726,7 +669,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -771,7 +714,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-08T00:10:49+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -780,7 +723,7 @@
           "source_post_id": "107518",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -826,7 +769,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-06T00:29:54+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -835,7 +778,7 @@
           "source_post_id": "109265",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -889,7 +832,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -898,7 +841,7 @@
           "source_post_id": "106780",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         },
         {
           "source_id": "wevity",
@@ -907,7 +850,7 @@
           "source_post_id": "108323",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -955,7 +898,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-04T00:19:43+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -964,7 +907,7 @@
           "source_post_id": "109141",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -1012,7 +955,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-02T07:13:14+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -1021,7 +964,7 @@
           "source_post_id": "109162",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -1071,7 +1014,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -1080,7 +1023,7 @@
           "source_post_id": "108830",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -1130,7 +1073,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-01T00:30:58+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -1139,7 +1082,7 @@
           "source_post_id": "108519",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -1190,7 +1133,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-01T00:30:58+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -1199,7 +1142,7 @@
           "source_post_id": "108752",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -1251,7 +1194,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -1260,7 +1203,7 @@
           "source_post_id": "108109",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         },
         {
           "source_id": "wevity",
@@ -1269,7 +1212,7 @@
           "source_post_id": "109174",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -1321,7 +1264,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-01T00:30:58+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -1330,7 +1273,7 @@
           "source_post_id": "107427",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -1379,7 +1322,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-01T00:30:58+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -1388,7 +1331,7 @@
           "source_post_id": "108288",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -1437,7 +1380,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-01T00:30:58+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -1446,7 +1389,7 @@
           "source_post_id": "109315",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -1495,7 +1438,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -1504,7 +1447,7 @@
           "source_post_id": "108794",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -1554,7 +1497,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-31T01:51:30+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -1563,7 +1506,7 @@
           "source_post_id": "108662",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -1614,7 +1557,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-31T01:51:30+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -1623,7 +1566,7 @@
           "source_post_id": "108151",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -1671,7 +1614,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-02T07:13:14+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -1680,7 +1623,7 @@
           "source_post_id": "108289",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -1733,7 +1676,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-31T01:51:30+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -1742,7 +1685,7 @@
           "source_post_id": "108417",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -1790,7 +1733,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-01T00:30:58+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -1799,7 +1742,7 @@
           "source_post_id": "108180",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -1847,7 +1790,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -1856,7 +1799,7 @@
           "source_post_id": "107584",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -1963,7 +1906,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -1972,7 +1915,7 @@
           "source_post_id": "107415",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         },
         {
           "source_id": "wevity",
@@ -1981,7 +1924,7 @@
           "source_post_id": "108707",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -2030,7 +1973,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -2039,7 +1982,7 @@
           "source_post_id": "108981",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -2089,7 +2032,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -2098,7 +2041,7 @@
           "source_post_id": "109032",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -2152,7 +2095,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -2161,7 +2104,7 @@
           "source_post_id": "106706",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         },
         {
           "source_id": "wevity",
@@ -2170,7 +2113,7 @@
           "source_post_id": "107947",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -2222,7 +2165,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -2231,7 +2174,7 @@
           "source_post_id": "107750",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -2278,7 +2221,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -2287,7 +2230,7 @@
           "source_post_id": "108424",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -2336,7 +2279,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -2345,7 +2288,7 @@
           "source_post_id": "108754",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -2399,7 +2342,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -2408,7 +2351,7 @@
           "source_post_id": "108097",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -2454,7 +2397,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -2463,7 +2406,7 @@
           "source_post_id": "108704",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -2513,7 +2456,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -2522,7 +2465,7 @@
           "source_post_id": "106656",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -2559,7 +2502,6 @@
         "AI",
         "소프트웨어",
         "웹·앱",
-        "데이터",
         "창업",
         "디지털 콘텐츠"
       ],
@@ -2571,14 +2513,14 @@
         "score": 100,
         "reasons": [
           "제목 핵심 키워드: ai, 콘텐츠",
-          "본문·분류 키워드: ai, it, 게임, 게임기획",
+          "본문·분류 키워드: ai, it, 게임, 스타트업",
           "공고 유형: contest",
           "IT·게임 전문 출처"
         ],
         "decision": "publish"
       },
       "first_seen_at": "2026-08-06T12:42:11+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -2587,7 +2529,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -2638,7 +2580,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -2647,7 +2589,7 @@
           "source_post_id": "108125",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -2697,7 +2639,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -2706,7 +2648,7 @@
           "source_post_id": "108702",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -2754,7 +2696,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -2763,7 +2705,7 @@
           "source_post_id": "108567",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -2813,7 +2755,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -2822,7 +2764,7 @@
           "source_post_id": "108490",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -2872,7 +2814,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -2881,7 +2823,7 @@
           "source_post_id": "107632",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -2934,7 +2876,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -2943,7 +2885,7 @@
           "source_post_id": "105657",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -2992,7 +2934,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3001,7 +2943,7 @@
           "source_post_id": "108225",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -3051,7 +2993,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3060,7 +3002,7 @@
           "source_post_id": "108156",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -3107,7 +3049,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3116,7 +3058,7 @@
           "source_post_id": "108224",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -3167,7 +3109,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3176,7 +3118,7 @@
           "source_post_id": "108007",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -3223,7 +3165,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3232,7 +3174,7 @@
           "source_post_id": "108415",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -3282,7 +3224,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3291,7 +3233,7 @@
           "source_post_id": "108247",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -3343,7 +3285,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3352,7 +3294,7 @@
           "source_post_id": "108287",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -3403,7 +3345,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3412,7 +3354,7 @@
           "source_post_id": "107650",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -3461,7 +3403,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3470,7 +3412,7 @@
           "source_post_id": "108263",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -3523,7 +3465,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3532,7 +3474,7 @@
           "source_post_id": "106965",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         },
         {
           "source_id": "wevity",
@@ -3541,7 +3483,7 @@
           "source_post_id": "106875",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -3594,7 +3536,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3603,7 +3545,7 @@
           "source_post_id": "107244",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -3656,7 +3598,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3665,7 +3607,7 @@
           "source_post_id": "107424",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -3715,7 +3657,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3724,7 +3666,7 @@
           "source_post_id": "108154",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -3772,7 +3714,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3781,7 +3723,7 @@
           "source_post_id": "108067",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -3831,7 +3773,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3840,7 +3782,7 @@
           "source_post_id": "107195",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -3895,7 +3837,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -3904,7 +3846,7 @@
           "source_post_id": "106333",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -3951,7 +3893,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3960,7 +3902,7 @@
           "source_post_id": "107818",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -4011,7 +3953,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -4020,7 +3962,7 @@
           "source_post_id": "105162",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -4067,7 +4009,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -4076,7 +4018,7 @@
           "source_post_id": "107466",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -4124,7 +4066,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -4133,7 +4075,7 @@
           "source_post_id": "106562",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -4183,7 +4125,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -4192,7 +4134,7 @@
           "source_post_id": "106069",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -4242,7 +4184,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -4251,7 +4193,7 @@
           "source_post_id": "107260",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -4300,7 +4242,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -4309,7 +4251,7 @@
           "source_post_id": "106570",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -4362,7 +4304,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -4371,7 +4313,7 @@
           "source_post_id": "103798",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -4419,7 +4361,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -4428,7 +4370,7 @@
           "source_post_id": "106194",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -4478,7 +4420,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -4487,7 +4429,7 @@
           "source_post_id": "106687",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
@@ -4537,7 +4479,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-15T17:47:36+09:00",
+      "last_seen_at": "2026-08-15T18:43:16+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -4546,7 +4488,7 @@
           "source_post_id": "107157",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-15T17:47:36+09:00"
+          "fetched_at": "2026-08-15T18:43:16+09:00"
         }
       ],
       "application_url": null,
