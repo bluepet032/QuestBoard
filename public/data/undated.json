@@ -1,7 +1,123 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-18T08:39:57+09:00",
+  "generated_at": "2026-08-18T10:52:38+09:00",
   "items": [
+    {
+      "id": "bf9d7872005d842c3d55",
+      "title": "딥보이스 범죄 대응을 위한 AI 탐지 모델 경진대회",
+      "source_name": "DACON",
+      "source_url": "https://dacon.io/competitions/official/236749/overview/description",
+      "organizer": "/ 운영] 주최: 행정안전부, 한국지능정보사회진흥원 주관: 국립과학수사연구원 운영: 데이콘",
+      "summary": "알고리즘 | 코드 제출 평가 | 오디오 | 딥보이스. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "데이터"
+      ],
+      "audience_tags": [],
+      "status": "unknown",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: ai",
+          "본문·분류 키워드: ai, 데이터, 생성형 ai, 시스템",
+          "공고 유형: contest",
+          "IT·게임 전문 출처"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-08-18T10:52:38+09:00",
+      "last_seen_at": "2026-08-18T10:52:38+09:00",
+      "sources": [
+        {
+          "source_id": "dacon",
+          "source_name": "DACON",
+          "source_url": "https://dacon.io/competitions/official/236749/overview/description",
+          "source_post_id": null,
+          "kind": "specialist",
+          "priority": 60,
+          "fetched_at": "2026-08-18T10:52:38+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": null,
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "unknown",
+      "d_day": null,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "딥보이스범죄대응을위한ai탐지모델경진대회|운영주최행정안전부한국지능정보사회진흥원주관국립과학수사연구원운영데이콘|"
+    },
+    {
+      "id": "39820a80a0c4710f9d3d",
+      "title": "블랙박스 영상 기반 교통사고 차량 거동 분석 모델 AI 경진대회",
+      "source_name": "DACON",
+      "source_url": "https://dacon.io/competitions/official/236753/overview/description",
+      "organizer": "/ 운영] 주최: 행정안전부, 한국지능정보사회진흥원 주관: 국립과학수사연구원 운영: 데이콘",
+      "summary": "알고리즘 | 코드 제출 평가 | 컴퓨터비전 | 고의교통사고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "데이터"
+      ],
+      "audience_tags": [],
+      "status": "unknown",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: ai",
+          "본문·분류 키워드: ai, 데이터, 시스템, 알고리즘",
+          "공고 유형: contest",
+          "IT·게임 전문 출처"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-08-18T10:52:38+09:00",
+      "last_seen_at": "2026-08-18T10:52:38+09:00",
+      "sources": [
+        {
+          "source_id": "dacon",
+          "source_name": "DACON",
+          "source_url": "https://dacon.io/competitions/official/236753/overview/description",
+          "source_post_id": null,
+          "kind": "specialist",
+          "priority": 60,
+          "fetched_at": "2026-08-18T10:52:38+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": null,
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "unknown",
+      "d_day": null,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "블랙박스영상기반교통사고차량거동분석모델ai경진대회|운영주최행정안전부한국지능정보사회진흥원주관국립과학수사연구원운영데이콘|"
+    },
     {
       "id": "7d34b901ed02de95d506",
       "title": "Aimers 9기 : 투구 제구 성공 확률 예측 AI 온라인 해커톤",
@@ -30,7 +146,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-05T12:36:21+09:00",
-      "last_seen_at": "2026-08-18T08:39:57+09:00",
+      "last_seen_at": "2026-08-18T10:52:38+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -39,7 +155,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-18T08:39:57+09:00"
+          "fetched_at": "2026-08-18T10:52:38+09:00"
         }
       ],
       "application_url": null,
@@ -90,7 +206,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T14:33:47+09:00",
-      "last_seen_at": "2026-08-18T08:39:57+09:00",
+      "last_seen_at": "2026-08-18T10:52:38+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -99,7 +215,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-18T08:39:57+09:00"
+          "fetched_at": "2026-08-18T10:52:38+09:00"
         }
       ],
       "application_url": null,
@@ -151,7 +267,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-13T11:49:36+09:00",
-      "last_seen_at": "2026-08-18T08:39:57+09:00",
+      "last_seen_at": "2026-08-18T10:52:38+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -160,7 +276,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-18T08:39:57+09:00"
+          "fetched_at": "2026-08-18T10:52:38+09:00"
         }
       ],
       "application_url": null,
@@ -211,7 +327,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-13T11:49:36+09:00",
-      "last_seen_at": "2026-08-18T08:39:57+09:00",
+      "last_seen_at": "2026-08-18T10:52:38+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -220,7 +336,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-18T08:39:57+09:00"
+          "fetched_at": "2026-08-18T10:52:38+09:00"
         }
       ],
       "application_url": null,
@@ -272,7 +388,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T14:50:14+09:00",
-      "last_seen_at": "2026-08-18T08:39:57+09:00",
+      "last_seen_at": "2026-08-18T10:52:38+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -281,7 +397,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-18T08:39:57+09:00"
+          "fetched_at": "2026-08-18T10:52:38+09:00"
         }
       ],
       "application_url": null,
@@ -331,7 +447,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-18T08:39:57+09:00",
+      "last_seen_at": "2026-08-18T10:52:38+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -340,7 +456,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-18T08:39:57+09:00"
+          "fetched_at": "2026-08-18T10:52:38+09:00"
         }
       ],
       "application_url": null,
@@ -389,7 +505,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-18T08:39:57+09:00",
+      "last_seen_at": "2026-08-18T10:52:38+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -398,7 +514,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-18T08:39:57+09:00"
+          "fetched_at": "2026-08-18T10:52:38+09:00"
         }
       ],
       "application_url": null,
@@ -448,7 +564,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-18T08:39:57+09:00",
+      "last_seen_at": "2026-08-18T10:52:38+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -457,7 +573,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-18T08:39:57+09:00"
+          "fetched_at": "2026-08-18T10:52:38+09:00"
         }
       ],
       "application_url": null,
@@ -506,7 +622,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-18T08:39:57+09:00",
+      "last_seen_at": "2026-08-18T10:52:38+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -515,7 +631,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-18T08:39:57+09:00"
+          "fetched_at": "2026-08-18T10:52:38+09:00"
         }
       ],
       "application_url": null,
@@ -536,125 +652,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "구조물안정성물리추론ai경진대회|주관데이콘문의처대회기간중공식답변은토크게시판을통해서만제공됩니다|"
-    },
-    {
-      "id": "48308973d81b0db142cd",
-      "title": "Aimers 8기 : 모델 경량화 온라인 해커톤",
-      "source_name": "DACON",
-      "source_url": "https://dacon.io/competitions/official/236673/overview/description",
-      "organizer": "비용 등의 제약으로 인해 모델 크기를 줄이면서도 성능을 유지하는 기술이 중요한 과제로 부상",
-      "summary": "LG Aimers | 채용 | 알고리즘 | LLM | 코드제출 | 경량화. 으로 한 실전 중심의 LLM 경량화를 수행하게 됩니다. [주제] LLM 경량화 (Large Language Model Compression) [설명] 본 해커톤의 기본 모델인 EX",
-      "primary_type": "hackathon",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "데이터",
-        "클라우드·보안"
-      ],
-      "audience_tags": [],
-      "status": "unknown",
-      "relevance": {
-        "score": 92,
-        "reasons": [
-          "본문·분류 키워드: ai, 데이터, 모바일, 시스템",
-          "공고 유형: hackathon",
-          "IT·게임 전문 출처",
-          "게임·디지털 콘텐츠 형태로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-18T08:39:57+09:00",
-      "sources": [
-        {
-          "source_id": "dacon",
-          "source_name": "DACON",
-          "source_url": "https://dacon.io/competitions/official/236673/overview/description",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-08-18T08:39:57+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": null,
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "unknown",
-      "d_day": null,
-      "eligibility": "으로 한 실전 중심의 LLM 경량화를 수행하게 됩니다. [주제] LLM 경량화 (Large Language Model Compression) [설명] 본 해커톤의 기본 모델인 EX",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "aimers8기모델경량화온라인해커톤|비용등의제약으로인해모델크기를줄이면서도성능을유지하는기술이중요한과제로부상|"
-    },
-    {
-      "id": "a1486423e4e75bd345dd",
-      "title": "HAI(하이)! - Hecto AI Challenge : 2025 하반기 헥토 채용 AI 경진대회",
-      "source_name": "DACON",
-      "source_url": "https://dacon.io/competitions/official/236628/overview/description",
-      "organizer": "/ 주관] 주최/주관: 헥토(Hecto) 운영: 데이콘 [문의처] 대회 기간 중 공식 답변",
-      "summary": "채용 | 알고리즘 | 헥토 | 비전 | 딥페이크 | 분류. ] 일반인, 학생 등 누구나 대회 참가 가능 [주최 / 주관] 주최/주관: 헥토(Hecto) 운영: 데이콘 [문의처] 대회 기간 중 공식 답변은 토크 게시판 을 통해서만 제공됩니다",
-      "primary_type": "contest",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "데이터",
-        "클라우드·보안",
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [],
-      "status": "unknown",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai",
-          "본문·분류 키워드: ai, 데이터, 보안, 생성형 ai",
-          "공고 유형: contest",
-          "IT·게임 전문 출처"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-18T08:39:57+09:00",
-      "sources": [
-        {
-          "source_id": "dacon",
-          "source_name": "DACON",
-          "source_url": "https://dacon.io/competitions/official/236628/overview/description",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-08-18T08:39:57+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": null,
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "unknown",
-      "d_day": null,
-      "eligibility": "] 일반인, 학생 등 누구나 대회 참가 가능 [주최 / 주관] 주최/주관: 헥토(Hecto) 운영: 데이콘 [문의처] 대회 기간 중 공식 답변은 토크 게시판 을 통해서만 제공됩니다",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "hai하이hectoaichallenge2025하반기헥토채용ai경진대회|주관주최주관헥토hecto운영데이콘문의처대회기간중공식답변|"
     },
     {
       "id": "679238eaf29512dd0573",
