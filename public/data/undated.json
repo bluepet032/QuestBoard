@@ -1,125 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-18T20:43:30+09:00",
+  "generated_at": "2026-08-18T22:10:59+09:00",
   "items": [
-    {
-      "id": "bf9d7872005d842c3d55",
-      "title": "딥보이스 범죄 대응을 위한 AI 탐지 모델 경진대회",
-      "source_name": "DACON",
-      "source_url": "https://dacon.io/competitions/official/236749/overview/description",
-      "organizer": "/ 운영] 주최: 행정안전부, 한국지능정보사회진흥원 주관: 국립과학수사연구원 운영: 데이콘",
-      "summary": "알고리즘 | 코드 제출 평가 | 오디오 | 딥보이스. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "데이터"
-      ],
-      "audience_tags": [],
-      "status": "unknown",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai",
-          "본문·분류 키워드: ai, 데이터, 생성형 ai, 시스템",
-          "공고 유형: contest",
-          "IT·게임 전문 출처"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-08-18T10:52:38+09:00",
-      "last_seen_at": "2026-08-18T20:43:30+09:00",
-      "sources": [
-        {
-          "source_id": "dacon",
-          "source_name": "DACON",
-          "source_url": "https://dacon.io/competitions/official/236749/overview/description",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-08-18T20:43:30+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": null,
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "unknown",
-      "d_day": null,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "딥보이스범죄대응을위한ai탐지모델경진대회|운영주최행정안전부한국지능정보사회진흥원주관국립과학수사연구원운영데이콘|"
-    },
-    {
-      "id": "39820a80a0c4710f9d3d",
-      "title": "블랙박스 영상 기반 지능형 고의사고 분석 모델 AI 경진대회",
-      "source_name": "DACON",
-      "source_url": "https://dacon.io/competitions/official/236753/overview/description",
-      "organizer": "/ 운영] 주최: 행정안전부, 한국지능정보사회진흥원 주관: 국립과학수사연구원 운영: 데이콘",
-      "summary": "알고리즘 | 코드 제출 평가 | 컴퓨터비전 | 고의교통사고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "데이터"
-      ],
-      "audience_tags": [],
-      "status": "unknown",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai",
-          "본문·분류 키워드: ai, 데이터, 시스템, 알고리즘",
-          "공고 유형: contest",
-          "IT·게임 전문 출처"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-08-18T10:52:38+09:00",
-      "last_seen_at": "2026-08-18T20:43:30+09:00",
-      "sources": [
-        {
-          "source_id": "dacon",
-          "source_name": "DACON",
-          "source_url": "https://dacon.io/competitions/official/236753/overview/description",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-08-18T20:43:30+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": null,
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "unknown",
-      "d_day": null,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-08-18T16:56:03+09:00",
-      "change_flags": [
-        "title"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "블랙박스영상기반지능형고의사고분석모델ai경진대회|운영주최행정안전부한국지능정보사회진흥원주관국립과학수사연구원운영데이콘|"
-    },
     {
       "id": "7d34b901ed02de95d506",
       "title": "Aimers 9기 : 투구 제구 성공 확률 예측 AI 온라인 해커톤",
@@ -148,7 +30,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-05T12:36:21+09:00",
-      "last_seen_at": "2026-08-18T20:43:30+09:00",
+      "last_seen_at": "2026-08-18T22:10:59+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -157,7 +39,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-18T20:43:30+09:00"
+          "fetched_at": "2026-08-18T22:10:59+09:00"
         }
       ],
       "application_url": null,
@@ -208,7 +90,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T14:33:47+09:00",
-      "last_seen_at": "2026-08-18T20:43:30+09:00",
+      "last_seen_at": "2026-08-18T22:10:59+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -217,7 +99,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-18T20:43:30+09:00"
+          "fetched_at": "2026-08-18T22:10:59+09:00"
         }
       ],
       "application_url": null,
@@ -269,7 +151,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-13T11:49:36+09:00",
-      "last_seen_at": "2026-08-18T20:43:30+09:00",
+      "last_seen_at": "2026-08-18T22:10:59+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -278,7 +160,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-18T20:43:30+09:00"
+          "fetched_at": "2026-08-18T22:10:59+09:00"
         }
       ],
       "application_url": null,
@@ -329,7 +211,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-13T11:49:36+09:00",
-      "last_seen_at": "2026-08-18T20:43:30+09:00",
+      "last_seen_at": "2026-08-18T22:10:59+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -338,7 +220,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-18T20:43:30+09:00"
+          "fetched_at": "2026-08-18T22:10:59+09:00"
         }
       ],
       "application_url": null,
@@ -390,7 +272,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T14:50:14+09:00",
-      "last_seen_at": "2026-08-18T20:43:30+09:00",
+      "last_seen_at": "2026-08-18T22:10:59+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -399,7 +281,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-18T20:43:30+09:00"
+          "fetched_at": "2026-08-18T22:10:59+09:00"
         }
       ],
       "application_url": null,
@@ -449,7 +331,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-18T20:43:30+09:00",
+      "last_seen_at": "2026-08-18T22:10:59+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -458,7 +340,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-18T20:43:30+09:00"
+          "fetched_at": "2026-08-18T22:10:59+09:00"
         }
       ],
       "application_url": null,
@@ -507,7 +389,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-18T20:43:30+09:00",
+      "last_seen_at": "2026-08-18T22:10:59+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -516,7 +398,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-18T20:43:30+09:00"
+          "fetched_at": "2026-08-18T22:10:59+09:00"
         }
       ],
       "application_url": null,
@@ -566,7 +448,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-18T20:43:30+09:00",
+      "last_seen_at": "2026-08-18T22:10:59+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -575,7 +457,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-18T20:43:30+09:00"
+          "fetched_at": "2026-08-18T22:10:59+09:00"
         }
       ],
       "application_url": null,
@@ -624,7 +506,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-18T20:43:30+09:00",
+      "last_seen_at": "2026-08-18T22:10:59+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -633,7 +515,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-18T20:43:30+09:00"
+          "fetched_at": "2026-08-18T22:10:59+09:00"
         }
       ],
       "application_url": null,
