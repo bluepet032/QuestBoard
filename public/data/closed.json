@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-24T23:06:27+09:00",
+  "generated_at": "2026-08-25T00:03:10+09:00",
   "items": [
     {
       "id": "c5b5ac53b5953cc92b26",
@@ -28,7 +28,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-24T00:39:59+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -37,13 +37,13 @@
           "source_post_id": "109974",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-08-23",
+      "recruit_end": "2026-08-24",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -54,12 +54,71 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "kb스타즈여자프로농구단대학생홍보대사16기모집|kb스타즈|2026-08-23"
+      "dedupe_key": "kb스타즈여자프로농구단대학생홍보대사16기모집|kb스타즈|2026-08-24"
+    },
+    {
+      "id": "b0415abf091cf96b1813",
+      "title": "제 1회 일상뒤집기 ai 어플 개발 공모전",
+      "source_name": "위비티",
+      "source_url": "https://www.wevity.com/?c=find&s=1&mode=end&gub=1&cidx=21&gbn=view&gp=1&ix=108046",
+      "organizer": "나무서원",
+      "summary": "위비티 등록 분야: 게임/소프트웨어. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "게임",
+        "AI",
+        "소프트웨어"
+      ],
+      "audience_tags": [],
+      "status": "closed",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: ai",
+          "본문·분류 키워드: ai, 게임, 소프트웨어",
+          "공고 유형: contest",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-08-23T00:37:44+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
+      "sources": [
+        {
+          "source_id": "wevity",
+          "source_name": "위비티",
+          "source_url": "https://www.wevity.com/?c=find&s=1&mode=end&gub=1&cidx=21&gbn=view&gp=1&ix=108046",
+          "source_post_id": "108046",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-08-25T00:03:10+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-08-23",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -2,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
+      "change_flags": [
+        "recruit_end"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "제1회일상뒤집기ai어플개발공모전|나무서원|2026-08-23"
     },
     {
       "id": "a77ca2e917aa82973503",
@@ -93,7 +152,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-02T07:13:14+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -102,7 +161,7 @@
           "source_post_id": "108811",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
@@ -112,7 +171,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -1,
+      "d_day": -2,
       "eligibility": "대학생, 대학원생, 일반인, 기타",
       "benefits": "500만 원",
       "location": "",
@@ -150,7 +209,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -159,7 +218,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
@@ -169,7 +228,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -2,
+      "d_day": -3,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -180,65 +239,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "제5회너드콘ai와현업노하우|너드콘|2026-08-22"
-    },
-    {
-      "id": "b0415abf091cf96b1813",
-      "title": "제 1회 일상뒤집기 ai 어플 개발 공모전",
-      "source_name": "위비티",
-      "source_url": "https://www.wevity.com/?c=find&s=1&mode=end&gub=1&cidx=21&gbn=view&gp=1&ix=108046",
-      "organizer": "나무서원",
-      "summary": "위비티 등록 분야: 게임/소프트웨어. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "게임",
-        "AI",
-        "소프트웨어"
-      ],
-      "audience_tags": [],
-      "status": "closed",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai",
-          "본문·분류 키워드: ai, 게임, 소프트웨어",
-          "공고 유형: contest",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-08-23T00:37:44+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
-      "sources": [
-        {
-          "source_id": "wevity",
-          "source_name": "위비티",
-          "source_url": "https://www.wevity.com/?c=find&s=1&mode=end&gub=1&cidx=21&gbn=view&gp=1&ix=108046",
-          "source_post_id": "108046",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-08-22",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": -2,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
-      "change_flags": [
-        "recruit_end"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "제1회일상뒤집기ai어플개발공모전|나무서원|2026-08-22"
     },
     {
       "id": "d89668d2b0c74ccea624",
@@ -265,7 +265,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -274,7 +274,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
@@ -284,7 +284,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -2,
+      "d_day": -3,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -319,7 +319,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-18T22:10:59+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -328,7 +328,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
@@ -338,7 +338,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -2,
+      "d_day": -3,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -377,7 +377,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-22T00:50:06+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -386,13 +386,13 @@
           "source_post_id": "109956",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-08-21",
+      "recruit_end": "2026-08-22",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -403,12 +403,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026년공무원연금공단ai공공데이터대국민시각화경진대회|공무원연금공단|2026-08-21"
+      "dedupe_key": "2026년공무원연금공단ai공공데이터대국민시각화경진대회|공무원연금공단|2026-08-22"
     },
     {
       "id": "20a59215981f035025b1",
@@ -437,7 +437,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-20T00:48:12+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -446,13 +446,13 @@
           "source_post_id": "110040",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-08-19",
+      "recruit_end": "2026-08-20",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -463,12 +463,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026전남광주청년youthai솔버톤|중소벤처기업진흥공단호남연수원외|2026-08-19"
+      "dedupe_key": "2026전남광주청년youthai솔버톤|중소벤처기업진흥공단호남연수원외|2026-08-20"
     },
     {
       "id": "618f66e338b037c148ad",
@@ -555,7 +555,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-19T00:48:08+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -564,13 +564,13 @@
           "source_post_id": "109142",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-08-18",
+      "recruit_end": "2026-08-19",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -581,12 +581,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026대전ai영상공모전|대전광역시|2026-08-18"
+      "dedupe_key": "2026대전ai영상공모전|대전광역시|2026-08-19"
     },
     {
       "id": "94c6af7f59bf3c05afe0",
@@ -616,7 +616,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-18T00:42:43+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -625,13 +625,13 @@
           "source_post_id": "109144",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-08-17",
+      "recruit_end": "2026-08-18",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -642,12 +642,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "제2회매일유업대학생ai영상공모전|매일유업|2026-08-17"
+      "dedupe_key": "제2회매일유업대학생ai영상공모전|매일유업|2026-08-18"
     },
     {
       "id": "09daaf876b512cbdec55",
@@ -673,7 +673,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-15T00:08:34+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -682,13 +682,13 @@
           "source_post_id": "108509",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-08-14",
+      "recruit_end": "2026-08-15",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -699,12 +699,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "제5회그린이니셔티브60초영화제공모전idea|제주mbc|2026-08-14"
+      "dedupe_key": "제5회그린이니셔티브60초영화제공모전idea|제주mbc|2026-08-15"
     },
     {
       "id": "7c68ff4609d7ea281f4d",
@@ -729,7 +729,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-15T00:08:34+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -738,13 +738,13 @@
           "source_post_id": "109527",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-08-14",
+      "recruit_end": "2026-08-15",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -755,12 +755,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026komipo혁신50대과제대국민아이디어공모|한국중부발전주|2026-08-14"
+      "dedupe_key": "2026komipo혁신50대과제대국민아이디어공모|한국중부발전주|2026-08-15"
     },
     {
       "id": "0e15c6677faf97e2fe82",
@@ -786,7 +786,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-13T00:16:31+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -795,13 +795,13 @@
           "source_post_id": "109851",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-08-12",
+      "recruit_end": "2026-08-13",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -812,12 +812,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "국가정보원2026사이버공격방어대회참가자모집|국가정보원|2026-08-12"
+      "dedupe_key": "국가정보원2026사이버공격방어대회참가자모집|국가정보원|2026-08-13"
     },
     {
       "id": "39070cc6defd53b6f8e1",
@@ -904,7 +904,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-12T00:18:09+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -913,13 +913,13 @@
           "source_post_id": "108549",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-08-11",
+      "recruit_end": "2026-08-12",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -930,12 +930,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026장애공감공모전idea|한국장애인재단|2026-08-11"
+      "dedupe_key": "2026장애공감공모전idea|한국장애인재단|2026-08-12"
     },
     {
       "id": "bc1f8d4fa5fdfa50018c",
@@ -961,7 +961,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-11T00:18:46+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -970,13 +970,13 @@
           "source_post_id": "109554",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-08-10",
+      "recruit_end": "2026-08-11",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -987,12 +987,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "일상을바꾸는한줄skt모두의prompt공모전|sk텔레콤|2026-08-10"
+      "dedupe_key": "일상을바꾸는한줄skt모두의prompt공모전|sk텔레콤|2026-08-11"
     },
     {
       "id": "d10b94fdc9d78534fd8b",
@@ -1021,7 +1021,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -1030,13 +1030,13 @@
           "source_post_id": "109182",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-08-10",
+      "recruit_end": "2026-08-11",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -1047,12 +1047,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "nhn게임xai해커톤nan2026|nhn|2026-08-10"
+      "dedupe_key": "nhn게임xai해커톤nan2026|nhn|2026-08-11"
     },
     {
       "id": "3b0532836c65cbfa1efb",
@@ -1077,7 +1077,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-08T00:10:49+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -1086,7 +1086,7 @@
           "source_post_id": "107518",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
@@ -1096,7 +1096,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -17,
+      "d_day": -18,
       "eligibility": "제한 없음",
       "benefits": "",
       "location": "",
@@ -1132,7 +1132,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-06T00:29:54+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -1141,13 +1141,13 @@
           "source_post_id": "109265",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-08-05",
+      "recruit_end": "2026-08-06",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -1158,12 +1158,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026서든어택무기스킨아이디어공모전|넥슨|2026-08-05"
+      "dedupe_key": "2026서든어택무기스킨아이디어공모전|넥슨|2026-08-06"
     },
     {
       "id": "dd5f05aac22157a5858f",
@@ -1195,7 +1195,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -1204,7 +1204,7 @@
           "source_post_id": "106780",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         },
         {
           "source_id": "wevity",
@@ -1213,13 +1213,13 @@
           "source_post_id": "108323",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-08-04",
+      "recruit_end": "2026-08-05",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -1230,12 +1230,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026년물류데이터ai활용및분석아이디어공모전|대전정보문화산업진흥원|2026-08-04"
+      "dedupe_key": "2026년물류데이터ai활용및분석아이디어공모전|대전정보문화산업진흥원|2026-08-05"
     },
     {
       "id": "463c96699e449074037f",
@@ -1261,7 +1261,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-04T00:19:43+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -1270,13 +1270,13 @@
           "source_post_id": "109141",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-08-03",
+      "recruit_end": "2026-08-04",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -1287,12 +1287,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "kb국민은행제8회kbaichallenge|kb국민은행|2026-08-03"
+      "dedupe_key": "kb국민은행제8회kbaichallenge|kb국민은행|2026-08-04"
     },
     {
       "id": "fdc2d92a69e05deb5193",
@@ -1318,7 +1318,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-02T07:13:14+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -1327,13 +1327,13 @@
           "source_post_id": "109162",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-08-01",
+      "recruit_end": "2026-08-02",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -1344,12 +1344,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026hacksiumbusan동남권특화산업시나리오기반해킹방어대회|과학기술정보통신부부산광역시한국인터넷진흥원|2026-08-01"
+      "dedupe_key": "2026hacksiumbusan동남권특화산업시나리오기반해킹방어대회|과학기술정보통신부부산광역시한국인터넷진흥원|2026-08-02"
     },
     {
       "id": "b6d8a452d4b771419866",
@@ -1377,7 +1377,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -1386,13 +1386,13 @@
           "source_post_id": "108830",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-07-31",
+      "recruit_end": "2026-08-01",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -1403,12 +1403,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "제4회naverogq마켓aicompetition대회|네이버ogq마켓전국마이스터고등학교교장협의회|2026-07-31"
+      "dedupe_key": "제4회naverogq마켓aicompetition대회|네이버ogq마켓전국마이스터고등학교교장협의회|2026-08-01"
     },
     {
       "id": "c50df943d1b584b67ca0",
@@ -1436,7 +1436,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-01T00:30:58+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -1445,13 +1445,13 @@
           "source_post_id": "108519",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-07-31",
+      "recruit_end": "2026-08-01",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -1462,12 +1462,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "제3회krcai디지털혁신공모전|한국농어촌공사|2026-07-31"
+      "dedupe_key": "제3회krcai디지털혁신공모전|한국농어촌공사|2026-08-01"
     },
     {
       "id": "a6e28cde39928d0effc8",
@@ -1496,7 +1496,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-01T00:30:58+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -1505,13 +1505,13 @@
           "source_post_id": "108752",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-07-31",
+      "recruit_end": "2026-08-01",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -1522,12 +1522,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "제2회한국수목원정원관리원ai활용콘텐츠공모전|한국수목원정원관리원|2026-07-31"
+      "dedupe_key": "제2회한국수목원정원관리원ai활용콘텐츠공모전|한국수목원정원관리원|2026-08-01"
     },
     {
       "id": "9f61c3beedc0c821b1b5",
@@ -1557,7 +1557,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -1566,7 +1566,7 @@
           "source_post_id": "108109",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         },
         {
           "source_id": "wevity",
@@ -1575,13 +1575,13 @@
           "source_post_id": "109174",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-07-31",
+      "recruit_end": "2026-08-01",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -1592,12 +1592,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "방송미디어통신위원회더나은생성형ai서비스만들기경진대회시즌1|방송미디어통신위원회|2026-07-31"
+      "dedupe_key": "방송미디어통신위원회더나은생성형ai서비스만들기경진대회시즌1|방송미디어통신위원회|2026-08-01"
     },
     {
       "id": "fe405867c44d1c1b7314",
@@ -1627,7 +1627,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-01T00:30:58+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -1636,13 +1636,13 @@
           "source_post_id": "107427",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-07-31",
+      "recruit_end": "2026-08-01",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -1653,12 +1653,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "국립아시아문화전당2026acc민주인권평화영상ai콘텐츠공모전idea|국립아시아문화전당|2026-07-31"
+      "dedupe_key": "국립아시아문화전당2026acc민주인권평화영상ai콘텐츠공모전idea|국립아시아문화전당|2026-08-01"
     },
     {
       "id": "5f56497005ddcaa9c207",
@@ -1685,7 +1685,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-01T00:30:58+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -1694,13 +1694,13 @@
           "source_post_id": "108288",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-07-31",
+      "recruit_end": "2026-08-01",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -1711,12 +1711,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026년임업통계활용경진대회|산림청|2026-07-31"
+      "dedupe_key": "2026년임업통계활용경진대회|산림청|2026-08-01"
     },
     {
       "id": "fbf28e6993c75cd24f95",
@@ -1743,7 +1743,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-01T00:30:58+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -1752,13 +1752,13 @@
           "source_post_id": "109315",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-07-31",
+      "recruit_end": "2026-08-01",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -1769,12 +1769,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026년국립서울현충원제6회나라사랑보드게임대회|국가보훈부국립서울현충원|2026-07-31"
+      "dedupe_key": "2026년국립서울현충원제6회나라사랑보드게임대회|국가보훈부국립서울현충원|2026-08-01"
     },
     {
       "id": "3ee7fbd56379527287b4",
@@ -1801,7 +1801,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -1810,13 +1810,13 @@
           "source_post_id": "108794",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-07-31",
+      "recruit_end": "2026-08-01",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -1827,12 +1827,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026호남is코딩챌린지|전주정보문화산업진흥원|2026-07-31"
+      "dedupe_key": "2026호남is코딩챌린지|전주정보문화산업진흥원|2026-08-01"
     },
     {
       "id": "48a6567171add6a24822",
@@ -1860,7 +1860,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-31T01:51:30+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -1869,13 +1869,13 @@
           "source_post_id": "108662",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-07-30",
+      "recruit_end": "2026-07-31",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -1886,70 +1886,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "코웨이비렉스ai영상광고숏폼공모전|코웨이|2026-07-30"
-    },
-    {
-      "id": "a78e1440132be630b1ea",
-      "title": "[해커톤] 2026 스타트업 영그라운드 MVP 개발 해커톤(~7/30)",
-      "source_name": "씽굿",
-      "source_url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=108151",
-      "organizer": "강동구청년해냄센터",
-      "summary": "씽굿 공모 분야: 과학, 기획/아이디어, 취업/창업. 대학생, 대학원생, 일반인, 지역 제한. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "hackathon",
-      "field_tags": [
-        "창업"
-      ],
-      "audience_tags": [
-        "대학생",
-        "창업자·기업"
-      ],
-      "status": "closed",
-      "relevance": {
-        "score": 88,
-        "reasons": [
-          "제목 핵심 키워드: 스타트업",
-          "본문·분류 키워드: 스타트업, 창업",
-          "공고 유형: hackathon",
-          "게임·디지털 콘텐츠 형태로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-31T01:51:30+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
-      "sources": [
-        {
-          "source_id": "thinkcontest",
-          "source_name": "씽굿",
-          "source_url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=108151",
-          "source_post_id": "108151",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-07-10",
-      "recruit_end": "2026-07-30",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": -25,
-      "eligibility": "대학생, 대학원생, 일반인, 지역 제한",
-      "benefits": "PERK004",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "해커톤2026스타트업영그라운드mvp개발해커톤730|강동구청년해냄센터|2026-07-30"
+      "dedupe_key": "코웨이비렉스ai영상광고숏폼공모전|코웨이|2026-07-31"
     },
     {
       "id": "90f2950a8e49a203049f",
@@ -1977,7 +1919,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-02T07:13:14+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -1986,13 +1928,13 @@
           "source_post_id": "108289",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-07-30",
+      "recruit_end": "2026-07-31",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -2003,12 +1945,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026성평등영상콘텐츠공모전|제주특별자치도|2026-07-30"
+      "dedupe_key": "2026성평등영상콘텐츠공모전|제주특별자치도|2026-07-31"
     },
     {
       "id": "20cca6c3f9dda1be2400",
@@ -2039,7 +1981,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-31T01:51:30+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -2048,13 +1990,13 @@
           "source_post_id": "108417",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-07-30",
+      "recruit_end": "2026-07-31",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -2065,12 +2007,70 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026chai대학생ai광고공모전|차이커뮤니케이션|2026-07-30"
+      "dedupe_key": "2026chai대학생ai광고공모전|차이커뮤니케이션|2026-07-31"
+    },
+    {
+      "id": "a78e1440132be630b1ea",
+      "title": "[해커톤] 2026 스타트업 영그라운드 MVP 개발 해커톤(~7/30)",
+      "source_name": "씽굿",
+      "source_url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=108151",
+      "organizer": "강동구청년해냄센터",
+      "summary": "씽굿 공모 분야: 과학, 기획/아이디어, 취업/창업. 대학생, 대학원생, 일반인, 지역 제한. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "hackathon",
+      "field_tags": [
+        "창업"
+      ],
+      "audience_tags": [
+        "대학생",
+        "창업자·기업"
+      ],
+      "status": "closed",
+      "relevance": {
+        "score": 88,
+        "reasons": [
+          "제목 핵심 키워드: 스타트업",
+          "본문·분류 키워드: 스타트업, 창업",
+          "공고 유형: hackathon",
+          "게임·디지털 콘텐츠 형태로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-07-31T01:51:30+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
+      "sources": [
+        {
+          "source_id": "thinkcontest",
+          "source_name": "씽굿",
+          "source_url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=108151",
+          "source_post_id": "108151",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-08-25T00:03:10+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-07-10",
+      "recruit_end": "2026-07-30",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -26,
+      "eligibility": "대학생, 대학원생, 일반인, 지역 제한",
+      "benefits": "PERK004",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "해커톤2026스타트업영그라운드mvp개발해커톤730|강동구청년해냄센터|2026-07-30"
     },
     {
       "id": "f1b0eee1774225f2f365",
@@ -2096,7 +2096,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-01T00:30:58+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -2105,7 +2105,7 @@
           "source_post_id": "108180",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
@@ -2115,7 +2115,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -25,
+      "d_day": -26,
       "eligibility": "초등학생, 중학생, 고등학생, 동 연령대 청소년, 기타",
       "benefits": "",
       "location": "",
@@ -2153,7 +2153,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -2162,7 +2162,7 @@
           "source_post_id": "107584",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
@@ -2172,7 +2172,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -27,
+      "d_day": -28,
       "eligibility": "제한 없음",
       "benefits": "200만원",
       "location": "",
@@ -2269,7 +2269,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -2278,7 +2278,7 @@
           "source_post_id": "107415",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         },
         {
           "source_id": "wevity",
@@ -2287,13 +2287,13 @@
           "source_post_id": "108707",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-07-24",
+      "recruit_end": "2026-07-25",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -2304,12 +2304,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026년장애인분야해커톤대회장애플러스기술|한국장애인재단|2026-07-24"
+      "dedupe_key": "2026년장애인분야해커톤대회장애플러스기술|한국장애인재단|2026-07-25"
     },
     {
       "id": "fd26cf055872a7bf2887",
@@ -2336,7 +2336,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -2345,13 +2345,13 @@
           "source_post_id": "108981",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-07-22",
+      "recruit_end": "2026-07-23",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -2362,12 +2362,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "제19회경상북도아마추어e스포츠대회참가모집|경상북도|2026-07-22"
+      "dedupe_key": "제19회경상북도아마추어e스포츠대회참가모집|경상북도|2026-07-23"
     },
     {
       "id": "1f451007eff88b05f98d",
@@ -2395,7 +2395,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -2404,13 +2404,13 @@
           "source_post_id": "109032",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-07-21",
+      "recruit_end": "2026-07-22",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -2421,12 +2421,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026관광데이터활용공모전웹앱구현부문|한국관광공사|2026-07-21"
+      "dedupe_key": "2026관광데이터활용공모전웹앱구현부문|한국관광공사|2026-07-22"
     },
     {
       "id": "a7c5f97da5dad430d72f",
@@ -2458,7 +2458,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -2467,7 +2467,7 @@
           "source_post_id": "106706",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         },
         {
           "source_id": "wevity",
@@ -2476,13 +2476,13 @@
           "source_post_id": "107947",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-07-19",
+      "recruit_end": "2026-07-20",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -2493,12 +2493,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "넥슨영프로그래머스컵nexonyoungprogrammerscup|넥슨|2026-07-19"
+      "dedupe_key": "넥슨영프로그래머스컵nexonyoungprogrammerscup|넥슨|2026-07-20"
     },
     {
       "id": "132dc6d82db1c89a50d0",
@@ -2528,7 +2528,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -2537,7 +2537,7 @@
           "source_post_id": "107750",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
@@ -2547,7 +2547,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -36,
+      "d_day": -37,
       "eligibility": "대학생, 대학원생, 일반인",
       "benefits": "PERK004",
       "location": "",
@@ -2584,7 +2584,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -2593,13 +2593,13 @@
           "source_post_id": "108424",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-07-17",
+      "recruit_end": "2026-07-18",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -2610,12 +2610,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "제5회경운대학교지능형모빌리티sw경진대회|경운대학교경운대학교소프트웨어중심대학사업|2026-07-17"
+      "dedupe_key": "제5회경운대학교지능형모빌리티sw경진대회|경운대학교경운대학교소프트웨어중심대학사업|2026-07-18"
     },
     {
       "id": "43477b34c955a1ef30cb",
@@ -2642,7 +2642,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -2651,13 +2651,13 @@
           "source_post_id": "108754",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-07-17",
+      "recruit_end": "2026-07-18",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -2668,12 +2668,69 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "snuaichallenge2026|서울대학교|2026-07-17"
+      "dedupe_key": "snuaichallenge2026|서울대학교|2026-07-18"
+    },
+    {
+      "id": "e5fc7bfe7dd57051dbc5",
+      "title": "2026 홍천 e스포츠 페스티벌",
+      "source_name": "위비티",
+      "source_url": "https://www.wevity.com/?c=find&s=1&mode=end&gub=1&cidx=21&gbn=view&gp=1&ix=108704",
+      "organizer": "홍천군,홍천문화재단,대한생활체육회e스포츠협회",
+      "summary": "위비티 등록 분야: 게임/소프트웨어. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "other",
+      "field_tags": [
+        "게임",
+        "소프트웨어"
+      ],
+      "audience_tags": [],
+      "status": "closed",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: e스포츠",
+          "본문·분류 키워드: e스포츠, 게임, 소프트웨어",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-07-30T17:42:50+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
+      "sources": [
+        {
+          "source_id": "wevity",
+          "source_name": "위비티",
+          "source_url": "https://www.wevity.com/?c=find&s=1&mode=end&gub=1&cidx=21&gbn=view&gp=1&ix=108704",
+          "source_post_id": "108704",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-08-25T00:03:10+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-07-16",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -40,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
+      "change_flags": [
+        "recruit_end"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026홍천e스포츠페스티벌|홍천군홍천문화재단대한생활체육회e스포츠협회|2026-07-16"
     },
     {
       "id": "1bd2c6eeb2eaf0d0bd2f",
@@ -2705,7 +2762,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -2714,7 +2771,7 @@
           "source_post_id": "108097",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
@@ -2724,7 +2781,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -40,
+      "d_day": -41,
       "eligibility": "대학생, 대학원생, 일반인, 지역 제한",
       "benefits": "PERK001",
       "location": "",
@@ -2735,63 +2792,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "청년거버넌스참여단모집|전주정보문화산업진흥원|2026-07-15"
-    },
-    {
-      "id": "e5fc7bfe7dd57051dbc5",
-      "title": "2026 홍천 e스포츠 페스티벌",
-      "source_name": "위비티",
-      "source_url": "https://www.wevity.com/?c=find&s=1&mode=end&gub=1&cidx=21&gbn=view&gp=1&ix=108704",
-      "organizer": "홍천군,홍천문화재단,대한생활체육회e스포츠협회",
-      "summary": "위비티 등록 분야: 게임/소프트웨어. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "other",
-      "field_tags": [
-        "게임",
-        "소프트웨어"
-      ],
-      "audience_tags": [],
-      "status": "closed",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: e스포츠",
-          "본문·분류 키워드: e스포츠, 게임, 소프트웨어",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
-      "sources": [
-        {
-          "source_id": "wevity",
-          "source_name": "위비티",
-          "source_url": "https://www.wevity.com/?c=find&s=1&mode=end&gub=1&cidx=21&gbn=view&gp=1&ix=108704",
-          "source_post_id": "108704",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-07-15",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": -40,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
-      "change_flags": [
-        "recruit_end"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026홍천e스포츠페스티벌|홍천군홍천문화재단대한생활체육회e스포츠협회|2026-07-15"
     },
     {
       "id": "fe198eaa95277620faba",
@@ -2819,7 +2819,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -2828,13 +2828,13 @@
           "source_post_id": "106656",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-07-14",
+      "recruit_end": "2026-07-15",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -2845,12 +2845,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026년전주mbck하이테크플랫폼제2회가상현실공간창작공모전|전주mbck하이테크플랫폼|2026-07-14"
+      "dedupe_key": "2026년전주mbck하이테크플랫폼제2회가상현실공간창작공모전|전주mbck하이테크플랫폼|2026-07-15"
     },
     {
       "id": "7f03ed369cd9145f8b3c",
@@ -2878,7 +2878,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -2887,13 +2887,13 @@
           "source_post_id": "108702",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-07-10",
+      "recruit_end": "2026-07-11",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -2904,12 +2904,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "moveaichallenge2026물류ai아이디어구현해커톤|국토교통부물류산업진흥재단|2026-07-10"
+      "dedupe_key": "moveaichallenge2026물류ai아이디어구현해커톤|국토교통부물류산업진흥재단|2026-07-11"
     },
     {
       "id": "8b23653f500d2a91a308",
@@ -2935,7 +2935,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -2944,13 +2944,13 @@
           "source_post_id": "108567",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-07-10",
+      "recruit_end": "2026-07-11",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -2961,12 +2961,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026년제8회k디지털트레이닝해커톤|고용노동부|2026-07-10"
+      "dedupe_key": "2026년제8회k디지털트레이닝해커톤|고용노동부|2026-07-11"
     },
     {
       "id": "b50de0d39600980a8d5d",
@@ -2994,7 +2994,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3003,13 +3003,13 @@
           "source_post_id": "108490",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-07-10",
+      "recruit_end": "2026-07-11",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -3020,12 +3020,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026년시민공무원ai공모전|화성시|2026-07-10"
+      "dedupe_key": "2026년시민공무원ai공모전|화성시|2026-07-11"
     },
     {
       "id": "b80464f99db01fca7e03",
@@ -3053,7 +3053,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3062,13 +3062,13 @@
           "source_post_id": "107632",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-07-10",
+      "recruit_end": "2026-07-11",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -3079,12 +3079,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026전국청소년ai에이전트코딩경진대회참가비있음|한양미래연구소|2026-07-10"
+      "dedupe_key": "2026전국청소년ai에이전트코딩경진대회참가비있음|한양미래연구소|2026-07-11"
     },
     {
       "id": "688799f867a290a6b198",
@@ -3115,7 +3115,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -3124,7 +3124,7 @@
           "source_post_id": "105657",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
@@ -3134,7 +3134,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -47,
+      "d_day": -48,
       "eligibility": "제한 없음",
       "benefits": "1,500만원",
       "location": "",
@@ -3173,7 +3173,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3182,13 +3182,13 @@
           "source_post_id": "108225",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-07-05",
+      "recruit_end": "2026-07-06",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -3199,12 +3199,68 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "scpc2026제12회삼성전자대학생프로그래밍챌린지내용수정|삼성전자|2026-07-05"
+      "dedupe_key": "scpc2026제12회삼성전자대학생프로그래밍챌린지내용수정|삼성전자|2026-07-06"
+    },
+    {
+      "id": "cc93b93c036f6218a02f",
+      "title": "2026 동남권 정보보호 사이버공방전 (SECTOR) 참가자 모집",
+      "source_name": "위비티",
+      "source_url": "https://www.wevity.com/?c=find&s=1&mode=end&gub=1&cidx=21&gbn=view&gp=1&ix=108224",
+      "organizer": "경상남도",
+      "summary": "위비티 등록 분야: 게임/소프트웨어. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "other",
+      "field_tags": [
+        "게임",
+        "소프트웨어"
+      ],
+      "audience_tags": [],
+      "status": "closed",
+      "relevance": {
+        "score": 76,
+        "reasons": [
+          "본문·분류 키워드: 게임, 소프트웨어",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-07-30T17:42:50+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
+      "sources": [
+        {
+          "source_id": "wevity",
+          "source_name": "위비티",
+          "source_url": "https://www.wevity.com/?c=find&s=1&mode=end&gub=1&cidx=21&gbn=view&gp=1&ix=108224",
+          "source_post_id": "108224",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-08-25T00:03:10+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-07-04",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -52,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
+      "change_flags": [
+        "recruit_end"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026동남권정보보호사이버공방전sector참가자모집|경상남도|2026-07-04"
     },
     {
       "id": "3164eb1ea9f308b5afc7",
@@ -3239,7 +3295,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-19T08:40:04+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -3248,7 +3304,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
@@ -3258,75 +3314,19 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -52,
+      "d_day": -53,
       "eligibility": "",
       "benefits": "",
-      "location": "서울 중구 청계천로 14 NIA 서울사무소 지하 1층 대회의실 지도보기 무료 선착순 정원 50 명 2026.9.9 (수) 23:59 까지 35 명 신청가능 온라인 이벤트기간 202",
+      "location": "서울 중구 청계천로 14 NIA 서울사무소 지하 1층 대회의실 지도보기 무료 선착순 정원 50 명 2026.9.9 (수) 23:59 까지 34 명 신청가능 온라인 이벤트기간 202",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T00:39:59+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
-        "eligibility"
+        "location"
       ],
       "is_manual_reviewed": false,
       "dedupe_key": "2026년오픈데이터포럼odf제2차열린세미나|측가아닙니다이벤트내용과관련한사항은이벤트개설자에게문의바랍니다hoti|2026-07-03"
-    },
-    {
-      "id": "cc93b93c036f6218a02f",
-      "title": "2026 동남권 정보보호 사이버공방전 (SECTOR) 참가자 모집",
-      "source_name": "위비티",
-      "source_url": "https://www.wevity.com/?c=find&s=1&mode=end&gub=1&cidx=21&gbn=view&gp=1&ix=108224",
-      "organizer": "경상남도",
-      "summary": "위비티 등록 분야: 게임/소프트웨어. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "other",
-      "field_tags": [
-        "게임",
-        "소프트웨어"
-      ],
-      "audience_tags": [],
-      "status": "closed",
-      "relevance": {
-        "score": 76,
-        "reasons": [
-          "본문·분류 키워드: 게임, 소프트웨어",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
-      "sources": [
-        {
-          "source_id": "wevity",
-          "source_name": "위비티",
-          "source_url": "https://www.wevity.com/?c=find&s=1&mode=end&gub=1&cidx=21&gbn=view&gp=1&ix=108224",
-          "source_post_id": "108224",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-07-03",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": -52,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
-      "change_flags": [
-        "recruit_end"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026동남권정보보호사이버공방전sector참가자모집|경상남도|2026-07-03"
     },
     {
       "id": "455112f9b86ca4934176",
@@ -3351,7 +3351,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3360,13 +3360,13 @@
           "source_post_id": "108415",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-07-01",
+      "recruit_end": "2026-07-02",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -3377,12 +3377,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026큐챔스cubechampionsleague|e스포츠연합동아리cube|2026-07-01"
+      "dedupe_key": "2026큐챔스cubechampionsleague|e스포츠연합동아리cube|2026-07-02"
     },
     {
       "id": "dc1f3c9e1e83376e2832",
@@ -3412,7 +3412,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3421,13 +3421,13 @@
           "source_post_id": "108287",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-06-30",
+      "recruit_end": "2026-07-01",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -3438,12 +3438,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": true,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "제4회대한민국청년인재양성프로젝트참가자모집|im금융그룹|2026-06-30"
+      "dedupe_key": "제4회대한민국청년인재양성프로젝트참가자모집|im금융그룹|2026-07-01"
     },
     {
       "id": "2cae6a4d451429bde22f",
@@ -3472,7 +3472,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3481,13 +3481,13 @@
           "source_post_id": "107650",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-06-30",
+      "recruit_end": "2026-07-01",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -3498,12 +3498,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "서울디자인ai영상공모전|서울특별시|2026-06-30"
+      "dedupe_key": "서울디자인ai영상공모전|서울특별시|2026-07-01"
     },
     {
       "id": "c370be67092597786904",
@@ -3530,7 +3530,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3539,13 +3539,13 @@
           "source_post_id": "108263",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-06-30",
+      "recruit_end": "2026-07-01",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -3556,12 +3556,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026강원콘텐츠페스타강원중고교e스포츠대항전|문화체육관광부한국콘텐츠진흥원강원특별자치도|2026-06-30"
+      "dedupe_key": "2026강원콘텐츠페스타강원중고교e스포츠대항전|문화체육관광부한국콘텐츠진흥원강원특별자치도|2026-07-01"
     },
     {
       "id": "2d68fbd097eb0540ab26",
@@ -3592,7 +3592,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3601,7 +3601,7 @@
           "source_post_id": "106965",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         },
         {
           "source_id": "wevity",
@@ -3610,13 +3610,13 @@
           "source_post_id": "106875",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-06-26",
+      "recruit_end": "2026-06-27",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -3627,12 +3627,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "제4회문화체육관광인공지능데이터활용공모전|문화체육관광부|2026-06-26"
+      "dedupe_key": "제4회문화체육관광인공지능데이터활용공모전|문화체육관광부|2026-06-27"
     },
     {
       "id": "9ae0dc55a01a1ccd35ba",
@@ -3663,7 +3663,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3672,13 +3672,13 @@
           "source_post_id": "107244",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-06-26",
+      "recruit_end": "2026-06-27",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -3689,12 +3689,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026년ai가상융합xr서비스개발자경진대회|과학기술정보통신부|2026-06-26"
+      "dedupe_key": "2026년ai가상융합xr서비스개발자경진대회|과학기술정보통신부|2026-06-27"
     },
     {
       "id": "f10b426220538a064b60",
@@ -3725,7 +3725,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3734,13 +3734,13 @@
           "source_post_id": "107424",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-06-25",
+      "recruit_end": "2026-06-26",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -3751,12 +3751,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026부산광역시공공데이터ai활용창업경진대회idea|부산광역시|2026-06-25"
+      "dedupe_key": "2026부산광역시공공데이터ai활용창업경진대회idea|부산광역시|2026-06-26"
     },
     {
       "id": "c4d6b8791c55d3d6f6dc",
@@ -3784,7 +3784,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3793,13 +3793,13 @@
           "source_post_id": "108154",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-06-25",
+      "recruit_end": "2026-06-26",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -3810,12 +3810,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026글로벌인디게임제작경진대회gigdc2026|한국콘텐츠진흥원|2026-06-25"
+      "dedupe_key": "2026글로벌인디게임제작경진대회gigdc2026|한국콘텐츠진흥원|2026-06-26"
     },
     {
       "id": "2575e41cdf219fe8b07c",
@@ -3841,7 +3841,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3850,13 +3850,13 @@
           "source_post_id": "108067",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-06-22",
+      "recruit_end": "2026-06-23",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -3867,12 +3867,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026gngcgamejam|경남글로벌게임센터|2026-06-22"
+      "dedupe_key": "2026gngcgamejam|경남글로벌게임센터|2026-06-23"
     },
     {
       "id": "d562d122f5a3d3060052",
@@ -3900,7 +3900,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3909,13 +3909,13 @@
           "source_post_id": "107195",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-06-19",
+      "recruit_end": "2026-06-20",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -3926,12 +3926,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026년제4회ai프로그래밍무인이동체제어민간기능경기대회|사단법인한국기능연합회|2026-06-19"
+      "dedupe_key": "2026년제4회ai프로그래밍무인이동체제어민간기능경기대회|사단법인한국기능연합회|2026-06-20"
     },
     {
       "id": "13e30beed9dcc64d0fc6",
@@ -3964,7 +3964,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -3973,7 +3973,7 @@
           "source_post_id": "106333",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
@@ -3983,7 +3983,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -68,
+      "d_day": -69,
       "eligibility": "제한 없음",
       "benefits": "200만원",
       "location": "",
@@ -4027,7 +4027,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-20T17:58:20+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -4036,7 +4036,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
@@ -4046,7 +4046,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -68,
+      "d_day": -69,
       "eligibility": "",
       "benefits": "",
       "location": "스트리밍 무료 선착순 정원 100 명 2026.9.7 (월) 18:00 까지 84 명 신청가능 온라인 + 의정부 교육 이벤트기간 2026.9.9 (수) 10:00 ~ 16:00 구",
@@ -4085,7 +4085,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -4094,13 +4094,13 @@
           "source_post_id": "107818",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-06-11",
+      "recruit_end": "2026-06-12",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -4111,12 +4111,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026인천e스포츠챌린지리그오브레전드발로란트이터널리턴fc온라인브롤스타즈|인천광역시|2026-06-11"
+      "dedupe_key": "2026인천e스포츠챌린지리그오브레전드발로란트이터널리턴fc온라인브롤스타즈|인천광역시|2026-06-12"
     },
     {
       "id": "475567e7cc0b9c26e781",
@@ -4145,7 +4145,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -4154,7 +4154,7 @@
           "source_post_id": "105162",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
@@ -4164,7 +4164,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -80,
+      "d_day": -81,
       "eligibility": "대학생, 대학원생, 일반인",
       "benefits": "",
       "location": "",
@@ -4201,7 +4201,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -4210,13 +4210,13 @@
           "source_post_id": "107466",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-06-03",
+      "recruit_end": "2026-06-04",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -4227,12 +4227,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "스마일게이트멤버십인디게임부문18기모집|스마일게이트퓨처랩|2026-06-03"
+      "dedupe_key": "스마일게이트멤버십인디게임부문18기모집|스마일게이트퓨처랩|2026-06-04"
     },
     {
       "id": "a8e0679cbdca4893e543",
@@ -4258,7 +4258,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-08-24T23:06:27+09:00",
+      "last_seen_at": "2026-08-25T00:03:10+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -4267,13 +4267,13 @@
           "source_post_id": "106562",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-24T23:06:27+09:00"
+          "fetched_at": "2026-08-25T00:03:10+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-05-29",
+      "recruit_end": "2026-05-30",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
@@ -4284,12 +4284,12 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-24T12:18:24+09:00",
+      "last_changed_at": "2026-08-25T00:03:10+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "제16회eicon세계대회참가자모집|교육부|2026-05-29"
+      "dedupe_key": "제16회eicon세계대회참가자모집|교육부|2026-05-30"
     }
   ]
 }
