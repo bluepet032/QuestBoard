@@ -1,7 +1,484 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-25T22:32:27+09:00",
+  "generated_at": "2026-08-25T23:08:00+09:00",
   "items": [
+    {
+      "id": "7d34b901ed02de95d506",
+      "title": "Aimers 9기 : 투구 제구 성공 확률 예측 AI 온라인 해커톤",
+      "source_name": "DACON",
+      "source_url": "https://dacon.io/competitions/official/236743/overview/description",
+      "organizer": ", 타자 대응 전략에 직접적인 영향을 주는 핵심 요소입니다. 기존에는 투수의 제구력을 평균",
+      "summary": "LG Aimers | 채용 | 알고리즘 | 코드제출 | 정형 | 스포츠 | 야구. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "hackathon",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "데이터"
+      ],
+      "audience_tags": [],
+      "status": "unknown",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: ai",
+          "본문·분류 키워드: ai, 데이터, 시스템, 알고리즘",
+          "공고 유형: hackathon",
+          "IT·게임 전문 출처",
+          "게임·디지털 콘텐츠 형태로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-08-05T12:36:21+09:00",
+      "last_seen_at": "2026-08-25T23:08:00+09:00",
+      "sources": [
+        {
+          "source_id": "dacon",
+          "source_name": "DACON",
+          "source_url": "https://dacon.io/competitions/official/236743/overview/description",
+          "source_post_id": null,
+          "kind": "specialist",
+          "priority": 60,
+          "fetched_at": "2026-08-25T23:08:00+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": null,
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "unknown",
+      "d_day": null,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "aimers9기투구제구성공확률예측ai온라인해커톤|타자대응전략에직접적인영향을주는핵심요소입니다기존에는투수의제구력을평균|"
+    },
+    {
+      "id": "1fe719993762b5a8f149",
+      "title": "제3회 풍력발전량 예측 AI 경진대회 - BARAM 2026",
+      "source_name": "DACON",
+      "source_url": "https://dacon.io/competitions/official/236727/overview/description",
+      "organizer": "환경에서는 기상예보 데이터를 바탕으로 향후 발전량을 정밀하게 예측하는 역량이 필요합니다.",
+      "summary": "알고리즘 | 사전 워크샵 | 정형 | 회귀 | 에너지 | 정산금 | NMAE. 으로 2차 발표평가가 진행됩니다. 2차 발표평가에서는 과제 이해도, 기술 우수성, 문제 해결력, 적용 가능성 등을 종합적으로 평가하여 최종 수상팀을 선정합니다. [주최 / 주관]",
+      "primary_type": "contest",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "데이터"
+      ],
+      "audience_tags": [
+        "대학생"
+      ],
+      "status": "unknown",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: ai",
+          "본문·분류 키워드: ai, 데이터, 시스템, 알고리즘",
+          "공고 유형: contest",
+          "IT·게임 전문 출처"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-07-30T14:33:47+09:00",
+      "last_seen_at": "2026-08-25T23:08:00+09:00",
+      "sources": [
+        {
+          "source_id": "dacon",
+          "source_name": "DACON",
+          "source_url": "https://dacon.io/competitions/official/236727/overview/description",
+          "source_post_id": null,
+          "kind": "specialist",
+          "priority": 60,
+          "fetched_at": "2026-08-25T23:08:00+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": null,
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "unknown",
+      "d_day": null,
+      "eligibility": "으로 2차 발표평가가 진행됩니다. 2차 발표평가에서는 과제 이해도, 기술 우수성, 문제 해결력, 적용 가능성 등을 종합적으로 평가하여 최종 수상팀을 선정합니다. [주최 / 주관]",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "제3회풍력발전량예측ai경진대회baram2026|환경에서는기상예보데이터를바탕으로향후발전량을정밀하게예측하는역량이필요합니다|"
+    },
+    {
+      "id": "eb549830fee8573e54ab",
+      "title": "2026 AI·SW중심대학 디지털 경진대회 : SW부문",
+      "source_name": "DACON",
+      "source_url": "https://dacon.io/competitions/official/236693/overview/description",
+      "organizer": "/ 주관] 주최",
+      "summary": "AI·SW중심대학 | SW부문 | AI·SW개발 | AI Agent. ] AI·SW중심대학 학생(57개교) ※ 참가 접수일 (5.26.~6.8.) 기준 재학생 및 휴학생 참가 가능(전공무관), 졸업생 참가 불가 ※ 동일인 2개 부문 중복 접수 불가",
+      "primary_type": "contest",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "데이터",
+        "클라우드·보안"
+      ],
+      "audience_tags": [
+        "대학생"
+      ],
+      "status": "unknown",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: ai, sw",
+          "본문·분류 키워드: ai, sw, 데이터, 보안",
+          "공고 유형: contest",
+          "IT·게임 전문 출처"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-08-13T11:49:36+09:00",
+      "last_seen_at": "2026-08-25T23:08:00+09:00",
+      "sources": [
+        {
+          "source_id": "dacon",
+          "source_name": "DACON",
+          "source_url": "https://dacon.io/competitions/official/236693/overview/description",
+          "source_post_id": null,
+          "kind": "specialist",
+          "priority": 60,
+          "fetched_at": "2026-08-25T23:08:00+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": null,
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "unknown",
+      "d_day": null,
+      "eligibility": "] AI·SW중심대학 학생(57개교) ※ 참가 접수일 (5.26.~6.8.) 기준 재학생 및 휴학생 참가 가능(전공무관), 졸업생 참가 불가 ※ 동일인 2개 부문 중복 접수 불가",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026aisw중심대학디지털경진대회sw부문|주관주최|"
+    },
+    {
+      "id": "a2a5313c48d0e6d3b6e9",
+      "title": "2026 AI·SW중심대학 디지털 경진대회 : AI부문",
+      "source_name": "DACON",
+      "source_url": "https://dacon.io/competitions/official/236694/overview/description",
+      "organizer": "/ 주관] 주최",
+      "summary": "AI·SW중심대학 | AI부문 | 알고리즘 | NLP | AI Agent | 코드 제출 평가. 은 파일 읽기·검색·수정, 셸 명령 실행, 테스트 실행, 사용자 질문 등 에이전트의 주요 탐색·수정·실행·대화 행동을 포함하며, 평가지표는 14개 클래스에 대한 Macro-F1입니",
+      "primary_type": "contest",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "데이터"
+      ],
+      "audience_tags": [
+        "대학생"
+      ],
+      "status": "unknown",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: ai, sw",
+          "본문·분류 키워드: ai, sw, 데이터, 시스템",
+          "공고 유형: contest",
+          "IT·게임 전문 출처"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-08-13T11:49:36+09:00",
+      "last_seen_at": "2026-08-25T23:08:00+09:00",
+      "sources": [
+        {
+          "source_id": "dacon",
+          "source_name": "DACON",
+          "source_url": "https://dacon.io/competitions/official/236694/overview/description",
+          "source_post_id": null,
+          "kind": "specialist",
+          "priority": 60,
+          "fetched_at": "2026-08-25T23:08:00+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": null,
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "unknown",
+      "d_day": null,
+      "eligibility": "은 파일 읽기·검색·수정, 셸 명령 실행, 테스트 실행, 사용자 질문 등 에이전트의 주요 탐색·수정·실행·대화 행동을 포함하며, 평가지표는 14개 클래스에 대한 Macro-F1입니",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026aisw중심대학디지털경진대회ai부문|주관주최|"
+    },
+    {
+      "id": "dc8b05abe27f394c8942",
+      "title": "[1차예선] 2026 Samsung Collegiate Programming Challenge : AI 챌린지",
+      "source_name": "DACON",
+      "source_url": "https://dacon.io/competitions/official/236730/overview/description",
+      "organizer": "/ 운영] 주최: 삼성전자 주관: 삼성리서치 운영: 데이콘 대회 주요 일정 06.11 참가",
+      "summary": "채용 | SCPC | 알고리즘 | sLM | Harness Engineering. 으로 프로그래밍 챌린지 SCPC(Samsung Collegiate Programming Challenge) 를 개최하며, 알고리즘 기반 문제 해결 능력을 갖춘 우수 인재를 지속적으",
+      "primary_type": "contest",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "데이터",
+        "클라우드·보안"
+      ],
+      "audience_tags": [
+        "대학생"
+      ],
+      "status": "unknown",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: ai",
+          "본문·분류 키워드: ai, api, 데이터, 보안",
+          "공고 유형: contest",
+          "IT·게임 전문 출처"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-07-30T14:50:14+09:00",
+      "last_seen_at": "2026-08-25T23:08:00+09:00",
+      "sources": [
+        {
+          "source_id": "dacon",
+          "source_name": "DACON",
+          "source_url": "https://dacon.io/competitions/official/236730/overview/description",
+          "source_post_id": null,
+          "kind": "specialist",
+          "priority": 60,
+          "fetched_at": "2026-08-25T23:08:00+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": null,
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "unknown",
+      "d_day": null,
+      "eligibility": "으로 프로그래밍 챌린지 SCPC(Samsung Collegiate Programming Challenge) 를 개최하며, 알고리즘 기반 문제 해결 능력을 갖춘 우수 인재를 지속적으",
+      "benefits": "을 제공합니다. [대회 방식] 본 챌린지는 개인전(1인)이며 1차, 2차 예선과 본선 순으로 진행됩니다. 🔹1차 예선 : 2차 예선 진출자를 선발하기 위한 과정이며 Private",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "1차예선2026samsungcollegiateprogrammingchallengeai챌린지|운영주최삼성전자주관삼성리서치운영데이콘대회주요일정0611참가|"
+    },
+    {
+      "id": "d5967ee5527543bd8928",
+      "title": "모기 비행 궤적 예측 AI 경진대회",
+      "source_name": "DACON",
+      "source_url": "https://dacon.io/competitions/official/236716/overview/description",
+      "organizer": "/ 주관] 데이콘 [문의처] 대회 기간 중 공식 답변은 토크 게시판을 통해서만 제공됩니다.",
+      "summary": "알고리즘 | 시계열 | 정형 | 회귀 | LiDAR | Hit Rate. ] 일반인, 학생, 직장인 등 데이터 분석 및 AI 모델링에 관심이 있는 누구나 [주최 / 주관] 데이콘 [문의처] 대회 기간 중 공식 답변은 토크 게시판을 통해서만 제공됩니다.",
+      "primary_type": "contest",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "데이터",
+        "디지털 콘텐츠"
+      ],
+      "audience_tags": [],
+      "status": "unknown",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: ai",
+          "본문·분류 키워드: 3d, ai, 데이터, 시스템",
+          "공고 유형: contest",
+          "IT·게임 전문 출처"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-07-30T16:37:20+09:00",
+      "last_seen_at": "2026-08-25T23:08:00+09:00",
+      "sources": [
+        {
+          "source_id": "dacon",
+          "source_name": "DACON",
+          "source_url": "https://dacon.io/competitions/official/236716/overview/description",
+          "source_post_id": null,
+          "kind": "specialist",
+          "priority": 60,
+          "fetched_at": "2026-08-25T23:08:00+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": null,
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "unknown",
+      "d_day": null,
+      "eligibility": "] 일반인, 학생, 직장인 등 데이터 분석 및 AI 모델링에 관심이 있는 누구나 [주최 / 주관] 데이콘 [문의처] 대회 기간 중 공식 답변은 토크 게시판을 통해서만 제공됩니다.",
+      "benefits": "",
+      "location": "및 환경 조건을 기반으로 구성되므로, 특정 공간 구조를 외우는 방식보다는 센서 기준 상대 운동 패턴과 짧은 시간 뒤의 위치 변화를 일반화하여 예측하는 것이 핵심입니다. [참가 대상",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "모기비행궤적예측ai경진대회|주관데이콘문의처대회기간중공식답변은토크게시판을통해서만제공됩니다|"
+    },
+    {
+      "id": "8131a025111843c183bd",
+      "title": "스마트 창고 출고 지연 예측 AI 경진대회",
+      "source_name": "DACON",
+      "source_url": "https://dacon.io/competitions/official/236696/overview/description",
+      "organizer": "요인이 복합적으로 작용하면서, 출고 지연을 사전에 예측하고 대응하는 것은 여전히 어려운 과",
+      "summary": "알고리즘 | 정형 | 회귀 | 스마트물류 | MAE. ] 일반인, 학생, 직장인 등 데이터 분석에 관심이 있는 누구나 [주최 / 주관] 주최 / 주관 : 데이콘 [문의처] 대회 기간 중 공식 답변은 토크 게시판 을 통해서만 제공됩니다",
+      "primary_type": "contest",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "데이터"
+      ],
+      "audience_tags": [],
+      "status": "unknown",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: ai",
+          "본문·분류 키워드: ai, 데이터, 시스템, 알고리즘",
+          "공고 유형: contest",
+          "IT·게임 전문 출처"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-07-30T16:37:20+09:00",
+      "last_seen_at": "2026-08-25T23:08:00+09:00",
+      "sources": [
+        {
+          "source_id": "dacon",
+          "source_name": "DACON",
+          "source_url": "https://dacon.io/competitions/official/236696/overview/description",
+          "source_post_id": null,
+          "kind": "specialist",
+          "priority": 60,
+          "fetched_at": "2026-08-25T23:08:00+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": null,
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "unknown",
+      "d_day": null,
+      "eligibility": "] 일반인, 학생, 직장인 등 데이터 분석에 관심이 있는 누구나 [주최 / 주관] 주최 / 주관 : 데이콘 [문의처] 대회 기간 중 공식 답변은 토크 게시판 을 통해서만 제공됩니다",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "스마트창고출고지연예측ai경진대회|요인이복합적으로작용하면서출고지연을사전에예측하고대응하는것은여전히어려운과|"
+    },
+    {
+      "id": "fbff609131b0dbfd01da",
+      "title": "Aimers 8기 : 모델 경량화 오프라인 해커톤",
+      "source_name": "DACON",
+      "source_url": "https://dacon.io/competitions/official/236689/overview/description",
+      "organizer": "비용 등의 제약으로 인해 모델 크기를 줄이면서도 성능을 유지하는 기술이 중요한 과제로 부상",
+      "summary": "LG Aimers | 채용 | 알고리즘 | LLM | 코드제출 | 경량화. 으로 한 실전 중심의 LLM 경량화를 수행하게 됩니다. [주제] LLM 경량화 (Large Language Model Compression) [설명] 본 해커톤의 기본 모델인 EX",
+      "primary_type": "hackathon",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "데이터",
+        "클라우드·보안"
+      ],
+      "audience_tags": [],
+      "status": "unknown",
+      "relevance": {
+        "score": 92,
+        "reasons": [
+          "본문·분류 키워드: ai, 데이터, 모바일, 시스템",
+          "공고 유형: hackathon",
+          "IT·게임 전문 출처",
+          "게임·디지털 콘텐츠 형태로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-07-30T16:37:20+09:00",
+      "last_seen_at": "2026-08-25T23:08:00+09:00",
+      "sources": [
+        {
+          "source_id": "dacon",
+          "source_name": "DACON",
+          "source_url": "https://dacon.io/competitions/official/236689/overview/description",
+          "source_post_id": null,
+          "kind": "specialist",
+          "priority": 60,
+          "fetched_at": "2026-08-25T23:08:00+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": null,
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "unknown",
+      "d_day": null,
+      "eligibility": "으로 한 실전 중심의 LLM 경량화를 수행하게 됩니다. [주제] LLM 경량화 (Large Language Model Compression) [설명] 본 해커톤의 기본 모델인 EX",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "aimers8기모델경량화오프라인해커톤|비용등의제약으로인해모델크기를줄이면서도성능을유지하는기술이중요한과제로부상|"
+    },
     {
       "id": "679238eaf29512dd0573",
       "title": "[부산] 2026년 게임ㆍ콘텐츠 기업을 위한 무료 법률 자문 오피스아워 상시 모집 공고",
@@ -1096,483 +1573,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "광주2026년소상공인sns블로그홍보지원참여업체모집공고디지털콘텐츠홍보지원사업|광주경제진흥상생일자리재단|"
-    },
-    {
-      "id": "7d34b901ed02de95d506",
-      "title": "Aimers 9기 : 투구 제구 성공 확률 예측 AI 온라인 해커톤",
-      "source_name": "DACON",
-      "source_url": "https://dacon.io/competitions/official/236743/overview/description",
-      "organizer": ", 타자 대응 전략에 직접적인 영향을 주는 핵심 요소입니다. 기존에는 투수의 제구력을 평균",
-      "summary": "LG Aimers | 채용 | 알고리즘 | 코드제출 | 정형 | 스포츠 | 야구. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "hackathon",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "데이터"
-      ],
-      "audience_tags": [],
-      "status": "unknown",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai",
-          "본문·분류 키워드: ai, 데이터, 시스템, 알고리즘",
-          "공고 유형: hackathon",
-          "IT·게임 전문 출처",
-          "게임·디지털 콘텐츠 형태로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-08-05T12:36:21+09:00",
-      "last_seen_at": "2026-08-25T22:13:24+09:00",
-      "sources": [
-        {
-          "source_id": "dacon",
-          "source_name": "DACON",
-          "source_url": "https://dacon.io/competitions/official/236743/overview/description",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-08-25T22:13:24+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": null,
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "unknown",
-      "d_day": null,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "aimers9기투구제구성공확률예측ai온라인해커톤|타자대응전략에직접적인영향을주는핵심요소입니다기존에는투수의제구력을평균|"
-    },
-    {
-      "id": "1fe719993762b5a8f149",
-      "title": "제3회 풍력발전량 예측 AI 경진대회 - BARAM 2026",
-      "source_name": "DACON",
-      "source_url": "https://dacon.io/competitions/official/236727/overview/description",
-      "organizer": "환경에서는 기상예보 데이터를 바탕으로 향후 발전량을 정밀하게 예측하는 역량이 필요합니다.",
-      "summary": "알고리즘 | 사전 워크샵 | 정형 | 회귀 | 에너지 | 정산금 | NMAE. 으로 2차 발표평가가 진행됩니다. 2차 발표평가에서는 과제 이해도, 기술 우수성, 문제 해결력, 적용 가능성 등을 종합적으로 평가하여 최종 수상팀을 선정합니다. [주최 / 주관]",
-      "primary_type": "contest",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "데이터"
-      ],
-      "audience_tags": [
-        "대학생"
-      ],
-      "status": "unknown",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai",
-          "본문·분류 키워드: ai, 데이터, 시스템, 알고리즘",
-          "공고 유형: contest",
-          "IT·게임 전문 출처"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T14:33:47+09:00",
-      "last_seen_at": "2026-08-25T22:13:24+09:00",
-      "sources": [
-        {
-          "source_id": "dacon",
-          "source_name": "DACON",
-          "source_url": "https://dacon.io/competitions/official/236727/overview/description",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-08-25T22:13:24+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": null,
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "unknown",
-      "d_day": null,
-      "eligibility": "으로 2차 발표평가가 진행됩니다. 2차 발표평가에서는 과제 이해도, 기술 우수성, 문제 해결력, 적용 가능성 등을 종합적으로 평가하여 최종 수상팀을 선정합니다. [주최 / 주관]",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "제3회풍력발전량예측ai경진대회baram2026|환경에서는기상예보데이터를바탕으로향후발전량을정밀하게예측하는역량이필요합니다|"
-    },
-    {
-      "id": "eb549830fee8573e54ab",
-      "title": "2026 AI·SW중심대학 디지털 경진대회 : SW부문",
-      "source_name": "DACON",
-      "source_url": "https://dacon.io/competitions/official/236693/overview/description",
-      "organizer": "/ 주관] 주최",
-      "summary": "AI·SW중심대학 | SW부문 | AI·SW개발 | AI Agent. ] AI·SW중심대학 학생(57개교) ※ 참가 접수일 (5.26.~6.8.) 기준 재학생 및 휴학생 참가 가능(전공무관), 졸업생 참가 불가 ※ 동일인 2개 부문 중복 접수 불가",
-      "primary_type": "contest",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "데이터",
-        "클라우드·보안"
-      ],
-      "audience_tags": [
-        "대학생"
-      ],
-      "status": "unknown",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai, sw",
-          "본문·분류 키워드: ai, sw, 데이터, 보안",
-          "공고 유형: contest",
-          "IT·게임 전문 출처"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-08-13T11:49:36+09:00",
-      "last_seen_at": "2026-08-25T22:13:24+09:00",
-      "sources": [
-        {
-          "source_id": "dacon",
-          "source_name": "DACON",
-          "source_url": "https://dacon.io/competitions/official/236693/overview/description",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-08-25T22:13:24+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": null,
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "unknown",
-      "d_day": null,
-      "eligibility": "] AI·SW중심대학 학생(57개교) ※ 참가 접수일 (5.26.~6.8.) 기준 재학생 및 휴학생 참가 가능(전공무관), 졸업생 참가 불가 ※ 동일인 2개 부문 중복 접수 불가",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026aisw중심대학디지털경진대회sw부문|주관주최|"
-    },
-    {
-      "id": "a2a5313c48d0e6d3b6e9",
-      "title": "2026 AI·SW중심대학 디지털 경진대회 : AI부문",
-      "source_name": "DACON",
-      "source_url": "https://dacon.io/competitions/official/236694/overview/description",
-      "organizer": "/ 주관] 주최",
-      "summary": "AI·SW중심대학 | AI부문 | 알고리즘 | NLP | AI Agent | 코드 제출 평가. 은 파일 읽기·검색·수정, 셸 명령 실행, 테스트 실행, 사용자 질문 등 에이전트의 주요 탐색·수정·실행·대화 행동을 포함하며, 평가지표는 14개 클래스에 대한 Macro-F1입니",
-      "primary_type": "contest",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "데이터"
-      ],
-      "audience_tags": [
-        "대학생"
-      ],
-      "status": "unknown",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai, sw",
-          "본문·분류 키워드: ai, sw, 데이터, 시스템",
-          "공고 유형: contest",
-          "IT·게임 전문 출처"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-08-13T11:49:36+09:00",
-      "last_seen_at": "2026-08-25T22:13:24+09:00",
-      "sources": [
-        {
-          "source_id": "dacon",
-          "source_name": "DACON",
-          "source_url": "https://dacon.io/competitions/official/236694/overview/description",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-08-25T22:13:24+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": null,
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "unknown",
-      "d_day": null,
-      "eligibility": "은 파일 읽기·검색·수정, 셸 명령 실행, 테스트 실행, 사용자 질문 등 에이전트의 주요 탐색·수정·실행·대화 행동을 포함하며, 평가지표는 14개 클래스에 대한 Macro-F1입니",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026aisw중심대학디지털경진대회ai부문|주관주최|"
-    },
-    {
-      "id": "dc8b05abe27f394c8942",
-      "title": "[1차예선] 2026 Samsung Collegiate Programming Challenge : AI 챌린지",
-      "source_name": "DACON",
-      "source_url": "https://dacon.io/competitions/official/236730/overview/description",
-      "organizer": "/ 운영] 주최: 삼성전자 주관: 삼성리서치 운영: 데이콘 대회 주요 일정 06.11 참가",
-      "summary": "채용 | SCPC | 알고리즘 | sLM | Harness Engineering. 으로 프로그래밍 챌린지 SCPC(Samsung Collegiate Programming Challenge) 를 개최하며, 알고리즘 기반 문제 해결 능력을 갖춘 우수 인재를 지속적으",
-      "primary_type": "contest",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "데이터",
-        "클라우드·보안"
-      ],
-      "audience_tags": [
-        "대학생"
-      ],
-      "status": "unknown",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai",
-          "본문·분류 키워드: ai, api, 데이터, 보안",
-          "공고 유형: contest",
-          "IT·게임 전문 출처"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T14:50:14+09:00",
-      "last_seen_at": "2026-08-25T22:13:24+09:00",
-      "sources": [
-        {
-          "source_id": "dacon",
-          "source_name": "DACON",
-          "source_url": "https://dacon.io/competitions/official/236730/overview/description",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-08-25T22:13:24+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": null,
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "unknown",
-      "d_day": null,
-      "eligibility": "으로 프로그래밍 챌린지 SCPC(Samsung Collegiate Programming Challenge) 를 개최하며, 알고리즘 기반 문제 해결 능력을 갖춘 우수 인재를 지속적으",
-      "benefits": "을 제공합니다. [대회 방식] 본 챌린지는 개인전(1인)이며 1차, 2차 예선과 본선 순으로 진행됩니다. 🔹1차 예선 : 2차 예선 진출자를 선발하기 위한 과정이며 Private",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "1차예선2026samsungcollegiateprogrammingchallengeai챌린지|운영주최삼성전자주관삼성리서치운영데이콘대회주요일정0611참가|"
-    },
-    {
-      "id": "d5967ee5527543bd8928",
-      "title": "모기 비행 궤적 예측 AI 경진대회",
-      "source_name": "DACON",
-      "source_url": "https://dacon.io/competitions/official/236716/overview/description",
-      "organizer": "/ 주관] 데이콘 [문의처] 대회 기간 중 공식 답변은 토크 게시판을 통해서만 제공됩니다.",
-      "summary": "알고리즘 | 시계열 | 정형 | 회귀 | LiDAR | Hit Rate. ] 일반인, 학생, 직장인 등 데이터 분석 및 AI 모델링에 관심이 있는 누구나 [주최 / 주관] 데이콘 [문의처] 대회 기간 중 공식 답변은 토크 게시판을 통해서만 제공됩니다.",
-      "primary_type": "contest",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "데이터",
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [],
-      "status": "unknown",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai",
-          "본문·분류 키워드: 3d, ai, 데이터, 시스템",
-          "공고 유형: contest",
-          "IT·게임 전문 출처"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-25T22:13:24+09:00",
-      "sources": [
-        {
-          "source_id": "dacon",
-          "source_name": "DACON",
-          "source_url": "https://dacon.io/competitions/official/236716/overview/description",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-08-25T22:13:24+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": null,
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "unknown",
-      "d_day": null,
-      "eligibility": "] 일반인, 학생, 직장인 등 데이터 분석 및 AI 모델링에 관심이 있는 누구나 [주최 / 주관] 데이콘 [문의처] 대회 기간 중 공식 답변은 토크 게시판을 통해서만 제공됩니다.",
-      "benefits": "",
-      "location": "및 환경 조건을 기반으로 구성되므로, 특정 공간 구조를 외우는 방식보다는 센서 기준 상대 운동 패턴과 짧은 시간 뒤의 위치 변화를 일반화하여 예측하는 것이 핵심입니다. [참가 대상",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "모기비행궤적예측ai경진대회|주관데이콘문의처대회기간중공식답변은토크게시판을통해서만제공됩니다|"
-    },
-    {
-      "id": "8131a025111843c183bd",
-      "title": "스마트 창고 출고 지연 예측 AI 경진대회",
-      "source_name": "DACON",
-      "source_url": "https://dacon.io/competitions/official/236696/overview/description",
-      "organizer": "요인이 복합적으로 작용하면서, 출고 지연을 사전에 예측하고 대응하는 것은 여전히 어려운 과",
-      "summary": "알고리즘 | 정형 | 회귀 | 스마트물류 | MAE. ] 일반인, 학생, 직장인 등 데이터 분석에 관심이 있는 누구나 [주최 / 주관] 주최 / 주관 : 데이콘 [문의처] 대회 기간 중 공식 답변은 토크 게시판 을 통해서만 제공됩니다",
-      "primary_type": "contest",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "데이터"
-      ],
-      "audience_tags": [],
-      "status": "unknown",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai",
-          "본문·분류 키워드: ai, 데이터, 시스템, 알고리즘",
-          "공고 유형: contest",
-          "IT·게임 전문 출처"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-25T22:13:24+09:00",
-      "sources": [
-        {
-          "source_id": "dacon",
-          "source_name": "DACON",
-          "source_url": "https://dacon.io/competitions/official/236696/overview/description",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-08-25T22:13:24+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": null,
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "unknown",
-      "d_day": null,
-      "eligibility": "] 일반인, 학생, 직장인 등 데이터 분석에 관심이 있는 누구나 [주최 / 주관] 주최 / 주관 : 데이콘 [문의처] 대회 기간 중 공식 답변은 토크 게시판 을 통해서만 제공됩니다",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "스마트창고출고지연예측ai경진대회|요인이복합적으로작용하면서출고지연을사전에예측하고대응하는것은여전히어려운과|"
-    },
-    {
-      "id": "fbff609131b0dbfd01da",
-      "title": "Aimers 8기 : 모델 경량화 오프라인 해커톤",
-      "source_name": "DACON",
-      "source_url": "https://dacon.io/competitions/official/236689/overview/description",
-      "organizer": "비용 등의 제약으로 인해 모델 크기를 줄이면서도 성능을 유지하는 기술이 중요한 과제로 부상",
-      "summary": "LG Aimers | 채용 | 알고리즘 | LLM | 코드제출 | 경량화. 으로 한 실전 중심의 LLM 경량화를 수행하게 됩니다. [주제] LLM 경량화 (Large Language Model Compression) [설명] 본 해커톤의 기본 모델인 EX",
-      "primary_type": "hackathon",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "데이터",
-        "클라우드·보안"
-      ],
-      "audience_tags": [],
-      "status": "unknown",
-      "relevance": {
-        "score": 92,
-        "reasons": [
-          "본문·분류 키워드: ai, 데이터, 모바일, 시스템",
-          "공고 유형: hackathon",
-          "IT·게임 전문 출처",
-          "게임·디지털 콘텐츠 형태로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-25T22:13:24+09:00",
-      "sources": [
-        {
-          "source_id": "dacon",
-          "source_name": "DACON",
-          "source_url": "https://dacon.io/competitions/official/236689/overview/description",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-08-25T22:13:24+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": null,
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "unknown",
-      "d_day": null,
-      "eligibility": "으로 한 실전 중심의 LLM 경량화를 수행하게 됩니다. [주제] LLM 경량화 (Large Language Model Compression) [설명] 본 해커톤의 기본 모델인 EX",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "aimers8기모델경량화오프라인해커톤|비용등의제약으로인해모델크기를줄이면서도성능을유지하는기술이중요한과제로부상|"
     }
   ]
 }
