@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-28T14:26:34+09:00",
+  "generated_at": "2026-08-28T21:11:44+09:00",
   "items": [
     {
       "id": "c129d6263c261ebc7b4f",
@@ -868,6 +868,60 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "snowflakeworldtour2026서울|snowflake|2026-08-27"
+    },
+    {
+      "id": "f0ddf08b7a1059a77efa",
+      "title": "[강원] 2026년 소상공인ㆍ예비 창업자를 위한 AI 실무 강화 강좌 1차시 모집 공고",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=AI&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069335",
+      "organizer": "강원정보문화산업진흥원",
+      "summary": "기업마당 공개 행사 · 행사정보 · 검색어 AI. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "other",
+      "field_tags": [
+        "AI",
+        "창업"
+      ],
+      "audience_tags": [],
+      "status": "upcoming",
+      "relevance": {
+        "score": 66,
+        "reasons": [
+          "제목 핵심 키워드: ai, 창업",
+          "본문·분류 키워드: ai, 창업"
+        ],
+        "decision": "review"
+      },
+      "first_seen_at": "2026-08-28T21:11:44+09:00",
+      "last_seen_at": "2026-08-28T21:11:44+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=AI&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069335",
+          "source_post_id": "EVEN_000000000069335",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-08-28T21:11:44+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-09-03",
+      "recruit_end": "2026-09-03",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 6,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "강원2026년소상공인예비창업자를위한ai실무강화강좌1차시모집공고|강원정보문화산업진흥원|2026-09-03"
     },
     {
       "id": "334f883f4d7cac64098b",
@@ -1933,7 +1987,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-28T11:09:30+09:00",
+      "last_seen_at": "2026-08-28T21:11:44+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1942,7 +1996,7 @@
           "source_post_id": "EVEN_000000000069000",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-28T11:09:30+09:00"
+          "fetched_at": "2026-08-28T21:11:44+09:00"
         }
       ],
       "application_url": null,
@@ -1986,7 +2040,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-28T11:09:30+09:00",
+      "last_seen_at": "2026-08-28T21:11:44+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1995,7 +2049,7 @@
           "source_post_id": "EVEN_000000000067915",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-28T11:09:30+09:00"
+          "fetched_at": "2026-08-28T21:11:44+09:00"
         }
       ],
       "application_url": null,
