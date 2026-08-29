@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-29T07:36:42+09:00",
+  "generated_at": "2026-08-29T10:43:58+09:00",
   "items": [
     {
       "id": "ee01812ca4ea0c531566",
@@ -15,8 +15,8 @@
         "AI",
         "소프트웨어",
         "웹·앱",
-        "데이터",
-        "창업"
+        "창업",
+        "디지털 콘텐츠"
       ],
       "audience_tags": [
         "창업자·기업"
@@ -33,7 +33,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-12T11:47:08+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -42,7 +42,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -55,11 +55,11 @@
       "d_day": -70,
       "eligibility": "",
       "benefits": "",
-      "location": "스트리밍 온라인무료강의 무료 선착순 정원 30 명 2026.10.3 (토) 23:59 까지 4 명 신청가능 신청 가능한 최대 그룹수는 1 개 입니다. 4 이벤트 상세 정보 상세정보",
+      "location": "스트리밍 온라인무료강의 무료 선착순 정원 33 명 2026.10.3 (토) 23:59 까지 6 명 신청가능 신청 가능한 최대 그룹수는 1 개 입니다. 4 이벤트 상세 정보 상세정보",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-29T03:46:06+09:00",
+      "last_changed_at": "2026-08-29T10:43:58+09:00",
       "change_flags": [
         "location"
       ],
@@ -79,7 +79,8 @@
         "AI",
         "소프트웨어",
         "웹·앱",
-        "창업"
+        "창업",
+        "디지털 콘텐츠"
       ],
       "audience_tags": [
         "창업자·기업"
@@ -89,14 +90,14 @@
         "score": 100,
         "reasons": [
           "제목 핵심 키워드: ai",
-          "본문·분류 키워드: ai, it, 게임, 스타트업",
+          "본문·분류 키워드: ai, it, 게임, 게임기획",
           "공고 유형: contest",
           "IT·게임 전문 출처"
         ],
         "decision": "publish"
       },
       "first_seen_at": "2026-08-13T11:49:36+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -105,7 +106,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -158,7 +159,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-29T03:46:06+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -167,7 +168,7 @@
           "source_post_id": "108495",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -215,7 +216,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-29T03:46:06+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -224,7 +225,7 @@
           "source_post_id": "109905",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -272,7 +273,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-29T03:46:06+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -281,7 +282,7 @@
           "source_post_id": "108544",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -305,7 +306,7 @@
     },
     {
       "id": "c947e9241121a795e3b0",
-      "title": "제17회 LH 국토기술대전 SPECIAL",
+      "title": "제17회 LH 국토기술대전",
       "source_name": "위비티",
       "source_url": "https://www.wevity.com/?c=find&s=1&mode=end&gub=1&cidx=21&gbn=view&gp=1&ix=109568",
       "organizer": "LH 한국토지주택공사",
@@ -316,19 +317,31 @@
         "소프트웨어",
         "웹·앱"
       ],
-      "audience_tags": [],
+      "audience_tags": [
+        "대학생"
+      ],
       "status": "today",
       "relevance": {
         "score": 85,
         "reasons": [
           "본문·분류 키워드: it, 게임, 모바일, 소프트웨어",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능",
+          "공고 유형: employment"
         ],
         "decision": "publish"
       },
       "first_seen_at": "2026-08-29T03:46:06+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
+        {
+          "source_id": "thinkcontest",
+          "source_name": "씽굿",
+          "source_url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=108349",
+          "source_post_id": "108349",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-08-29T10:43:58+09:00"
+        },
         {
           "source_id": "wevity",
           "source_name": "위비티",
@@ -336,7 +349,7 @@
           "source_post_id": "109568",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -347,16 +360,20 @@
       "event_end": null,
       "date_kind": "exact",
       "d_day": 0,
-      "eligibility": "",
-      "benefits": "",
+      "eligibility": "대학생, 대학원생",
+      "benefits": "PERK001",
       "location": "",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
+      "last_changed_at": "2026-08-29T10:43:58+09:00",
+      "change_flags": [
+        "title",
+        "eligibility",
+        "benefits"
+      ],
       "is_manual_reviewed": false,
-      "dedupe_key": "제17회lh국토기술대전special|lh한국토지주택공사|2026-08-29"
+      "dedupe_key": "제17회lh국토기술대전|lh한국토지주택공사|2026-08-29"
     },
     {
       "id": "62dd750e7b1118493456",
@@ -387,7 +404,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-21T22:13:10+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -396,7 +413,7 @@
           "source_post_id": "110006",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         },
         {
           "source_id": "wevity",
@@ -405,7 +422,7 @@
           "source_post_id": "110355",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -456,7 +473,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-19T22:11:43+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "eventus",
@@ -465,7 +482,7 @@
           "source_post_id": "133039",
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": "https://event-us.kr/dato/event/133039",
@@ -511,7 +528,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-13T12:12:21+09:00",
-      "last_seen_at": "2026-08-29T07:36:42+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -520,7 +537,7 @@
           "source_post_id": "326D00092011",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-29T07:36:42+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -566,7 +583,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -575,7 +592,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -621,7 +638,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-31T13:04:56+09:00",
-      "last_seen_at": "2026-08-29T07:36:42+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -630,7 +647,7 @@
           "source_post_id": "326D00092010",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-29T07:36:42+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -676,7 +693,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-31T13:04:56+09:00",
-      "last_seen_at": "2026-08-29T07:36:42+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -685,7 +702,7 @@
           "source_post_id": "326D00037012",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-29T07:36:42+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -731,7 +748,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-31T13:04:56+09:00",
-      "last_seen_at": "2026-08-29T07:36:42+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -740,7 +757,7 @@
           "source_post_id": "326D00037011",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-29T07:36:42+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -786,7 +803,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-31T13:04:56+09:00",
-      "last_seen_at": "2026-08-29T07:36:42+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -795,7 +812,7 @@
           "source_post_id": "326D00091013",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-29T07:36:42+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -840,7 +857,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-10T17:15:30+09:00",
-      "last_seen_at": "2026-08-29T07:36:42+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -849,7 +866,7 @@
           "source_post_id": "326D00091014",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-29T07:36:42+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -904,7 +921,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -913,7 +930,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         },
         {
           "source_id": "thinkcontest",
@@ -922,7 +939,7 @@
           "source_post_id": "108559",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -1142,7 +1159,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-03T13:19:42+09:00",
-      "last_seen_at": "2026-08-29T07:36:42+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -1151,7 +1168,7 @@
           "source_post_id": "16887",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-29T07:36:42+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -1201,7 +1218,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-31T13:04:56+09:00",
-      "last_seen_at": "2026-08-29T07:36:42+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -1265,7 +1282,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-11T16:51:01+09:00",
-      "last_seen_at": "2026-08-29T07:36:42+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -1274,7 +1291,7 @@
           "source_post_id": "178875",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-29T07:36:42+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -1322,7 +1339,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-11T16:51:01+09:00",
-      "last_seen_at": "2026-08-29T07:36:42+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -1331,7 +1348,7 @@
           "source_post_id": "178873",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-29T07:36:42+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -1378,7 +1395,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-27T18:54:22+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -1387,7 +1404,7 @@
           "source_post_id": "346007",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -1432,7 +1449,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:42:45+09:00",
-      "last_seen_at": "2026-08-29T07:36:42+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -1441,7 +1458,7 @@
           "source_post_id": "176391",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-29T07:36:42+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -1545,7 +1562,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-18T16:06:49+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1554,7 +1571,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": "https://event-us.kr/doverunner/event/131565",
@@ -1608,7 +1625,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -1617,7 +1634,7 @@
           "source_post_id": "107526",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         },
         {
           "source_id": "wevity",
@@ -1626,7 +1643,7 @@
           "source_post_id": "108767",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -1678,7 +1695,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-21T13:56:15+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -1687,7 +1704,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -1740,7 +1757,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -1749,7 +1766,7 @@
           "source_post_id": "108735",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -1831,7 +1848,7 @@
       "source_name": "경기콘텐츠진흥원",
       "source_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11222&menuNo=200061&pageIndex=1",
       "organizer": "사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우",
-      "summary": "사업공고 | 사업공고 | 알림마당 | 경기콘텐츠진흥원. ) [제 2026-113호] 등록일 2026.08.26 조회수 737 담당자 김현정 담당부서 게임산업팀 전화번호 031-776-4790 접수기간 2026년 08월 26일 12시 0",
+      "summary": "사업공고 | 사업공고 | 알림마당 | 경기콘텐츠진흥원. ) [제 2026-113호] 등록일 2026.08.26 조회수 761 담당자 김현정 담당부서 게임산업팀 전화번호 031-776-4790 접수기간 2026년 08월 26일 12시 0",
       "primary_type": "support",
       "field_tags": [
         "게임",
@@ -1852,7 +1869,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T16:29:50+09:00",
-      "last_seen_at": "2026-08-29T07:36:42+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "gcon",
@@ -1861,7 +1878,7 @@
           "source_post_id": "11222",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-29T07:36:42+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -1872,13 +1889,13 @@
       "event_end": null,
       "date_kind": "exact",
       "d_day": 4,
-      "eligibility": ") [제 2026-113호] 등록일 2026.08.26 조회수 737 담당자 김현정 담당부서 게임산업팀 전화번호 031-776-4790 접수기간 2026년 08월 26일 12시 0",
+      "eligibility": ") [제 2026-113호] 등록일 2026.08.26 조회수 761 담당자 김현정 담당부서 게임산업팀 전화번호 031-776-4790 접수기간 2026년 08월 26일 12시 0",
       "benefits": "지원항목 유통지원 지원내용 - 각 30건 내외 국내외 온라인 FGT 제공(비율 조정 가능) / 28개사 대상('26년 기업 18개사 + '24~'25년 기업 및 현재 입주기업 10",
       "location": "",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-29T07:36:42+09:00",
+      "last_changed_at": "2026-08-29T10:43:58+09:00",
       "change_flags": [
         "eligibility"
       ],
@@ -1967,7 +1984,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-05T18:22:24+09:00",
-      "last_seen_at": "2026-08-29T07:36:42+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -1976,7 +1993,7 @@
           "source_post_id": "16895",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-29T07:36:42+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -2076,7 +2093,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-20T22:30:43+09:00",
-      "last_seen_at": "2026-08-29T07:36:42+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -2085,7 +2102,7 @@
           "source_post_id": "178953",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-29T07:36:42+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -2132,7 +2149,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-03T13:19:42+09:00",
-      "last_seen_at": "2026-08-29T07:36:42+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -2141,7 +2158,7 @@
           "source_post_id": "178709",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-29T07:36:42+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -2189,7 +2206,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-25T12:14:11+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "eventus",
@@ -2198,7 +2215,7 @@
           "source_post_id": "132425",
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": "https://event-us.kr/aeolo/event/132425",
@@ -2410,7 +2427,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-03T09:16:05+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -2419,7 +2436,7 @@
           "source_post_id": "108804",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -2465,7 +2482,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2474,7 +2491,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -2520,7 +2537,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T11:00:37+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -2529,7 +2546,7 @@
           "source_post_id": "345472",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -2574,7 +2591,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-25T12:14:11+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -2583,7 +2600,7 @@
           "source_post_id": "345156",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -2632,7 +2649,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-16T23:41:49+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -2641,7 +2658,7 @@
           "source_post_id": "110070",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -2746,7 +2763,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-11T23:04:05+09:00",
-      "last_seen_at": "2026-08-29T07:36:42+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -2755,7 +2772,7 @@
           "source_post_id": "326D00034006",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-29T07:36:42+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -2854,7 +2871,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-21T22:29:48+09:00",
-      "last_seen_at": "2026-08-29T07:36:42+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -2863,7 +2880,7 @@
           "source_post_id": "178985",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-29T07:36:42+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -2914,7 +2931,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-14T19:18:41+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -2923,7 +2940,7 @@
           "source_post_id": "109567",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -2971,7 +2988,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-02T07:13:14+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -2980,7 +2997,7 @@
           "source_post_id": "107135",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -3031,7 +3048,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -3040,7 +3057,7 @@
           "source_post_id": "107930",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -3086,7 +3103,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-15T08:40:57+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -3095,7 +3112,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -3142,7 +3159,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -3151,7 +3168,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -3197,7 +3214,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T18:59:26+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -3206,7 +3223,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -3306,7 +3323,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T11:12:21+09:00",
-      "last_seen_at": "2026-08-29T07:36:42+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -3315,7 +3332,7 @@
           "source_post_id": "326D00088010",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-29T07:36:42+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -3364,7 +3381,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-07T18:17:18+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -3373,7 +3390,7 @@
           "source_post_id": "109240",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -3426,7 +3443,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-11T04:13:51+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3435,7 +3452,7 @@
           "source_post_id": "110012",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -3485,7 +3502,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-14T20:59:24+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3494,7 +3511,7 @@
           "source_post_id": "110003",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -3543,7 +3560,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-24T11:11:00+09:00",
-      "last_seen_at": "2026-08-29T07:36:42+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -3552,7 +3569,7 @@
           "source_post_id": "326D00037013",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-29T07:36:42+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -3708,7 +3725,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-22T14:44:48+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -3717,7 +3734,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -3763,7 +3780,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-20T22:13:42+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -3772,7 +3789,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -3823,7 +3840,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-10T17:15:30+09:00",
-      "last_seen_at": "2026-08-29T07:36:42+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -3832,7 +3849,7 @@
           "source_post_id": "16897",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-29T07:36:42+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -3877,7 +3894,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T01:02:52+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -3886,7 +3903,7 @@
           "source_post_id": "341495",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -3932,7 +3949,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-18T22:10:59+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -3941,7 +3958,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -3988,7 +4005,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-18T11:04:01+09:00",
-      "last_seen_at": "2026-08-29T07:36:42+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "gcon",
@@ -3997,7 +4014,7 @@
           "source_post_id": "11216",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-29T07:36:42+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -4043,7 +4060,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-18T22:10:59+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -4052,7 +4069,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -4098,7 +4115,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T18:59:26+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -4107,7 +4124,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -4262,7 +4279,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-20T22:30:43+09:00",
-      "last_seen_at": "2026-08-29T07:36:42+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -4271,7 +4288,7 @@
           "source_post_id": "178975",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-29T07:36:42+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -4542,7 +4559,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-11T11:49:18+09:00",
-      "last_seen_at": "2026-08-29T07:36:42+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "gcon",
@@ -4551,7 +4568,7 @@
           "source_post_id": "11214",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-29T07:36:42+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -4601,7 +4618,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-18T16:23:05+09:00",
-      "last_seen_at": "2026-08-29T07:36:42+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "gcon",
@@ -4610,7 +4627,7 @@
           "source_post_id": "11217",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-29T07:36:42+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -4712,7 +4729,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-27T18:54:22+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -4721,7 +4738,7 @@
           "source_post_id": "345898",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -4771,7 +4788,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-05T12:36:21+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -4780,7 +4797,7 @@
           "source_post_id": "109102",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -4827,7 +4844,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-25T12:14:11+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -4836,7 +4853,7 @@
           "source_post_id": "345358",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         },
         {
           "source_id": "linkareer",
@@ -4845,7 +4862,7 @@
           "source_post_id": "345289",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -4894,7 +4911,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-03T20:47:13+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -4903,7 +4920,7 @@
           "source_post_id": "109792",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -4952,7 +4969,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -4961,7 +4978,7 @@
           "source_post_id": "109003",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -5016,7 +5033,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -5025,7 +5042,7 @@
           "source_post_id": "108789",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         },
         {
           "source_id": "wevity",
@@ -5034,7 +5051,7 @@
           "source_post_id": "109674",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -5087,7 +5104,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T16:29:50+09:00",
-      "last_seen_at": "2026-08-29T07:36:42+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "gcon",
@@ -5150,7 +5167,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T12:27:08+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -5159,7 +5176,7 @@
           "source_post_id": "345635",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -5260,7 +5277,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-27T18:54:22+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -5269,7 +5286,7 @@
           "source_post_id": "346024",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -5314,7 +5331,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-27T18:54:22+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -5323,7 +5340,7 @@
           "source_post_id": "346026",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -5422,7 +5439,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-12T23:04:35+09:00",
-      "last_seen_at": "2026-08-29T07:36:42+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -5431,7 +5448,7 @@
           "source_post_id": "178896",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-29T07:36:42+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -5535,7 +5552,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-06T00:29:54+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -5544,7 +5561,7 @@
           "source_post_id": "109883",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -5591,7 +5608,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T01:02:52+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -5600,7 +5617,7 @@
           "source_post_id": "342895",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -5699,7 +5716,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-27T18:54:22+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -5708,7 +5725,7 @@
           "source_post_id": "345881",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -5760,7 +5777,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T18:04:35+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -5769,7 +5786,7 @@
           "source_post_id": "345878",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         },
         {
           "source_id": "thinkcontest",
@@ -5778,7 +5795,7 @@
           "source_post_id": "110152",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         },
         {
           "source_id": "wevity",
@@ -5787,7 +5804,7 @@
           "source_post_id": "110498",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -6006,7 +6023,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-21T16:09:44+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -6015,7 +6032,7 @@
           "source_post_id": "109575",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -6061,7 +6078,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-25T12:14:11+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -6070,7 +6087,7 @@
           "source_post_id": "345299",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -6119,7 +6136,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -6128,7 +6145,7 @@
           "source_post_id": "108321",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -6174,7 +6191,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T18:59:26+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -6183,7 +6200,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -6234,7 +6251,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-18T11:04:01+09:00",
-      "last_seen_at": "2026-08-29T07:36:42+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -6243,7 +6260,7 @@
           "source_post_id": "16900",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-29T07:36:42+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -6349,7 +6366,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-25T16:28:39+09:00",
-      "last_seen_at": "2026-08-29T07:36:42+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "gcon",
@@ -6358,7 +6375,7 @@
           "source_post_id": "11220",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-29T07:36:42+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -6403,7 +6420,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-25T16:28:39+09:00",
-      "last_seen_at": "2026-08-29T07:36:42+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -6412,7 +6429,7 @@
           "source_post_id": "178952",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-29T07:36:42+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -6457,7 +6474,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-28T11:09:30+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -6466,7 +6483,7 @@
           "source_post_id": "346153",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -6513,7 +6530,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T18:59:26+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -6522,7 +6539,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -6571,7 +6588,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T03:55:14+09:00",
-      "last_seen_at": "2026-08-29T07:36:42+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "gcon",
@@ -6580,7 +6597,7 @@
           "source_post_id": "11221",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-29T07:36:42+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -6628,7 +6645,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-10T11:36:41+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -6637,7 +6654,7 @@
           "source_post_id": "109159",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -6683,7 +6700,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-25T12:14:11+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -6692,7 +6709,7 @@
           "source_post_id": "345274",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -6963,7 +6980,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-18T12:10:41+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -6972,7 +6989,7 @@
           "source_post_id": "109617",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -7023,7 +7040,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-28T05:33:27+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -7032,7 +7049,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -7083,7 +7100,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -7092,7 +7109,7 @@
           "source_post_id": "109125",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         },
         {
           "source_id": "wevity",
@@ -7101,7 +7118,7 @@
           "source_post_id": "108653",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -7150,7 +7167,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T18:59:26+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -7159,7 +7176,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -7205,7 +7222,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-22T14:44:48+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -7214,7 +7231,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -7315,7 +7332,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T18:59:26+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -7324,7 +7341,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -7379,7 +7396,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-21T23:00:13+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -7388,7 +7405,7 @@
           "source_post_id": "109865",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         },
         {
           "source_id": "wevity",
@@ -7397,7 +7414,7 @@
           "source_post_id": "110360",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -7450,7 +7467,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-24T16:30:45+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -7459,7 +7476,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         },
         {
           "source_id": "linkareer",
@@ -7468,7 +7485,7 @@
           "source_post_id": "343799",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         },
         {
           "source_id": "thinkcontest",
@@ -7477,7 +7494,7 @@
           "source_post_id": "109928",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": "https://event-us.kr/koshiphackathon/event/132963",
@@ -7523,7 +7540,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T11:00:37+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -7532,7 +7549,7 @@
           "source_post_id": "345489",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -7580,7 +7597,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -7589,7 +7606,7 @@
           "source_post_id": "108687",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -7694,7 +7711,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-24T10:59:29+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -7703,7 +7720,7 @@
           "source_post_id": "109899",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         },
         {
           "source_id": "wevity",
@@ -7712,7 +7729,7 @@
           "source_post_id": "110419",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -7762,7 +7779,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-12T14:06:03+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -7771,7 +7788,7 @@
           "source_post_id": "110053",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -7822,7 +7839,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-18T10:52:38+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -7831,7 +7848,7 @@
           "source_post_id": "109593",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -7882,7 +7899,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-12T14:06:03+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -7891,7 +7908,7 @@
           "source_post_id": "109958",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -7942,7 +7959,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-21T16:59:35+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -7951,7 +7968,7 @@
           "source_post_id": "110264",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -8001,7 +8018,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-03T16:49:49+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -8010,7 +8027,7 @@
           "source_post_id": "109076",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -8065,7 +8082,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-12T15:44:29+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -8074,7 +8091,7 @@
           "source_post_id": "109420",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         },
         {
           "source_id": "wevity",
@@ -8083,7 +8100,7 @@
           "source_post_id": "110065",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -8135,7 +8152,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-27T18:54:22+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -8144,7 +8161,7 @@
           "source_post_id": "110530",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -8202,7 +8219,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-25T10:54:30+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -8211,7 +8228,7 @@
           "source_post_id": "345303",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         },
         {
           "source_id": "thinkcontest",
@@ -8220,7 +8237,7 @@
           "source_post_id": "109974",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -8319,7 +8336,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-25T17:00:17+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -8328,7 +8345,7 @@
           "source_post_id": "345421",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -8434,7 +8451,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-28T11:09:30+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -8443,7 +8460,7 @@
           "source_post_id": "346111",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         },
         {
           "source_id": "thinkcontest",
@@ -8452,7 +8469,7 @@
           "source_post_id": "110133",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -8672,7 +8689,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-18T10:52:38+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -8681,7 +8698,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         },
         {
           "source_id": "thinkcontest",
@@ -8690,7 +8707,7 @@
           "source_post_id": "109665",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -8743,7 +8760,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-18T10:52:38+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -8752,7 +8769,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -8802,7 +8819,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -8811,7 +8828,7 @@
           "source_post_id": "108984",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -8860,7 +8877,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-10T22:47:09+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -8869,7 +8886,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -8917,7 +8934,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-06T19:00:50+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -8926,7 +8943,7 @@
           "source_post_id": "109888",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -8977,7 +8994,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -8986,7 +9003,7 @@
           "source_post_id": "107813",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -9035,7 +9052,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-19T23:54:49+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -9044,7 +9061,7 @@
           "source_post_id": "110223",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -9094,7 +9111,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -9103,7 +9120,7 @@
           "source_post_id": "108240",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -9157,7 +9174,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-04T15:42:55+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -9166,7 +9183,7 @@
           "source_post_id": "109042",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -9214,7 +9231,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-07T13:04:17+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -9223,7 +9240,7 @@
           "source_post_id": "109210",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -9258,7 +9275,8 @@
         "AI",
         "소프트웨어",
         "웹·앱",
-        "창업"
+        "창업",
+        "디지털 콘텐츠"
       ],
       "audience_tags": [
         "창업자·기업"
@@ -9275,7 +9293,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-27T18:54:22+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -9284,7 +9302,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -9339,7 +9357,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-14T19:18:41+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -9348,7 +9366,7 @@
           "source_post_id": "109577",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -9394,7 +9412,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -9403,7 +9421,7 @@
           "source_post_id": "107956",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -9507,7 +9525,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T16:10:46+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -9516,7 +9534,7 @@
           "source_post_id": "110045",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -9567,7 +9585,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-11T11:29:41+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -9576,7 +9594,7 @@
           "source_post_id": "109323",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -9621,7 +9639,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T12:27:08+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -9630,7 +9648,7 @@
           "source_post_id": "345628",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -9675,7 +9693,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-27T18:54:22+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -9684,7 +9702,7 @@
           "source_post_id": "345896",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -9962,7 +9980,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-21T14:49:35+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -9971,7 +9989,7 @@
           "source_post_id": "109859",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -10019,7 +10037,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-22T02:47:47+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -10028,7 +10046,7 @@
           "source_post_id": "110273",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -10078,7 +10096,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-11T16:39:43+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -10087,7 +10105,7 @@
           "source_post_id": "110023",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -10299,7 +10317,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-24T14:04:04+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -10308,7 +10326,7 @@
           "source_post_id": "110305",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -10409,7 +10427,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:42:45+09:00",
-      "last_seen_at": "2026-08-29T07:36:42+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -10418,7 +10436,7 @@
           "source_post_id": "175783",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-29T07:36:42+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -10465,7 +10483,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:42:45+09:00",
-      "last_seen_at": "2026-08-29T07:36:42+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -10474,7 +10492,7 @@
           "source_post_id": "176076",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-08-29T07:36:42+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -10633,7 +10651,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-08-29T07:36:42+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -10642,7 +10660,7 @@
           "source_post_id": "326D00034004",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-08-29T07:36:42+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
@@ -10797,7 +10815,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-17T22:08:52+09:00",
-      "last_seen_at": "2026-08-29T03:46:06+09:00",
+      "last_seen_at": "2026-08-29T10:43:58+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -10806,7 +10824,7 @@
           "source_post_id": "110179",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-08-29T03:46:06+09:00"
+          "fetched_at": "2026-08-29T10:43:58+09:00"
         }
       ],
       "application_url": null,
