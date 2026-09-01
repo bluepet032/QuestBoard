@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-01T14:37:52+09:00",
+  "generated_at": "2026-09-01T19:12:29+09:00",
   "items": [
     {
       "id": "c9aedd2648ec3cf9a790",
@@ -16,18 +16,16 @@
         "소프트웨어",
         "웹·앱",
         "데이터",
-        "창업",
-        "디지털 콘텐츠"
+        "창업"
       ],
       "audience_tags": [
-        "개발자",
         "창업자·기업"
       ],
       "status": "closed",
       "relevance": {
         "score": 69,
         "reasons": [
-          "본문·분류 키워드: ai, ax, it, 개발자",
+          "본문·분류 키워드: ai, it, 게임, 데이터",
           "공고 유형: contest",
           "IT·게임 전문 출처",
           "제목의 IT·게임 직접 근거 부족"
@@ -35,7 +33,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-31T14:41:26+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
+      "last_seen_at": "2026-09-01T19:12:29+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -44,7 +42,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
+          "fetched_at": "2026-09-01T19:12:29+09:00"
         }
       ],
       "application_url": null,
@@ -69,70 +67,6 @@
       "dedupe_key": "2026하반기모금실무코칭강좌|측가아닙니다이벤트내용과관련한사항은이벤트개설자에게문의바랍니다hoti|2026-03-06"
     },
     {
-      "id": "cdcd43dd749f1f671dc3",
-      "title": "[썸데이부킹/정자] 2026년 9월 ~ 10월 독서모임 모집 - 분당독서모임 (일요일오전)",
-      "source_name": "온오프믹스",
-      "source_url": "https://onoffmix.com/event/347736",
-      "organizer": "측)가 아닙니다. 이벤트 내용과 관련한 사항은 이벤트 개설자에게 문의 바랍니다. HOT I",
-      "summary": "지정된 책을 읽고 모여, 편하게 각자의 생각과 이야기를 나누는 모임입니다.모바일의 경우 [모임내용 더보기] 버튼을 누르셔서 상세내용 확인 부탁드립니다.",
-      "primary_type": "contest",
-      "field_tags": [
-        "게임",
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "데이터",
-        "창업",
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [
-        "개발자",
-        "창업자·기업"
-      ],
-      "status": "upcoming",
-      "relevance": {
-        "score": 69,
-        "reasons": [
-          "본문·분류 키워드: ai, ax, it, 개발자",
-          "공고 유형: contest",
-          "IT·게임 전문 출처",
-          "제목의 IT·게임 직접 근거 부족"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-09-01T14:14:58+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
-      "sources": [
-        {
-          "source_id": "onoffmix",
-          "source_name": "온오프믹스",
-          "source_url": "https://onoffmix.com/event/347736",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-09-04",
-      "recruit_end": "2026-07-12",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": -51,
-      "eligibility": "",
-      "benefits": "",
-      "location": "경기 성남시 분당구 내정로7번길 14 1층 데이롱카페 분당정자점 지도보기 신규참가자 70,000 원 개설자선정 정원 1 명 2026.9.2 (수) 23:59 까지 1 명 신청가능",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "썸데이부킹정자2026년9월10월독서모임모집분당독서모임일요일오전|측가아닙니다이벤트내용과관련한사항은이벤트개설자에게문의바랍니다hoti|2026-07-12"
-    },
-    {
       "id": "c129d6263c261ebc7b4f",
       "title": "SCM Global Forum 2026 사전 등록",
       "source_name": "온오프믹스",
@@ -146,18 +80,16 @@
         "소프트웨어",
         "웹·앱",
         "데이터",
-        "창업",
-        "디지털 콘텐츠"
+        "창업"
       ],
       "audience_tags": [
-        "개발자",
         "창업자·기업"
       ],
       "status": "upcoming",
       "relevance": {
         "score": 69,
         "reasons": [
-          "본문·분류 키워드: ai, ax, it, 개발자",
+          "본문·분류 키워드: ai, it, 게임, 데이터",
           "공고 유형: contest",
           "IT·게임 전문 출처",
           "제목의 IT·게임 직접 근거 부족"
@@ -165,7 +97,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-03T13:01:54+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
+      "last_seen_at": "2026-09-01T19:12:29+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -174,7 +106,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
+          "fetched_at": "2026-09-01T19:12:29+09:00"
         }
       ],
       "application_url": null,
@@ -187,11 +119,11 @@
       "d_day": 8,
       "eligibility": "",
       "benefits": "",
-      "location": "경기 고양시 일산서구 킨텍스로 217-60 1전시장 5홀 내 컨퍼런스장 지도보기 무료 선착순 정원 200 명 2026.9.9 (수) 11:00 까지 139 명 신청가능 Air Ca",
+      "location": "경기 고양시 일산서구 킨텍스로 217-60 1전시장 5홀 내 컨퍼런스장 지도보기 무료 선착순 정원 200 명 2026.9.9 (수) 11:00 까지 134 명 신청가능 Air Ca",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-09-01T14:14:58+09:00",
+      "last_changed_at": "2026-09-01T19:12:29+09:00",
       "change_flags": [
         "location"
       ],
@@ -212,18 +144,16 @@
         "소프트웨어",
         "웹·앱",
         "데이터",
-        "창업",
-        "디지털 콘텐츠"
+        "창업"
       ],
       "audience_tags": [
-        "개발자",
         "창업자·기업"
       ],
       "status": "open",
       "relevance": {
         "score": 69,
         "reasons": [
-          "본문·분류 키워드: ai, ax, it, 개발자",
+          "본문·분류 키워드: ai, it, 게임, 데이터",
           "공고 유형: event",
           "IT·게임 전문 출처",
           "제목의 IT·게임 직접 근거 부족"
@@ -231,7 +161,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-20T10:53:35+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
+      "last_seen_at": "2026-09-01T19:12:29+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -240,7 +170,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
+          "fetched_at": "2026-09-01T19:12:29+09:00"
         }
       ],
       "application_url": null,
@@ -278,18 +208,16 @@
         "소프트웨어",
         "웹·앱",
         "데이터",
-        "창업",
-        "디지털 콘텐츠"
+        "창업"
       ],
       "audience_tags": [
-        "개발자",
         "창업자·기업"
       ],
       "status": "upcoming",
       "relevance": {
         "score": 69,
         "reasons": [
-          "본문·분류 키워드: ai, ax, it, 개발자",
+          "본문·분류 키워드: ai, it, 게임, 데이터",
           "공고 유형: education",
           "IT·게임 전문 출처",
           "제목의 IT·게임 직접 근거 부족"
@@ -297,7 +225,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-18T12:10:41+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
+      "last_seen_at": "2026-09-01T19:12:29+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -306,7 +234,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
+          "fetched_at": "2026-09-01T19:12:29+09:00"
         }
       ],
       "application_url": null,
@@ -344,18 +272,16 @@
         "소프트웨어",
         "웹·앱",
         "데이터",
-        "창업",
-        "디지털 콘텐츠"
+        "창업"
       ],
       "audience_tags": [
-        "개발자",
         "창업자·기업"
       ],
       "status": "upcoming",
       "relevance": {
         "score": 69,
         "reasons": [
-          "본문·분류 키워드: ai, ax, it, 개발자",
+          "본문·분류 키워드: ai, it, 게임, 데이터",
           "공고 유형: contest",
           "IT·게임 전문 출처",
           "제목의 IT·게임 직접 근거 부족"
@@ -363,7 +289,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-30T15:43:37+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
+      "last_seen_at": "2026-09-01T19:12:29+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -372,7 +298,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
+          "fetched_at": "2026-09-01T19:12:29+09:00"
         }
       ],
       "application_url": null,
@@ -383,16 +309,15 @@
       "event_end": null,
       "date_kind": "exact",
       "d_day": 172,
-      "eligibility": "",
+      "eligibility": "으로 업종별 맞춤형 AI활용 역량을 육성하고 업종별 특성에 맞는 AI 실습과 전문가 컨설팅을 통해 실제 창업 현장에서 필요한 창업역량 지원 교육 무료 전시/박람회 2.8~2.9 4",
       "benefits": "",
       "location": "서울 서초구 주흥길 9 지하1층 브릴란트 아트 스튜디오 지도보기 평일반 2,200,000 원 선착순 2026.10.4 (일) 23:59 까지 신청가능 신청 가능한 최대 그룹수는 1",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-08-31T14:41:26+09:00",
+      "last_changed_at": "2026-09-01T19:12:29+09:00",
       "change_flags": [
-        "recruit_start",
-        "recruit_end"
+        "eligibility"
       ],
       "is_manual_reviewed": false,
       "dedupe_key": "온오프믹스와함께하는33뮤지컬클래스2026season8|측가아닙니다이벤트내용과관련한사항은이벤트개설자에게문의바랍니다hoti|2027-02-20"
@@ -411,18 +336,16 @@
         "소프트웨어",
         "웹·앱",
         "데이터",
-        "창업",
-        "디지털 콘텐츠"
+        "창업"
       ],
       "audience_tags": [
-        "개발자",
         "창업자·기업"
       ],
       "status": "closed",
       "relevance": {
         "score": 69,
         "reasons": [
-          "본문·분류 키워드: ai, ax, ict, it",
+          "본문·분류 키워드: ai, ict, it, 게임",
           "공고 유형: contest",
           "IT·게임 전문 출처",
           "제목의 IT·게임 직접 근거 부족"
@@ -430,7 +353,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-26T13:57:43+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
+      "last_seen_at": "2026-09-01T19:12:29+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -439,7 +362,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
+          "fetched_at": "2026-09-01T19:12:29+09:00"
         }
       ],
       "application_url": null,
@@ -450,14 +373,15 @@
       "event_end": null,
       "date_kind": "exact",
       "d_day": -292,
-      "eligibility": "",
+      "eligibility": "으로 업종별 맞춤형 AI활용 역량을 육성하고 업종별 특성에 맞는 AI 실습과 전문가 컨설팅을 통해 실제 창업 현장에서 필요한 창업역량 지원 교육 무료 전시/박람회 2.8~2.9 4",
       "benefits": "",
-      "location": "서울 영등포구 여의대로 24 Conference Center, FKI Tower 지도보기 기본그룹 무료 개설자선정 정원 100 명 2026.10.14 (수) 23:59 까지 44",
+      "location": "서울 영등포구 여의대로 24 Conference Center, FKI Tower 지도보기 기본그룹 무료 개설자선정 정원 100 명 2026.10.14 (수) 23:59 까지 42",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-09-01T14:14:58+09:00",
+      "last_changed_at": "2026-09-01T19:12:29+09:00",
       "change_flags": [
+        "eligibility",
         "location"
       ],
       "is_manual_reviewed": false,
@@ -477,18 +401,17 @@
         "소프트웨어",
         "웹·앱",
         "데이터",
-        "창업",
-        "디지털 콘텐츠"
+        "창업"
       ],
       "audience_tags": [
         "개발자",
         "창업자·기업"
       ],
-      "status": "open",
+      "status": "upcoming",
       "relevance": {
         "score": 69,
         "reasons": [
-          "본문·분류 키워드: ai, ax, it, 개발자",
+          "본문·분류 키워드: ai, it, 개발자, 게임",
           "공고 유형: contest",
           "IT·게임 전문 출처",
           "제목의 IT·게임 직접 근거 부족"
@@ -496,7 +419,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-22T02:47:47+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
+      "last_seen_at": "2026-09-01T19:12:29+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -505,29 +428,31 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
+          "fetched_at": "2026-09-01T19:12:29+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
-      "recruit_start": "2026-08-27",
-      "recruit_end": "2026-09-18",
+      "recruit_start": "2026-09-18",
+      "recruit_end": "2026-09-16",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 17,
-      "eligibility": "으로 업종별 맞춤형 AI활용 역량을 육성하고 업종별 특성에 맞는 AI 실습과 전문가 컨설팅을 통해 실제 창업 현장에서 필요한 창업역량 지원 교육 무료 전시/박람회 2.8~2.9 4",
+      "d_day": 15,
+      "eligibility": "",
       "benefits": "",
       "location": "서울 강남구 테헤란로7길 22 강남 한국과학기술컨벤션센터(ST Center) 대회의실1(B1) 지도보기 2026.9.1 (화) 14:59 까지 신청가능 본 이벤트는 외부접수 이벤트",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-09-01T14:14:58+09:00",
+      "last_changed_at": "2026-09-01T19:12:29+09:00",
       "change_flags": [
+        "recruit_start",
+        "recruit_end",
         "eligibility"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "uxkorea2026fall|전략및사례서브타이틀입니다무료전시박람회2026827목1400|2026-09-18"
+      "dedupe_key": "uxkorea2026fall|전략및사례서브타이틀입니다무료전시박람회2026827목1400|2026-09-16"
     },
     {
       "id": "7f7adb22ae60a050a270",
@@ -547,14 +472,13 @@
         "디지털 콘텐츠"
       ],
       "audience_tags": [
-        "개발자",
         "창업자·기업"
       ],
       "status": "closed",
       "relevance": {
         "score": 69,
         "reasons": [
-          "본문·분류 키워드: ai, ax, it, 개발자",
+          "본문·분류 키워드: ai, it, 게임, 데이터",
           "공고 유형: education",
           "IT·게임 전문 출처",
           "제목의 IT·게임 직접 근거 부족"
@@ -562,7 +486,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-24T20:45:40+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
+      "last_seen_at": "2026-09-01T19:12:29+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -571,7 +495,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
+          "fetched_at": "2026-09-01T19:12:29+09:00"
         }
       ],
       "application_url": null,
@@ -609,18 +533,16 @@
         "소프트웨어",
         "웹·앱",
         "데이터",
-        "창업",
-        "디지털 콘텐츠"
+        "창업"
       ],
       "audience_tags": [
-        "개발자",
         "창업자·기업"
       ],
       "status": "closed",
       "relevance": {
         "score": 69,
         "reasons": [
-          "본문·분류 키워드: ai, ax, it, 개발자",
+          "본문·분류 키워드: ai, it, 게임, 데이터",
           "공고 유형: contest",
           "IT·게임 전문 출처",
           "제목의 IT·게임 직접 근거 부족"
@@ -628,7 +550,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-24T10:59:29+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
+      "last_seen_at": "2026-09-01T19:12:29+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -637,7 +559,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
+          "fetched_at": "2026-09-01T19:12:29+09:00"
         }
       ],
       "application_url": null,
@@ -675,8 +597,7 @@
         "소프트웨어",
         "웹·앱",
         "데이터",
-        "창업",
-        "디지털 콘텐츠"
+        "창업"
       ],
       "audience_tags": [
         "개발자",
@@ -686,7 +607,7 @@
       "relevance": {
         "score": 69,
         "reasons": [
-          "본문·분류 키워드: ai, ax, it, 개발자",
+          "본문·분류 키워드: ai, it, 개발자, 게임",
           "공고 유형: education",
           "IT·게임 전문 출처",
           "제목의 IT·게임 직접 근거 부족"
@@ -694,7 +615,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-01T14:14:58+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
+      "last_seen_at": "2026-09-01T19:12:29+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -703,7 +624,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
+          "fetched_at": "2026-09-01T19:12:29+09:00"
         }
       ],
       "application_url": null,
@@ -714,14 +635,16 @@
       "event_end": null,
       "date_kind": "exact",
       "d_day": -104,
-      "eligibility": "으로 업종별 맞춤형 AI활용 역량을 육성하고 업종별 특성에 맞는 AI 실습과 전문가 컨설팅을 통해 실제 창업 현장에서 필요한 창업역량 지원 교육 무료 전시/박람회 2.8~2.9 4",
+      "eligibility": "",
       "benefits": "",
       "location": "경기 성남시 분당구 대왕판교로 670 유스페이스2, B동 5층 501-1호, 태스킹코리아 대회의실 지도보기 임베디드 개발자 대기자 신청 모집인원 마감되었으나 대기자로 신청 가능합니",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
+      "last_changed_at": "2026-09-01T19:12:29+09:00",
+      "change_flags": [
+        "eligibility"
+      ],
       "is_manual_reviewed": false,
       "dedupe_key": "taskingtricore컴파일러실습교육99수판교|측가아닙니다이벤트내용과관련한사항은이벤트개설자에게문의바랍니다hoti|2026-05-20"
     },
@@ -750,7 +673,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-28T05:33:27+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
+      "last_seen_at": "2026-09-01T19:12:29+09:00",
       "sources": [
         {
           "source_id": "eventus",
@@ -759,7 +682,7 @@
           "source_post_id": "132593",
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
+          "fetched_at": "2026-09-01T19:12:29+09:00"
         }
       ],
       "application_url": "https://event-us.kr/seniorfuture/event/132593",
@@ -806,7 +729,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-19T13:53:59+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
+      "last_seen_at": "2026-09-01T19:12:29+09:00",
       "sources": [
         {
           "source_id": "eventus",
@@ -815,7 +738,7 @@
           "source_post_id": "132330",
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
+          "fetched_at": "2026-09-01T19:12:29+09:00"
         }
       ],
       "application_url": "https://event-us.kr/healthcare/event/132330",
@@ -892,60 +815,6 @@
       "dedupe_key": "강원2026년소상공인예비창업자를위한ai실무강화강좌1차시모집공고|강원정보문화산업진흥원|2026-09-03"
     },
     {
-      "id": "fc2e2fbddb72cdc0fa2e",
-      "title": "[GEO 세미나] ChatGPT에서 추천받는 병원·로펌이 되는 방법",
-      "source_name": "이벤터스",
-      "source_url": "https://event-us.kr/inanswer/event/134229",
-      "organizer": "인앤서 | GEO & AI 검색",
-      "summary": "AI 검색 시대, ChatGPT, Gemini에서 추천받는 병원·로펌이 되고싶다면?. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "event",
-      "field_tags": [
-        "AI"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 65,
-        "reasons": [
-          "본문·분류 키워드: ai",
-          "공고 유형: event",
-          "IT·게임 전문 출처"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-09-01T14:14:58+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
-      "sources": [
-        {
-          "source_id": "eventus",
-          "source_name": "이벤터스",
-          "source_url": "https://event-us.kr/inanswer/event/134229",
-          "source_post_id": "134229",
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
-        }
-      ],
-      "application_url": "https://event-us.kr/inanswer/event/134229",
-      "document_url": null,
-      "recruit_start": "2026-08-31",
-      "recruit_end": "2026-09-15",
-      "event_start": "2026-09-16",
-      "event_end": "2026-09-16",
-      "date_kind": "exact",
-      "d_day": 14,
-      "eligibility": "",
-      "benefits": "",
-      "location": "서울 강남구",
-      "mode": "offline",
-      "fee": "paid",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "geo세미나chatgpt에서추천받는병원로펌이되는방법|인앤서geoai검색|2026-09-15"
-    },
-    {
       "id": "8aa24cbf3c1bc425cf9b",
       "title": "KCD x Ceph x OpenInfra Day Korea 2026",
       "source_name": "Dev-Event GitHub",
@@ -968,7 +837,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-15T08:40:57+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
+      "last_seen_at": "2026-09-01T19:12:29+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -977,7 +846,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
+          "fetched_at": "2026-09-01T19:12:29+09:00"
         }
       ],
       "application_url": null,
@@ -1022,7 +891,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-22T14:44:48+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
+      "last_seen_at": "2026-09-01T19:12:29+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1031,7 +900,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
+          "fetched_at": "2026-09-01T19:12:29+09:00"
         }
       ],
       "application_url": null,
@@ -1076,7 +945,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-20T22:13:42+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
+      "last_seen_at": "2026-09-01T19:12:29+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1085,7 +954,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
+          "fetched_at": "2026-09-01T19:12:29+09:00"
         }
       ],
       "application_url": null,
@@ -1130,7 +999,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-20T22:13:42+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
+      "last_seen_at": "2026-09-01T19:12:29+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1139,7 +1008,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
+          "fetched_at": "2026-09-01T19:12:29+09:00"
         }
       ],
       "application_url": null,
@@ -1184,7 +1053,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-22T14:44:48+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
+      "last_seen_at": "2026-09-01T19:12:29+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1193,7 +1062,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
+          "fetched_at": "2026-09-01T19:12:29+09:00"
         }
       ],
       "application_url": null,
@@ -1238,7 +1107,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-22T14:44:48+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
+      "last_seen_at": "2026-09-01T19:12:29+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1247,7 +1116,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
+          "fetched_at": "2026-09-01T19:12:29+09:00"
         }
       ],
       "application_url": null,
@@ -1292,7 +1161,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-05T21:18:59+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
+      "last_seen_at": "2026-09-01T19:12:29+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1301,7 +1170,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
+          "fetched_at": "2026-09-01T19:12:29+09:00"
         }
       ],
       "application_url": null,
@@ -1346,7 +1215,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-18T22:10:59+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
+      "last_seen_at": "2026-09-01T19:12:29+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1355,7 +1224,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
+          "fetched_at": "2026-09-01T19:12:29+09:00"
         }
       ],
       "application_url": null,
@@ -1400,7 +1269,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-28T05:33:27+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
+      "last_seen_at": "2026-09-01T19:12:29+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1409,7 +1278,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
+          "fetched_at": "2026-09-01T19:12:29+09:00"
         }
       ],
       "application_url": null,
@@ -1454,7 +1323,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-20T22:13:42+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
+      "last_seen_at": "2026-09-01T19:12:29+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1463,7 +1332,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
+          "fetched_at": "2026-09-01T19:12:29+09:00"
         }
       ],
       "application_url": null,
@@ -1508,7 +1377,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-31T22:57:37+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
+      "last_seen_at": "2026-09-01T19:12:29+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1517,7 +1386,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
+          "fetched_at": "2026-09-01T19:12:29+09:00"
         }
       ],
       "application_url": null,
@@ -1562,7 +1431,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
+      "last_seen_at": "2026-09-01T19:12:29+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1571,7 +1440,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
+          "fetched_at": "2026-09-01T19:12:29+09:00"
         }
       ],
       "application_url": null,
@@ -1616,7 +1485,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-26T18:59:26+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
+      "last_seen_at": "2026-09-01T19:12:29+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1625,7 +1494,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
+          "fetched_at": "2026-09-01T19:12:29+09:00"
         }
       ],
       "application_url": null,
@@ -1670,7 +1539,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-22T14:44:48+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
+      "last_seen_at": "2026-09-01T19:12:29+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1679,7 +1548,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
+          "fetched_at": "2026-09-01T19:12:29+09:00"
         }
       ],
       "application_url": null,
@@ -1724,7 +1593,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-22T14:44:48+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
+      "last_seen_at": "2026-09-01T19:12:29+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1733,7 +1602,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
+          "fetched_at": "2026-09-01T19:12:29+09:00"
         }
       ],
       "application_url": null,
@@ -1778,7 +1647,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-10T22:47:09+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
+      "last_seen_at": "2026-09-01T19:12:29+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1787,7 +1656,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
+          "fetched_at": "2026-09-01T19:12:29+09:00"
         }
       ],
       "application_url": null,
@@ -1840,7 +1709,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-18T10:52:38+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
+      "last_seen_at": "2026-09-01T19:12:29+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -1849,7 +1718,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
+          "fetched_at": "2026-09-01T19:12:29+09:00"
         }
       ],
       "application_url": null,
@@ -2005,7 +1874,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-22T14:44:48+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
+      "last_seen_at": "2026-09-01T19:12:29+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2014,7 +1883,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
+          "fetched_at": "2026-09-01T19:12:29+09:00"
         }
       ],
       "application_url": null,
@@ -2058,7 +1927,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-20T22:13:42+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
+      "last_seen_at": "2026-09-01T19:12:29+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2067,7 +1936,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
+          "fetched_at": "2026-09-01T19:12:29+09:00"
         }
       ],
       "application_url": null,
@@ -2111,7 +1980,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-04T12:41:11+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
+      "last_seen_at": "2026-09-01T19:12:29+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2120,7 +1989,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
+          "fetched_at": "2026-09-01T19:12:29+09:00"
         }
       ],
       "application_url": null,
@@ -2164,7 +2033,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-31T22:57:37+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
+      "last_seen_at": "2026-09-01T19:12:29+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2173,7 +2042,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
+          "fetched_at": "2026-09-01T19:12:29+09:00"
         }
       ],
       "application_url": null,
@@ -2217,7 +2086,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-10T22:47:09+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
+      "last_seen_at": "2026-09-01T19:12:29+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2226,7 +2095,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
+          "fetched_at": "2026-09-01T19:12:29+09:00"
         }
       ],
       "application_url": null,
@@ -2270,7 +2139,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-31T22:57:37+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
+      "last_seen_at": "2026-09-01T19:12:29+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2279,7 +2148,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
+          "fetched_at": "2026-09-01T19:12:29+09:00"
         }
       ],
       "application_url": null,
@@ -2323,7 +2192,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-31T22:57:37+09:00",
-      "last_seen_at": "2026-09-01T14:14:58+09:00",
+      "last_seen_at": "2026-09-01T19:12:29+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2332,7 +2201,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-01T14:14:58+09:00"
+          "fetched_at": "2026-09-01T19:12:29+09:00"
         }
       ],
       "application_url": null,
