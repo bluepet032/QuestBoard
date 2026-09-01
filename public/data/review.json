@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-01T23:56:42+09:00",
+  "generated_at": "2026-09-02T01:53:54+09:00",
   "items": [
     {
       "id": "c9aedd2648ec3cf9a790",
@@ -784,7 +784,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-08-28T21:11:44+09:00",
-      "last_seen_at": "2026-09-01T14:37:52+09:00",
+      "last_seen_at": "2026-09-02T01:53:54+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -793,7 +793,7 @@
           "source_post_id": "EVEN_000000000069335",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-01T14:37:52+09:00"
+          "fetched_at": "2026-09-02T01:53:54+09:00"
         }
       ],
       "application_url": null,
@@ -803,7 +803,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 2,
+      "d_day": 1,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1768,7 +1768,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-09-01T14:37:52+09:00",
+      "last_seen_at": "2026-09-02T01:53:54+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1777,7 +1777,7 @@
           "source_post_id": "EVEN_000000000069000",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-01T14:37:52+09:00"
+          "fetched_at": "2026-09-02T01:53:54+09:00"
         }
       ],
       "application_url": null,
@@ -1787,7 +1787,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 42,
+      "d_day": 41,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1821,7 +1821,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-09-01T14:37:52+09:00",
+      "last_seen_at": "2026-09-02T01:53:54+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1830,7 +1830,7 @@
           "source_post_id": "EVEN_000000000067915",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-01T14:37:52+09:00"
+          "fetched_at": "2026-09-02T01:53:54+09:00"
         }
       ],
       "application_url": null,
@@ -1840,7 +1840,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 60,
+      "d_day": 59,
       "eligibility": "",
       "benefits": "",
       "location": "",
