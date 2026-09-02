@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T09:17:43+09:00",
+  "generated_at": "2026-09-02T14:02:49+09:00",
   "items": [
     {
       "id": "ee01812ca4ea0c531566",
@@ -331,7 +331,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-07T09:13:30+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -340,7 +340,7 @@
           "source_post_id": "PBLN_000000000125178",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -368,7 +368,7 @@
       "source_name": "경기콘텐츠진흥원",
       "source_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11222&menuNo=200061&pageIndex=1",
       "organizer": "사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우",
-      "summary": "사업공고 | 사업공고 | 알림마당 | 경기콘텐츠진흥원. ) [제 2026-113호] 등록일 2026.08.26 조회수 1,551 담당자 김현정 담당부서 게임산업팀 전화번호 031-776-4790 접수기간 2026년 08월 26일 12시",
+      "summary": "사업공고 | 사업공고 | 알림마당 | 경기콘텐츠진흥원. ) [제 2026-113호] 등록일 2026.08.26 조회수 1,612 담당자 김현정 담당부서 게임산업팀 전화번호 031-776-4790 접수기간 2026년 08월 26일 12시",
       "primary_type": "support",
       "field_tags": [
         "게임",
@@ -389,7 +389,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T16:29:50+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "gcon",
@@ -398,7 +398,7 @@
           "source_post_id": "11222",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -409,77 +409,18 @@
       "event_end": null,
       "date_kind": "exact",
       "d_day": 0,
-      "eligibility": ") [제 2026-113호] 등록일 2026.08.26 조회수 1,551 담당자 김현정 담당부서 게임산업팀 전화번호 031-776-4790 접수기간 2026년 08월 26일 12시",
+      "eligibility": ") [제 2026-113호] 등록일 2026.08.26 조회수 1,612 담당자 김현정 담당부서 게임산업팀 전화번호 031-776-4790 접수기간 2026년 08월 26일 12시",
       "benefits": "지원항목 유통지원 지원내용 - 각 30건 내외 국내외 온라인 FGT 제공(비율 조정 가능) / 28개사 대상('26년 기업 18개사 + '24~'25년 기업 및 현재 입주기업 10",
       "location": "",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-09-02T06:18:50+09:00",
+      "last_changed_at": "2026-09-02T14:02:49+09:00",
       "change_flags": [
         "eligibility"
       ],
       "is_manual_reviewed": false,
       "dedupe_key": "2026년경기게임민관학협력fgt지원참여기업2차모집공고2426년제작지원기업및현재입주지원기업대상|사업소개2026년지원사업안내주력사업주력사업개요g유니콘패스ai패키지크라우|2026-09-02"
-    },
-    {
-      "id": "c40c66b8b810fdea5995",
-      "title": "[사업화] --> 2026년 2차 ICT 비즈니스 파트너십(일본) 참가기업 모집 안내",
-      "source_name": "정보통신산업진흥원",
-      "source_url": "https://www.nipa.kr/home/2-2/16895",
-      "organizer": "정보통신산업진흥원",
-      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "창업"
-      ],
-      "audience_tags": [],
-      "status": "today",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ict, 사업화",
-          "본문·분류 키워드: ai, ict, it, 모바일",
-          "공고 유형: support",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-08-05T18:22:24+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
-      "sources": [
-        {
-          "source_id": "nipa",
-          "source_name": "정보통신산업진흥원",
-          "source_url": "https://www.nipa.kr/home/2-2/16895",
-          "source_post_id": "16895",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-08-05",
-      "recruit_end": "2026-09-02",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 0,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "사업화2026년2차ict비즈니스파트너십일본참가기업모집안내|정보통신산업진흥원|2026-09-02"
     },
     {
       "id": "0443f4dfd95920a35393",
@@ -505,7 +446,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -514,7 +455,7 @@
           "source_post_id": "EVEN_000000000069053",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -559,7 +500,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-20T22:30:43+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -568,7 +509,7 @@
           "source_post_id": "178953",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -615,7 +556,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-03T13:19:42+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -624,7 +565,7 @@
           "source_post_id": "178709",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -781,7 +722,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-29T07:36:42+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -790,7 +731,7 @@
           "source_post_id": "EVEN_000000000069231",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -835,7 +776,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-25T22:32:27+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -844,7 +785,7 @@
           "source_post_id": "PBLN_000000000125776",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -1064,7 +1005,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-18T16:23:05+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1073,7 +1014,7 @@
           "source_post_id": "PBLN_000000000125535",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -1121,7 +1062,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-11T23:04:05+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -1130,7 +1071,7 @@
           "source_post_id": "326D00034006",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -1175,7 +1116,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-21T22:29:48+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -1184,7 +1125,7 @@
           "source_post_id": "178985",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -1572,7 +1513,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-24T22:34:14+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1581,7 +1522,7 @@
           "source_post_id": "PBLN_000000000125732",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -1627,7 +1568,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T11:12:21+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -1636,7 +1577,7 @@
           "source_post_id": "326D00088010",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -2031,7 +1972,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-24T11:11:00+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -2040,7 +1981,7 @@
           "source_post_id": "326D00037013",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -2085,7 +2026,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-11T23:04:05+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2094,7 +2035,7 @@
           "source_post_id": "PBLN_000000000125340",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -2140,7 +2081,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-12T17:02:26+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2149,7 +2090,7 @@
           "source_post_id": "PBLN_000000000125353",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -2311,7 +2252,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-10T17:15:30+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -2320,7 +2261,7 @@
           "source_post_id": "16897",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -2476,7 +2417,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-18T11:04:01+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "gcon",
@@ -2485,7 +2426,7 @@
           "source_post_id": "11216",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -2641,7 +2582,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-28T21:11:44+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2650,7 +2591,7 @@
           "source_post_id": "PBLN_000000000125900",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -2696,7 +2637,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-28T21:11:44+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2705,7 +2646,7 @@
           "source_post_id": "PBLN_000000000125922",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -2750,7 +2691,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-20T22:30:43+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -2759,7 +2700,7 @@
           "source_post_id": "178975",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -2806,7 +2747,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-27T19:29:02+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2815,7 +2756,7 @@
           "source_post_id": "PBLN_000000000125850",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -2860,7 +2801,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-28T21:11:44+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2869,7 +2810,7 @@
           "source_post_id": "PBLN_000000000125897",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -2981,7 +2922,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-28T21:11:44+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2990,7 +2931,7 @@
           "source_post_id": "PBLN_000000000125901",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -3036,7 +2977,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-21T03:56:17+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -3045,7 +2986,7 @@
           "source_post_id": "EVEN_000000000069270",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -3090,7 +3031,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-31T23:23:33+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -3099,7 +3040,7 @@
           "source_post_id": "PBLN_000000000125956",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -3150,7 +3091,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-11T11:49:18+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "gcon",
@@ -3159,7 +3100,7 @@
           "source_post_id": "11214",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -3207,7 +3148,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-31T23:23:33+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -3216,7 +3157,7 @@
           "source_post_id": "PBLN_000000000125947",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -3263,7 +3204,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-18T16:23:05+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "gcon",
@@ -3272,7 +3213,7 @@
           "source_post_id": "11217",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -3371,7 +3312,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T01:53:54+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -3380,7 +3321,7 @@
           "source_post_id": "PBLN_000000000126025",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -3425,7 +3366,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-31T23:23:33+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -3434,7 +3375,7 @@
           "source_post_id": "PBLN_000000000125977",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -3480,7 +3421,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-27T19:29:02+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -3489,7 +3430,7 @@
           "source_post_id": "EVEN_000000000069324",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -3534,7 +3475,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T01:53:54+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -3543,7 +3484,7 @@
           "source_post_id": "PBLN_000000000126001",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -3589,7 +3530,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T01:53:54+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -3598,7 +3539,7 @@
           "source_post_id": "PBLN_000000000126000",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -3899,7 +3840,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T16:29:50+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "gcon",
@@ -3908,7 +3849,7 @@
           "source_post_id": "11223",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         },
         {
           "source_id": "bizinfo",
@@ -3917,7 +3858,7 @@
           "source_post_id": "PBLN_000000000125872",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -3964,7 +3905,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-25T22:32:27+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -3973,7 +3914,7 @@
           "source_post_id": "EVEN_000000000069300",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -4018,7 +3959,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-19T16:23:39+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -4027,7 +3968,7 @@
           "source_post_id": "PBLN_000000000125570",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -4072,7 +4013,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-12T23:04:35+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -4081,7 +4022,7 @@
           "source_post_id": "178896",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -4129,7 +4070,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T16:29:50+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -4138,7 +4079,7 @@
           "source_post_id": "PBLN_000000000125825",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -4469,7 +4410,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T01:53:54+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -4478,7 +4419,7 @@
           "source_post_id": "PBLN_000000000125992",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -4523,7 +4464,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-04T18:25:16+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -4532,7 +4473,7 @@
           "source_post_id": "EVEN_000000000069128",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -4579,7 +4520,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T01:53:54+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -4588,7 +4529,7 @@
           "source_post_id": "PBLN_000000000126029",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -4635,7 +4576,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-01T20:59:54+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "gcon",
@@ -4644,7 +4585,7 @@
           "source_post_id": "11226",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -4760,7 +4701,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-19T22:28:17+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -4769,7 +4710,7 @@
           "source_post_id": "EVEN_000000000069259",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -4814,7 +4755,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-28T21:11:44+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -4823,7 +4764,7 @@
           "source_post_id": "EVEN_000000000069338",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -4869,7 +4810,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-19T16:23:39+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -4878,7 +4819,7 @@
           "source_post_id": "EVEN_000000000069255",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -5105,7 +5046,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-18T11:04:01+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -5114,7 +5055,7 @@
           "source_post_id": "16900",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -5160,7 +5101,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-24T22:34:14+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -5169,7 +5110,7 @@
           "source_post_id": "EVEN_000000000069292",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -5214,7 +5155,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-31T23:23:33+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -5223,7 +5164,7 @@
           "source_post_id": "PBLN_000000000125965",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -5274,7 +5215,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-25T16:28:39+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "gcon",
@@ -5283,7 +5224,7 @@
           "source_post_id": "11220",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -5328,7 +5269,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-25T16:28:39+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -5337,7 +5278,7 @@
           "source_post_id": "178952",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -5442,7 +5383,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T03:55:14+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "gcon",
@@ -5451,7 +5392,7 @@
           "source_post_id": "11221",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -5504,7 +5445,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-31T23:23:33+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "gcon",
@@ -5513,7 +5454,7 @@
           "source_post_id": "11224",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -5674,7 +5615,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T16:29:50+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -5683,7 +5624,7 @@
           "source_post_id": "PBLN_000000000125824",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -5729,7 +5670,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-05T12:48:01+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -5738,7 +5679,7 @@
           "source_post_id": "EVEN_000000000069130",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -5783,7 +5724,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-31T23:23:33+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -5792,7 +5733,7 @@
           "source_post_id": "PBLN_000000000125944",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -5838,7 +5779,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-21T03:56:17+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -5847,7 +5788,7 @@
           "source_post_id": "EVEN_000000000069266",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -5947,7 +5888,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-14T04:41:19+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -5956,7 +5897,7 @@
           "source_post_id": "EVEN_000000000069226",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -6001,7 +5942,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T01:53:54+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -6010,7 +5951,7 @@
           "source_post_id": "EVEN_000000000069349",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -6055,7 +5996,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-31T23:23:33+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -6064,7 +6005,7 @@
           "source_post_id": "PBLN_000000000125987",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -6414,7 +6355,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-31T23:23:33+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -6423,7 +6364,7 @@
           "source_post_id": "EVEN_000000000069343",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -6469,7 +6410,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-25T22:32:27+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -6478,7 +6419,7 @@
           "source_post_id": "EVEN_000000000069302",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -6638,7 +6579,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-31T23:23:33+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "gcon",
@@ -6647,7 +6588,7 @@
           "source_post_id": "11225",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -6958,7 +6899,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T01:53:54+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -6967,7 +6908,7 @@
           "source_post_id": "PBLN_000000000125994",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -7014,7 +6955,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-31T23:23:33+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -7023,7 +6964,7 @@
           "source_post_id": "326D00085009",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -7068,7 +7009,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T01:53:54+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -7077,7 +7018,7 @@
           "source_post_id": "PBLN_000000000126036",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -7123,7 +7064,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-28T07:34:05+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -7132,7 +7073,7 @@
           "source_post_id": "EVEN_000000000068742",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -8198,7 +8139,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-07T16:55:40+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -8207,7 +8148,7 @@
           "source_post_id": "PBLN_000000000125199",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -8322,7 +8263,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-21T03:56:17+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -8331,7 +8272,7 @@
           "source_post_id": "EVEN_000000000069268",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -8553,7 +8494,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-10T17:15:30+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -8562,7 +8503,7 @@
           "source_post_id": "PBLN_000000000125282",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -8608,7 +8549,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T22:38:31+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -8617,7 +8558,7 @@
           "source_post_id": "EVEN_000000000069316",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -8664,7 +8605,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-12T04:17:11+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -8673,7 +8614,7 @@
           "source_post_id": "EVEN_000000000068849",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -9620,7 +9561,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-19T16:23:39+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -9629,7 +9570,7 @@
           "source_post_id": "PBLN_000000000125566",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -10071,7 +10012,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-28T21:11:44+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -10080,7 +10021,7 @@
           "source_post_id": "EVEN_000000000069339",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -10125,7 +10066,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -10134,7 +10075,7 @@
           "source_post_id": "PBLN_000000000124309",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -10179,7 +10120,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-31T23:23:33+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -10188,7 +10129,7 @@
           "source_post_id": "PBLN_000000000125978",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -10234,7 +10175,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-06T05:13:08+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -10243,7 +10184,7 @@
           "source_post_id": "EVEN_000000000069138",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -10343,7 +10284,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -10352,7 +10293,7 @@
           "source_post_id": "EVEN_000000000068325",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         },
         {
           "source_id": "bizinfo",
@@ -10361,7 +10302,7 @@
           "source_post_id": "EVEN_000000000068313",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -10638,7 +10579,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T01:53:54+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -10647,7 +10588,7 @@
           "source_post_id": "EVEN_000000000069352",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -10692,7 +10633,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-28T07:34:05+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -10701,7 +10642,7 @@
           "source_post_id": "EVEN_000000000068698",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -10746,7 +10687,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -10755,7 +10696,7 @@
           "source_post_id": "PBLN_000000000124214",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -10800,7 +10741,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-29T07:36:42+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -10809,7 +10750,7 @@
           "source_post_id": "PBLN_000000000118285",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -10913,7 +10854,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-29T07:36:42+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -10922,7 +10863,7 @@
           "source_post_id": "EVEN_000000000068494",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -10967,7 +10908,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:42:45+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -10976,7 +10917,7 @@
           "source_post_id": "175783",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -11023,7 +10964,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:42:45+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -11032,7 +10973,7 @@
           "source_post_id": "176076",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -11080,7 +11021,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -11089,7 +11030,7 @@
           "source_post_id": "PBLN_000000000123753",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -11137,7 +11078,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -11146,7 +11087,7 @@
           "source_post_id": "326D00034004",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
@@ -11192,7 +11133,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-09-02T06:18:50+09:00",
+      "last_seen_at": "2026-09-02T14:02:49+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -11201,7 +11142,7 @@
           "source_post_id": "EVEN_000000000068967",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-02T06:18:50+09:00"
+          "fetched_at": "2026-09-02T14:02:49+09:00"
         }
       ],
       "application_url": null,
