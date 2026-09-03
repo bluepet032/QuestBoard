@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-03T14:00:58+09:00",
+  "generated_at": "2026-09-03T14:51:38+09:00",
   "items": [
     {
       "id": "ee01812ca4ea0c531566",
@@ -33,7 +33,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-12T11:47:08+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -42,7 +42,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -97,7 +97,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-01T19:12:29+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -106,7 +106,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -161,7 +161,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-13T11:49:36+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -170,7 +170,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -193,63 +193,6 @@
       ],
       "is_manual_reviewed": false,
       "dedupe_key": "globalaimissionforum2026|측가아닙니다이벤트내용과관련한사항은이벤트개설자에게문의바랍니다hoti|2026-08-20"
-    },
-    {
-      "id": "3dc97cc41ffc9931c1e0",
-      "title": "2026 4대 과학기술원 창업리그 통합 결선, GRAVITY",
-      "source_name": "이벤터스",
-      "source_url": "https://event-us.kr/sparklabs-demoday12/event/132750",
-      "organizer": "스파크랩(SparkLabs)",
-      "summary": "KAIST·GIST·DGIST·UNIST, 4대 과학기술원의 딥테크 분야 20팀이 한 무대에 오르는 통합 결선입니다.",
-      "primary_type": "event",
-      "field_tags": [
-        "창업"
-      ],
-      "audience_tags": [
-        "창업자·기업"
-      ],
-      "status": "today",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: 창업",
-          "본문·분류 키워드: 스타트업, 창업",
-          "공고 유형: event",
-          "IT·게임 전문 출처"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-09-03T10:08:15+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
-      "sources": [
-        {
-          "source_id": "eventus",
-          "source_name": "이벤터스",
-          "source_url": "https://event-us.kr/sparklabs-demoday12/event/132750",
-          "source_post_id": "132750",
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
-        }
-      ],
-      "application_url": "https://event-us.kr/sparklabs-demoday12/event/132750",
-      "document_url": null,
-      "recruit_start": "2026-08-13",
-      "recruit_end": "2026-09-03",
-      "event_start": "2026-09-03",
-      "event_end": "2026-09-03",
-      "date_kind": "exact",
-      "d_day": 0,
-      "eligibility": "",
-      "benefits": "",
-      "location": "대전 유성구",
-      "mode": "offline",
-      "fee": "free",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "20264대과학기술원창업리그통합결선gravity|스파크랩sparklabs|2026-09-03"
     },
     {
       "id": "c2365f1622a0bb00c897",
@@ -275,7 +218,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-31T22:57:37+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -284,7 +227,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -330,7 +273,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-25T12:14:11+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "eventus",
@@ -339,7 +282,7 @@
           "source_post_id": "132425",
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": "https://event-us.kr/aeolo/event/132425",
@@ -497,7 +440,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-03T09:16:05+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -506,7 +449,7 @@
           "source_post_id": "108804",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -552,7 +495,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -561,7 +504,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -611,7 +554,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T14:51:54+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -620,7 +563,7 @@
           "source_post_id": "347568",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         },
         {
           "source_id": "thinkcontest",
@@ -629,7 +572,7 @@
           "source_post_id": "110365",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -846,7 +789,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-14T19:18:41+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -855,7 +798,7 @@
           "source_post_id": "109567",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -904,7 +847,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -913,7 +856,7 @@
           "source_post_id": "107930",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -934,6 +877,123 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "제24회임베디드sw경진대회자유공모부문참가자모집|산업통상부|2026-09-04"
+    },
+    {
+      "id": "ad6ea89f010efae56e4c",
+      "title": "[대통령직속 빛의 위원회] 빛의 혁명 상징 디자인 공모전 SPECIAL IDEA",
+      "source_name": "위비티",
+      "source_url": "https://www.wevity.com/?c=find&s=1&mode=soon&gub=1&cidx=20&gbn=view&gp=1&ix=110012",
+      "organizer": "대통령직속 빛의 위원회",
+      "summary": "위비티 등록 분야: 광고/마케팅, 디자인/캐릭터/웹툰, 웹/모바일/IT, 예체능/미술/음악, 기타. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "소프트웨어",
+        "웹·앱",
+        "디지털 콘텐츠"
+      ],
+      "audience_tags": [],
+      "status": "urgent",
+      "relevance": {
+        "score": 97,
+        "reasons": [
+          "본문·분류 키워드: it, 모바일, 웹, 웹툰",
+          "공고 유형: contest",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-08-11T04:13:51+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
+      "sources": [
+        {
+          "source_id": "wevity",
+          "source_name": "위비티",
+          "source_url": "https://www.wevity.com/?c=find&s=1&mode=soon&gub=1&cidx=20&gbn=view&gp=1&ix=110012",
+          "source_post_id": "110012",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-09-06",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 3,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-09-03T14:51:38+09:00",
+      "change_flags": [
+        "recruit_end"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "대통령직속빛의위원회빛의혁명상징디자인공모전specialidea|대통령직속빛의위원회|2026-09-06"
+    },
+    {
+      "id": "c0a6f9ec8c9f8c33bbcd",
+      "title": "모두의 AI 실험실 AI 서비스 경진대회",
+      "source_name": "위비티",
+      "source_url": "https://www.wevity.com/?c=find&s=1&mode=soon&gub=1&cidx=20&gbn=view&gp=1&ix=110003",
+      "organizer": "과학기술정보통신부, 한국지능정보사회진흥원",
+      "summary": "위비티 등록 분야: 웹/모바일/IT. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱"
+      ],
+      "audience_tags": [],
+      "status": "urgent",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: ai",
+          "본문·분류 키워드: ai, it, 모바일, 웹",
+          "공고 유형: contest",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-08-14T20:59:24+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
+      "sources": [
+        {
+          "source_id": "wevity",
+          "source_name": "위비티",
+          "source_url": "https://www.wevity.com/?c=find&s=1&mode=soon&gub=1&cidx=20&gbn=view&gp=1&ix=110003",
+          "source_post_id": "110003",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-09-06",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 3,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-09-03T14:51:38+09:00",
+      "change_flags": [
+        "recruit_end"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "모두의ai실험실ai서비스경진대회|과학기술정보통신부한국지능정보사회진흥원|2026-09-06"
     },
     {
       "id": "49087bb476eb4eb8c200",
@@ -959,7 +1019,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-15T08:40:57+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -968,7 +1028,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -1015,7 +1075,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1024,7 +1084,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -1070,7 +1130,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T18:59:26+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1079,7 +1139,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -1180,7 +1240,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-29T18:08:28+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "eventus",
@@ -1189,7 +1249,7 @@
           "source_post_id": "131364",
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": "https://event-us.kr/tosslab/event/131364",
@@ -1238,7 +1298,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-07T18:17:18+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -1247,7 +1307,7 @@
           "source_post_id": "109240",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -1276,123 +1336,6 @@
       "dedupe_key": "nst대한민국ainativerd를함께만드는naisai해커톤|국가과학기술연구회nst|2026-09-07"
     },
     {
-      "id": "ad6ea89f010efae56e4c",
-      "title": "[대통령직속 빛의 위원회] 빛의 혁명 상징 디자인 공모전 SPECIAL IDEA",
-      "source_name": "위비티",
-      "source_url": "https://www.wevity.com/?c=find&s=1&mode=soon&gub=1&cidx=20&gbn=view&gp=1&ix=110012",
-      "organizer": "대통령직속 빛의 위원회",
-      "summary": "위비티 등록 분야: 광고/마케팅, 디자인/캐릭터/웹툰, 웹/모바일/IT, 예체능/미술/음악, 기타. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "소프트웨어",
-        "웹·앱",
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 97,
-        "reasons": [
-          "본문·분류 키워드: it, 모바일, 웹, 웹툰",
-          "공고 유형: contest",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-08-11T04:13:51+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
-      "sources": [
-        {
-          "source_id": "wevity",
-          "source_name": "위비티",
-          "source_url": "https://www.wevity.com/?c=find&s=1&mode=soon&gub=1&cidx=20&gbn=view&gp=1&ix=110012",
-          "source_post_id": "110012",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-09-07",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 4,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-09-03T01:37:58+09:00",
-      "change_flags": [
-        "recruit_end"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "대통령직속빛의위원회빛의혁명상징디자인공모전specialidea|대통령직속빛의위원회|2026-09-07"
-    },
-    {
-      "id": "c0a6f9ec8c9f8c33bbcd",
-      "title": "모두의 AI 실험실 AI 서비스 경진대회",
-      "source_name": "위비티",
-      "source_url": "https://www.wevity.com/?c=find&s=1&mode=soon&gub=1&cidx=20&gbn=view&gp=1&ix=110003",
-      "organizer": "과학기술정보통신부, 한국지능정보사회진흥원",
-      "summary": "위비티 등록 분야: 웹/모바일/IT. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai",
-          "본문·분류 키워드: ai, it, 모바일, 웹",
-          "공고 유형: contest",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-08-14T20:59:24+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
-      "sources": [
-        {
-          "source_id": "wevity",
-          "source_name": "위비티",
-          "source_url": "https://www.wevity.com/?c=find&s=1&mode=soon&gub=1&cidx=20&gbn=view&gp=1&ix=110003",
-          "source_post_id": "110003",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-09-07",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 4,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-09-03T01:37:58+09:00",
-      "change_flags": [
-        "recruit_end"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "모두의ai실험실ai서비스경진대회|과학기술정보통신부한국지능정보사회진흥원|2026-09-07"
-    },
-    {
       "id": "7c23da722cb2f9b261e2",
       "title": "안드로이드 소소밋업: 국내/외 개발자들은 AI를 어떻게 활용하고 있을까?",
       "source_name": "Dev-Event GitHub",
@@ -1419,7 +1362,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-31T22:57:37+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1428,7 +1371,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -1449,60 +1392,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "안드로이드소소밋업국내외개발자들은ai를어떻게활용하고있을까|gdgkoreaandroid|2026-09-07"
-    },
-    {
-      "id": "7192356cc3ddbf8a8921",
-      "title": "파주 상생경제 플랫폼 명칭 공모전 '일상이 될 플랫폼, 내 이름은?'",
-      "source_name": "링커리어",
-      "source_url": "https://linkareer.com/activity/346962",
-      "organizer": "파주시",
-      "summary": "링커리어 공개 공모전 목록. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "웹·앱"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 70,
-        "reasons": [
-          "제목 핵심 키워드: 플랫폼",
-          "본문·분류 키워드: 플랫폼",
-          "공고 유형: contest"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-09-01T14:14:58+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
-      "sources": [
-        {
-          "source_id": "linkareer",
-          "source_name": "링커리어",
-          "source_url": "https://linkareer.com/activity/346962",
-          "source_post_id": "346962",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-09-07",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 4,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "파주상생경제플랫폼명칭공모전일상이될플랫폼내이름은|파주시|2026-09-07"
     },
     {
       "id": "d9f2e7d78d25a002b232",
@@ -1559,6 +1448,62 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "2026atf한국공동관애니메이션참가기업모집|한국콘텐츠진흥원|2026-09-08"
+    },
+    {
+      "id": "fb1b68dee0fffca19443",
+      "title": "2026 인천 관광스타트업 IR데이 참가 기업 모집",
+      "source_name": "링커리어",
+      "source_url": "https://linkareer.com/activity/347717",
+      "organizer": "인천관광공사",
+      "summary": "링커리어 공개 공모전 목록. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "창업"
+      ],
+      "audience_tags": [
+        "창업자·기업"
+      ],
+      "status": "open",
+      "relevance": {
+        "score": 70,
+        "reasons": [
+          "제목 핵심 키워드: 스타트업",
+          "본문·분류 키워드: 스타트업",
+          "공고 유형: contest"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-09-03T14:51:38+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
+      "sources": [
+        {
+          "source_id": "linkareer",
+          "source_name": "링커리어",
+          "source_url": "https://linkareer.com/activity/347717",
+          "source_post_id": "347717",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-09-08",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 5,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026인천관광스타트업ir데이참가기업모집|인천관광공사|2026-09-08"
     },
     {
       "id": "418abd851bb2256f6b8b",
@@ -1694,7 +1639,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-22T14:44:48+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1703,7 +1648,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -1749,7 +1694,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-20T22:13:42+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1758,7 +1703,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -1863,7 +1808,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T01:02:52+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -1872,7 +1817,7 @@
           "source_post_id": "341495",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -1919,7 +1864,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T14:51:54+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -1928,7 +1873,7 @@
           "source_post_id": "347375",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -1974,7 +1919,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-18T22:10:59+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1983,7 +1928,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -2033,7 +1978,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T14:51:54+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -2042,7 +1987,7 @@
           "source_post_id": "110332",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -2144,7 +2089,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-18T22:10:59+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2153,7 +2098,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -2199,7 +2144,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T18:59:26+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2208,7 +2153,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -2260,7 +2205,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T14:51:54+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -2269,7 +2214,7 @@
           "source_post_id": "347321",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         },
         {
           "source_id": "thinkcontest",
@@ -2278,7 +2223,7 @@
           "source_post_id": "110427",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -2387,7 +2332,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T14:51:54+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -2396,7 +2341,7 @@
           "source_post_id": "347296",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -2417,6 +2362,72 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "관계자외출입가능남동산단청년콘텐츠해커톤참가신청|스펙타클워크|2026-09-09"
+    },
+    {
+      "id": "aced39b706b19dab45e3",
+      "title": "[무계로 세계로 블루마블] 리그 오브 레전드 무작위 총력전 : 아수라장 - 선수 모집",
+      "source_name": "위비티",
+      "source_url": "https://www.wevity.com/?c=find&s=1&mode=soon&gub=1&cidx=21&gbn=view&gp=1&ix=110653",
+      "organizer": "김해시",
+      "summary": "위비티 등록 분야: 게임/소프트웨어. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "other",
+      "field_tags": [
+        "게임",
+        "소프트웨어"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 76,
+        "reasons": [
+          "본문·분류 키워드: 게임, 소프트웨어",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능",
+          "공고 유형: contest"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-09-01T19:12:29+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
+      "sources": [
+        {
+          "source_id": "linkareer",
+          "source_name": "링커리어",
+          "source_url": "https://linkareer.com/activity/347275",
+          "source_post_id": "347275",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        },
+        {
+          "source_id": "wevity",
+          "source_name": "위비티",
+          "source_url": "https://www.wevity.com/?c=find&s=1&mode=soon&gub=1&cidx=21&gbn=view&gp=1&ix=110653",
+          "source_post_id": "110653",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-09-09",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 6,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-09-03T14:51:38+09:00",
+      "change_flags": [
+        "recruit_end"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "무계로세계로블루마블리그오브레전드무작위총력전아수라장선수모집|김해시|2026-09-09"
     },
     {
       "id": "f7e43199669ed40ac509",
@@ -2582,72 +2593,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "대구2026년콘텐츠스케일업액셀러레이팅프로그램참여기업추가모집공고대구콘텐츠기업지원센터|대구디지털혁신진흥원|2026-09-10"
-    },
-    {
-      "id": "aced39b706b19dab45e3",
-      "title": "[무계로 세계로 블루마블] 리그 오브 레전드 무작위 총력전 : 아수라장 - 선수 모집",
-      "source_name": "위비티",
-      "source_url": "https://www.wevity.com/?c=find&s=1&mode=soon&gub=1&cidx=21&gbn=view&gp=1&ix=110653",
-      "organizer": "김해시",
-      "summary": "위비티 등록 분야: 게임/소프트웨어. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "other",
-      "field_tags": [
-        "게임",
-        "소프트웨어"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 76,
-        "reasons": [
-          "본문·분류 키워드: 게임, 소프트웨어",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능",
-          "공고 유형: contest"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-09-01T19:12:29+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
-      "sources": [
-        {
-          "source_id": "linkareer",
-          "source_name": "링커리어",
-          "source_url": "https://linkareer.com/activity/347275",
-          "source_post_id": "347275",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
-        },
-        {
-          "source_id": "wevity",
-          "source_name": "위비티",
-          "source_url": "https://www.wevity.com/?c=find&s=1&mode=soon&gub=1&cidx=21&gbn=view&gp=1&ix=110653",
-          "source_post_id": "110653",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-09-10",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 7,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-09-03T01:37:58+09:00",
-      "change_flags": [
-        "recruit_end"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "무계로세계로블루마블리그오브레전드무작위총력전아수라장선수모집|김해시|2026-09-10"
     },
     {
       "id": "c32cd588bb4176b57376",
@@ -2877,6 +2822,66 @@
       "dedupe_key": "2026북부경기문화창조허브스타트업입주사23기모집공고수정|사업소개2026년지원사업안내주력사업주력사업개요g유니콘패스ai패키지크라우|2026-09-11"
     },
     {
+      "id": "f11f30ede900bb4b7e13",
+      "title": "2026 판타지아대구페스타 AI 콘텐츠 공모전",
+      "source_name": "위비티",
+      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=2&ix=109792",
+      "organizer": "대구광역시",
+      "summary": "위비티 등록 분야: 웹/모바일/IT. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "디지털 콘텐츠"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: ai, 콘텐츠",
+          "본문·분류 키워드: ai, it, 모바일, 웹",
+          "공고 유형: contest",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-08-03T20:47:13+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
+      "sources": [
+        {
+          "source_id": "wevity",
+          "source_name": "위비티",
+          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=2&ix=109792",
+          "source_post_id": "109792",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-09-11",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 8,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-09-03T14:51:38+09:00",
+      "change_flags": [
+        "recruit_end"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026판타지아대구페스타ai콘텐츠공모전|대구광역시|2026-09-11"
+    },
+    {
       "id": "ea0168ac23103dc95173",
       "title": "2026년 AI 기반 주파수 간섭분석 및 전파예측기술 개발사업 신규지원 대상과제 공고",
       "source_name": "기업마당",
@@ -3095,6 +3100,61 @@
       "dedupe_key": "2026년첨단제조기술aidfam기반모빌리티제조혁신거점조성사업기술지원수요기업모집공고|한국자동차연구원|2026-09-11"
     },
     {
+      "id": "20541713192c3bb1c8f7",
+      "title": "<AI 시대, 부모로 살아가기> 출간기념회는 핑계고 부모 초대 티타임☕",
+      "source_name": "이벤터스",
+      "source_url": "https://event-us.kr/FKH3nHkjmPGh/event/133932",
+      "organizer": "[한빛앤 = 한빛미디어 & 한빛+]",
+      "summary": "AI와 육아에 대한 서로의 고민과 기준을 편하게 나누는 티타임. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "education",
+      "field_tags": [
+        "AI"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: ai",
+          "본문·분류 키워드: ai",
+          "공고 유형: education",
+          "IT·게임 전문 출처"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-09-03T14:51:38+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
+      "sources": [
+        {
+          "source_id": "eventus",
+          "source_name": "이벤터스",
+          "source_url": "https://event-us.kr/FKH3nHkjmPGh/event/133932",
+          "source_post_id": "133932",
+          "kind": "specialist",
+          "priority": 60,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        }
+      ],
+      "application_url": "https://event-us.kr/FKH3nHkjmPGh/event/133932",
+      "document_url": null,
+      "recruit_start": "2026-09-01",
+      "recruit_end": "2026-09-11",
+      "event_start": "2026-09-12",
+      "event_end": "2026-09-12",
+      "date_kind": "exact",
+      "d_day": 8,
+      "eligibility": "",
+      "benefits": "",
+      "location": "서울 서대문구",
+      "mode": "offline",
+      "fee": "paid",
+      "is_adjacent": true,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "ai시대부모로살아가기출간기념회는핑계고부모초대티타임|한빛앤한빛미디어한빛|2026-09-11"
+    },
+    {
       "id": "0f4d53f9544e9f45705d",
       "title": "AI Product Frontiers: AI 시대, 최전선에서 방향을 만드는 사람들",
       "source_name": "Dev-Event GitHub",
@@ -3117,7 +3177,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-31T22:57:37+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -3126,7 +3186,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -3421,6 +3481,64 @@
       "dedupe_key": "충북2026년지능형첨단부품산업의디지털전환거점구축사업글로벌플랫폼연계사업화기술지원수혜기업추가모집공고|충북테크노파크|2026-09-11"
     },
     {
+      "id": "20a8b8ff45b39c4ed582",
+      "title": "제5회 게임제너레이션 게임비평공모전",
+      "source_name": "위비티",
+      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=21&gbn=view&gp=1&ix=109003",
+      "organizer": "게임문화재단",
+      "summary": "위비티 등록 분야: 게임/소프트웨어. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "게임",
+        "소프트웨어"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: 게임",
+          "본문·분류 키워드: 게임, 소프트웨어",
+          "공고 유형: contest",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-07-30T16:37:20+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
+      "sources": [
+        {
+          "source_id": "wevity",
+          "source_name": "위비티",
+          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=21&gbn=view&gp=1&ix=109003",
+          "source_post_id": "109003",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-09-11",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 8,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-09-03T14:51:38+09:00",
+      "change_flags": [
+        "recruit_end"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "제5회게임제너레이션게임비평공모전|게임문화재단|2026-09-11"
+    },
+    {
       "id": "49350ea6bce79fd51e77",
       "title": "제9회 D-TECH 공모전(~9/11) | 장애인을 위한 기술·디자인 공모전",
       "source_name": "씽굿",
@@ -3448,7 +3566,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-05T12:36:21+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -3457,7 +3575,7 @@
           "source_post_id": "109102",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -3478,124 +3596,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "제9회dtech공모전911장애인을위한기술디자인공모전|법무법인디엘지한국사회복지협의회엠와이소셜컴퍼니mysc탭엔젤파트너스장애인기업종합지원센터재단법인꿈꾸는사람들국회의원최보윤국회의원이주희|2026-09-11"
-    },
-    {
-      "id": "f11f30ede900bb4b7e13",
-      "title": "2026 판타지아대구페스타 AI 콘텐츠 공모전",
-      "source_name": "위비티",
-      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=2&ix=109792",
-      "organizer": "대구광역시",
-      "summary": "위비티 등록 분야: 웹/모바일/IT. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai, 콘텐츠",
-          "본문·분류 키워드: ai, it, 모바일, 웹",
-          "공고 유형: contest",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-08-03T20:47:13+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
-      "sources": [
-        {
-          "source_id": "wevity",
-          "source_name": "위비티",
-          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=2&ix=109792",
-          "source_post_id": "109792",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-09-12",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 9,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-09-03T01:37:58+09:00",
-      "change_flags": [
-        "recruit_end"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026판타지아대구페스타ai콘텐츠공모전|대구광역시|2026-09-12"
-    },
-    {
-      "id": "20a8b8ff45b39c4ed582",
-      "title": "제5회 게임제너레이션 게임비평공모전",
-      "source_name": "위비티",
-      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=21&gbn=view&gp=1&ix=109003",
-      "organizer": "게임문화재단",
-      "summary": "위비티 등록 분야: 게임/소프트웨어. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "게임",
-        "소프트웨어"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: 게임",
-          "본문·분류 키워드: 게임, 소프트웨어",
-          "공고 유형: contest",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
-      "sources": [
-        {
-          "source_id": "wevity",
-          "source_name": "위비티",
-          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=21&gbn=view&gp=1&ix=109003",
-          "source_post_id": "109003",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-09-12",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 9,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-09-03T01:37:58+09:00",
-      "change_flags": [
-        "recruit_end"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "제5회게임제너레이션게임비평공모전|게임문화재단|2026-09-12"
     },
     {
       "id": "2d2236d7c0f342b61857",
@@ -3628,7 +3628,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -3637,7 +3637,7 @@
           "source_post_id": "108789",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         },
         {
           "source_id": "wevity",
@@ -3646,29 +3646,29 @@
           "source_post_id": "109674",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-09-12",
+      "recruit_end": "2026-09-11",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 9,
+      "d_day": 8,
       "eligibility": "대학생, 대학원생, 일반인, 기업",
       "benefits": "300만원",
       "location": "",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-09-03T01:37:58+09:00",
+      "last_changed_at": "2026-09-03T14:51:38+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "지능형홈aihomematteraxsprint2026개발자해커톤|과학기술정보통신부|2026-09-12"
+      "dedupe_key": "지능형홈aihomematteraxsprint2026개발자해커톤|과학기술정보통신부|2026-09-11"
     },
     {
       "id": "0fb4f88e658e6635fc17",
@@ -3796,6 +3796,68 @@
       "dedupe_key": "경기2026년오픈소스로봇손amazinghand으로배우는physicalai실습교육|차세대융합기술연구원|2026-09-13"
     },
     {
+      "id": "0fc4a9cce0f3b59a87a7",
+      "title": "[무료] [CJ올리브네트웍스] AI 서비스 기획자 교육 과정 참여자 모집 (L.L.M. 아카데미) SPECIAL",
+      "source_name": "위비티",
+      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=21&gbn=view&gp=1&ix=110623",
+      "organizer": "CJ올리브네트웍스",
+      "summary": "위비티 등록 분야: 기획/아이디어, 광고/마케팅, 웹/모바일/IT, 게임/소프트웨어, 취업/창업. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "education",
+      "field_tags": [
+        "게임",
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "창업"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: ai",
+          "본문·분류 키워드: ai, it, 게임, 모바일",
+          "공고 유형: education",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-08-31T22:57:37+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
+      "sources": [
+        {
+          "source_id": "wevity",
+          "source_name": "위비티",
+          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=21&gbn=view&gp=1&ix=110623",
+          "source_post_id": "110623",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-09-13",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 10,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-09-03T14:51:38+09:00",
+      "change_flags": [
+        "title",
+        "recruit_end"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "무료cj올리브네트웍스ai서비스기획자교육과정참여자모집llm아카데미special|cj올리브네트웍스|2026-09-13"
+    },
+    {
       "id": "1dbb7a0ba29d513102ae",
       "title": "[춘천시] 2026 춘천 반려동물 AI 숏폼 공모전",
       "source_name": "링커리어",
@@ -3818,7 +3880,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T20:23:44+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -3827,7 +3889,7 @@
           "source_post_id": "347582",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -3848,6 +3910,129 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "춘천시2026춘천반려동물ai숏폼공모전|춘천시|2026-09-13"
+    },
+    {
+      "id": "b5751d89125670195362",
+      "title": "제8회 오티콘챌린지 공모전 SPECIAL IDEA",
+      "source_name": "위비티",
+      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=1&ix=109883",
+      "organizer": "오티콘, 다이어텍",
+      "summary": "위비티 등록 분야: 기획/아이디어, 광고/마케팅, 영상/UCC/사진, 디자인/캐릭터/웹툰, 웹/모바일/IT, 대외활동/서포터즈",
+      "primary_type": "contest",
+      "field_tags": [
+        "소프트웨어",
+        "웹·앱",
+        "디지털 콘텐츠"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 97,
+        "reasons": [
+          "본문·분류 키워드: it, 모바일, 웹, 웹툰",
+          "공고 유형: contest",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-08-06T00:29:54+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
+      "sources": [
+        {
+          "source_id": "wevity",
+          "source_name": "위비티",
+          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=1&ix=109883",
+          "source_post_id": "109883",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-09-13",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 10,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-09-03T14:51:38+09:00",
+      "change_flags": [
+        "recruit_end"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "제8회오티콘챌린지공모전specialidea|오티콘다이어텍|2026-09-13"
+    },
+    {
+      "id": "5d1b2746126497adeb47",
+      "title": "2026 서울관광재단 비짓서울 API 데이터‧AI 활용 아이디 공모전",
+      "source_name": "링커리어",
+      "source_url": "https://linkareer.com/activity/347765",
+      "organizer": "서울관광재단",
+      "summary": "링커리어 공개 공모전 목록. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "AI",
+        "데이터",
+        "소프트웨어"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 86,
+        "reasons": [
+          "제목 핵심 키워드: ai, api, 데이터",
+          "본문·분류 키워드: ai, api, 데이터",
+          "공고 유형: contest"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-09-03T14:51:38+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
+      "sources": [
+        {
+          "source_id": "linkareer",
+          "source_name": "링커리어",
+          "source_url": "https://linkareer.com/activity/347765",
+          "source_post_id": "347765",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        },
+        {
+          "source_id": "linkareer",
+          "source_name": "링커리어",
+          "source_url": "https://linkareer.com/activity/347713",
+          "source_post_id": "347713",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-09-14",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 11,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026서울관광재단비짓서울api데이터ai활용아이디공모전|서울관광재단|2026-09-14"
     },
     {
       "id": "1c15707e25d6aedc5494",
@@ -3983,7 +4168,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-31T22:57:37+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -3992,7 +4177,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -4013,6 +4198,61 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "awskrug데이터모임xapacheairflow한국사용자모임|awskrugapacheairflow한국사용자모임|2026-09-14"
+    },
+    {
+      "id": "34a7cc2fb98144ec562b",
+      "title": "ICT이노베이션스퀘어 확산산업 AI MEET-UP",
+      "source_name": "링커리어",
+      "source_url": "https://linkareer.com/activity/347616",
+      "organizer": "대구 AI hub",
+      "summary": "링커리어 공개 공모전 목록. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "AI",
+        "소프트웨어"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 78,
+        "reasons": [
+          "제목 핵심 키워드: ai, ict",
+          "본문·분류 키워드: ai, ict",
+          "공고 유형: contest"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-09-03T14:51:38+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
+      "sources": [
+        {
+          "source_id": "linkareer",
+          "source_name": "링커리어",
+          "source_url": "https://linkareer.com/activity/347616",
+          "source_post_id": "347616",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-09-14",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 11,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "ict이노베이션스퀘어확산산업aimeetup|대구aihub|2026-09-14"
     },
     {
       "id": "1ed1390fe70e19879f45",
@@ -4038,7 +4278,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-01T19:12:29+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -4047,7 +4287,7 @@
           "source_post_id": "347151",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -4068,67 +4308,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "web3시대의블록체인ai융합해커톤|충남대학교coss사업단|2026-09-14"
-    },
-    {
-      "id": "0fc4a9cce0f3b59a87a7",
-      "title": "[무료] [CJ올리브네트웍스] AI 서비스 기획자 양성 과정 참여자 모집 (L.L.M. 아카데미) SPECIAL",
-      "source_name": "위비티",
-      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=21&gbn=view&gp=1&ix=110623",
-      "organizer": "CJ올리브네트웍스",
-      "summary": "위비티 등록 분야: 기획/아이디어, 광고/마케팅, 웹/모바일/IT, 게임/소프트웨어, 취업/창업. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "education",
-      "field_tags": [
-        "게임",
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "창업"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai",
-          "본문·분류 키워드: ai, it, 게임, 모바일",
-          "공고 유형: education",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-08-31T22:57:37+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
-      "sources": [
-        {
-          "source_id": "wevity",
-          "source_name": "위비티",
-          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=21&gbn=view&gp=1&ix=110623",
-          "source_post_id": "110623",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-09-14",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 11,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-09-03T01:37:58+09:00",
-      "change_flags": [
-        "recruit_end"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "무료cj올리브네트웍스ai서비스기획자양성과정참여자모집llm아카데미special|cj올리브네트웍스|2026-09-14"
     },
     {
       "id": "7c05e248bd6d618ba097",
@@ -4187,64 +4366,6 @@
       "dedupe_key": "전남광주ai어장현장실증시설제품고도화지원모집3차재공고ai기반어장공간정보빅데이터플랫폼구축및활용사업|전남정보문화산업진흥원|2026-09-14"
     },
     {
-      "id": "b5751d89125670195362",
-      "title": "제8회 오티콘챌린지 공모전 SPECIAL IDEA",
-      "source_name": "위비티",
-      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=1&ix=109883",
-      "organizer": "오티콘, 다이어텍",
-      "summary": "위비티 등록 분야: 기획/아이디어, 광고/마케팅, 영상/UCC/사진, 디자인/캐릭터/웹툰, 웹/모바일/IT, 대외활동/서포터즈",
-      "primary_type": "contest",
-      "field_tags": [
-        "소프트웨어",
-        "웹·앱",
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 97,
-        "reasons": [
-          "본문·분류 키워드: it, 모바일, 웹, 웹툰",
-          "공고 유형: contest",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-08-06T00:29:54+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
-      "sources": [
-        {
-          "source_id": "wevity",
-          "source_name": "위비티",
-          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=1&ix=109883",
-          "source_post_id": "109883",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-09-14",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 11,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-09-03T01:37:58+09:00",
-      "change_flags": [
-        "recruit_end"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "제8회오티콘챌린지공모전specialidea|오티콘다이어텍|2026-09-14"
-    },
-    {
       "id": "af0a36ceecf84b1b13f1",
       "title": "2026 한화솔루션 AI 영상 공모전",
       "source_name": "링커리어",
@@ -4267,7 +4388,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T01:02:52+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -4276,7 +4397,7 @@
           "source_post_id": "342895",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -4353,6 +4474,77 @@
       ],
       "is_manual_reviewed": false,
       "dedupe_key": "2026년제조특화온디바이스ai기반자율제조실증기반구축사업기업지원프로그램수혜기업모집공고산업혁신기반구축사업|한국로봇융합연구원|2026-09-15"
+    },
+    {
+      "id": "9f1ba1e3965c9395ccb1",
+      "title": "[ZEP School] 메타버스 교과 콘텐츠 제작 공모전",
+      "source_name": "위비티",
+      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=21&gbn=view&gp=1&ix=110498",
+      "organizer": "주식회사 젭",
+      "summary": "위비티 등록 분야: 게임/소프트웨어. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "XR·메타버스",
+        "게임",
+        "디지털 콘텐츠",
+        "소프트웨어"
+      ],
+      "audience_tags": [
+        "대학생"
+      ],
+      "status": "open",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: 메타버스, 콘텐츠, 콘텐츠 제작",
+          "본문·분류 키워드: 게임, 메타버스, 소프트웨어, 콘텐츠",
+          "공고 유형: contest",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-08-26T18:04:35+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
+      "sources": [
+        {
+          "source_id": "thinkcontest",
+          "source_name": "씽굿",
+          "source_url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110152",
+          "source_post_id": "110152",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        },
+        {
+          "source_id": "wevity",
+          "source_name": "위비티",
+          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=21&gbn=view&gp=1&ix=110498",
+          "source_post_id": "110498",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-09-15",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 12,
+      "eligibility": "중학생, 고등학생, 일반인, 기타",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-09-03T14:51:38+09:00",
+      "change_flags": [
+        "recruit_end"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "zepschool메타버스교과콘텐츠제작공모전|주식회사젭|2026-09-15"
     },
     {
       "id": "8ec4ca930af8776db2c2",
@@ -4634,77 +4826,6 @@
       "dedupe_key": "2026년서부경기문화창조허브제3차가상사무실지원기업모집|사업소개2026년지원사업안내주력사업주력사업개요g유니콘패스ai패키지크라우|2026-09-16"
     },
     {
-      "id": "9f1ba1e3965c9395ccb1",
-      "title": "[ZEP School] 메타버스 교과 콘텐츠 제작 공모전",
-      "source_name": "위비티",
-      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=21&gbn=view&gp=1&ix=110498",
-      "organizer": "주식회사 젭",
-      "summary": "위비티 등록 분야: 게임/소프트웨어. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "XR·메타버스",
-        "게임",
-        "디지털 콘텐츠",
-        "소프트웨어"
-      ],
-      "audience_tags": [
-        "대학생"
-      ],
-      "status": "open",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: 메타버스, 콘텐츠, 콘텐츠 제작",
-          "본문·분류 키워드: 게임, 메타버스, 소프트웨어, 콘텐츠",
-          "공고 유형: contest",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-08-26T18:04:35+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
-      "sources": [
-        {
-          "source_id": "thinkcontest",
-          "source_name": "씽굿",
-          "source_url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=110152",
-          "source_post_id": "110152",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
-        },
-        {
-          "source_id": "wevity",
-          "source_name": "위비티",
-          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=21&gbn=view&gp=1&ix=110498",
-          "source_post_id": "110498",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-09-16",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 13,
-      "eligibility": "중학생, 고등학생, 일반인, 기타",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-09-03T01:37:58+09:00",
-      "change_flags": [
-        "recruit_end"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "zepschool메타버스교과콘텐츠제작공모전|주식회사젭|2026-09-16"
-    },
-    {
       "id": "1886072e7c189f961cd9",
       "title": "[전국] GS 인증 교육 및 AI 인증 소개 교육",
       "source_name": "기업마당",
@@ -4845,7 +4966,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-21T16:09:44+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -4854,7 +4975,7 @@
           "source_post_id": "109575",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -4875,6 +4996,60 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "2026뉴스빅데이터해커톤|한국언론진흥재단|2026-09-17"
+    },
+    {
+      "id": "6d0161f4adbd3e7c8900",
+      "title": "2026년 정신건강의 날 기념 정신건강 캐릭터 공모전",
+      "source_name": "링커리어",
+      "source_url": "https://linkareer.com/activity/347723",
+      "organizer": "전남광역정신건강복지센터",
+      "summary": "링커리어 공개 공모전 목록. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "디지털 콘텐츠"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 70,
+        "reasons": [
+          "제목 핵심 키워드: 캐릭터",
+          "본문·분류 키워드: 캐릭터",
+          "공고 유형: contest"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-09-03T14:51:38+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
+      "sources": [
+        {
+          "source_id": "linkareer",
+          "source_name": "링커리어",
+          "source_url": "https://linkareer.com/activity/347723",
+          "source_post_id": "347723",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-09-17",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 14,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026년정신건강의날기념정신건강캐릭터공모전|전남광역정신건강복지센터|2026-09-17"
     },
     {
       "id": "995fcb6174536a5c2678",
@@ -4900,7 +5075,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-01T05:08:41+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -4909,7 +5084,7 @@
           "source_post_id": "345299",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -4930,6 +5105,122 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "2026년제6회k인공지능제조데이터분석경진대회|중소벤처기업부|2026-09-17"
+    },
+    {
+      "id": "836be99ad8e8bac54de5",
+      "title": "2026년 제6회 K-인공지능(AI) 제조데이터 분석 경진대회",
+      "source_name": "링커리어",
+      "source_url": "https://linkareer.com/activity/347732",
+      "organizer": "(사)중소기업기술혁신협회",
+      "summary": "링커리어 공개 공모전 목록. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "AI",
+        "데이터"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 86,
+        "reasons": [
+          "제목 핵심 키워드: ai, 데이터, 인공지능",
+          "본문·분류 키워드: ai, 데이터, 인공지능",
+          "공고 유형: contest"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-09-03T14:51:38+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
+      "sources": [
+        {
+          "source_id": "linkareer",
+          "source_name": "링커리어",
+          "source_url": "https://linkareer.com/activity/347732",
+          "source_post_id": "347732",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-09-17",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 14,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026년제6회k인공지능ai제조데이터분석경진대회|사중소기업기술혁신협회|2026-09-17"
+    },
+    {
+      "id": "df91840f3f4c86d66a51",
+      "title": "2026년 제6회 K-인공지능(AI) 제조데이터 분석 경진대회 SPECIAL",
+      "source_name": "위비티",
+      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=21&gbn=view&gp=1&ix=110622",
+      "organizer": "중소벤처기업부",
+      "summary": "위비티 등록 분야: 기획/아이디어, 논문/리포트, 웹/모바일/IT, 게임/소프트웨어, 과학/공학, 기타. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "게임",
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "데이터"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: ai, 데이터, 인공지능",
+          "본문·분류 키워드: ai, it, 게임, 데이터",
+          "공고 유형: contest",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-08-31T22:57:37+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
+      "sources": [
+        {
+          "source_id": "wevity",
+          "source_name": "위비티",
+          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=21&gbn=view&gp=1&ix=110622",
+          "source_post_id": "110622",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-09-17",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 14,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-09-03T14:51:38+09:00",
+      "change_flags": [
+        "recruit_end"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026년제6회k인공지능ai제조데이터분석경진대회special|중소벤처기업부|2026-09-17"
     },
     {
       "id": "f8b789d98e30178f6cfd",
@@ -4958,7 +5249,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -4967,7 +5258,7 @@
           "source_post_id": "108321",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -5351,7 +5642,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T18:59:26+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -5360,7 +5651,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -5381,6 +5672,77 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "제11회한국리눅스커널개발자모임|한국리눅스커널개발자모임|2026-09-17"
+    },
+    {
+      "id": "07e34078d3b2bae52c02",
+      "title": "2026 Big Data 활용 대회 참가자 모집",
+      "source_name": "위비티",
+      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=2&ix=108653",
+      "organizer": "부산광역시",
+      "summary": "위비티 등록 분야: 웹/모바일/IT. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "게임",
+        "데이터",
+        "소프트웨어",
+        "웹·앱"
+      ],
+      "audience_tags": [
+        "대학생"
+      ],
+      "status": "open",
+      "relevance": {
+        "score": 94,
+        "reasons": [
+          "본문·분류 키워드: it, 모바일, 웹",
+          "공고 유형: contest",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능",
+          "본문·분류 키워드: 게임, 데이터, 빅데이터, 소프트웨어"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-07-30T16:37:20+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
+      "sources": [
+        {
+          "source_id": "thinkcontest",
+          "source_name": "씽굿",
+          "source_url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109125",
+          "source_post_id": "109125",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        },
+        {
+          "source_id": "wevity",
+          "source_name": "위비티",
+          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=2&ix=108653",
+          "source_post_id": "108653",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-09-18",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 15,
+      "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-09-03T14:51:38+09:00",
+      "change_flags": [
+        "recruit_end"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026bigdata활용대회참가자모집|부산광역시|2026-09-18"
     },
     {
       "id": "8eee2c695ba10d260cef",
@@ -5503,67 +5865,6 @@
       "dedupe_key": "2026년서부경기문화창조허브공간입주17기3차입주기업모집|사업소개2026년지원사업안내주력사업주력사업개요g유니콘패스ai패키지크라우|2026-09-18"
     },
     {
-      "id": "df91840f3f4c86d66a51",
-      "title": "2026년 제6회 K-인공지능(AI) 제조데이터 분석 경진대회 SPECIAL",
-      "source_name": "위비티",
-      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=21&gbn=view&gp=1&ix=110622",
-      "organizer": "중소벤처기업부",
-      "summary": "위비티 등록 분야: 기획/아이디어, 논문/리포트, 웹/모바일/IT, 게임/소프트웨어, 과학/공학, 기타. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "게임",
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "데이터"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai, 데이터, 인공지능",
-          "본문·분류 키워드: ai, it, 게임, 데이터",
-          "공고 유형: contest",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-08-31T22:57:37+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
-      "sources": [
-        {
-          "source_id": "wevity",
-          "source_name": "위비티",
-          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=21&gbn=view&gp=1&ix=110622",
-          "source_post_id": "110622",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-09-18",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 15,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-09-03T01:37:58+09:00",
-      "change_flags": [
-        "recruit_end"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026년제6회k인공지능ai제조데이터분석경진대회special|중소벤처기업부|2026-09-18"
-    },
-    {
       "id": "02e6ffc4c163dbf5a8f6",
       "title": "26년 3D프린팅 활용 우수사례 공모전",
       "source_name": "씽굿",
@@ -5587,7 +5888,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-10T11:36:41+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -5596,7 +5897,7 @@
           "source_post_id": "109159",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -6029,7 +6330,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-18T12:10:41+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -6038,7 +6339,7 @@
           "source_post_id": "109617",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -6089,7 +6390,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-28T05:33:27+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -6098,7 +6399,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -6121,75 +6422,63 @@
       "dedupe_key": "원티드aichampionship2026|원티드랩|2026-09-18"
     },
     {
-      "id": "07e34078d3b2bae52c02",
-      "title": "2026 Big Data 활용 대회 참가자 모집",
+      "id": "dd51ee0489c26693be1e",
+      "title": "제2회 성남 x KAIST AI경진대회 참가자 모집",
       "source_name": "위비티",
-      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=2&ix=108653",
-      "organizer": "부산광역시",
+      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=1&ix=110576",
+      "organizer": "성남시",
       "summary": "위비티 등록 분야: 웹/모바일/IT. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
       "primary_type": "contest",
       "field_tags": [
-        "게임",
-        "데이터",
+        "AI",
         "소프트웨어",
         "웹·앱"
       ],
-      "audience_tags": [
-        "대학생"
-      ],
+      "audience_tags": [],
       "status": "open",
       "relevance": {
-        "score": 94,
+        "score": 100,
         "reasons": [
-          "본문·분류 키워드: it, 모바일, 웹",
+          "제목 핵심 키워드: ai",
+          "본문·분류 키워드: ai, it, 모바일, 웹",
           "공고 유형: contest",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능",
-          "본문·분류 키워드: 게임, 데이터, 빅데이터, 소프트웨어"
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
         ],
         "decision": "publish"
       },
-      "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "first_seen_at": "2026-09-02T09:17:43+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
-        {
-          "source_id": "thinkcontest",
-          "source_name": "씽굿",
-          "source_url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109125",
-          "source_post_id": "109125",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
-        },
         {
           "source_id": "wevity",
           "source_name": "위비티",
-          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=2&ix=108653",
-          "source_post_id": "108653",
+          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=1&ix=110576",
+          "source_post_id": "110576",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-09-19",
+      "recruit_end": "2026-09-18",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 16,
-      "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
+      "d_day": 15,
+      "eligibility": "",
       "benefits": "",
       "location": "",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-09-03T01:37:58+09:00",
+      "last_changed_at": "2026-09-03T14:51:38+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026bigdata활용대회참가자모집|부산광역시|2026-09-19"
+      "dedupe_key": "제2회성남xkaistai경진대회참가자모집|성남시|2026-09-18"
     },
     {
       "id": "e1d51b76942ab134be37",
@@ -6216,7 +6505,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T18:59:26+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -6225,7 +6514,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -6271,7 +6560,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-22T14:44:48+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -6280,7 +6569,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -6413,19 +6702,25 @@
       "dedupe_key": "인천인천디자인교육센터9월ai기반캐릭터콘텐츠제작실무교육생모집안내|인천테크노파크|2026-09-19"
     },
     {
-      "id": "dd51ee0489c26693be1e",
-      "title": "제2회 성남 x KAIST AI경진대회 참가자 모집",
+      "id": "4092954583cf208582de",
+      "title": "(iM뱅크) 2026 AI Blookchain 경진대회",
       "source_name": "위비티",
-      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=1&ix=110576",
-      "organizer": "성남시",
+      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=1&ix=110360",
+      "organizer": "iM뱅크",
       "summary": "위비티 등록 분야: 웹/모바일/IT. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
       "primary_type": "contest",
       "field_tags": [
         "AI",
+        "게임",
+        "데이터",
         "소프트웨어",
-        "웹·앱"
+        "웹·앱",
+        "창업"
       ],
-      "audience_tags": [],
+      "audience_tags": [
+        "대학생",
+        "청년"
+      ],
       "status": "open",
       "relevance": {
         "score": 100,
@@ -6433,43 +6728,53 @@
           "제목 핵심 키워드: ai",
           "본문·분류 키워드: ai, it, 모바일, 웹",
           "공고 유형: contest",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능",
+          "본문·분류 키워드: ai, 게임, 데이터, 소프트웨어"
         ],
         "decision": "publish"
       },
-      "first_seen_at": "2026-09-02T09:17:43+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "first_seen_at": "2026-08-21T23:00:13+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
+        {
+          "source_id": "thinkcontest",
+          "source_name": "씽굿",
+          "source_url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109865",
+          "source_post_id": "109865",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        },
         {
           "source_id": "wevity",
           "source_name": "위비티",
-          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=1&ix=110576",
-          "source_post_id": "110576",
+          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=1&ix=110360",
+          "source_post_id": "110360",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-09-19",
+      "recruit_end": "2026-09-20",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 16,
-      "eligibility": "",
-      "benefits": "",
+      "d_day": 17,
+      "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
+      "benefits": "PERK001",
       "location": "",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-09-03T01:37:58+09:00",
+      "last_changed_at": "2026-09-03T14:51:38+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "제2회성남xkaistai경진대회참가자모집|성남시|2026-09-19"
+      "dedupe_key": "im뱅크2026aiblookchain경진대회|im뱅크|2026-09-20"
     },
     {
       "id": "fb3ddfb58921d771484a",
@@ -6495,7 +6800,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T18:59:26+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -6504,7 +6809,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -6584,20 +6889,16 @@
       "dedupe_key": "2026년남부권역센터가상사무실비상주오피스제2차지원기업모집|사업소개2026년지원사업안내주력사업주력사업개요g유니콘패스ai패키지크라우|2026-09-20"
     },
     {
-      "id": "4092954583cf208582de",
-      "title": "(iM뱅크) 2026 AI Blookchain 경진대회",
+      "id": "cf3e436d7462322a84e2",
+      "title": "제6회 경북 대학생 e스포츠 대회",
       "source_name": "위비티",
-      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=1&ix=110360",
-      "organizer": "iM뱅크",
-      "summary": "위비티 등록 분야: 웹/모바일/IT. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=21&gbn=view&gp=1&ix=110419",
+      "organizer": "경상북도",
+      "summary": "위비티 등록 분야: 게임/소프트웨어. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
       "primary_type": "contest",
       "field_tags": [
-        "AI",
         "게임",
-        "데이터",
-        "소프트웨어",
-        "웹·앱",
-        "창업"
+        "소프트웨어"
       ],
       "audience_tags": [
         "대학생",
@@ -6607,34 +6908,92 @@
       "relevance": {
         "score": 100,
         "reasons": [
-          "제목 핵심 키워드: ai",
-          "본문·분류 키워드: ai, it, 모바일, 웹",
+          "제목 핵심 키워드: e스포츠",
+          "본문·분류 키워드: e스포츠, 게임, 소프트웨어",
           "공고 유형: contest",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능",
-          "본문·분류 키워드: ai, 게임, 데이터, 소프트웨어"
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
         ],
         "decision": "publish"
       },
-      "first_seen_at": "2026-08-21T23:00:13+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "first_seen_at": "2026-08-24T10:59:29+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
           "source_name": "씽굿",
-          "source_url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109865",
-          "source_post_id": "109865",
+          "source_url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109899",
+          "source_post_id": "109899",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         },
         {
           "source_id": "wevity",
           "source_name": "위비티",
-          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=1&ix=110360",
-          "source_post_id": "110360",
+          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=21&gbn=view&gp=1&ix=110419",
+          "source_post_id": "110419",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-09-20",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 17,
+      "eligibility": "대학생, 대학원생, 지역 제한",
+      "benefits": "단체전 200만원/개인전 70만원",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-09-03T14:51:38+09:00",
+      "change_flags": [
+        "recruit_end"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "제6회경북대학생e스포츠대회|경상북도|2026-09-20"
+    },
+    {
+      "id": "57fbe2a449c299a0b4b2",
+      "title": "2026 AI로 금산 창작물 공모전",
+      "source_name": "위비티",
+      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=2&ix=110053",
+      "organizer": "금산교육지원청",
+      "summary": "위비티 등록 분야: 웹/모바일/IT. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: ai",
+          "본문·분류 키워드: ai, it, 모바일, 웹",
+          "공고 유형: contest",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-08-12T14:06:03+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
+      "sources": [
+        {
+          "source_id": "wevity",
+          "source_name": "위비티",
+          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=2&ix=110053",
+          "source_post_id": "110053",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -6645,18 +7004,18 @@
       "event_end": null,
       "date_kind": "exact",
       "d_day": 18,
-      "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
-      "benefits": "PERK001",
+      "eligibility": "",
+      "benefits": "",
       "location": "",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-09-03T01:37:58+09:00",
+      "last_changed_at": "2026-09-03T14:51:38+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "im뱅크2026aiblookchain경진대회|im뱅크|2026-09-21"
+      "dedupe_key": "2026ai로금산창작물공모전|금산교육지원청|2026-09-21"
     },
     {
       "id": "f0d9863a8af5c759f222",
@@ -6687,7 +7046,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-24T16:30:45+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -6696,7 +7055,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         },
         {
           "source_id": "linkareer",
@@ -6705,7 +7064,7 @@
           "source_post_id": "343799",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         },
         {
           "source_id": "thinkcontest",
@@ -6714,7 +7073,7 @@
           "source_post_id": "109928",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": "https://event-us.kr/koshiphackathon/event/132963",
@@ -6762,7 +7121,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -6771,7 +7130,7 @@
           "source_post_id": "108687",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -6816,7 +7175,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-31T02:32:33+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -6825,7 +7184,7 @@
           "source_post_id": "345029",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -6846,6 +7205,68 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "2026년govtech창업경진대회|윕스|2026-09-21"
+    },
+    {
+      "id": "21ec615c4c9ee75b5d1d",
+      "title": "2026년 안양시 공공데이터・AI 활용 대학생 경진대회",
+      "source_name": "위비티",
+      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=2&ix=109958",
+      "organizer": "안양시",
+      "summary": "위비티 등록 분야: 웹/모바일/IT. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "데이터"
+      ],
+      "audience_tags": [
+        "대학생"
+      ],
+      "status": "open",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: ai, 데이터",
+          "본문·분류 키워드: ai, it, 데이터, 모바일",
+          "공고 유형: contest",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-08-12T14:06:03+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
+      "sources": [
+        {
+          "source_id": "wevity",
+          "source_name": "위비티",
+          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=2&ix=109958",
+          "source_post_id": "109958",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-09-21",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 18,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-09-03T14:51:38+09:00",
+      "change_flags": [
+        "recruit_end"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026년안양시공공데이터ai활용대학생경진대회|안양시|2026-09-21"
     },
     {
       "id": "0b8e5a382811c0921dc6",
@@ -7091,7 +7512,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-01T14:14:58+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -7100,7 +7521,7 @@
           "source_post_id": "347086",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -7121,255 +7542,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "세븐일레븐k비빔밥ai광고제뚜뜨뜨|코리아세븐|2026-09-21"
-    },
-    {
-      "id": "cf3e436d7462322a84e2",
-      "title": "제6회 경북 대학생 e스포츠 대회",
-      "source_name": "위비티",
-      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=21&gbn=view&gp=1&ix=110419",
-      "organizer": "경상북도",
-      "summary": "위비티 등록 분야: 게임/소프트웨어. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "게임",
-        "소프트웨어"
-      ],
-      "audience_tags": [
-        "대학생",
-        "청년"
-      ],
-      "status": "open",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: e스포츠",
-          "본문·분류 키워드: e스포츠, 게임, 소프트웨어",
-          "공고 유형: contest",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-08-24T10:59:29+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
-      "sources": [
-        {
-          "source_id": "thinkcontest",
-          "source_name": "씽굿",
-          "source_url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109899",
-          "source_post_id": "109899",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
-        },
-        {
-          "source_id": "wevity",
-          "source_name": "위비티",
-          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=21&gbn=view&gp=1&ix=110419",
-          "source_post_id": "110419",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-09-21",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 18,
-      "eligibility": "대학생, 대학원생, 지역 제한",
-      "benefits": "단체전 200만원/개인전 70만원",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-09-03T01:37:58+09:00",
-      "change_flags": [
-        "recruit_end"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "제6회경북대학생e스포츠대회|경상북도|2026-09-21"
-    },
-    {
-      "id": "57fbe2a449c299a0b4b2",
-      "title": "2026 AI로 금산 창작물 공모전",
-      "source_name": "위비티",
-      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=1&ix=110053",
-      "organizer": "금산교육지원청",
-      "summary": "위비티 등록 분야: 웹/모바일/IT. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai",
-          "본문·분류 키워드: ai, it, 모바일, 웹",
-          "공고 유형: contest",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-08-12T14:06:03+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
-      "sources": [
-        {
-          "source_id": "wevity",
-          "source_name": "위비티",
-          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=1&ix=110053",
-          "source_post_id": "110053",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-09-22",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 19,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-09-03T01:37:58+09:00",
-      "change_flags": [
-        "recruit_end"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026ai로금산창작물공모전|금산교육지원청|2026-09-22"
-    },
-    {
-      "id": "0311eab62592d5e0f972",
-      "title": "2026 주식회사 소프트뱅크(SoftBank) 채용 연계 해커톤",
-      "source_name": "씽굿",
-      "source_url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109593",
-      "organizer": "주식회사 비웰코리아",
-      "summary": "씽굿 공모 분야: 게임/소프트웨어, 해외. 대학생, 대학원생, 일반인. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "hackathon",
-      "field_tags": [
-        "게임",
-        "소프트웨어",
-        "웹·앱"
-      ],
-      "audience_tags": [
-        "대학생"
-      ],
-      "status": "open",
-      "relevance": {
-        "score": 91,
-        "reasons": [
-          "본문·분류 키워드: 게임, 소프트웨어, 플랫폼",
-          "공고 유형: hackathon",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-08-18T10:52:38+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
-      "sources": [
-        {
-          "source_id": "thinkcontest",
-          "source_name": "씽굿",
-          "source_url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109593",
-          "source_post_id": "109593",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-08-16",
-      "recruit_end": "2026-09-22",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 19,
-      "eligibility": "대학생, 대학원생, 일반인",
-      "benefits": "PERK003",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026주식회사소프트뱅크softbank채용연계해커톤|주식회사비웰코리아|2026-09-22"
-    },
-    {
-      "id": "21ec615c4c9ee75b5d1d",
-      "title": "2026년 안양시 공공데이터・AI 활용 대학생 경진대회",
-      "source_name": "위비티",
-      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=2&ix=109958",
-      "organizer": "안양시",
-      "summary": "위비티 등록 분야: 웹/모바일/IT. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "데이터"
-      ],
-      "audience_tags": [
-        "대학생"
-      ],
-      "status": "open",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai, 데이터",
-          "본문·분류 키워드: ai, it, 데이터, 모바일",
-          "공고 유형: contest",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-08-12T14:06:03+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
-      "sources": [
-        {
-          "source_id": "wevity",
-          "source_name": "위비티",
-          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=2&ix=109958",
-          "source_post_id": "109958",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-09-22",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 19,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-09-03T01:37:58+09:00",
-      "change_flags": [
-        "recruit_end"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026년안양시공공데이터ai활용대학생경진대회|안양시|2026-09-22"
     },
     {
       "id": "f03e79f7d735a67fb779",
@@ -7398,7 +7570,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-21T16:59:35+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -7407,29 +7579,87 @@
           "source_post_id": "110264",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-09-22",
+      "recruit_end": "2026-09-21",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 19,
+      "d_day": 18,
       "eligibility": "",
       "benefits": "",
       "location": "",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-09-03T01:37:58+09:00",
+      "last_changed_at": "2026-09-03T14:51:38+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "제1회ai금융빅데이터플랫폼소비데이터활용아이디어공모전|비씨카드|2026-09-22"
+      "dedupe_key": "제1회ai금융빅데이터플랫폼소비데이터활용아이디어공모전|비씨카드|2026-09-21"
+    },
+    {
+      "id": "0311eab62592d5e0f972",
+      "title": "2026 주식회사 소프트뱅크(SoftBank) 채용 연계 해커톤",
+      "source_name": "씽굿",
+      "source_url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109593",
+      "organizer": "주식회사 비웰코리아",
+      "summary": "씽굿 공모 분야: 게임/소프트웨어, 해외. 대학생, 대학원생, 일반인. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "hackathon",
+      "field_tags": [
+        "게임",
+        "소프트웨어",
+        "웹·앱"
+      ],
+      "audience_tags": [
+        "대학생"
+      ],
+      "status": "open",
+      "relevance": {
+        "score": 91,
+        "reasons": [
+          "본문·분류 키워드: 게임, 소프트웨어, 플랫폼",
+          "공고 유형: hackathon",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-08-18T10:52:38+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
+      "sources": [
+        {
+          "source_id": "thinkcontest",
+          "source_name": "씽굿",
+          "source_url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=109593",
+          "source_post_id": "109593",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-08-16",
+      "recruit_end": "2026-09-22",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 19,
+      "eligibility": "대학생, 대학원생, 일반인",
+      "benefits": "PERK003",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026주식회사소프트뱅크softbank채용연계해커톤|주식회사비웰코리아|2026-09-22"
     },
     {
       "id": "282809ec9875197e5564",
@@ -7455,7 +7685,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-01T14:14:58+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -7464,7 +7694,7 @@
           "source_post_id": "347106",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -7487,11 +7717,11 @@
       "dedupe_key": "2026ai활용전남앵커사업홍보콘텐츠공모전|전남대학교여수전남앵커사업단|2026-09-23"
     },
     {
-      "id": "dd4ba787872a7243e010",
+      "id": "1413b3c88fd2adf5d49c",
       "title": "제2회 경산 만화·웹툰 창작 경연대회",
       "source_name": "링커리어",
-      "source_url": "https://linkareer.com/activity/347451",
-      "organizer": "경산시",
+      "source_url": "https://linkareer.com/activity/347639",
+      "organizer": "경산시청",
       "summary": "링커리어 공개 공모전 목록. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
       "primary_type": "contest",
       "field_tags": [
@@ -7509,17 +7739,17 @@
         ],
         "decision": "publish"
       },
-      "first_seen_at": "2026-09-02T14:51:54+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "first_seen_at": "2026-09-03T14:51:38+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "linkareer",
           "source_name": "링커리어",
-          "source_url": "https://linkareer.com/activity/347451",
-          "source_post_id": "347451",
+          "source_url": "https://linkareer.com/activity/347639",
+          "source_post_id": "347639",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -7539,7 +7769,7 @@
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
-      "dedupe_key": "제2회경산만화웹툰창작경연대회|경산시|2026-09-23"
+      "dedupe_key": "제2회경산만화웹툰창작경연대회|경산시청|2026-09-23"
     },
     {
       "id": "9485667ca61a883cd7fe",
@@ -7572,7 +7802,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-01T14:14:58+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -7581,7 +7811,7 @@
           "source_post_id": "110257",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -7626,7 +7856,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T14:51:54+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -7635,7 +7865,7 @@
           "source_post_id": "347520",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -7683,7 +7913,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-03T16:49:49+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -7692,7 +7922,7 @@
           "source_post_id": "109076",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -7747,7 +7977,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-12T15:44:29+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -7756,7 +7986,7 @@
           "source_post_id": "109420",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         },
         {
           "source_id": "wevity",
@@ -7765,29 +7995,29 @@
           "source_post_id": "110065",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-09-28",
+      "recruit_end": "2026-09-27",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 25,
+      "d_day": 24,
       "eligibility": "고등학생",
       "benefits": "",
       "location": "",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-09-03T01:37:58+09:00",
+      "last_changed_at": "2026-09-03T14:51:38+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "제5회2026대한민국고등학생aisw개발공모전|한국인공지능소프트웨어산업협회|2026-09-28"
+      "dedupe_key": "제5회2026대한민국고등학생aisw개발공모전|한국인공지능소프트웨어산업협회|2026-09-27"
     },
     {
       "id": "6b984504ad8af241966f",
@@ -7817,7 +8047,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-27T18:54:22+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -7826,29 +8056,29 @@
           "source_post_id": "110530",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-09-28",
+      "recruit_end": "2026-09-27",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 25,
+      "d_day": 24,
       "eligibility": "",
       "benefits": "",
       "location": "",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-09-03T01:37:58+09:00",
+      "last_changed_at": "2026-09-03T14:51:38+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "제5회2026대한민국고등학생aisw개발공모전special|한국인공지능소프트웨어산업협회|2026-09-28"
+      "dedupe_key": "제5회2026대한민국고등학생aisw개발공모전special|한국인공지능소프트웨어산업협회|2026-09-27"
     },
     {
       "id": "e5a711a1eea732bd65cd",
@@ -7874,7 +8104,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T14:51:54+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -7883,29 +8113,29 @@
           "source_post_id": "110678",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-09-29",
+      "recruit_end": "2026-09-28",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 26,
+      "d_day": 25,
       "eligibility": "",
       "benefits": "",
       "location": "",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-09-03T04:49:17+09:00",
+      "last_changed_at": "2026-09-03T14:51:38+09:00",
       "change_flags": [
-        "title"
+        "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026년스포츠토토숏폼공모전special|국민체육진흥공단|2026-09-29"
+      "dedupe_key": "2026년스포츠토토숏폼공모전special|국민체육진흥공단|2026-09-28"
     },
     {
       "id": "ce5743a6c72e2d56bc94",
@@ -7934,7 +8164,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-01T14:14:58+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -7943,29 +8173,29 @@
           "source_post_id": "110633",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-09-29",
+      "recruit_end": "2026-09-28",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 26,
+      "d_day": 25,
       "eligibility": "",
       "benefits": "",
       "location": "",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-09-03T01:37:58+09:00",
+      "last_changed_at": "2026-09-03T14:51:38+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "문화체육관광부한국문화정보원문화데이터활용영상제작ai챌린지special|한국문화정보원|2026-09-29"
+      "dedupe_key": "문화체육관광부한국문화정보원문화데이터활용영상제작ai챌린지special|한국문화정보원|2026-09-28"
     },
     {
       "id": "c19d5cab60d9458e2dcf",
@@ -7999,7 +8229,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-25T10:54:30+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -8008,7 +8238,7 @@
           "source_post_id": "109974",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -8029,6 +8259,116 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "2026ai디지털기반사회문제해결챌린지|과학기술정보통신부|2026-09-30"
+    },
+    {
+      "id": "05de63ee29e9cd247fba",
+      "title": "2026 D-Robotics Innovation Contest",
+      "source_name": "위비티",
+      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=2&ix=108984",
+      "organizer": "엔티렉스",
+      "summary": "위비티 등록 분야: 웹/모바일/IT. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "other",
+      "field_tags": [
+        "소프트웨어",
+        "웹·앱"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 79,
+        "reasons": [
+          "본문·분류 키워드: it, 모바일, 웹",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-07-30T16:37:20+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
+      "sources": [
+        {
+          "source_id": "wevity",
+          "source_name": "위비티",
+          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=2&ix=108984",
+          "source_post_id": "108984",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-09-30",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 27,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-09-03T14:51:38+09:00",
+      "change_flags": [
+        "recruit_end"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026droboticsinnovationcontest|엔티렉스|2026-09-30"
+    },
+    {
+      "id": "0c8f7f45bceca2dce35f",
+      "title": "2026 교육콘텐츠 시청 이벤트",
+      "source_name": "링커리어",
+      "source_url": "https://linkareer.com/activity/347766",
+      "organizer": "대구노동권익센터",
+      "summary": "링커리어 공개 공모전 목록. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "education",
+      "field_tags": [
+        "디지털 콘텐츠"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 70,
+        "reasons": [
+          "제목 핵심 키워드: 콘텐츠",
+          "본문·분류 키워드: 콘텐츠",
+          "공고 유형: education"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-09-03T14:51:38+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
+      "sources": [
+        {
+          "source_id": "linkareer",
+          "source_name": "링커리어",
+          "source_url": "https://linkareer.com/activity/347766",
+          "source_post_id": "347766",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-09-30",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 27,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026교육콘텐츠시청이벤트|대구노동권익센터|2026-09-30"
     },
     {
       "id": "c060048290fe8d2b6fb8",
@@ -8053,7 +8393,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-01T19:12:29+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -8062,7 +8402,7 @@
           "source_post_id": "347280",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -8114,7 +8454,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-31T22:57:37+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -8123,7 +8463,7 @@
           "source_post_id": "110295",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -8168,7 +8508,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-01T14:14:58+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -8177,7 +8517,7 @@
           "source_post_id": "346974",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -8198,6 +8538,119 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "2026제12회한국ai신발디자인공모전|부산광역시|2026-09-30"
+    },
+    {
+      "id": "44fac03ca5fa12342f32",
+      "title": "2026 한국관광 데이터랩 활용 경진대회",
+      "source_name": "위비티",
+      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=2&ix=109888",
+      "organizer": "한국관광콘텐츠랩",
+      "summary": "위비티 등록 분야: 웹/모바일/IT. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "소프트웨어",
+        "웹·앱",
+        "데이터"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: 데이터",
+          "본문·분류 키워드: it, 데이터, 모바일, 웹",
+          "공고 유형: contest",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-08-06T19:00:50+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
+      "sources": [
+        {
+          "source_id": "wevity",
+          "source_name": "위비티",
+          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=2&ix=109888",
+          "source_post_id": "109888",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-09-30",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 27,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-09-03T14:51:38+09:00",
+      "change_flags": [
+        "recruit_end"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026한국관광데이터랩활용경진대회|한국관광콘텐츠랩|2026-09-30"
+    },
+    {
+      "id": "21cfb66386f2688adb3b",
+      "title": "2026년 국가표준식품성분 데이터베이스(DB) 활용 아이디어 공모전",
+      "source_name": "링커리어",
+      "source_url": "https://linkareer.com/activity/347854",
+      "organizer": "국립식량과학원, 대한지역사회영양학회",
+      "summary": "링커리어 공개 공모전 목록. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "데이터"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 70,
+        "reasons": [
+          "제목 핵심 키워드: 데이터",
+          "본문·분류 키워드: 데이터",
+          "공고 유형: contest"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-09-03T14:51:38+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
+      "sources": [
+        {
+          "source_id": "linkareer",
+          "source_name": "링커리어",
+          "source_url": "https://linkareer.com/activity/347854",
+          "source_post_id": "347854",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-09-30",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 27,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026년국가표준식품성분데이터베이스db활용아이디어공모전|국립식량과학원대한지역사회영양학회|2026-09-30"
     },
     {
       "id": "b417d79ad359961e32f5",
@@ -8254,6 +8707,66 @@
       "dedupe_key": "2026년지역sw산업발전유공자및공모전공고|정보통신산업진흥원|2026-09-30"
     },
     {
+      "id": "5eb2d5b7c8226d96a372",
+      "title": "2026년 창원시 AIㆍ데이터 활용 공모전",
+      "source_name": "위비티",
+      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=2&ix=107813",
+      "organizer": "창원시",
+      "summary": "위비티 등록 분야: 웹/모바일/IT. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "데이터"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: ai, 데이터",
+          "본문·분류 키워드: ai, it, 데이터, 모바일",
+          "공고 유형: contest",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-07-30T16:37:20+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
+      "sources": [
+        {
+          "source_id": "wevity",
+          "source_name": "위비티",
+          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=2&ix=107813",
+          "source_post_id": "107813",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-09-30",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 27,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-09-03T14:51:38+09:00",
+      "change_flags": [
+        "recruit_end"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026년창원시ai데이터활용공모전|창원시|2026-09-30"
+    },
+    {
       "id": "7fc3033910fafb0fe5de",
       "title": "2026년 한국식품안전관리인증원 공공데이터 분석·활용 경진대회",
       "source_name": "씽굿",
@@ -8263,8 +8776,8 @@
       "primary_type": "contest",
       "field_tags": [
         "게임",
-        "데이터",
-        "소프트웨어"
+        "소프트웨어",
+        "데이터"
       ],
       "audience_tags": [
         "대학생"
@@ -8276,23 +8789,13 @@
           "제목 핵심 키워드: 데이터",
           "본문·분류 키워드: 게임, 데이터, 소프트웨어",
           "공고 유형: contest",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능",
-          "본문·분류 키워드: 데이터"
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
         ],
         "decision": "publish"
       },
       "first_seen_at": "2026-08-31T14:41:26+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
-        {
-          "source_id": "linkareer",
-          "source_name": "링커리어",
-          "source_url": "https://linkareer.com/activity/346681",
-          "source_post_id": "346681",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
-        },
         {
           "source_id": "thinkcontest",
           "source_name": "씽굿",
@@ -8300,7 +8803,7 @@
           "source_post_id": "110239",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -8401,7 +8904,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T14:51:54+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -8410,7 +8913,7 @@
           "source_post_id": "347459",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -8461,7 +8964,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-28T11:09:30+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -8470,7 +8973,7 @@
           "source_post_id": "110133",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -8491,60 +8994,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "롯데장학재단2026년제3회신격호롯데청년기업가대상모집공고930|롯데장학재단연구개발특구진흥재단|2026-09-30"
-    },
-    {
-      "id": "ed50e71c27a785c03966",
-      "title": "[서대문구청소년상담복지센터] 캐릭터 공모전",
-      "source_name": "링커리어",
-      "source_url": "https://linkareer.com/activity/346703",
-      "organizer": "서대문구청소년상담복지센터",
-      "summary": "링커리어 공개 공모전 목록. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 70,
-        "reasons": [
-          "제목 핵심 키워드: 캐릭터",
-          "본문·분류 키워드: 캐릭터",
-          "공고 유형: contest"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-08-31T14:41:26+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
-      "sources": [
-        {
-          "source_id": "linkareer",
-          "source_name": "링커리어",
-          "source_url": "https://linkareer.com/activity/346703",
-          "source_post_id": "346703",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-09-30",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 27,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "서대문구청소년상담복지센터캐릭터공모전|서대문구청소년상담복지센터|2026-09-30"
     },
     {
       "id": "7a3c5857f6060d1d033e",
@@ -8744,7 +9193,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-18T10:52:38+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -8753,7 +9202,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         },
         {
           "source_id": "thinkcontest",
@@ -8762,7 +9211,7 @@
           "source_post_id": "109665",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -8815,7 +9264,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-18T10:52:38+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -8824,7 +9273,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -8875,7 +9324,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T14:51:54+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -8884,7 +9333,7 @@
           "source_post_id": "347514",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -8905,237 +9354,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "제1회웹툰홍보공모전악마와깊은바다사이공모전|과속마차스튜디오|2026-09-30"
-    },
-    {
-      "id": "05de63ee29e9cd247fba",
-      "title": "2026 D-Robotics Innovation Contest",
-      "source_name": "위비티",
-      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=2&ix=108984",
-      "organizer": "엔티렉스",
-      "summary": "위비티 등록 분야: 웹/모바일/IT. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "other",
-      "field_tags": [
-        "소프트웨어",
-        "웹·앱"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 79,
-        "reasons": [
-          "본문·분류 키워드: it, 모바일, 웹",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
-      "sources": [
-        {
-          "source_id": "wevity",
-          "source_name": "위비티",
-          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=2&ix=108984",
-          "source_post_id": "108984",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-10-01",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 28,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-09-03T01:37:58+09:00",
-      "change_flags": [
-        "recruit_end"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026droboticsinnovationcontest|엔티렉스|2026-10-01"
-    },
-    {
-      "id": "e910e29bcf2342ee4d4c",
-      "title": "2026 NAIS AI 해커톤 (AI4Sci Korea 2026)",
-      "source_name": "Dev-Event GitHub",
-      "source_url": "https://ai4scikorea.org/",
-      "organizer": "국가과학기술연구회(NST) / 국가과학기술연구센터(NAIS)",
-      "summary": "- 분류: 오프라인(서울 용산구), 무료, 대회, AI - 주최: 국가과학기술연구회(NST) / 국가과학기술연구센터(NAIS) - 일시: 09. 30(수) ~ 10. 01(목)",
-      "primary_type": "hackathon",
-      "field_tags": [
-        "AI"
-      ],
-      "audience_tags": [],
-      "status": "upcoming",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai",
-          "본문·분류 키워드: ai",
-          "공고 유형: hackathon",
-          "IT·게임 전문 출처",
-          "게임·디지털 콘텐츠 형태로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-08-10T22:47:09+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
-      "sources": [
-        {
-          "source_id": "dev_event",
-          "source_name": "Dev-Event GitHub",
-          "source_url": "https://ai4scikorea.org/",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-09-30",
-      "recruit_end": "2026-10-01",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 28,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026naisai해커톤ai4scikorea2026|국가과학기술연구회nst국가과학기술연구센터nais|2026-10-01"
-    },
-    {
-      "id": "44fac03ca5fa12342f32",
-      "title": "2026 한국관광 데이터랩 활용 경진대회",
-      "source_name": "위비티",
-      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=2&ix=109888",
-      "organizer": "한국관광콘텐츠랩",
-      "summary": "위비티 등록 분야: 웹/모바일/IT. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "소프트웨어",
-        "웹·앱",
-        "데이터"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: 데이터",
-          "본문·분류 키워드: it, 데이터, 모바일, 웹",
-          "공고 유형: contest",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-08-06T19:00:50+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
-      "sources": [
-        {
-          "source_id": "wevity",
-          "source_name": "위비티",
-          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=2&ix=109888",
-          "source_post_id": "109888",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-10-01",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 28,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-09-03T01:37:58+09:00",
-      "change_flags": [
-        "recruit_end"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026한국관광데이터랩활용경진대회|한국관광콘텐츠랩|2026-10-01"
-    },
-    {
-      "id": "5eb2d5b7c8226d96a372",
-      "title": "2026년 창원시 AIㆍ데이터 활용 공모전",
-      "source_name": "위비티",
-      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=2&ix=107813",
-      "organizer": "창원시",
-      "summary": "위비티 등록 분야: 웹/모바일/IT. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "데이터"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai, 데이터",
-          "본문·분류 키워드: ai, it, 데이터, 모바일",
-          "공고 유형: contest",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
-      "sources": [
-        {
-          "source_id": "wevity",
-          "source_name": "위비티",
-          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=2&ix=107813",
-          "source_post_id": "107813",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-10-01",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 28,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-09-03T01:37:58+09:00",
-      "change_flags": [
-        "recruit_end"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026년창원시ai데이터활용공모전|창원시|2026-10-01"
     },
     {
       "id": "9e18b1bc4461f05d702c",
@@ -9162,7 +9380,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-19T23:54:49+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -9171,12 +9389,70 @@
           "source_post_id": "110223",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
+      "recruit_end": "2026-09-30",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 27,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-09-03T14:51:38+09:00",
+      "change_flags": [
+        "recruit_end"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "제5회세명컴퓨터고중학생sw아이디어공모전|세명컴퓨터고|2026-09-30"
+    },
+    {
+      "id": "e910e29bcf2342ee4d4c",
+      "title": "2026 NAIS AI 해커톤 (AI4Sci Korea 2026)",
+      "source_name": "Dev-Event GitHub",
+      "source_url": "https://ai4scikorea.org/",
+      "organizer": "국가과학기술연구회(NST) / 국가과학기술연구센터(NAIS)",
+      "summary": "- 분류: 오프라인(서울 용산구), 무료, 대회, AI - 주최: 국가과학기술연구회(NST) / 국가과학기술연구센터(NAIS) - 일시: 09. 30(수) ~ 10. 01(목)",
+      "primary_type": "hackathon",
+      "field_tags": [
+        "AI"
+      ],
+      "audience_tags": [],
+      "status": "upcoming",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: ai",
+          "본문·분류 키워드: ai",
+          "공고 유형: hackathon",
+          "IT·게임 전문 출처",
+          "게임·디지털 콘텐츠 형태로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-08-10T22:47:09+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
+      "sources": [
+        {
+          "source_id": "dev_event",
+          "source_name": "Dev-Event GitHub",
+          "source_url": "https://ai4scikorea.org/",
+          "source_post_id": null,
+          "kind": "specialist",
+          "priority": 60,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-09-30",
       "recruit_end": "2026-10-01",
       "event_start": null,
       "event_end": null,
@@ -9188,66 +9464,10 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-09-03T01:37:58+09:00",
-      "change_flags": [
-        "recruit_end"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "제5회세명컴퓨터고중학생sw아이디어공모전|세명컴퓨터고|2026-10-01"
-    },
-    {
-      "id": "ed7e46976cfe806afed1",
-      "title": "2026년 디지털윤리 창작콘텐츠 공모전",
-      "source_name": "링커리어",
-      "source_url": "https://linkareer.com/activity/326720",
-      "organizer": "방송미디어통신위원회, 한국지능정보사회진흥원",
-      "summary": "링커리어 공개 공모전 목록. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 70,
-        "reasons": [
-          "제목 핵심 키워드: 콘텐츠",
-          "본문·분류 키워드: 콘텐츠",
-          "공고 유형: contest"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-09-01T05:08:41+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
-      "sources": [
-        {
-          "source_id": "linkareer",
-          "source_name": "링커리어",
-          "source_url": "https://linkareer.com/activity/326720",
-          "source_post_id": "326720",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-10-02",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 29,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026년디지털윤리창작콘텐츠공모전|방송미디어통신위원회한국지능정보사회진흥원|2026-10-02"
+      "dedupe_key": "2026naisai해커톤ai4scikorea2026|국가과학기술연구회nst국가과학기술연구센터nais|2026-10-01"
     },
     {
       "id": "0641d0be4cd1b9c8ee54",
@@ -9275,7 +9495,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -9284,29 +9504,83 @@
           "source_post_id": "108240",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-10-03",
+      "recruit_end": "2026-10-02",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 30,
+      "d_day": 29,
       "eligibility": "",
       "benefits": "",
       "location": "",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-09-03T01:37:58+09:00",
+      "last_changed_at": "2026-09-03T14:51:38+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026년국민체육진흥공단공공데이터활용경진대회|국민체육진흥공단|2026-10-03"
+      "dedupe_key": "2026년국민체육진흥공단공공데이터활용경진대회|국민체육진흥공단|2026-10-02"
+    },
+    {
+      "id": "ed7e46976cfe806afed1",
+      "title": "2026년 디지털윤리 창작콘텐츠 공모전",
+      "source_name": "링커리어",
+      "source_url": "https://linkareer.com/activity/326720",
+      "organizer": "방송미디어통신위원회, 한국지능정보사회진흥원",
+      "summary": "링커리어 공개 공모전 목록. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "디지털 콘텐츠"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 70,
+        "reasons": [
+          "제목 핵심 키워드: 콘텐츠",
+          "본문·분류 키워드: 콘텐츠",
+          "공고 유형: contest"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-09-01T05:08:41+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
+      "sources": [
+        {
+          "source_id": "linkareer",
+          "source_name": "링커리어",
+          "source_url": "https://linkareer.com/activity/326720",
+          "source_post_id": "326720",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-10-02",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 29,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026년디지털윤리창작콘텐츠공모전|방송미디어통신위원회한국지능정보사회진흥원|2026-10-02"
     },
     {
       "id": "e9400bc33cd1a13163de",
@@ -9331,7 +9605,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T14:51:54+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -9340,7 +9614,7 @@
           "source_post_id": "347440",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -9392,7 +9666,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-04T15:42:55+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -9401,7 +9675,7 @@
           "source_post_id": "109042",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -9449,7 +9723,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-07T13:04:17+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -9458,7 +9732,7 @@
           "source_post_id": "109210",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -9479,6 +9753,72 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "2026대한민국sf판타지웹소설공모전|대전광역시한국콘텐츠진흥원|2026-10-06"
+    },
+    {
+      "id": "4ac20cfab45288807711",
+      "title": "2026 추계학술대회 대학생 ERP 아이디어 공모전 신규",
+      "source_name": "위비티",
+      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=1&ix=110710",
+      "organizer": "한국경영정보학회.영림원",
+      "summary": "위비티 등록 분야: 웹/모바일/IT. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "소프트웨어",
+        "웹·앱"
+      ],
+      "audience_tags": [
+        "대학생"
+      ],
+      "status": "open",
+      "relevance": {
+        "score": 91,
+        "reasons": [
+          "본문·분류 키워드: it, 모바일, 웹",
+          "공고 유형: contest",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-09-03T14:51:38+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
+      "sources": [
+        {
+          "source_id": "linkareer",
+          "source_name": "링커리어",
+          "source_url": "https://linkareer.com/activity/347780",
+          "source_post_id": "347780",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        },
+        {
+          "source_id": "wevity",
+          "source_name": "위비티",
+          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=1&ix=110710",
+          "source_post_id": "110710",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-10-06",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 33,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026추계학술대회대학생erp아이디어공모전신규|한국경영정보학회영림원|2026-10-06"
     },
     {
       "id": "6de7521be83a247bc963",
@@ -9511,7 +9851,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T03:34:57+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -9520,7 +9860,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -9543,6 +9883,122 @@
       ],
       "is_manual_reviewed": false,
       "dedupe_key": "2026ai융합산업인적자원개발hrd포럼|측가아닙니다이벤트내용과관련한사항은이벤트개설자에게문의바랍니다hoti|2026-10-07"
+    },
+    {
+      "id": "639358f20ec58dfce9f4",
+      "title": "[과학기술정보통신부] 제3회 미래융합인재 발굴 소프트웨어 챌린지 SPECIAL",
+      "source_name": "위비티",
+      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=21&gbn=view&gp=1&ix=110675",
+      "organizer": "과학기술정보통신부",
+      "summary": "위비티 등록 분야: 기획/아이디어, 웹/모바일/IT, 게임/소프트웨어, 과학/공학, 기타. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "게임",
+        "소프트웨어",
+        "웹·앱"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: 소프트웨어",
+          "본문·분류 키워드: it, 게임, 모바일, 소프트웨어",
+          "공고 유형: contest",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-09-01T23:56:42+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
+      "sources": [
+        {
+          "source_id": "wevity",
+          "source_name": "위비티",
+          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=21&gbn=view&gp=1&ix=110675",
+          "source_post_id": "110675",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-10-07",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 34,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-09-03T14:51:38+09:00",
+      "change_flags": [
+        "recruit_end"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "과학기술정보통신부제3회미래융합인재발굴소프트웨어챌린지special|과학기술정보통신부|2026-10-07"
+    },
+    {
+      "id": "3a2a5e189f7e27f37c8d",
+      "title": "[넥슨] 메이플스토리 글로벌 개발 콘테스트 (MapleStory Global Creator Challenge)",
+      "source_name": "위비티",
+      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=21&gbn=view&gp=1&ix=107956",
+      "organizer": "넥슨",
+      "summary": "위비티 등록 분야: 게임/소프트웨어. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "게임",
+        "소프트웨어"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 88,
+        "reasons": [
+          "본문·분류 키워드: 게임, 소프트웨어",
+          "공고 유형: contest",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-07-30T16:37:20+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
+      "sources": [
+        {
+          "source_id": "wevity",
+          "source_name": "위비티",
+          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=21&gbn=view&gp=1&ix=107956",
+          "source_post_id": "107956",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-10-07",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 34,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-09-03T14:51:38+09:00",
+      "change_flags": [
+        "recruit_end"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "넥슨메이플스토리글로벌개발콘테스트maplestoryglobalcreatorchallenge|넥슨|2026-10-07"
     },
     {
       "id": "c3cae913025485f9d519",
@@ -9575,7 +10031,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-14T19:18:41+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -9584,7 +10040,7 @@
           "source_post_id": "109577",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -9605,122 +10061,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "제3회미래융합인재발굴소프트웨어챌린지|과학기술정보통신부경산시|2026-10-07"
-    },
-    {
-      "id": "639358f20ec58dfce9f4",
-      "title": "[과학기술정보통신부] 제3회 미래융합인재 발굴 소프트웨어 챌린지 SPECIAL",
-      "source_name": "위비티",
-      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=21&gbn=view&gp=1&ix=110675",
-      "organizer": "과학기술정보통신부",
-      "summary": "위비티 등록 분야: 기획/아이디어, 웹/모바일/IT, 게임/소프트웨어, 과학/공학, 기타. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "게임",
-        "소프트웨어",
-        "웹·앱"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: 소프트웨어",
-          "본문·분류 키워드: it, 게임, 모바일, 소프트웨어",
-          "공고 유형: contest",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-09-01T23:56:42+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
-      "sources": [
-        {
-          "source_id": "wevity",
-          "source_name": "위비티",
-          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=21&gbn=view&gp=1&ix=110675",
-          "source_post_id": "110675",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-10-08",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 35,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-09-03T01:37:58+09:00",
-      "change_flags": [
-        "recruit_end"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "과학기술정보통신부제3회미래융합인재발굴소프트웨어챌린지special|과학기술정보통신부|2026-10-08"
-    },
-    {
-      "id": "3a2a5e189f7e27f37c8d",
-      "title": "[넥슨] 메이플스토리 글로벌 개발 콘테스트 (MapleStory Global Creator Challenge)",
-      "source_name": "위비티",
-      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=21&gbn=view&gp=1&ix=107956",
-      "organizer": "넥슨",
-      "summary": "위비티 등록 분야: 게임/소프트웨어. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "게임",
-        "소프트웨어"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 88,
-        "reasons": [
-          "본문·분류 키워드: 게임, 소프트웨어",
-          "공고 유형: contest",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
-      "sources": [
-        {
-          "source_id": "wevity",
-          "source_name": "위비티",
-          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=21&gbn=view&gp=1&ix=107956",
-          "source_post_id": "107956",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-10-08",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 35,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-09-03T01:37:58+09:00",
-      "change_flags": [
-        "recruit_end"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "넥슨메이플스토리글로벌개발콘테스트maplestoryglobalcreatorchallenge|넥슨|2026-10-08"
     },
     {
       "id": "0d1bd455fe082137f2a4",
@@ -9745,7 +10085,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T14:51:54+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -9754,7 +10094,7 @@
           "source_post_id": "347550",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -9856,7 +10196,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T16:10:46+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -9865,7 +10205,7 @@
           "source_post_id": "110045",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -9916,7 +10256,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-11T11:29:41+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -9925,7 +10265,7 @@
           "source_post_id": "109323",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -9948,11 +10288,11 @@
       "dedupe_key": "제6회소셜임팩트디지털아트경연대회|한국조지메이슨대학교|2026-10-11"
     },
     {
-      "id": "4148a588fcb318cc3375",
-      "title": "[한국천주교주교회의 사회홍보위원회] 제36회 가톨릭 미디어 콘텐츠 대상 공모",
+      "id": "63c6656e9b91537e3e0e",
+      "title": "제1회 세대공감 PR아이디어 대상 영상 콘텐츠 공모전",
       "source_name": "링커리어",
-      "source_url": "https://linkareer.com/activity/346770",
-      "organizer": "한국천주교주교회의 사회홍보위원회",
+      "source_url": "https://linkareer.com/activity/347559",
+      "organizer": "(주) 레인보우커뮤니케이션",
       "summary": "링커리어 공개 공모전 목록. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
       "primary_type": "contest",
       "field_tags": [
@@ -9969,27 +10309,27 @@
         ],
         "decision": "publish"
       },
-      "first_seen_at": "2026-08-31T22:57:37+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "first_seen_at": "2026-09-03T14:51:38+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "linkareer",
           "source_name": "링커리어",
-          "source_url": "https://linkareer.com/activity/346770",
-          "source_post_id": "346770",
+          "source_url": "https://linkareer.com/activity/347559",
+          "source_post_id": "347559",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-10-15",
+      "recruit_end": "2026-10-16",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 42,
+      "d_day": 43,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -9999,7 +10339,7 @@
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
-      "dedupe_key": "한국천주교주교회의사회홍보위원회제36회가톨릭미디어콘텐츠대상공모|한국천주교주교회의사회홍보위원회|2026-10-15"
+      "dedupe_key": "제1회세대공감pr아이디어대상영상콘텐츠공모전|주레인보우커뮤니케이션|2026-10-16"
     },
     {
       "id": "d3013b53079ed76ced40",
@@ -10025,7 +10365,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-31T02:32:33+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -10034,29 +10374,29 @@
           "source_post_id": "110585",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-10-18",
+      "recruit_end": "2026-10-17",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 45,
+      "d_day": 44,
       "eligibility": "",
       "benefits": "",
       "location": "",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-09-03T01:37:58+09:00",
+      "last_changed_at": "2026-09-03T14:51:38+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "20260924영상제영상공모전special|하남시청소년수련관|2026-10-18"
+      "dedupe_key": "20260924영상제영상공모전special|하남시청소년수련관|2026-10-17"
     },
     {
       "id": "fbd945525e307cc22e6f",
@@ -10085,7 +10425,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T14:51:54+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -10094,7 +10434,7 @@
           "source_post_id": "110349",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -10115,60 +10455,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "제2회직스캐드ax경진대회|직스테크놀로지|2026-10-18"
-    },
-    {
-      "id": "ccb6d8b8d9b2d0b75723",
-      "title": "제 2회 직스캐드 AX 공모전 - Design Your Dreams with AX (#CAD설계, #영상)",
-      "source_name": "링커리어",
-      "source_url": "https://linkareer.com/activity/346834",
-      "organizer": "(주)직스테크놀로지",
-      "summary": "링커리어 공개 공모전 목록. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "소프트웨어"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 70,
-        "reasons": [
-          "제목 핵심 키워드: ax",
-          "본문·분류 키워드: ax",
-          "공고 유형: contest"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-08-31T22:57:37+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
-      "sources": [
-        {
-          "source_id": "linkareer",
-          "source_name": "링커리어",
-          "source_url": "https://linkareer.com/activity/346834",
-          "source_post_id": "346834",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-10-18",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 45,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "제2회직스캐드ax공모전designyourdreamswithaxcad설계영상|주직스테크놀로지|2026-10-18"
     },
     {
       "id": "66fb8a48b3da9c6752e0",
@@ -10194,7 +10480,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-01T19:12:29+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -10203,7 +10489,7 @@
           "source_post_id": "347195",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -10224,61 +10510,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "2026데이터ai혁신챌린지데이터안심구역경진대회참가자모집안내|데이터안심구역|2026-10-22"
-    },
-    {
-      "id": "c93595d629de344b0c9f",
-      "title": "AI와 함께하는 교통문제 해결을 위한 데이터 분석 공모전",
-      "source_name": "링커리어",
-      "source_url": "https://linkareer.com/activity/347433",
-      "organizer": "재단법인 숲과나눔",
-      "summary": "링커리어 공개 공모전 목록. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "AI",
-        "데이터"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 78,
-        "reasons": [
-          "제목 핵심 키워드: ai, 데이터",
-          "본문·분류 키워드: ai, 데이터",
-          "공고 유형: contest"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-09-02T14:51:54+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
-      "sources": [
-        {
-          "source_id": "linkareer",
-          "source_name": "링커리어",
-          "source_url": "https://linkareer.com/activity/347433",
-          "source_post_id": "347433",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-10-22",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 49,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "ai와함께하는교통문제해결을위한데이터분석공모전|재단법인숲과나눔|2026-10-22"
     },
     {
       "id": "fcbdb3723bbb004cd51a",
@@ -10308,7 +10539,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-01T19:12:29+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -10317,7 +10548,7 @@
           "source_post_id": "347448",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         },
         {
           "source_id": "wevity",
@@ -10326,29 +10557,84 @@
           "source_post_id": "110659",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-10-23",
+      "recruit_end": "2026-10-22",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 50,
+      "d_day": 49,
       "eligibility": "",
       "benefits": "",
       "location": "",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-09-03T01:37:58+09:00",
+      "last_changed_at": "2026-09-03T14:51:38+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026데이터ai혁신챌린지데이터안심구역경진대회|과학기술정보통신부|2026-10-23"
+      "dedupe_key": "2026데이터ai혁신챌린지데이터안심구역경진대회|과학기술정보통신부|2026-10-22"
+    },
+    {
+      "id": "c93595d629de344b0c9f",
+      "title": "AI와 함께하는 교통문제 해결을 위한 데이터 분석 공모전",
+      "source_name": "링커리어",
+      "source_url": "https://linkareer.com/activity/347433",
+      "organizer": "재단법인 숲과나눔",
+      "summary": "링커리어 공개 공모전 목록. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "AI",
+        "데이터"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 78,
+        "reasons": [
+          "제목 핵심 키워드: ai, 데이터",
+          "본문·분류 키워드: ai, 데이터",
+          "공고 유형: contest"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-09-02T14:51:54+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
+      "sources": [
+        {
+          "source_id": "linkareer",
+          "source_name": "링커리어",
+          "source_url": "https://linkareer.com/activity/347433",
+          "source_post_id": "347433",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-10-22",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 49,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "ai와함께하는교통문제해결을위한데이터분석공모전|재단법인숲과나눔|2026-10-22"
     },
     {
       "id": "52cd5ea17a2e87086d2f",
@@ -10535,7 +10821,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T20:23:44+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -10544,7 +10830,7 @@
           "source_post_id": "347584",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -10644,7 +10930,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-01T19:12:29+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -10653,7 +10939,7 @@
           "source_post_id": "347260",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -10674,6 +10960,65 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "제주관광공사2026제주관광데이터활용사례공모전1031|아라한|2026-10-31"
+    },
+    {
+      "id": "73b009ce5f095c76ab79",
+      "title": "AI 달인 100 챌린지",
+      "source_name": "위비티",
+      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=1&ix=110273",
+      "organizer": "과학기술정보통신부",
+      "summary": "위비티 등록 분야: 웹/모바일/IT. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: ai",
+          "본문·분류 키워드: ai, it, 모바일, 웹",
+          "공고 유형: contest",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-08-22T02:47:47+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
+      "sources": [
+        {
+          "source_id": "wevity",
+          "source_name": "위비티",
+          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=1&ix=110273",
+          "source_post_id": "110273",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-11-05",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 63,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-09-03T14:51:38+09:00",
+      "change_flags": [
+        "recruit_end"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "ai달인100챌린지|과학기술정보통신부|2026-11-05"
     },
     {
       "id": "8ac1d247b7233b8d8445",
@@ -10768,7 +11113,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-21T14:49:35+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -10777,7 +11122,7 @@
           "source_post_id": "109859",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -10798,119 +11143,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "전국민ai경진대회ai달인100챌린지|과학기술정보통신부|2026-11-05"
-    },
-    {
-      "id": "73b009ce5f095c76ab79",
-      "title": "AI 달인 100 챌린지",
-      "source_name": "위비티",
-      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=1&ix=110273",
-      "organizer": "과학기술정보통신부",
-      "summary": "위비티 등록 분야: 웹/모바일/IT. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai",
-          "본문·분류 키워드: ai, it, 모바일, 웹",
-          "공고 유형: contest",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-08-22T02:47:47+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
-      "sources": [
-        {
-          "source_id": "wevity",
-          "source_name": "위비티",
-          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=20&gbn=view&gp=1&ix=110273",
-          "source_post_id": "110273",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-11-06",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 64,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-09-03T01:37:58+09:00",
-      "change_flags": [
-        "recruit_end"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "ai달인100챌린지|과학기술정보통신부|2026-11-06"
-    },
-    {
-      "id": "acd200241ccba2b4d4a2",
-      "title": "제7회 승가원 장애바로알기 콘텐츠 공모전(접수기간: 8/31~11/6)",
-      "source_name": "링커리어",
-      "source_url": "https://linkareer.com/activity/346853",
-      "organizer": "사회복지법인 승가원",
-      "summary": "링커리어 공개 공모전 목록. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 70,
-        "reasons": [
-          "제목 핵심 키워드: 콘텐츠",
-          "본문·분류 키워드: 콘텐츠",
-          "공고 유형: contest"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-09-01T14:14:58+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
-      "sources": [
-        {
-          "source_id": "linkareer",
-          "source_name": "링커리어",
-          "source_url": "https://linkareer.com/activity/346853",
-          "source_post_id": "346853",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-11-06",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 64,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "제7회승가원장애바로알기콘텐츠공모전접수기간831116|사회복지법인승가원|2026-11-06"
     },
     {
       "id": "7560c304302fdc601f66",
@@ -10938,7 +11170,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-11T16:39:43+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -10947,29 +11179,29 @@
           "source_post_id": "110023",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-11-11",
+      "recruit_end": "2026-11-10",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 69,
+      "d_day": 68,
       "eligibility": "",
       "benefits": "",
       "location": "",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-09-03T01:37:58+09:00",
+      "last_changed_at": "2026-09-03T14:51:38+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026dataai분석경진대회|한국과학기술정보연구원|2026-11-11"
+      "dedupe_key": "2026dataai분석경진대회|한국과학기술정보연구원|2026-11-10"
     },
     {
       "id": "28e20d43a8eaeb499e2a",
@@ -11048,7 +11280,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-03T01:37:58+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -11057,7 +11289,7 @@
           "source_post_id": "342034",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -11188,6 +11420,65 @@
       "dedupe_key": "충북2026년sw제품경쟁력강화지원사업모집공고|충북과학기술혁신원|2026-11-30"
     },
     {
+      "id": "f2f3d3833d1908ed6716",
+      "title": "제1회 한아전 게임 시나리오·그래픽 공모전",
+      "source_name": "위비티",
+      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=21&gbn=view&gp=1&ix=110305",
+      "organizer": "한국IT전문학교",
+      "summary": "위비티 등록 분야: 게임/소프트웨어. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "게임",
+        "소프트웨어",
+        "디지털 콘텐츠"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: 게임, 그래픽",
+          "본문·분류 키워드: 게임, 그래픽, 소프트웨어",
+          "공고 유형: contest",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-08-24T14:04:04+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
+      "sources": [
+        {
+          "source_id": "wevity",
+          "source_name": "위비티",
+          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=21&gbn=view&gp=1&ix=110305",
+          "source_post_id": "110305",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-03T14:51:38+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-11-30",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 88,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-09-03T14:51:38+09:00",
+      "change_flags": [
+        "recruit_end"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "제1회한아전게임시나리오그래픽공모전|한국it전문학교|2026-11-30"
+    },
+    {
       "id": "9cf7f7c28800785dbe2f",
       "title": "2026년 실감콘텐츠 스튜디오 프로젝트 현물지원기업 모집 공고",
       "source_name": "기업마당",
@@ -11242,65 +11533,6 @@
       "dedupe_key": "2026년실감콘텐츠스튜디오프로젝트현물지원기업모집공고|광주정보문화산업진흥원|2026-12-01"
     },
     {
-      "id": "f2f3d3833d1908ed6716",
-      "title": "제1회 한아전 게임 시나리오·그래픽 공모전",
-      "source_name": "위비티",
-      "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=21&gbn=view&gp=1&ix=110305",
-      "organizer": "한국IT전문학교",
-      "summary": "위비티 등록 분야: 게임/소프트웨어. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "게임",
-        "소프트웨어",
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: 게임, 그래픽",
-          "본문·분류 키워드: 게임, 그래픽, 소프트웨어",
-          "공고 유형: contest",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-08-24T14:04:04+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
-      "sources": [
-        {
-          "source_id": "wevity",
-          "source_name": "위비티",
-          "source_url": "https://www.wevity.com/?c=find&s=1&mode=ing&gub=1&cidx=21&gbn=view&gp=1&ix=110305",
-          "source_post_id": "110305",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-12-01",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 89,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-09-03T01:37:58+09:00",
-      "change_flags": [
-        "recruit_end"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "제1회한아전게임시나리오그래픽공모전|한국it전문학교|2026-12-01"
-    },
-    {
       "id": "7fa7cfd7dabfee8c42b9",
       "title": "2027 KT&G 국제 대학생 창업교류전(ASVF) 한국대표 모집",
       "source_name": "링커리어",
@@ -11325,7 +11557,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T14:51:54+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -11334,7 +11566,7 @@
           "source_post_id": "347306",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
@@ -11713,7 +11945,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-17T22:08:52+09:00",
-      "last_seen_at": "2026-09-03T10:08:15+09:00",
+      "last_seen_at": "2026-09-03T14:51:38+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -11722,29 +11954,29 @@
           "source_post_id": "110179",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-03T10:08:15+09:00"
+          "fetched_at": "2026-09-03T14:51:38+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2027-02-01",
+      "recruit_end": "2027-01-31",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 151,
+      "d_day": 150,
       "eligibility": "",
       "benefits": "",
       "location": "",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-09-03T01:37:58+09:00",
+      "last_changed_at": "2026-09-03T14:51:38+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "7thdahoawardasianinternationalshortfilmcompetition단편영화공모전special|dahoconstructioncoltd|2027-02-01"
+      "dedupe_key": "7thdahoawardasianinternationalshortfilmcompetition단편영화공모전special|dahoconstructioncoltd|2027-01-31"
     }
   ]
 }
