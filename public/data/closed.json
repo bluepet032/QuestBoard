@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-04T01:28:50+09:00",
+  "generated_at": "2026-09-04T01:40:21+09:00",
   "items": [
     {
       "id": "d2f49c0dbb66d92b2608",
@@ -149,7 +149,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-03T13:19:42+09:00",
-      "last_seen_at": "2026-09-03T20:41:55+09:00",
+      "last_seen_at": "2026-09-04T01:40:21+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -158,7 +158,7 @@
           "source_post_id": "16887",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-09-03T20:41:55+09:00"
+          "fetched_at": "2026-09-04T01:40:21+09:00"
         }
       ],
       "application_url": null,
@@ -168,7 +168,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -3,
+      "d_day": -4,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -738,7 +738,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-09-03T20:41:55+09:00",
+      "last_seen_at": "2026-09-04T01:40:21+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -747,7 +747,7 @@
           "source_post_id": "16882",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-09-03T20:41:55+09:00"
+          "fetched_at": "2026-09-04T01:40:21+09:00"
         }
       ],
       "application_url": null,
@@ -757,7 +757,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -8,
+      "d_day": -9,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -799,7 +799,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-13T17:03:31+09:00",
-      "last_seen_at": "2026-09-03T20:41:55+09:00",
+      "last_seen_at": "2026-09-04T01:40:21+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -808,7 +808,7 @@
           "source_post_id": "16899",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-09-03T20:41:55+09:00"
+          "fetched_at": "2026-09-04T01:40:21+09:00"
         }
       ],
       "application_url": null,
@@ -818,7 +818,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -10,
+      "d_day": -11,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -949,65 +949,6 @@
       "dedupe_key": "제1회일상뒤집기ai어플개발공모전|나무서원|2026-08-23"
     },
     {
-      "id": "bee87faf694dec666bb2",
-      "title": "[사업화] --> 2026 가상융합산업허브 입주기업 모집(2차)",
-      "source_name": "정보통신산업진흥원",
-      "source_url": "https://www.nipa.kr/home/2-2/16872",
-      "organizer": "정보통신산업진흥원",
-      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "창업"
-      ],
-      "audience_tags": [],
-      "status": "closed",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: 사업화",
-          "본문·분류 키워드: ai, it, 모바일, 사업화",
-          "공고 유형: support",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-08-31T15:05:59+09:00",
-      "last_seen_at": "2026-09-03T20:41:55+09:00",
-      "sources": [
-        {
-          "source_id": "nipa",
-          "source_name": "정보통신산업진흥원",
-          "source_url": "https://www.nipa.kr/home/2-2/16872",
-          "source_post_id": "16872",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-09-03T20:41:55+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-07-28",
-      "recruit_end": "2026-08-21",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": -13,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "사업화2026가상융합산업허브입주기업모집2차|정보통신산업진흥원|2026-08-21"
-    },
-    {
       "id": "0934578687613497182f",
       "title": "2026년 공무원연금공단 AI•공공데이터 대국민 시각화 경진대회",
       "source_name": "위비티",
@@ -1068,6 +1009,65 @@
       "dedupe_key": "2026년공무원연금공단ai공공데이터대국민시각화경진대회|공무원연금공단|2026-08-22"
     },
     {
+      "id": "bee87faf694dec666bb2",
+      "title": "[사업화] --> 2026 가상융합산업허브 입주기업 모집(2차)",
+      "source_name": "정보통신산업진흥원",
+      "source_url": "https://www.nipa.kr/home/2-2/16872",
+      "organizer": "정보통신산업진흥원",
+      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "창업"
+      ],
+      "audience_tags": [],
+      "status": "closed",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: 사업화",
+          "본문·분류 키워드: ai, it, 모바일, 사업화",
+          "공고 유형: support",
+          "공식 전문기관 출처",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-08-31T15:05:59+09:00",
+      "last_seen_at": "2026-09-04T01:40:21+09:00",
+      "sources": [
+        {
+          "source_id": "nipa",
+          "source_name": "정보통신산업진흥원",
+          "source_url": "https://www.nipa.kr/home/2-2/16872",
+          "source_post_id": "16872",
+          "kind": "official",
+          "priority": 100,
+          "fetched_at": "2026-09-04T01:40:21+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-07-28",
+      "recruit_end": "2026-08-21",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -14,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "사업화2026가상융합산업허브입주기업모집2차|정보통신산업진흥원|2026-08-21"
+    },
+    {
       "id": "20a59215981f035025b1",
       "title": "2026 전남광주 청년(YOUTH) AI 솔버톤",
       "source_name": "위비티",
@@ -1126,65 +1126,6 @@
       ],
       "is_manual_reviewed": false,
       "dedupe_key": "2026전남광주청년youthai솔버톤|중소벤처기업진흥공단호남연수원외|2026-08-20"
-    },
-    {
-      "id": "618f66e338b037c148ad",
-      "title": "[사업화] --> 전 국민 AI 서비스 보편적 활용 지원 (모두의 AI) 사업 수정 공고",
-      "source_name": "정보통신산업진흥원",
-      "source_url": "https://www.nipa.kr/home/2-2/16883",
-      "organizer": "정보통신산업진흥원",
-      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "창업"
-      ],
-      "audience_tags": [],
-      "status": "closed",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai, 사업화",
-          "본문·분류 키워드: ai, it, 모바일, 사업화",
-          "공고 유형: support",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-08-19T22:28:17+09:00",
-      "last_seen_at": "2026-09-03T20:41:55+09:00",
-      "sources": [
-        {
-          "source_id": "nipa",
-          "source_name": "정보통신산업진흥원",
-          "source_url": "https://www.nipa.kr/home/2-2/16883",
-          "source_post_id": "16883",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-09-03T20:41:55+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-07-13",
-      "recruit_end": "2026-08-18",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": -16,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "사업화전국민ai서비스보편적활용지원모두의ai사업수정공고|정보통신산업진흥원|2026-08-18"
     },
     {
       "id": "c7b44f3ec9e3fc5c7eda",
@@ -1307,6 +1248,65 @@
       "dedupe_key": "제2회매일유업대학생ai영상공모전|매일유업|2026-08-18"
     },
     {
+      "id": "618f66e338b037c148ad",
+      "title": "[사업화] --> 전 국민 AI 서비스 보편적 활용 지원 (모두의 AI) 사업 수정 공고",
+      "source_name": "정보통신산업진흥원",
+      "source_url": "https://www.nipa.kr/home/2-2/16883",
+      "organizer": "정보통신산업진흥원",
+      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "창업"
+      ],
+      "audience_tags": [],
+      "status": "closed",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: ai, 사업화",
+          "본문·분류 키워드: ai, it, 모바일, 사업화",
+          "공고 유형: support",
+          "공식 전문기관 출처",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-08-19T22:28:17+09:00",
+      "last_seen_at": "2026-09-04T01:40:21+09:00",
+      "sources": [
+        {
+          "source_id": "nipa",
+          "source_name": "정보통신산업진흥원",
+          "source_url": "https://www.nipa.kr/home/2-2/16883",
+          "source_post_id": "16883",
+          "kind": "official",
+          "priority": 100,
+          "fetched_at": "2026-09-04T01:40:21+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-07-13",
+      "recruit_end": "2026-08-18",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -17,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "사업화전국민ai서비스보편적활용지원모두의ai사업수정공고|정보통신산업진흥원|2026-08-18"
+    },
+    {
       "id": "7c68ff4609d7ea281f4d",
       "title": "2026 KOMIPO 혁신 50대 과제 대국민 아이디어 공모",
       "source_name": "위비티",
@@ -1418,67 +1418,6 @@
       ],
       "is_manual_reviewed": false,
       "dedupe_key": "국가정보원2026사이버공격방어대회참가자모집|국가정보원|2026-08-13"
-    },
-    {
-      "id": "39070cc6defd53b6f8e1",
-      "title": "[사업화] --> 2026년도 소프트웨어 산업발전 유공자 포상계획 연장 공고",
-      "source_name": "정보통신산업진흥원",
-      "source_url": "https://www.nipa.kr/home/2-2/16874",
-      "organizer": "정보통신산업진흥원",
-      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "창업"
-      ],
-      "audience_tags": [],
-      "status": "closed",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: 사업화, 소프트웨어",
-          "본문·분류 키워드: ai, it, sw, 모바일",
-          "공고 유형: support",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-09-03T20:41:55+09:00",
-      "sources": [
-        {
-          "source_id": "nipa",
-          "source_name": "정보통신산업진흥원",
-          "source_url": "https://www.nipa.kr/home/2-2/16874",
-          "source_post_id": "16874",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-09-03T20:41:55+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-07-29",
-      "recruit_end": "2026-08-11",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": -23,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-07-30T16:42:45+09:00",
-      "change_flags": [
-        "title"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "사업화2026년도소프트웨어산업발전유공자포상계획연장공고|정보통신산업진흥원|2026-08-11"
     },
     {
       "id": "463677bb8030301d73ea",
@@ -1593,6 +1532,67 @@
       ],
       "is_manual_reviewed": false,
       "dedupe_key": "일상을바꾸는한줄skt모두의prompt공모전|sk텔레콤|2026-08-11"
+    },
+    {
+      "id": "39070cc6defd53b6f8e1",
+      "title": "[사업화] --> 2026년도 소프트웨어 산업발전 유공자 포상계획 연장 공고",
+      "source_name": "정보통신산업진흥원",
+      "source_url": "https://www.nipa.kr/home/2-2/16874",
+      "organizer": "정보통신산업진흥원",
+      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "창업"
+      ],
+      "audience_tags": [],
+      "status": "closed",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: 사업화, 소프트웨어",
+          "본문·분류 키워드: ai, it, sw, 모바일",
+          "공고 유형: support",
+          "공식 전문기관 출처",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-07-30T16:37:20+09:00",
+      "last_seen_at": "2026-09-04T01:40:21+09:00",
+      "sources": [
+        {
+          "source_id": "nipa",
+          "source_name": "정보통신산업진흥원",
+          "source_url": "https://www.nipa.kr/home/2-2/16874",
+          "source_post_id": "16874",
+          "kind": "official",
+          "priority": 100,
+          "fetched_at": "2026-09-04T01:40:21+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-07-29",
+      "recruit_end": "2026-08-11",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -24,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": "2026-07-30T16:42:45+09:00",
+      "change_flags": [
+        "title"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "사업화2026년도소프트웨어산업발전유공자포상계획연장공고|정보통신산업진흥원|2026-08-11"
     },
     {
       "id": "d10b94fdc9d78534fd8b",
@@ -2651,65 +2651,6 @@
       "dedupe_key": "2026가명정보활용경진대회|개인정보보호위원회과학기술정보통신부보건복지부금융위원회|2026-07-28"
     },
     {
-      "id": "059e389eef70d019b884",
-      "title": "[사업화] --> 2026년도 소프트웨어 산업발전 유공자 포상계획 공고",
-      "source_name": "정보통신산업진흥원",
-      "source_url": "https://www.nipa.kr/home/2-2/16846",
-      "organizer": "정보통신산업진흥원",
-      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "창업"
-      ],
-      "audience_tags": [],
-      "status": "closed",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: 사업화, 소프트웨어",
-          "본문·분류 키워드: ai, it, sw, 모바일",
-          "공고 유형: support",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-07-30T16:42:45+09:00",
-      "last_seen_at": "2026-09-03T20:41:55+09:00",
-      "sources": [
-        {
-          "source_id": "nipa",
-          "source_name": "정보통신산업진흥원",
-          "source_url": "https://www.nipa.kr/home/2-2/16846",
-          "source_post_id": "16846",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-09-03T20:41:55+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-07-07",
-      "recruit_end": "2026-07-24",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": -41,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "사업화2026년도소프트웨어산업발전유공자포상계획공고|정보통신산업진흥원|2026-07-24"
-    },
-    {
       "id": "98158ef2cc7015acbe15",
       "title": "2026년 장애인 분야 해커톤 대회 (장애 플러스 기술)",
       "source_name": "위비티",
@@ -2776,6 +2717,65 @@
       ],
       "is_manual_reviewed": false,
       "dedupe_key": "2026년장애인분야해커톤대회장애플러스기술|한국장애인재단|2026-07-25"
+    },
+    {
+      "id": "059e389eef70d019b884",
+      "title": "[사업화] --> 2026년도 소프트웨어 산업발전 유공자 포상계획 공고",
+      "source_name": "정보통신산업진흥원",
+      "source_url": "https://www.nipa.kr/home/2-2/16846",
+      "organizer": "정보통신산업진흥원",
+      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "창업"
+      ],
+      "audience_tags": [],
+      "status": "closed",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: 사업화, 소프트웨어",
+          "본문·분류 키워드: ai, it, sw, 모바일",
+          "공고 유형: support",
+          "공식 전문기관 출처",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-07-30T16:42:45+09:00",
+      "last_seen_at": "2026-09-04T01:40:21+09:00",
+      "sources": [
+        {
+          "source_id": "nipa",
+          "source_name": "정보통신산업진흥원",
+          "source_url": "https://www.nipa.kr/home/2-2/16846",
+          "source_post_id": "16846",
+          "kind": "official",
+          "priority": 100,
+          "fetched_at": "2026-09-04T01:40:21+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-07-07",
+      "recruit_end": "2026-07-24",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -42,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "사업화2026년도소프트웨어산업발전유공자포상계획공고|정보통신산업진흥원|2026-07-24"
     },
     {
       "id": "fd26cf055872a7bf2887",
