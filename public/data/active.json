@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-04T14:57:35+09:00",
+  "generated_at": "2026-09-04T20:22:59+09:00",
   "items": [
     {
       "id": "ee01812ca4ea0c531566",
@@ -15,9 +15,9 @@
         "AI",
         "소프트웨어",
         "웹·앱",
-        "데이터",
         "클라우드·보안",
-        "창업"
+        "창업",
+        "디지털 콘텐츠"
       ],
       "audience_tags": [
         "창업자·기업"
@@ -34,7 +34,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-12T11:47:08+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -43,7 +43,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -56,13 +56,13 @@
       "d_day": -76,
       "eligibility": "",
       "benefits": "",
-      "location": "스트리밍 온라인무료강의 무료 선착순 정원 36 명 2026.10.3 (토) 23:59 까지 4 명 신청가능 신청 가능한 최대 그룹수는 1 개 입니다. 4 이벤트 상세 정보 상세정보",
+      "location": "스트리밍 온라인무료강의 무료 선착순 정원 36 명 2026.10.3 (토) 23:59 까지 4 명 신청가능 신청 가능한 최대 그룹수는 1 개 입니다. 5 이벤트 상세 정보 상세정보",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-09-04T05:59:35+09:00",
+      "last_changed_at": "2026-09-04T20:22:59+09:00",
       "change_flags": [
-        "organizer"
+        "location"
       ],
       "is_manual_reviewed": false,
       "dedupe_key": "게임기획무료강의게임기획준비의a부터z까지온라인진행|측가아닙니다이벤트내용과관련한사항은이벤트개설자에게문의바랍니다hoti|2026-06-20"
@@ -80,8 +80,9 @@
         "AI",
         "소프트웨어",
         "웹·앱",
-        "데이터",
-        "창업"
+        "클라우드·보안",
+        "창업",
+        "디지털 콘텐츠"
       ],
       "audience_tags": [
         "창업자·기업"
@@ -91,14 +92,14 @@
         "score": 100,
         "reasons": [
           "제목 핵심 키워드: ai",
-          "본문·분류 키워드: ai, it, 게임, 데이터",
+          "본문·분류 키워드: ai, it, 게임, 게임기획",
           "공고 유형: contest",
           "IT·게임 전문 출처"
         ],
         "decision": "publish"
       },
       "first_seen_at": "2026-08-13T11:49:36+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -107,7 +108,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -159,7 +160,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T14:51:54+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -168,7 +169,7 @@
           "source_post_id": "347568",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         },
         {
           "source_id": "thinkcontest",
@@ -177,7 +178,7 @@
           "source_post_id": "110365",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -281,7 +282,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-14T19:18:41+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -290,7 +291,7 @@
           "source_post_id": "109567",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -339,7 +340,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -348,7 +349,7 @@
           "source_post_id": "107930",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -395,7 +396,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-11T04:13:51+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -404,7 +405,7 @@
           "source_post_id": "110012",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -454,7 +455,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-14T20:59:24+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -463,7 +464,7 @@
           "source_post_id": "110003",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -512,7 +513,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -521,7 +522,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -567,7 +568,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T18:59:26+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -576,7 +577,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -677,7 +678,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-29T18:08:28+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "eventus",
@@ -686,7 +687,7 @@
           "source_post_id": "131364",
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": "https://event-us.kr/tosslab/event/131364",
@@ -735,7 +736,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-07T18:17:18+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -744,7 +745,7 @@
           "source_post_id": "109240",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -799,7 +800,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-31T22:57:37+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -808,7 +809,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -911,7 +912,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-03T14:51:38+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -920,7 +921,7 @@
           "source_post_id": "347717",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -966,7 +967,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-04T01:28:50+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -975,7 +976,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -1131,7 +1132,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-22T14:44:48+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1140,7 +1141,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -1245,7 +1246,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T01:02:52+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -1254,7 +1255,7 @@
           "source_post_id": "341495",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -1301,7 +1302,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T14:51:54+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -1310,7 +1311,7 @@
           "source_post_id": "347375",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -1356,7 +1357,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-18T22:10:59+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1365,7 +1366,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -1415,7 +1416,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T14:51:54+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -1424,7 +1425,7 @@
           "source_post_id": "110332",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -1470,7 +1471,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-04T01:28:50+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1479,7 +1480,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -1583,7 +1584,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-04T10:01:15+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "eventus",
@@ -1592,7 +1593,7 @@
           "source_post_id": "133079",
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": "https://event-us.kr/seoulbiohub/event/133079",
@@ -1615,6 +1616,60 @@
       ],
       "is_manual_reviewed": false,
       "dedupe_key": "2026서울로슈진단스타트업스프린트데모데이의료기기혁신기술심포지엄|서울바이오허브seoulbiohub|2026-09-09"
+    },
+    {
+      "id": "91a5b702fcfbb6e784a3",
+      "title": "2026 창업경진대회(IMPACT ON 강북 : 아이디어와 투자로 만드는 강북의 창업 무대) 일반관람객 모집",
+      "source_name": "링커리어",
+      "source_url": "https://linkareer.com/activity/348262",
+      "organizer": "강북청년창업마루",
+      "summary": "링커리어 공개 공모전 목록. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "창업"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 70,
+        "reasons": [
+          "제목 핵심 키워드: 창업",
+          "본문·분류 키워드: 창업",
+          "공고 유형: contest"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-09-04T20:22:59+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
+      "sources": [
+        {
+          "source_id": "linkareer",
+          "source_name": "링커리어",
+          "source_url": "https://linkareer.com/activity/348262",
+          "source_post_id": "348262",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-04T20:22:59+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-09-09",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 5,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026창업경진대회impacton강북아이디어와투자로만드는강북의창업무대일반관람객모집|강북청년창업마루|2026-09-09"
     },
     {
       "id": "3d6a28864c49f3d0828f",
@@ -1640,7 +1695,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-18T22:10:59+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1649,7 +1704,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -1696,7 +1751,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-04T01:28:50+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1705,7 +1760,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -1751,7 +1806,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T18:59:26+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1760,7 +1815,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -1812,7 +1867,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T14:51:54+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -1821,7 +1876,7 @@
           "source_post_id": "347321",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         },
         {
           "source_id": "thinkcontest",
@@ -1830,7 +1885,7 @@
           "source_post_id": "110427",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -1914,63 +1969,6 @@
       "dedupe_key": "경기안산시2026년특화역량bi육성지원사업ictsw창업기업사업화지원사업참여기업모집공고|경기테크노파크|2026-09-09"
     },
     {
-      "id": "591dfd9275bd93b2b202",
-      "title": "[관계자 외 출입 가능] 남동산단 청년 콘텐츠 해커톤 참가 신청",
-      "source_name": "링커리어",
-      "source_url": "https://linkareer.com/activity/347296",
-      "organizer": "스펙타클워크",
-      "summary": "링커리어 공개 공모전 목록. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "hackathon",
-      "field_tags": [
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [
-        "청년"
-      ],
-      "status": "open",
-      "relevance": {
-        "score": 85,
-        "reasons": [
-          "제목 핵심 키워드: 콘텐츠",
-          "본문·분류 키워드: 콘텐츠",
-          "공고 유형: hackathon",
-          "게임·디지털 콘텐츠 형태로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-09-02T14:51:54+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
-      "sources": [
-        {
-          "source_id": "linkareer",
-          "source_name": "링커리어",
-          "source_url": "https://linkareer.com/activity/347296",
-          "source_post_id": "347296",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-09-09",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 5,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "관계자외출입가능남동산단청년콘텐츠해커톤참가신청|스펙타클워크|2026-09-09"
-    },
-    {
       "id": "aced39b706b19dab45e3",
       "title": "[무계로 세계로 블루마블] 리그 오브 레전드 무작위 총력전 : 아수라장 - 선수 모집",
       "source_name": "위비티",
@@ -1988,23 +1986,13 @@
         "score": 76,
         "reasons": [
           "본문·분류 키워드: 게임, 소프트웨어",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능",
-          "공고 유형: contest"
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
         ],
         "decision": "publish"
       },
       "first_seen_at": "2026-09-01T19:12:29+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
-        {
-          "source_id": "linkareer",
-          "source_name": "링커리어",
-          "source_url": "https://linkareer.com/activity/347275",
-          "source_post_id": "347275",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
-        },
         {
           "source_id": "wevity",
           "source_name": "위비티",
@@ -2012,7 +2000,7 @@
           "source_post_id": "110653",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -2104,9 +2092,8 @@
         "AI",
         "소프트웨어",
         "웹·앱",
-        "데이터",
-        "클라우드·보안",
-        "창업"
+        "창업",
+        "디지털 콘텐츠"
       ],
       "audience_tags": [
         "창업자·기업"
@@ -2116,14 +2103,14 @@
         "score": 100,
         "reasons": [
           "제목 핵심 키워드: ai",
-          "본문·분류 키워드: ai, it, 게임, 데이터",
+          "본문·분류 키워드: ai, it, 게임, 게임기획",
           "공고 유형: contest",
           "IT·게임 전문 출처"
         ],
         "decision": "publish"
       },
       "first_seen_at": "2026-09-01T19:12:29+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "onoffmix",
@@ -2132,7 +2119,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -2238,7 +2225,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-04T01:28:50+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "eventus",
@@ -2247,7 +2234,7 @@
           "source_post_id": "133566",
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": "https://event-us.kr/openknowl2/event/133566",
@@ -2292,7 +2279,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-03T20:20:18+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -2301,7 +2288,7 @@
           "source_post_id": "347949",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -2631,7 +2618,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-03T20:47:13+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -2640,7 +2627,7 @@
           "source_post_id": "109792",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -2851,7 +2838,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-31T22:57:37+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2860,7 +2847,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -3179,7 +3166,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3188,7 +3175,7 @@
           "source_post_id": "109003",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -3240,7 +3227,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-05T12:36:21+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -3249,7 +3236,7 @@
           "source_post_id": "109102",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -3302,7 +3289,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -3311,7 +3298,7 @@
           "source_post_id": "108789",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         },
         {
           "source_id": "wevity",
@@ -3320,7 +3307,7 @@
           "source_post_id": "109674",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -3497,7 +3484,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-31T22:57:37+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3506,7 +3493,7 @@
           "source_post_id": "110623",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -3553,7 +3540,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T20:23:44+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -3562,7 +3549,7 @@
           "source_post_id": "347582",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -3609,7 +3596,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-06T00:29:54+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3618,7 +3605,7 @@
           "source_post_id": "109883",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -3667,7 +3654,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-03T14:51:38+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -3676,7 +3663,7 @@
           "source_post_id": "347765",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         },
         {
           "source_id": "linkareer",
@@ -3685,7 +3672,7 @@
           "source_post_id": "347713",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -3841,7 +3828,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-31T22:57:37+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -3850,7 +3837,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -3896,7 +3883,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-03T14:51:38+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -3905,7 +3892,7 @@
           "source_post_id": "347616",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -3926,61 +3913,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "ict이노베이션스퀘어확산산업aimeetup|대구aihub|2026-09-14"
-    },
-    {
-      "id": "1ed1390fe70e19879f45",
-      "title": "Web3 시대의 블록체인 AI 융합 해커톤",
-      "source_name": "링커리어",
-      "source_url": "https://linkareer.com/activity/347151",
-      "organizer": "충남대학교 COSS사업단",
-      "summary": "링커리어 공개 공모전 목록. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "hackathon",
-      "field_tags": [
-        "AI"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 85,
-        "reasons": [
-          "제목 핵심 키워드: ai",
-          "본문·분류 키워드: ai",
-          "공고 유형: hackathon",
-          "게임·디지털 콘텐츠 형태로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-09-01T19:12:29+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
-      "sources": [
-        {
-          "source_id": "linkareer",
-          "source_name": "링커리어",
-          "source_url": "https://linkareer.com/activity/347151",
-          "source_post_id": "347151",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-09-14",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 10,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "web3시대의블록체인ai융합해커톤|충남대학교coss사업단|2026-09-14"
     },
     {
       "id": "7c05e248bd6d618ba097",
@@ -4061,7 +3993,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T01:02:52+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -4070,7 +4002,7 @@
           "source_post_id": "342895",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -4177,7 +4109,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T18:04:35+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -4186,7 +4118,7 @@
           "source_post_id": "110152",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         },
         {
           "source_id": "wevity",
@@ -4195,7 +4127,7 @@
           "source_post_id": "110498",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -4415,7 +4347,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-04T14:57:35+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "eventus",
@@ -4424,7 +4356,7 @@
           "source_post_id": "132017",
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": "https://event-us.kr/martinee/event/132017",
@@ -4863,7 +4795,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-21T16:09:44+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -4872,7 +4804,7 @@
           "source_post_id": "109575",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -4893,6 +4825,60 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "2026뉴스빅데이터해커톤|한국언론진흥재단|2026-09-17"
+    },
+    {
+      "id": "a338d86a3aecabee6eae",
+      "title": "2026 이화여대 창업지원단 '모두의 창업 프로젝트' 2기 참가자 모집 공고 (~9.17. 16:00까지)",
+      "source_name": "링커리어",
+      "source_url": "https://linkareer.com/activity/348275",
+      "organizer": "이화여자대학교 산학협력단(창업지원단)",
+      "summary": "링커리어 공개 공모전 목록. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "창업"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 70,
+        "reasons": [
+          "제목 핵심 키워드: 창업",
+          "본문·분류 키워드: 창업",
+          "공고 유형: support"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-09-04T20:22:59+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
+      "sources": [
+        {
+          "source_id": "linkareer",
+          "source_name": "링커리어",
+          "source_url": "https://linkareer.com/activity/348275",
+          "source_post_id": "348275",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-04T20:22:59+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-09-17",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 13,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026이화여대창업지원단모두의창업프로젝트2기참가자모집공고9171600까지|이화여자대학교산학협력단창업지원단|2026-09-17"
     },
     {
       "id": "6d0161f4adbd3e7c8900",
@@ -4917,7 +4903,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-03T14:51:38+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -4926,7 +4912,7 @@
           "source_post_id": "347723",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -4972,7 +4958,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-01T05:08:41+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -4981,7 +4967,7 @@
           "source_post_id": "345299",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -5027,7 +5013,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-03T14:51:38+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -5036,7 +5022,7 @@
           "source_post_id": "347732",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -5086,7 +5072,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-31T22:57:37+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -5095,7 +5081,7 @@
           "source_post_id": "110622",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -5146,7 +5132,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -5155,7 +5141,7 @@
           "source_post_id": "108321",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -5200,7 +5186,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-04T01:28:50+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -5209,7 +5195,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -5592,7 +5578,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-04T01:28:50+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -5601,7 +5587,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -5648,7 +5634,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T18:59:26+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -5657,7 +5643,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -5708,7 +5694,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -5717,7 +5703,7 @@
           "source_post_id": "109125",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         },
         {
           "source_id": "wevity",
@@ -5726,7 +5712,7 @@
           "source_post_id": "108653",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -5948,7 +5934,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-10T11:36:41+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -5957,7 +5943,7 @@
           "source_post_id": "109159",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -6390,7 +6376,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-18T12:10:41+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -6399,7 +6385,7 @@
           "source_post_id": "109617",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -6450,7 +6436,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-04T14:57:35+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -6459,7 +6445,7 @@
           "source_post_id": "348168",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -6505,7 +6491,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-28T05:33:27+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -6514,7 +6500,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -6562,7 +6548,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T09:17:43+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -6571,7 +6557,7 @@
           "source_post_id": "110576",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -6620,7 +6606,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T18:59:26+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -6629,7 +6615,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -6675,7 +6661,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-22T14:44:48+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -6684,7 +6670,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -6851,7 +6837,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-21T23:00:13+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -6860,7 +6846,7 @@
           "source_post_id": "109865",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         },
         {
           "source_id": "wevity",
@@ -6869,7 +6855,7 @@
           "source_post_id": "110360",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -6917,7 +6903,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T18:59:26+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -6926,7 +6912,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -7033,7 +7019,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-24T10:59:29+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -7042,7 +7028,7 @@
           "source_post_id": "109899",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         },
         {
           "source_id": "wevity",
@@ -7051,7 +7037,7 @@
           "source_post_id": "110419",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -7101,7 +7087,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-12T14:06:03+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -7110,7 +7096,7 @@
           "source_post_id": "110053",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -7163,7 +7149,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-24T16:30:45+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -7172,7 +7158,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         },
         {
           "source_id": "linkareer",
@@ -7181,7 +7167,7 @@
           "source_post_id": "343799",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         },
         {
           "source_id": "thinkcontest",
@@ -7190,7 +7176,7 @@
           "source_post_id": "109928",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": "https://event-us.kr/koshiphackathon/event/132963",
@@ -7238,7 +7224,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -7247,7 +7233,7 @@
           "source_post_id": "108687",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -7292,7 +7278,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-31T02:32:33+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -7301,7 +7287,7 @@
           "source_post_id": "345029",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -7352,7 +7338,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-12T14:06:03+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -7361,7 +7347,7 @@
           "source_post_id": "109958",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -7633,7 +7619,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-21T16:59:35+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -7642,7 +7628,7 @@
           "source_post_id": "110264",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -7693,7 +7679,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-18T10:52:38+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -7702,7 +7688,7 @@
           "source_post_id": "109593",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -7807,7 +7793,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-04T14:57:35+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -7816,7 +7802,7 @@
           "source_post_id": "347639",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -7869,7 +7855,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-01T14:14:58+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -7878,7 +7864,7 @@
           "source_post_id": "110257",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -7923,7 +7909,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T14:51:54+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -7932,7 +7918,7 @@
           "source_post_id": "347520",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -7980,7 +7966,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-03T16:49:49+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -7989,7 +7975,7 @@
           "source_post_id": "109076",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -8044,7 +8030,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-12T15:44:29+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -8053,7 +8039,7 @@
           "source_post_id": "109420",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         },
         {
           "source_id": "wevity",
@@ -8062,7 +8048,7 @@
           "source_post_id": "110065",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -8114,7 +8100,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-27T18:54:22+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -8123,7 +8109,7 @@
           "source_post_id": "110530",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -8171,7 +8157,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T14:51:54+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -8180,7 +8166,7 @@
           "source_post_id": "110678",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -8227,7 +8213,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-03T20:20:18+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -8236,7 +8222,7 @@
           "source_post_id": "347933",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -8257,6 +8243,115 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "국립공원공단2026년국립공원재난안전콘텐츠대국민공모전|국립공원공단|2026-09-28"
+    },
+    {
+      "id": "382d978f5318d3a07cdc",
+      "title": "[김포시] 2026년 김포시 AI로 만드는 기후대응 숏폼 공모전",
+      "source_name": "링커리어",
+      "source_url": "https://linkareer.com/activity/348351",
+      "organizer": "김포시청",
+      "summary": "링커리어 공개 공모전 목록. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "AI"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 70,
+        "reasons": [
+          "제목 핵심 키워드: ai",
+          "본문·분류 키워드: ai",
+          "공고 유형: contest"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-09-04T20:22:59+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
+      "sources": [
+        {
+          "source_id": "linkareer",
+          "source_name": "링커리어",
+          "source_url": "https://linkareer.com/activity/348351",
+          "source_post_id": "348351",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-04T20:22:59+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-09-28",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 24,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "김포시2026년김포시ai로만드는기후대응숏폼공모전|김포시청|2026-09-28"
+    },
+    {
+      "id": "f396c79e603e5148af05",
+      "title": "[문화체육관광부×한국문화정보원] 문화데이터 활용 영상 제작 AI 챌린지",
+      "source_name": "링커리어",
+      "source_url": "https://linkareer.com/activity/348269",
+      "organizer": "(주)스튜디오프리윌루전",
+      "summary": "링커리어 공개 공모전 목록. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "AI",
+        "데이터"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 78,
+        "reasons": [
+          "제목 핵심 키워드: ai, 데이터",
+          "본문·분류 키워드: ai, 데이터",
+          "공고 유형: contest"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-09-04T20:22:59+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
+      "sources": [
+        {
+          "source_id": "linkareer",
+          "source_name": "링커리어",
+          "source_url": "https://linkareer.com/activity/348269",
+          "source_post_id": "348269",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-04T20:22:59+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-09-28",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 24,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "문화체육관광부한국문화정보원문화데이터활용영상제작ai챌린지|주스튜디오프리윌루전|2026-09-28"
     },
     {
       "id": "ce5743a6c72e2d56bc94",
@@ -8285,7 +8380,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-01T14:14:58+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -8294,7 +8389,7 @@
           "source_post_id": "110633",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -8350,7 +8445,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-25T10:54:30+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -8359,7 +8454,7 @@
           "source_post_id": "109974",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -8404,7 +8499,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -8413,7 +8508,7 @@
           "source_post_id": "108984",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -8460,7 +8555,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-03T14:51:38+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -8469,7 +8564,7 @@
           "source_post_id": "347766",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -8490,60 +8585,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "2026교육콘텐츠시청이벤트|대구노동권익센터|2026-09-30"
-    },
-    {
-      "id": "c060048290fe8d2b6fb8",
-      "title": "2026 국가산림문화자산 AI 숏폼 영상 공모전",
-      "source_name": "링커리어",
-      "source_url": "https://linkareer.com/activity/347280",
-      "organizer": "산림청",
-      "summary": "링커리어 공개 공모전 목록. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "AI"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 70,
-        "reasons": [
-          "제목 핵심 키워드: ai",
-          "본문·분류 키워드: ai",
-          "공고 유형: contest"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-09-01T19:12:29+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
-      "sources": [
-        {
-          "source_id": "linkareer",
-          "source_name": "링커리어",
-          "source_url": "https://linkareer.com/activity/347280",
-          "source_post_id": "347280",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-09-30",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 26,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026국가산림문화자산ai숏폼영상공모전|산림청|2026-09-30"
     },
     {
       "id": "58663ca717860fe69a71",
@@ -8575,7 +8616,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-31T22:57:37+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -8584,7 +8625,7 @@
           "source_post_id": "110295",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -8632,7 +8673,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-06T19:00:50+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -8641,7 +8682,7 @@
           "source_post_id": "109888",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -8688,7 +8729,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-03T14:51:38+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -8697,7 +8738,7 @@
           "source_post_id": "347854",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -8800,7 +8841,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -8809,7 +8850,7 @@
           "source_post_id": "107813",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -8861,7 +8902,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-31T14:41:26+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -8870,7 +8911,7 @@
           "source_post_id": "110239",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -8915,7 +8956,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-03T20:20:18+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -8924,7 +8965,7 @@
           "source_post_id": "347946",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -9025,7 +9066,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T14:51:54+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -9034,7 +9075,7 @@
           "source_post_id": "347459",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -9085,7 +9126,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-28T11:09:30+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -9094,7 +9135,7 @@
           "source_post_id": "110133",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -9314,7 +9355,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-18T10:52:38+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -9323,7 +9364,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         },
         {
           "source_id": "thinkcontest",
@@ -9332,7 +9373,7 @@
           "source_post_id": "109665",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -9385,7 +9426,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-18T10:52:38+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -9394,7 +9435,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -9445,7 +9486,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T14:51:54+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -9454,7 +9495,7 @@
           "source_post_id": "347514",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -9501,7 +9542,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-19T23:54:49+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -9510,7 +9551,7 @@
           "source_post_id": "110223",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -9559,7 +9600,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-10T22:47:09+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -9568,7 +9609,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -9616,7 +9657,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -9625,7 +9666,7 @@
           "source_post_id": "108240",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -9672,7 +9713,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-01T05:08:41+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -9681,7 +9722,7 @@
           "source_post_id": "326720",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -9780,7 +9821,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T14:51:54+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -9789,7 +9830,7 @@
           "source_post_id": "347440",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -9841,7 +9882,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-04T15:42:55+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -9850,7 +9891,7 @@
           "source_post_id": "109042",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -9898,7 +9939,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-07T13:04:17+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -9907,7 +9948,7 @@
           "source_post_id": "109210",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -9955,7 +9996,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-03T14:51:38+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -9964,7 +10005,7 @@
           "source_post_id": "347780",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         },
         {
           "source_id": "wevity",
@@ -9973,7 +10014,7 @@
           "source_post_id": "110710",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -9996,70 +10037,6 @@
       ],
       "is_manual_reviewed": false,
       "dedupe_key": "2026추계학술대회대학생erp아이디어공모전|한국경영정보학회영림원|2026-10-06"
-    },
-    {
-      "id": "6de7521be83a247bc963",
-      "title": "2026 AI 융합산업 인적자원개발(HRD) 포럼",
-      "source_name": "온오프믹스",
-      "source_url": "https://onoffmix.com/event/346922",
-      "organizer": "측)가 아닙니다. 이벤트 내용과 관련한 사항은 이벤트 개설자에게 문의 바랍니다. HOT I",
-      "summary": "AX 시대에 따른 산업별 인적자원개발 대응 방안(기계, 자동차, 재료, IT). 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "게임",
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "데이터",
-        "창업"
-      ],
-      "audience_tags": [
-        "창업자·기업"
-      ],
-      "status": "upcoming",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai",
-          "본문·분류 키워드: ai, ax, it, 게임",
-          "공고 유형: contest",
-          "IT·게임 전문 출처"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-09-02T03:34:57+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
-      "sources": [
-        {
-          "source_id": "onoffmix",
-          "source_name": "온오프믹스",
-          "source_url": "https://onoffmix.com/event/346922",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-09-18",
-      "recruit_end": "2026-10-07",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 33,
-      "eligibility": "",
-      "benefits": "",
-      "location": "서울 강남구 영동대로 513 코엑스 3층 컨퍼런스룸 317호 지도보기 참가자 무료 선착순 정원 150 명 2026.10.6 (화) 23:59 까지 119 명 신청가능 신청 가능한",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-09-04T14:57:35+09:00",
-      "change_flags": [
-        "location"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026ai융합산업인적자원개발hrd포럼|측가아닙니다이벤트내용과관련한사항은이벤트개설자에게문의바랍니다hoti|2026-10-07"
     },
     {
       "id": "639358f20ec58dfce9f4",
@@ -10087,7 +10064,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-01T23:56:42+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -10096,7 +10073,7 @@
           "source_post_id": "110675",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -10144,7 +10121,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -10153,7 +10130,7 @@
           "source_post_id": "107956",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -10208,7 +10185,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-14T19:18:41+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -10217,7 +10194,7 @@
           "source_post_id": "109577",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -10262,7 +10239,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T14:51:54+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -10271,7 +10248,7 @@
           "source_post_id": "347550",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -10373,7 +10350,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T16:10:46+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -10382,7 +10359,7 @@
           "source_post_id": "110045",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -10433,7 +10410,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-11T11:29:41+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -10442,7 +10419,7 @@
           "source_post_id": "109323",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -10463,6 +10440,60 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "제6회소셜임팩트디지털아트경연대회|한국조지메이슨대학교|2026-10-11"
+    },
+    {
+      "id": "b30b32232f95c221d11b",
+      "title": "2026 국립과천과학관 AI 활용 숏폼 공모전",
+      "source_name": "링커리어",
+      "source_url": "https://linkareer.com/activity/348257",
+      "organizer": "국립과천과학관",
+      "summary": "링커리어 공개 공모전 목록. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "AI"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 70,
+        "reasons": [
+          "제목 핵심 키워드: ai",
+          "본문·분류 키워드: ai",
+          "공고 유형: contest"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-09-04T20:22:59+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
+      "sources": [
+        {
+          "source_id": "linkareer",
+          "source_name": "링커리어",
+          "source_url": "https://linkareer.com/activity/348257",
+          "source_post_id": "348257",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-04T20:22:59+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-10-16",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 42,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026국립과천과학관ai활용숏폼공모전|국립과천과학관|2026-10-16"
     },
     {
       "id": "63c6656e9b91537e3e0e",
@@ -10487,7 +10518,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-03T14:51:38+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -10496,7 +10527,7 @@
           "source_post_id": "347559",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -10542,7 +10573,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-31T02:32:33+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -10551,7 +10582,7 @@
           "source_post_id": "110585",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -10602,7 +10633,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T14:51:54+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -10611,7 +10642,7 @@
           "source_post_id": "110349",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -10632,61 +10663,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "제2회직스캐드ax경진대회|직스테크놀로지|2026-10-18"
-    },
-    {
-      "id": "66fb8a48b3da9c6752e0",
-      "title": "2026 데이터+AI 혁신챌린지 ‘데이터안심구역 경진대회’ 참가자 모집 안내",
-      "source_name": "링커리어",
-      "source_url": "https://linkareer.com/activity/347195",
-      "organizer": "데이터안심구역",
-      "summary": "링커리어 공개 공모전 목록. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "AI",
-        "데이터"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 78,
-        "reasons": [
-          "제목 핵심 키워드: ai, 데이터",
-          "본문·분류 키워드: ai, 데이터",
-          "공고 유형: contest"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-09-01T19:12:29+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
-      "sources": [
-        {
-          "source_id": "linkareer",
-          "source_name": "링커리어",
-          "source_url": "https://linkareer.com/activity/347195",
-          "source_post_id": "347195",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-10-22",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 48,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026데이터ai혁신챌린지데이터안심구역경진대회참가자모집안내|데이터안심구역|2026-10-22"
     },
     {
       "id": "fcbdb3723bbb004cd51a",
@@ -10716,7 +10692,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-01T19:12:29+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -10725,7 +10701,7 @@
           "source_post_id": "347448",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         },
         {
           "source_id": "wevity",
@@ -10734,7 +10710,7 @@
           "source_post_id": "110659",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -10782,7 +10758,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T14:51:54+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -10791,7 +10767,7 @@
           "source_post_id": "347433",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -10836,7 +10812,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-03T20:20:18+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -10845,7 +10821,7 @@
           "source_post_id": "347945",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -10944,7 +10920,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-04T14:57:35+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -10953,7 +10929,7 @@
           "source_post_id": "348061",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -11106,7 +11082,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-02T20:23:44+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -11115,7 +11091,7 @@
           "source_post_id": "347584",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -11193,60 +11169,6 @@
       "dedupe_key": "대구ai인력양성프로그램교육생모집대구콘텐츠비즈니스센터|대구디지털혁신진흥원|2026-10-31"
     },
     {
-      "id": "69eaf81b96859012bb1e",
-      "title": "[제주관광공사] 2026 제주 관광 데이터 활용사례 공모전(~10/31)",
-      "source_name": "링커리어",
-      "source_url": "https://linkareer.com/activity/347260",
-      "organizer": "아라한",
-      "summary": "링커리어 공개 공모전 목록. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "데이터"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 70,
-        "reasons": [
-          "제목 핵심 키워드: 데이터",
-          "본문·분류 키워드: 데이터",
-          "공고 유형: contest"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-09-01T19:12:29+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
-      "sources": [
-        {
-          "source_id": "linkareer",
-          "source_name": "링커리어",
-          "source_url": "https://linkareer.com/activity/347260",
-          "source_post_id": "347260",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-10-31",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 57,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "제주관광공사2026제주관광데이터활용사례공모전1031|아라한|2026-10-31"
-    },
-    {
       "id": "73b009ce5f095c76ab79",
       "title": "AI 달인 100 챌린지",
       "source_name": "위비티",
@@ -11272,7 +11194,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-22T02:47:47+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -11281,7 +11203,7 @@
           "source_post_id": "110273",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -11398,7 +11320,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-21T14:49:35+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -11407,7 +11329,7 @@
           "source_post_id": "109859",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -11455,7 +11377,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-11T16:39:43+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -11464,7 +11386,7 @@
           "source_post_id": "110023",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -11676,7 +11598,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-24T14:04:04+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -11685,7 +11607,7 @@
           "source_post_id": "110305",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
@@ -11762,62 +11684,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "2026년실감콘텐츠스튜디오프로젝트현물지원기업모집공고|광주정보문화산업진흥원|2026-12-01"
-    },
-    {
-      "id": "7fa7cfd7dabfee8c42b9",
-      "title": "2027 KT&G 국제 대학생 창업교류전(ASVF) 한국대표 모집",
-      "source_name": "링커리어",
-      "source_url": "https://linkareer.com/activity/347306",
-      "organizer": "한국경제신문",
-      "summary": "링커리어 공개 공모전 목록. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "창업"
-      ],
-      "audience_tags": [
-        "대학생"
-      ],
-      "status": "open",
-      "relevance": {
-        "score": 70,
-        "reasons": [
-          "제목 핵심 키워드: 창업",
-          "본문·분류 키워드: 창업",
-          "공고 유형: contest"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-09-02T14:51:54+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
-      "sources": [
-        {
-          "source_id": "linkareer",
-          "source_name": "링커리어",
-          "source_url": "https://linkareer.com/activity/347306",
-          "source_post_id": "347306",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-12-11",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 98,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2027ktg국제대학생창업교류전asvf한국대표모집|한국경제신문|2026-12-11"
     },
     {
       "id": "0c87c490ddcb96fee2de",
@@ -12176,7 +12042,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-17T22:08:52+09:00",
-      "last_seen_at": "2026-09-04T14:57:35+09:00",
+      "last_seen_at": "2026-09-04T20:22:59+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -12185,7 +12051,7 @@
           "source_post_id": "110179",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-04T14:57:35+09:00"
+          "fetched_at": "2026-09-04T20:22:59+09:00"
         }
       ],
       "application_url": null,
