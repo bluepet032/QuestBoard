@@ -49,8 +49,6 @@ class GconCollector(StructuredHtmlCollector):
                     if end and (not start or start <= end):
                         item.recruit_start, item.recruit_end, item.date_kind = start, end, "exact"
                 item.source_post_id = post_id
-                item.original_category = "게임/소프트웨어 · 디지털 콘텐츠"
-                item.body_text = f"{title} {item.summary} 게임/소프트웨어 디지털 콘텐츠"
                 results.append(item)
                 if len(results) >= limit:
                     return results

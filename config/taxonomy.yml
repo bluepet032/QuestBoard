@@ -42,6 +42,77 @@ audiences:
   developer: [개발자, 프로그래머]
   startup: [예비창업자, 초기창업자, 스타트업, 중소기업]
 
+game_relevance:
+  creation_patterns:
+    - '게임\s*잼|\bgame\s*jam\b'
+    - '게임\s*(?:제작|개발|출품|프로토타입|빌드|프로젝트|해커톤)'
+    - '게임(?:콘텐츠|\s*콘텐츠)?\s*(?:제작지원|사업화|지원사업)'
+    - '게임\s*(?:기업|개발팀|스타트업).{0,40}(?:지원|모집|대상)'
+    - '(?:대상|참가자격|지원)[^.!?]{0,25}게임\s*(?:기업|개발팀|스타트업)'
+    - '게임[·ㆍ/ 또는영상]{0,12}공모전'
+    - '\bgame\s*(?:development|jam|prototype)\b'
+  public_types: [contest, support, hackathon]
+  title_keywords: [게임, 인디게임, 인디 게임, game, game jam, gamedev]
+  detail_phrases:
+    - 게임 제작
+    - 게임제작
+    - 게임 개발
+    - 게임개발
+    - 게임 출품
+    - 게임 기획
+    - 게임기획
+    - 게임 프로토타입
+    - 게임 빌드
+    - 게임 프로젝트
+    - 게임 콘텐츠
+    - 게임콘텐츠
+    - 게임 개발팀
+    - 게임개발팀
+    - 게임 기업
+    - 게임기업
+    - 게임사
+    - 게임 스타트업
+    - game development
+    - game developer
+    - game project
+    - game jam
+  exact_categories: [게임, 인디게임, 게임개발, 게임 제작]
+  weak_phrases: [게임, 인디게임, 인디 게임, game, game jam, gamedev, e스포츠]
+  exclude_title_phrases:
+    - 게임 플레이
+    - 게임플레이
+    - 게임 아이디어
+    - 게임아이디어
+    - e스포츠
+    - esports
+    - e-sports
+    - e스포츠 대회
+    - e스포츠 선수
+    - 선수 모집
+    - 리그 오브 레전드
+    - 게임 비평
+    - 게임비평
+    - 게임 리뷰
+    - 게임리뷰
+    - 게임 시나리오
+    - 게임시나리오
+    - 게임 그래픽
+    - 게임그래픽
+    - 게임 아트
+    - 게임아트
+    - 팬아트
+    - 무료강의
+    - 무료 강의
+    - 세미나
+    - 컨퍼런스
+    - 포럼
+    - 웨비나
+    - 밋업
+    - 박람회
+    - 전시회
+    - 채용
+    - 인턴
+
 exclude_phrases:
   - 스포츠 경기 관람
   - 경품 이벤트

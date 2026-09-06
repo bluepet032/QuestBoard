@@ -94,6 +94,7 @@ class Opportunity:
     change_flags: list[str] = field(default_factory=list)
     is_manual_reviewed: bool = False
     dedupe_key: str = ""
+    classification_inputs: list[dict[str, Any]] = field(default_factory=list)
 
     def to_dict(self) -> dict[str, Any]:
         data = asdict(self)
