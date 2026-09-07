@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-07T08:58:47+09:00",
+  "generated_at": "2026-09-07T13:47:45+09:00",
   "items": [
     {
       "id": "c4d6b8791c55d3d6f6dc",
@@ -29,7 +29,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-09-07T08:58:47+09:00",
+      "last_seen_at": "2026-09-07T13:47:45+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -38,29 +38,29 @@
           "source_post_id": "108154",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-07T08:58:47+09:00"
+          "fetched_at": "2026-09-07T13:47:45+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-06-26",
+      "recruit_end": "2026-06-25",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -73,
+      "d_day": -74,
       "eligibility": "",
       "benefits": "",
       "location": "",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-09-07T02:06:11+09:00",
+      "last_changed_at": "2026-09-07T13:47:45+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026글로벌인디게임제작경진대회gigdc2026|한국콘텐츠진흥원|2026-06-26",
+      "dedupe_key": "2026글로벌인디게임제작경진대회gigdc2026|한국콘텐츠진흥원|2026-06-25",
       "classification_inputs": [
         {
           "source_id": "wevity",
@@ -76,7 +76,7 @@
           "application_url": null,
           "document_url": null,
           "recruit_start": null,
-          "recruit_end": "2026-06-26",
+          "recruit_end": "2026-06-25",
           "event_start": null,
           "event_end": null,
           "date_kind": "exact",
@@ -86,7 +86,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "게임/소프트웨어",
-          "collected_at": "2026-09-07T08:58:47+09:00"
+          "collected_at": "2026-09-07T13:47:45+09:00"
         }
       ]
     },
@@ -115,7 +115,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T17:42:50+09:00",
-      "last_seen_at": "2026-09-07T08:58:47+09:00",
+      "last_seen_at": "2026-09-07T13:47:45+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -124,29 +124,29 @@
           "source_post_id": "108067",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-07T08:58:47+09:00"
+          "fetched_at": "2026-09-07T13:47:45+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
       "recruit_start": null,
-      "recruit_end": "2026-06-23",
+      "recruit_end": "2026-06-22",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -76,
+      "d_day": -77,
       "eligibility": "",
       "benefits": "",
       "location": "",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-09-07T02:06:11+09:00",
+      "last_changed_at": "2026-09-07T13:47:45+09:00",
       "change_flags": [
         "recruit_end"
       ],
       "is_manual_reviewed": false,
-      "dedupe_key": "2026gngcgamejam|경남글로벌게임센터|2026-06-23",
+      "dedupe_key": "2026gngcgamejam|경남글로벌게임센터|2026-06-22",
       "classification_inputs": [
         {
           "source_id": "wevity",
@@ -162,7 +162,7 @@
           "application_url": null,
           "document_url": null,
           "recruit_start": null,
-          "recruit_end": "2026-06-23",
+          "recruit_end": "2026-06-22",
           "event_start": null,
           "event_end": null,
           "date_kind": "exact",
@@ -172,7 +172,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "게임/소프트웨어",
-          "collected_at": "2026-09-07T08:58:47+09:00"
+          "collected_at": "2026-09-07T13:47:45+09:00"
         }
       ]
     }
