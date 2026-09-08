@@ -115,51 +115,7 @@ def classify(raw: RawOpportunity, taxonomy: dict[str, Any]) -> tuple[str, list[s
         score -= 55
         reasons.append(f"제외 문맥: {', '.join(excluded[:3])}")
 
-    game_rules = taxonomy.get("game_relevance", {})
-    game_title_hits = [pattern for pattern in game_rules.get("creation_patterns", []) if re.search(pattern, title)]
-    game_detail_text = normalized(" ".join([
-        raw.summary, raw.body_text, raw.eligibility, raw.benefits,
-    ]))
-    # ponytail: conservative sentence rules; ambiguous or image-only conditions need review.
-    sentences = re.split(r"[.!?。\n]+", game_detail_text)
-    game_detail_hits = [sentence for sentence in sentences if any(
-        re.search(pattern, sentence) for pattern in game_rules.get("creation_patterns", [])
-    ) and not re.search(r"불가|불가능|제외|않|없이|금지", sentence)]
-    exact_categories = {normalized(value) for value in game_rules.get("exact_categories", [])}
-    exact_game_category = normalized(raw.original_category) in exact_categories
-    weak_game_hits = keyword_matches(combined, game_rules.get("weak_phrases", []))
-    blocked_game_hits = keyword_matches(title, game_rules.get("exclude_title_phrases", []))
-    strong_game_evidence = bool(game_title_hits or game_detail_hits)
-    restricted_submission = bool(re.search(
-        r"(?:제출물|출품작|제출\s*형식|공모\s*분야)[^.!?\n]{0,60}(?:영상|비평|팬아트|기획서|아이디어|문서)[^.!?\n]{0,20}(?:만|한정)|게임[^.!?\n]{0,30}(?:출품|제출)[^.!?\n]{0,10}(?:불가|불가능)|게임\s*개발\s*없이",
-        game_detail_text,
-    ))
-    public_types = set(game_rules.get("public_types", ["contest", "support", "hackathon"]))
-
-    if excluded or blocked_game_hits:
-        score = min(score, 49)
-        reasons.append(f"제외 목적: {', '.join([*excluded, *blocked_game_hits][:3])}")
-    elif restricted_submission:
-        score = 60 if strong_game_evidence else 40
-        reasons.append("제외 목적: 제출 형식 제한 또는 게임 출품 불가; 직접 근거와 충돌하면 검토")
-    elif primary_type not in public_types:
-        score = min(score, 49)
-        reasons.append(f"게임 제작·지원 범위 외 유형: {primary_type}")
-    elif not strong_game_evidence:
-        if weak_game_hits or exact_game_category:
-            score = 60
-            reasons.append("게임 관련 가능성은 있으나 제작·출품·지원 근거 불충분")
-        else:
-            score = min(score, 49)
-            reasons.append("게임 제작·출품·지원 근거 없음")
-    else:
-        score = max(score, 70)
-        evidence = [title] if game_title_hits else game_detail_hits
-        if exact_game_category:
-            evidence.append(raw.original_category)
-        reasons.append(f"게임 직접 근거: {', '.join(dict.fromkeys(evidence))[:80]}")
-
-    if not title_field_hits and not strong_game_evidence and not strong_format and not category_format and score >= 70:
+    if not title_field_hits and not strong_format and not category_format and score >= 70:
         score = 69
         reasons.append("제목의 IT·게임 직접 근거 부족")
     score = max(0, min(100, score))
