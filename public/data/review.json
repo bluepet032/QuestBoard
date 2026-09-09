@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-09T20:28:39+09:00",
+  "generated_at": "2026-09-09T20:49:14+09:00",
   "items": [
     {
       "id": "c129d6263c261ebc7b4f",
@@ -907,6 +907,87 @@
       ]
     },
     {
+      "id": "6c7bc3842f58bb8a77f4",
+      "title": "[전국] VICON 기반 모션캡쳐 실무 파이프라인 디지털 휴먼 콘텐츠 제작 과정",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=%EC%9D%B8%EB%94%94&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069405",
+      "organizer": "한국가상융합디지털산업협회",
+      "summary": "기업마당 공개 행사 · 행사정보 · 검색어 인디. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "other",
+      "field_tags": [
+        "디지털 콘텐츠"
+      ],
+      "audience_tags": [],
+      "status": "upcoming",
+      "relevance": {
+        "score": 66,
+        "reasons": [
+          "제목 핵심 키워드: 콘텐츠, 콘텐츠 제작",
+          "본문·분류 키워드: 콘텐츠, 콘텐츠 제작"
+        ],
+        "decision": "review"
+      },
+      "first_seen_at": "2026-09-09T20:49:14+09:00",
+      "last_seen_at": "2026-09-09T20:49:14+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=%EC%9D%B8%EB%94%94&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069405",
+          "source_post_id": "EVEN_000000000069405",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-09-09T20:49:14+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-10-06",
+      "recruit_end": "2026-10-08",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 29,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "전국vicon기반모션캡쳐실무파이프라인디지털휴먼콘텐츠제작과정|한국가상융합디지털산업협회|2026-10-08",
+      "classification_inputs": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=%EC%9D%B8%EB%94%94&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069405",
+          "title": "[전국] VICON 기반 모션캡쳐 실무 파이프라인 디지털 휴먼 콘텐츠 제작 과정",
+          "organizer": "한국가상융합디지털산업협회",
+          "summary": "기업마당 공개 행사 · 행사정보 · 검색어 인디",
+          "body_text": "행사정보 인디",
+          "source_post_id": "EVEN_000000000069405",
+          "source_kind": "government",
+          "source_priority": 80,
+          "application_url": null,
+          "document_url": null,
+          "recruit_start": "2026-10-06",
+          "recruit_end": "2026-10-08",
+          "event_start": null,
+          "event_end": null,
+          "date_kind": "exact",
+          "eligibility": "",
+          "benefits": "",
+          "location": "",
+          "mode": "",
+          "fee": "unknown",
+          "original_category": "행사정보",
+          "collected_at": "2026-09-09T20:49:14+09:00"
+        }
+      ]
+    },
+    {
       "id": "15a29967d8073ac5ea1c",
       "title": "[부산] K-ICT WEEK in Busan AX포럼 개최 안내",
       "source_name": "기업마당",
@@ -928,7 +1009,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-09-09T06:23:28+09:00",
+      "last_seen_at": "2026-09-09T20:49:14+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -937,7 +1018,7 @@
           "source_post_id": "EVEN_000000000069382",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-09T06:23:28+09:00"
+          "fetched_at": "2026-09-09T20:49:14+09:00"
         }
       ],
       "application_url": null,
@@ -983,7 +1064,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-09-09T06:23:28+09:00"
+          "collected_at": "2026-09-09T20:49:14+09:00"
         }
       ]
     },
@@ -2575,7 +2656,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-09-09T06:23:28+09:00",
+      "last_seen_at": "2026-09-09T20:49:14+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2584,7 +2665,7 @@
           "source_post_id": "EVEN_000000000069376",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-09T06:23:28+09:00"
+          "fetched_at": "2026-09-09T20:49:14+09:00"
         }
       ],
       "application_url": null,
@@ -2630,7 +2711,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-09-09T06:23:28+09:00"
+          "collected_at": "2026-09-09T20:49:14+09:00"
         }
       ]
     },
@@ -2656,7 +2737,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-09-09T06:23:28+09:00",
+      "last_seen_at": "2026-09-09T20:49:14+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2665,7 +2746,7 @@
           "source_post_id": "EVEN_000000000069000",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-09T06:23:28+09:00"
+          "fetched_at": "2026-09-09T20:49:14+09:00"
         }
       ],
       "application_url": null,
@@ -2711,7 +2792,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-09-09T06:23:28+09:00"
+          "collected_at": "2026-09-09T20:49:14+09:00"
         }
       ]
     },
@@ -2737,7 +2818,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-09-09T06:23:28+09:00",
+      "last_seen_at": "2026-09-09T20:49:14+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2746,7 +2827,7 @@
           "source_post_id": "EVEN_000000000067915",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-09T06:23:28+09:00"
+          "fetched_at": "2026-09-09T20:49:14+09:00"
         }
       ],
       "application_url": null,
@@ -2792,7 +2873,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-09-09T06:23:28+09:00"
+          "collected_at": "2026-09-09T20:49:14+09:00"
         }
       ]
     },
