@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-12T23:11:03+09:00",
+  "generated_at": "2026-09-13T00:48:22+09:00",
   "items": [
     {
       "id": "2d2236d7c0f342b61857",
@@ -1062,7 +1062,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-09-12T20:13:56+09:00",
+      "last_seen_at": "2026-09-13T00:48:22+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -1071,7 +1071,7 @@
           "source_post_id": "16897",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-09-12T20:13:56+09:00"
+          "fetched_at": "2026-09-13T00:48:22+09:00"
         }
       ],
       "application_url": null,
@@ -1081,7 +1081,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -4,
+      "d_day": -5,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1117,7 +1117,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "웹/모바일/IT · 소프트웨어 · AI",
-          "collected_at": "2026-09-12T20:13:56+09:00"
+          "collected_at": "2026-09-13T00:48:22+09:00"
         }
       ]
     },
@@ -1657,94 +1657,6 @@
       ]
     },
     {
-      "id": "1ffdcd4df192cdca2ba8",
-      "title": "[사업화] --> 2026년 누리꿈스퀘어 XR기업성장지원센터 입주 기업 모집(2차)",
-      "source_name": "정보통신산업진흥원",
-      "source_url": "https://www.nipa.kr/home/2-2/16887",
-      "organizer": "정보통신산업진흥원",
-      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "XR·메타버스",
-        "창업"
-      ],
-      "audience_tags": [],
-      "status": "closed",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: xr, 사업화",
-          "본문·분류 키워드: ai, it, xr, 모바일",
-          "공고 유형: support",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-09-12T20:13:56+09:00",
-      "sources": [
-        {
-          "source_id": "nipa",
-          "source_name": "정보통신산업진흥원",
-          "source_url": "https://www.nipa.kr/home/2-2/16887",
-          "source_post_id": "16887",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-09-12T20:13:56+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-08-03",
-      "recruit_end": "2026-08-31",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": -12,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "사업화2026년누리꿈스퀘어xr기업성장지원센터입주기업모집2차|정보통신산업진흥원|2026-08-31",
-      "classification_inputs": [
-        {
-          "source_id": "nipa",
-          "source_name": "정보통신산업진흥원",
-          "source_url": "https://www.nipa.kr/home/2-2/16887",
-          "title": "[사업화] --> 2026년 누리꿈스퀘어 XR기업성장지원센터 입주 기업 모집(2차)",
-          "organizer": "정보통신산업진흥원",
-          "summary": "정보통신산업진흥원 공식 사업공고",
-          "body_text": "343 종료 [사업화] --> 2026년 누리꿈스퀘어 XR기업성장지원센터 입주 기업 모집(2차) KoVAC XR기업성장지원센터 운영 신청기간 : 2026-08-03 14:00 ~ 2026-08-31 15:00 이종석 2026-08-03 웹/모바일/IT 소프트웨어 AI",
-          "source_post_id": "16887",
-          "source_kind": "official",
-          "source_priority": 100,
-          "application_url": null,
-          "document_url": null,
-          "recruit_start": "2026-08-03",
-          "recruit_end": "2026-08-31",
-          "event_start": null,
-          "event_end": null,
-          "date_kind": "exact",
-          "eligibility": "",
-          "benefits": "",
-          "location": "",
-          "mode": "",
-          "fee": "unknown",
-          "original_category": "웹/모바일/IT · 소프트웨어 · AI",
-          "collected_at": "2026-09-12T20:13:56+09:00"
-        }
-      ]
-    },
-    {
       "id": "577c1c91d09728335663",
       "title": "2026 ICT 표준 챌린지 공모전(~8/31, 접수기간 연장)",
       "source_name": "씽굿",
@@ -1832,6 +1744,94 @@
           "fee": "unknown",
           "original_category": "게임/소프트웨어, 과학, 기획/아이디어, 취업/창업",
           "collected_at": "2026-09-12T23:11:03+09:00"
+        }
+      ]
+    },
+    {
+      "id": "1ffdcd4df192cdca2ba8",
+      "title": "[사업화] --> 2026년 누리꿈스퀘어 XR기업성장지원센터 입주 기업 모집(2차)",
+      "source_name": "정보통신산업진흥원",
+      "source_url": "https://www.nipa.kr/home/2-2/16887",
+      "organizer": "정보통신산업진흥원",
+      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "XR·메타버스",
+        "창업"
+      ],
+      "audience_tags": [],
+      "status": "closed",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: xr, 사업화",
+          "본문·분류 키워드: ai, it, xr, 모바일",
+          "공고 유형: support",
+          "공식 전문기관 출처",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-09-08T14:40:59+09:00",
+      "last_seen_at": "2026-09-13T00:48:22+09:00",
+      "sources": [
+        {
+          "source_id": "nipa",
+          "source_name": "정보통신산업진흥원",
+          "source_url": "https://www.nipa.kr/home/2-2/16887",
+          "source_post_id": "16887",
+          "kind": "official",
+          "priority": 100,
+          "fetched_at": "2026-09-13T00:48:22+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-08-03",
+      "recruit_end": "2026-08-31",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -13,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "사업화2026년누리꿈스퀘어xr기업성장지원센터입주기업모집2차|정보통신산업진흥원|2026-08-31",
+      "classification_inputs": [
+        {
+          "source_id": "nipa",
+          "source_name": "정보통신산업진흥원",
+          "source_url": "https://www.nipa.kr/home/2-2/16887",
+          "title": "[사업화] --> 2026년 누리꿈스퀘어 XR기업성장지원센터 입주 기업 모집(2차)",
+          "organizer": "정보통신산업진흥원",
+          "summary": "정보통신산업진흥원 공식 사업공고",
+          "body_text": "343 종료 [사업화] --> 2026년 누리꿈스퀘어 XR기업성장지원센터 입주 기업 모집(2차) KoVAC XR기업성장지원센터 운영 신청기간 : 2026-08-03 14:00 ~ 2026-08-31 15:00 이종석 2026-08-03 웹/모바일/IT 소프트웨어 AI",
+          "source_post_id": "16887",
+          "source_kind": "official",
+          "source_priority": 100,
+          "application_url": null,
+          "document_url": null,
+          "recruit_start": "2026-08-03",
+          "recruit_end": "2026-08-31",
+          "event_start": null,
+          "event_end": null,
+          "date_kind": "exact",
+          "eligibility": "",
+          "benefits": "",
+          "location": "",
+          "mode": "",
+          "fee": "unknown",
+          "original_category": "웹/모바일/IT · 소프트웨어 · AI",
+          "collected_at": "2026-09-13T00:48:22+09:00"
         }
       ]
     },
@@ -2467,7 +2467,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-09-12T20:13:56+09:00",
+      "last_seen_at": "2026-09-13T00:48:22+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -2476,7 +2476,7 @@
           "source_post_id": "16882",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-09-12T20:13:56+09:00"
+          "fetched_at": "2026-09-13T00:48:22+09:00"
         }
       ],
       "application_url": null,
@@ -2486,7 +2486,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -17,
+      "d_day": -18,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2522,7 +2522,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "웹/모바일/IT · 소프트웨어 · AI",
-          "collected_at": "2026-09-12T20:13:56+09:00"
+          "collected_at": "2026-09-13T00:48:22+09:00"
         }
       ]
     },
@@ -2554,7 +2554,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-09-12T20:13:56+09:00",
+      "last_seen_at": "2026-09-13T00:48:22+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -2563,7 +2563,7 @@
           "source_post_id": "16899",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-09-12T20:13:56+09:00"
+          "fetched_at": "2026-09-13T00:48:22+09:00"
         }
       ],
       "application_url": null,
@@ -2573,7 +2573,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -19,
+      "d_day": -20,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2609,7 +2609,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "웹/모바일/IT · 소프트웨어 · AI",
-          "collected_at": "2026-09-12T20:13:56+09:00"
+          "collected_at": "2026-09-13T00:48:22+09:00"
         }
       ]
     },
@@ -2964,93 +2964,6 @@
       ]
     },
     {
-      "id": "618f66e338b037c148ad",
-      "title": "[사업화] --> 전 국민 AI 서비스 보편적 활용 지원 (모두의 AI) 사업 수정 공고",
-      "source_name": "정보통신산업진흥원",
-      "source_url": "https://www.nipa.kr/home/2-2/16883",
-      "organizer": "정보통신산업진흥원",
-      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "창업"
-      ],
-      "audience_tags": [],
-      "status": "closed",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai, 사업화",
-          "본문·분류 키워드: ai, it, 모바일, 사업화",
-          "공고 유형: support",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-09-12T20:13:56+09:00",
-      "sources": [
-        {
-          "source_id": "nipa",
-          "source_name": "정보통신산업진흥원",
-          "source_url": "https://www.nipa.kr/home/2-2/16883",
-          "source_post_id": "16883",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-09-12T20:13:56+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-07-13",
-      "recruit_end": "2026-08-18",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": -25,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "사업화전국민ai서비스보편적활용지원모두의ai사업수정공고|정보통신산업진흥원|2026-08-18",
-      "classification_inputs": [
-        {
-          "source_id": "nipa",
-          "source_name": "정보통신산업진흥원",
-          "source_url": "https://www.nipa.kr/home/2-2/16883",
-          "title": "[사업화] --> 전 국민 AI 서비스 보편적 활용 지원 (모두의 AI) 사업 수정 공고",
-          "organizer": "정보통신산업진흥원",
-          "summary": "정보통신산업진흥원 공식 사업공고",
-          "body_text": "342 종료 [사업화] --> 전 국민 AI 서비스 보편적 활용 지원 (모두의 AI) 사업 수정 공고 전 국민 AI 서비스 보편적 활용 지원(모두의 AI) 사업 신청기간 : 2026-07-13 17:00 ~ 2026-08-18 17:00 송근호 2026-07-29 웹/모바일/IT 소프트웨어 AI",
-          "source_post_id": "16883",
-          "source_kind": "official",
-          "source_priority": 100,
-          "application_url": null,
-          "document_url": null,
-          "recruit_start": "2026-07-13",
-          "recruit_end": "2026-08-18",
-          "event_start": null,
-          "event_end": null,
-          "date_kind": "exact",
-          "eligibility": "",
-          "benefits": "",
-          "location": "",
-          "mode": "",
-          "fee": "unknown",
-          "original_category": "웹/모바일/IT · 소프트웨어 · AI",
-          "collected_at": "2026-09-12T20:13:56+09:00"
-        }
-      ]
-    },
-    {
       "id": "c7b44f3ec9e3fc5c7eda",
       "title": "2026 대전 AI 영상 공모전",
       "source_name": "위비티",
@@ -3227,6 +3140,93 @@
       ]
     },
     {
+      "id": "618f66e338b037c148ad",
+      "title": "[사업화] --> 전 국민 AI 서비스 보편적 활용 지원 (모두의 AI) 사업 수정 공고",
+      "source_name": "정보통신산업진흥원",
+      "source_url": "https://www.nipa.kr/home/2-2/16883",
+      "organizer": "정보통신산업진흥원",
+      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "창업"
+      ],
+      "audience_tags": [],
+      "status": "closed",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: ai, 사업화",
+          "본문·분류 키워드: ai, it, 모바일, 사업화",
+          "공고 유형: support",
+          "공식 전문기관 출처",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-09-08T14:40:59+09:00",
+      "last_seen_at": "2026-09-13T00:48:22+09:00",
+      "sources": [
+        {
+          "source_id": "nipa",
+          "source_name": "정보통신산업진흥원",
+          "source_url": "https://www.nipa.kr/home/2-2/16883",
+          "source_post_id": "16883",
+          "kind": "official",
+          "priority": 100,
+          "fetched_at": "2026-09-13T00:48:22+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-07-13",
+      "recruit_end": "2026-08-18",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -26,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "사업화전국민ai서비스보편적활용지원모두의ai사업수정공고|정보통신산업진흥원|2026-08-18",
+      "classification_inputs": [
+        {
+          "source_id": "nipa",
+          "source_name": "정보통신산업진흥원",
+          "source_url": "https://www.nipa.kr/home/2-2/16883",
+          "title": "[사업화] --> 전 국민 AI 서비스 보편적 활용 지원 (모두의 AI) 사업 수정 공고",
+          "organizer": "정보통신산업진흥원",
+          "summary": "정보통신산업진흥원 공식 사업공고",
+          "body_text": "342 종료 [사업화] --> 전 국민 AI 서비스 보편적 활용 지원 (모두의 AI) 사업 수정 공고 전 국민 AI 서비스 보편적 활용 지원(모두의 AI) 사업 신청기간 : 2026-07-13 17:00 ~ 2026-08-18 17:00 송근호 2026-07-29 웹/모바일/IT 소프트웨어 AI",
+          "source_post_id": "16883",
+          "source_kind": "official",
+          "source_priority": 100,
+          "application_url": null,
+          "document_url": null,
+          "recruit_start": "2026-07-13",
+          "recruit_end": "2026-08-18",
+          "event_start": null,
+          "event_end": null,
+          "date_kind": "exact",
+          "eligibility": "",
+          "benefits": "",
+          "location": "",
+          "mode": "",
+          "fee": "unknown",
+          "original_category": "웹/모바일/IT · 소프트웨어 · AI",
+          "collected_at": "2026-09-13T00:48:22+09:00"
+        }
+      ]
+    },
+    {
       "id": "7c68ff4609d7ea281f4d",
       "title": "2026 KOMIPO 혁신 50대 과제 대국민 아이디어 공모",
       "source_name": "위비티",
@@ -3396,93 +3396,6 @@
       ]
     },
     {
-      "id": "9c3e9d774d479599d0ec",
-      "title": "[사업화] --> 2026년도 소프트웨어 산업발전 유공자 포상계획 연장 공고",
-      "source_name": "정보통신산업진흥원",
-      "source_url": "https://www.nipa.kr/home/2-2/16874",
-      "organizer": "정보통신산업진흥원",
-      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "창업"
-      ],
-      "audience_tags": [],
-      "status": "closed",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: 사업화, 소프트웨어",
-          "본문·분류 키워드: ai, it, sw, 모바일",
-          "공고 유형: support",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-09-12T20:13:56+09:00",
-      "sources": [
-        {
-          "source_id": "nipa",
-          "source_name": "정보통신산업진흥원",
-          "source_url": "https://www.nipa.kr/home/2-2/16874",
-          "source_post_id": "16874",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-09-12T20:13:56+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-07-29",
-      "recruit_end": "2026-08-11",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": -32,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "사업화2026년도소프트웨어산업발전유공자포상계획연장공고|정보통신산업진흥원|2026-08-11",
-      "classification_inputs": [
-        {
-          "source_id": "nipa",
-          "source_name": "정보통신산업진흥원",
-          "source_url": "https://www.nipa.kr/home/2-2/16874",
-          "title": "[사업화] --> 2026년도 소프트웨어 산업발전 유공자 포상계획 연장 공고",
-          "organizer": "정보통신산업진흥원",
-          "summary": "정보통신산업진흥원 공식 사업공고",
-          "body_text": "340 종료 [사업화] --> 2026년도 소프트웨어 산업발전 유공자 포상계획 연장 공고 중소SW기업경쟁력강화 신청기간 : 2026-07-29 09:00 ~ 2026-08-11 23:59 이호연 2026-07-29 웹/모바일/IT 소프트웨어 AI",
-          "source_post_id": "16874",
-          "source_kind": "official",
-          "source_priority": 100,
-          "application_url": null,
-          "document_url": null,
-          "recruit_start": "2026-07-29",
-          "recruit_end": "2026-08-11",
-          "event_start": null,
-          "event_end": null,
-          "date_kind": "exact",
-          "eligibility": "",
-          "benefits": "",
-          "location": "",
-          "mode": "",
-          "fee": "unknown",
-          "original_category": "웹/모바일/IT · 소프트웨어 · AI",
-          "collected_at": "2026-09-12T20:13:56+09:00"
-        }
-      ]
-    },
-    {
       "id": "bc1f8d4fa5fdfa50018c",
       "title": "일상을 바꾸는 한 줄 SKT 모두의 promp.T 공모전",
       "source_name": "위비티",
@@ -3564,6 +3477,93 @@
           "fee": "unknown",
           "original_category": "웹/모바일/IT",
           "collected_at": "2026-09-12T23:11:03+09:00"
+        }
+      ]
+    },
+    {
+      "id": "9c3e9d774d479599d0ec",
+      "title": "[사업화] --> 2026년도 소프트웨어 산업발전 유공자 포상계획 연장 공고",
+      "source_name": "정보통신산업진흥원",
+      "source_url": "https://www.nipa.kr/home/2-2/16874",
+      "organizer": "정보통신산업진흥원",
+      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "창업"
+      ],
+      "audience_tags": [],
+      "status": "closed",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: 사업화, 소프트웨어",
+          "본문·분류 키워드: ai, it, sw, 모바일",
+          "공고 유형: support",
+          "공식 전문기관 출처",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-09-08T14:40:59+09:00",
+      "last_seen_at": "2026-09-13T00:48:22+09:00",
+      "sources": [
+        {
+          "source_id": "nipa",
+          "source_name": "정보통신산업진흥원",
+          "source_url": "https://www.nipa.kr/home/2-2/16874",
+          "source_post_id": "16874",
+          "kind": "official",
+          "priority": 100,
+          "fetched_at": "2026-09-13T00:48:22+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-07-29",
+      "recruit_end": "2026-08-11",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -33,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "사업화2026년도소프트웨어산업발전유공자포상계획연장공고|정보통신산업진흥원|2026-08-11",
+      "classification_inputs": [
+        {
+          "source_id": "nipa",
+          "source_name": "정보통신산업진흥원",
+          "source_url": "https://www.nipa.kr/home/2-2/16874",
+          "title": "[사업화] --> 2026년도 소프트웨어 산업발전 유공자 포상계획 연장 공고",
+          "organizer": "정보통신산업진흥원",
+          "summary": "정보통신산업진흥원 공식 사업공고",
+          "body_text": "340 종료 [사업화] --> 2026년도 소프트웨어 산업발전 유공자 포상계획 연장 공고 중소SW기업경쟁력강화 신청기간 : 2026-07-29 09:00 ~ 2026-08-11 23:59 이호연 2026-07-29 웹/모바일/IT 소프트웨어 AI",
+          "source_post_id": "16874",
+          "source_kind": "official",
+          "source_priority": 100,
+          "application_url": null,
+          "document_url": null,
+          "recruit_start": "2026-07-29",
+          "recruit_end": "2026-08-11",
+          "event_start": null,
+          "event_end": null,
+          "date_kind": "exact",
+          "eligibility": "",
+          "benefits": "",
+          "location": "",
+          "mode": "",
+          "fee": "unknown",
+          "original_category": "웹/모바일/IT · 소프트웨어 · AI",
+          "collected_at": "2026-09-13T00:48:22+09:00"
         }
       ]
     },
