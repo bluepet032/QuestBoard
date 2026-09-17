@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-17T22:31:41+09:00",
+  "generated_at": "2026-09-18T02:15:03+09:00",
   "items": [
     {
       "id": "bb929c32ff1429fd9076",
@@ -90,10 +90,10 @@
       ]
     },
     {
-      "id": "669311e75d7639a86568",
-      "title": "[사업화] --> 2026년도 한-베트남 AI·디지털 포럼 운영 대행 용역 입찰공고",
+      "id": "ec988ff7e379b48501e2",
+      "title": "[사업화] --> 2026년 KoVAC XR 쇼룸 입주기업 2차 모집",
       "source_name": "정보통신산업진흥원",
-      "source_url": "https://www.nipa.kr/home/2-2/16922",
+      "source_url": "https://www.nipa.kr/home/2-2/16900",
       "organizer": "정보통신산업진흥원",
       "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
       "primary_type": "support",
@@ -101,43 +101,43 @@
         "AI",
         "소프트웨어",
         "웹·앱",
+        "XR·메타버스",
         "창업"
       ],
       "audience_tags": [],
       "status": "closed",
       "relevance": {
-        "score": 97,
+        "score": 100,
         "reasons": [
-          "제목 핵심 키워드: ai, 사업화",
-          "본문·분류 키워드: ai, it, 모바일, 사업화",
+          "제목 핵심 키워드: xr, 사업화",
+          "본문·분류 키워드: ai, it, xr, 모바일",
           "공고 유형: support",
           "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능",
-          "제외 문맥: 입찰, 용역"
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
         ],
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-09-17T21:02:19+09:00",
+      "last_seen_at": "2026-09-18T02:15:03+09:00",
       "sources": [
         {
           "source_id": "nipa",
           "source_name": "정보통신산업진흥원",
-          "source_url": "https://www.nipa.kr/home/2-2/16922",
-          "source_post_id": "16922",
+          "source_url": "https://www.nipa.kr/home/2-2/16900",
+          "source_post_id": "16900",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-09-17T21:02:19+09:00"
+          "fetched_at": "2026-09-18T02:15:03+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
-      "recruit_start": "2026-09-04",
-      "recruit_end": "2026-09-15",
+      "recruit_start": "2026-08-18",
+      "recruit_end": "2026-09-17",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -2,
+      "d_day": -1,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -147,23 +147,23 @@
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
-      "dedupe_key": "사업화2026년도한베트남ai디지털포럼운영대행용역입찰공고|정보통신산업진흥원|2026-09-15",
+      "dedupe_key": "사업화2026년kovacxr쇼룸입주기업2차모집|정보통신산업진흥원|2026-09-17",
       "classification_inputs": [
         {
           "source_id": "nipa",
           "source_name": "정보통신산업진흥원",
-          "source_url": "https://www.nipa.kr/home/2-2/16922",
-          "title": "[사업화] --> 2026년도 한-베트남 AI·디지털 포럼 운영 대행 용역 입찰공고",
+          "source_url": "https://www.nipa.kr/home/2-2/16900",
+          "title": "[사업화] --> 2026년 KoVAC XR 쇼룸 입주기업 2차 모집",
           "organizer": "정보통신산업진흥원",
           "summary": "정보통신산업진흥원 공식 사업공고",
-          "body_text": "351 종료 [사업화] --> 2026년도 한-베트남 AI·디지털 포럼 운영 대행 용역 입찰공고 해외IT지원센터(하노이) 운영 신청기간 : 2026-09-04 10:00 ~ 2026-09-15 14:00 김지환 2026-09-04 웹/모바일/IT 소프트웨어 AI",
-          "source_post_id": "16922",
+          "body_text": "349 종료 [사업화] --> 2026년 KoVAC XR 쇼룸 입주기업 2차 모집 KoVAC XR쇼룸 상설전시관 운영 신청기간 : 2026-08-18 14:00 ~ 2026-09-17 15:00 이종석 2026-08-18 웹/모바일/IT 소프트웨어 AI",
+          "source_post_id": "16900",
           "source_kind": "official",
           "source_priority": 100,
           "application_url": null,
           "document_url": null,
-          "recruit_start": "2026-09-04",
-          "recruit_end": "2026-09-15",
+          "recruit_start": "2026-08-18",
+          "recruit_end": "2026-09-17",
           "event_start": null,
           "event_end": null,
           "date_kind": "exact",
@@ -173,7 +173,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "웹/모바일/IT · 소프트웨어 · AI",
-          "collected_at": "2026-09-17T21:02:19+09:00"
+          "collected_at": "2026-09-18T02:15:03+09:00"
         }
       ]
     },
@@ -262,6 +262,94 @@
           "fee": "unknown",
           "original_category": "게임/소프트웨어",
           "collected_at": "2026-09-17T22:31:41+09:00"
+        }
+      ]
+    },
+    {
+      "id": "669311e75d7639a86568",
+      "title": "[사업화] --> 2026년도 한-베트남 AI·디지털 포럼 운영 대행 용역 입찰공고",
+      "source_name": "정보통신산업진흥원",
+      "source_url": "https://www.nipa.kr/home/2-2/16922",
+      "organizer": "정보통신산업진흥원",
+      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "창업"
+      ],
+      "audience_tags": [],
+      "status": "closed",
+      "relevance": {
+        "score": 97,
+        "reasons": [
+          "제목 핵심 키워드: ai, 사업화",
+          "본문·분류 키워드: ai, it, 모바일, 사업화",
+          "공고 유형: support",
+          "공식 전문기관 출처",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능",
+          "제외 문맥: 입찰, 용역"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-09-08T14:40:59+09:00",
+      "last_seen_at": "2026-09-18T02:15:03+09:00",
+      "sources": [
+        {
+          "source_id": "nipa",
+          "source_name": "정보통신산업진흥원",
+          "source_url": "https://www.nipa.kr/home/2-2/16922",
+          "source_post_id": "16922",
+          "kind": "official",
+          "priority": 100,
+          "fetched_at": "2026-09-18T02:15:03+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-09-04",
+      "recruit_end": "2026-09-15",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -3,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "사업화2026년도한베트남ai디지털포럼운영대행용역입찰공고|정보통신산업진흥원|2026-09-15",
+      "classification_inputs": [
+        {
+          "source_id": "nipa",
+          "source_name": "정보통신산업진흥원",
+          "source_url": "https://www.nipa.kr/home/2-2/16922",
+          "title": "[사업화] --> 2026년도 한-베트남 AI·디지털 포럼 운영 대행 용역 입찰공고",
+          "organizer": "정보통신산업진흥원",
+          "summary": "정보통신산업진흥원 공식 사업공고",
+          "body_text": "351 종료 [사업화] --> 2026년도 한-베트남 AI·디지털 포럼 운영 대행 용역 입찰공고 해외IT지원센터(하노이) 운영 신청기간 : 2026-09-04 10:00 ~ 2026-09-15 14:00 김지환 2026-09-04 웹/모바일/IT 소프트웨어 AI",
+          "source_post_id": "16922",
+          "source_kind": "official",
+          "source_priority": 100,
+          "application_url": null,
+          "document_url": null,
+          "recruit_start": "2026-09-04",
+          "recruit_end": "2026-09-15",
+          "event_start": null,
+          "event_end": null,
+          "date_kind": "exact",
+          "eligibility": "",
+          "benefits": "",
+          "location": "",
+          "mode": "",
+          "fee": "unknown",
+          "original_category": "웹/모바일/IT · 소프트웨어 · AI",
+          "collected_at": "2026-09-18T02:15:03+09:00"
         }
       ]
     },
@@ -994,7 +1082,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-09-17T21:02:19+09:00",
+      "last_seen_at": "2026-09-18T02:15:03+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -1003,7 +1091,7 @@
           "source_post_id": "16897",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-09-17T21:02:19+09:00"
+          "fetched_at": "2026-09-18T02:15:03+09:00"
         }
       ],
       "application_url": null,
@@ -1013,7 +1101,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -9,
+      "d_day": -10,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1049,7 +1137,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "웹/모바일/IT · 소프트웨어 · AI",
-          "collected_at": "2026-09-17T21:02:19+09:00"
+          "collected_at": "2026-09-18T02:15:03+09:00"
         }
       ]
     },
@@ -1589,94 +1677,6 @@
       ]
     },
     {
-      "id": "1ffdcd4df192cdca2ba8",
-      "title": "[사업화] --> 2026년 누리꿈스퀘어 XR기업성장지원센터 입주 기업 모집(2차)",
-      "source_name": "정보통신산업진흥원",
-      "source_url": "https://www.nipa.kr/home/2-2/16887",
-      "organizer": "정보통신산업진흥원",
-      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "XR·메타버스",
-        "창업"
-      ],
-      "audience_tags": [],
-      "status": "closed",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: xr, 사업화",
-          "본문·분류 키워드: ai, it, xr, 모바일",
-          "공고 유형: support",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-09-17T21:02:19+09:00",
-      "sources": [
-        {
-          "source_id": "nipa",
-          "source_name": "정보통신산업진흥원",
-          "source_url": "https://www.nipa.kr/home/2-2/16887",
-          "source_post_id": "16887",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-09-17T21:02:19+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-08-03",
-      "recruit_end": "2026-08-31",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": -17,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "사업화2026년누리꿈스퀘어xr기업성장지원센터입주기업모집2차|정보통신산업진흥원|2026-08-31",
-      "classification_inputs": [
-        {
-          "source_id": "nipa",
-          "source_name": "정보통신산업진흥원",
-          "source_url": "https://www.nipa.kr/home/2-2/16887",
-          "title": "[사업화] --> 2026년 누리꿈스퀘어 XR기업성장지원센터 입주 기업 모집(2차)",
-          "organizer": "정보통신산업진흥원",
-          "summary": "정보통신산업진흥원 공식 사업공고",
-          "body_text": "346 종료 [사업화] --> 2026년 누리꿈스퀘어 XR기업성장지원센터 입주 기업 모집(2차) KoVAC XR기업성장지원센터 운영 신청기간 : 2026-08-03 14:00 ~ 2026-08-31 15:00 이종석 2026-08-03 웹/모바일/IT 소프트웨어 AI",
-          "source_post_id": "16887",
-          "source_kind": "official",
-          "source_priority": 100,
-          "application_url": null,
-          "document_url": null,
-          "recruit_start": "2026-08-03",
-          "recruit_end": "2026-08-31",
-          "event_start": null,
-          "event_end": null,
-          "date_kind": "exact",
-          "eligibility": "",
-          "benefits": "",
-          "location": "",
-          "mode": "",
-          "fee": "unknown",
-          "original_category": "웹/모바일/IT · 소프트웨어 · AI",
-          "collected_at": "2026-09-17T21:02:19+09:00"
-        }
-      ]
-    },
-    {
       "id": "577c1c91d09728335663",
       "title": "2026 ICT 표준 챌린지 공모전(~8/31, 접수기간 연장)",
       "source_name": "씽굿",
@@ -1764,6 +1764,94 @@
           "fee": "unknown",
           "original_category": "게임/소프트웨어, 과학, 기획/아이디어, 취업/창업",
           "collected_at": "2026-09-17T22:31:41+09:00"
+        }
+      ]
+    },
+    {
+      "id": "1ffdcd4df192cdca2ba8",
+      "title": "[사업화] --> 2026년 누리꿈스퀘어 XR기업성장지원센터 입주 기업 모집(2차)",
+      "source_name": "정보통신산업진흥원",
+      "source_url": "https://www.nipa.kr/home/2-2/16887",
+      "organizer": "정보통신산업진흥원",
+      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "XR·메타버스",
+        "창업"
+      ],
+      "audience_tags": [],
+      "status": "closed",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: xr, 사업화",
+          "본문·분류 키워드: ai, it, xr, 모바일",
+          "공고 유형: support",
+          "공식 전문기관 출처",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-09-08T14:40:59+09:00",
+      "last_seen_at": "2026-09-18T02:15:03+09:00",
+      "sources": [
+        {
+          "source_id": "nipa",
+          "source_name": "정보통신산업진흥원",
+          "source_url": "https://www.nipa.kr/home/2-2/16887",
+          "source_post_id": "16887",
+          "kind": "official",
+          "priority": 100,
+          "fetched_at": "2026-09-18T02:15:03+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-08-03",
+      "recruit_end": "2026-08-31",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -18,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "사업화2026년누리꿈스퀘어xr기업성장지원센터입주기업모집2차|정보통신산업진흥원|2026-08-31",
+      "classification_inputs": [
+        {
+          "source_id": "nipa",
+          "source_name": "정보통신산업진흥원",
+          "source_url": "https://www.nipa.kr/home/2-2/16887",
+          "title": "[사업화] --> 2026년 누리꿈스퀘어 XR기업성장지원센터 입주 기업 모집(2차)",
+          "organizer": "정보통신산업진흥원",
+          "summary": "정보통신산업진흥원 공식 사업공고",
+          "body_text": "346 종료 [사업화] --> 2026년 누리꿈스퀘어 XR기업성장지원센터 입주 기업 모집(2차) KoVAC XR기업성장지원센터 운영 신청기간 : 2026-08-03 14:00 ~ 2026-08-31 15:00 이종석 2026-08-03 웹/모바일/IT 소프트웨어 AI",
+          "source_post_id": "16887",
+          "source_kind": "official",
+          "source_priority": 100,
+          "application_url": null,
+          "document_url": null,
+          "recruit_start": "2026-08-03",
+          "recruit_end": "2026-08-31",
+          "event_start": null,
+          "event_end": null,
+          "date_kind": "exact",
+          "eligibility": "",
+          "benefits": "",
+          "location": "",
+          "mode": "",
+          "fee": "unknown",
+          "original_category": "웹/모바일/IT · 소프트웨어 · AI",
+          "collected_at": "2026-09-18T02:15:03+09:00"
         }
       ]
     },
@@ -2399,7 +2487,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-09-17T21:02:19+09:00",
+      "last_seen_at": "2026-09-18T02:15:03+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -2408,7 +2496,7 @@
           "source_post_id": "16882",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-09-17T21:02:19+09:00"
+          "fetched_at": "2026-09-18T02:15:03+09:00"
         }
       ],
       "application_url": null,
@@ -2418,7 +2506,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -22,
+      "d_day": -23,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2454,7 +2542,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "웹/모바일/IT · 소프트웨어 · AI",
-          "collected_at": "2026-09-17T21:02:19+09:00"
+          "collected_at": "2026-09-18T02:15:03+09:00"
         }
       ]
     },
@@ -2486,7 +2574,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-09-17T21:02:19+09:00",
+      "last_seen_at": "2026-09-18T02:15:03+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -2495,7 +2583,7 @@
           "source_post_id": "16899",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-09-17T21:02:19+09:00"
+          "fetched_at": "2026-09-18T02:15:03+09:00"
         }
       ],
       "application_url": null,
@@ -2505,7 +2593,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -24,
+      "d_day": -25,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2541,7 +2629,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "웹/모바일/IT · 소프트웨어 · AI",
-          "collected_at": "2026-09-17T21:02:19+09:00"
+          "collected_at": "2026-09-18T02:15:03+09:00"
         }
       ]
     },
@@ -2989,93 +3077,6 @@
       ]
     },
     {
-      "id": "618f66e338b037c148ad",
-      "title": "[사업화] --> 전 국민 AI 서비스 보편적 활용 지원 (모두의 AI) 사업 수정 공고",
-      "source_name": "정보통신산업진흥원",
-      "source_url": "https://www.nipa.kr/home/2-2/16883",
-      "organizer": "정보통신산업진흥원",
-      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "창업"
-      ],
-      "audience_tags": [],
-      "status": "closed",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai, 사업화",
-          "본문·분류 키워드: ai, it, 모바일, 사업화",
-          "공고 유형: support",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-09-17T21:02:19+09:00",
-      "sources": [
-        {
-          "source_id": "nipa",
-          "source_name": "정보통신산업진흥원",
-          "source_url": "https://www.nipa.kr/home/2-2/16883",
-          "source_post_id": "16883",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-09-17T21:02:19+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-07-13",
-      "recruit_end": "2026-08-18",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": -30,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "사업화전국민ai서비스보편적활용지원모두의ai사업수정공고|정보통신산업진흥원|2026-08-18",
-      "classification_inputs": [
-        {
-          "source_id": "nipa",
-          "source_name": "정보통신산업진흥원",
-          "source_url": "https://www.nipa.kr/home/2-2/16883",
-          "title": "[사업화] --> 전 국민 AI 서비스 보편적 활용 지원 (모두의 AI) 사업 수정 공고",
-          "organizer": "정보통신산업진흥원",
-          "summary": "정보통신산업진흥원 공식 사업공고",
-          "body_text": "345 종료 [사업화] --> 전 국민 AI 서비스 보편적 활용 지원 (모두의 AI) 사업 수정 공고 전 국민 AI 서비스 보편적 활용 지원(모두의 AI) 사업 신청기간 : 2026-07-13 17:00 ~ 2026-08-18 17:00 송근호 2026-07-29 웹/모바일/IT 소프트웨어 AI",
-          "source_post_id": "16883",
-          "source_kind": "official",
-          "source_priority": 100,
-          "application_url": null,
-          "document_url": null,
-          "recruit_start": "2026-07-13",
-          "recruit_end": "2026-08-18",
-          "event_start": null,
-          "event_end": null,
-          "date_kind": "exact",
-          "eligibility": "",
-          "benefits": "",
-          "location": "",
-          "mode": "",
-          "fee": "unknown",
-          "original_category": "웹/모바일/IT · 소프트웨어 · AI",
-          "collected_at": "2026-09-17T21:02:19+09:00"
-        }
-      ]
-    },
-    {
       "id": "c7b44f3ec9e3fc5c7eda",
       "title": "2026 대전 AI 영상 공모전",
       "source_name": "위비티",
@@ -3248,6 +3249,93 @@
           "fee": "unknown",
           "original_category": "광고/마케팅, 영상/UCC/사진, 웹/모바일/IT, 예체능/미술/음악, 대외활동/서포터즈, 기타",
           "collected_at": "2026-09-17T22:31:41+09:00"
+        }
+      ]
+    },
+    {
+      "id": "618f66e338b037c148ad",
+      "title": "[사업화] --> 전 국민 AI 서비스 보편적 활용 지원 (모두의 AI) 사업 수정 공고",
+      "source_name": "정보통신산업진흥원",
+      "source_url": "https://www.nipa.kr/home/2-2/16883",
+      "organizer": "정보통신산업진흥원",
+      "summary": "정보통신산업진흥원 공식 사업공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "AI",
+        "소프트웨어",
+        "웹·앱",
+        "창업"
+      ],
+      "audience_tags": [],
+      "status": "closed",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: ai, 사업화",
+          "본문·분류 키워드: ai, it, 모바일, 사업화",
+          "공고 유형: support",
+          "공식 전문기관 출처",
+          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-09-08T14:40:59+09:00",
+      "last_seen_at": "2026-09-18T02:15:03+09:00",
+      "sources": [
+        {
+          "source_id": "nipa",
+          "source_name": "정보통신산업진흥원",
+          "source_url": "https://www.nipa.kr/home/2-2/16883",
+          "source_post_id": "16883",
+          "kind": "official",
+          "priority": 100,
+          "fetched_at": "2026-09-18T02:15:03+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-07-13",
+      "recruit_end": "2026-08-18",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -31,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "사업화전국민ai서비스보편적활용지원모두의ai사업수정공고|정보통신산업진흥원|2026-08-18",
+      "classification_inputs": [
+        {
+          "source_id": "nipa",
+          "source_name": "정보통신산업진흥원",
+          "source_url": "https://www.nipa.kr/home/2-2/16883",
+          "title": "[사업화] --> 전 국민 AI 서비스 보편적 활용 지원 (모두의 AI) 사업 수정 공고",
+          "organizer": "정보통신산업진흥원",
+          "summary": "정보통신산업진흥원 공식 사업공고",
+          "body_text": "345 종료 [사업화] --> 전 국민 AI 서비스 보편적 활용 지원 (모두의 AI) 사업 수정 공고 전 국민 AI 서비스 보편적 활용 지원(모두의 AI) 사업 신청기간 : 2026-07-13 17:00 ~ 2026-08-18 17:00 송근호 2026-07-29 웹/모바일/IT 소프트웨어 AI",
+          "source_post_id": "16883",
+          "source_kind": "official",
+          "source_priority": 100,
+          "application_url": null,
+          "document_url": null,
+          "recruit_start": "2026-07-13",
+          "recruit_end": "2026-08-18",
+          "event_start": null,
+          "event_end": null,
+          "date_kind": "exact",
+          "eligibility": "",
+          "benefits": "",
+          "location": "",
+          "mode": "",
+          "fee": "unknown",
+          "original_category": "웹/모바일/IT · 소프트웨어 · AI",
+          "collected_at": "2026-09-18T02:15:03+09:00"
         }
       ]
     },
@@ -7007,96 +7095,6 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "게임/소프트웨어",
-          "collected_at": "2026-09-17T22:31:41+09:00"
-        }
-      ]
-    },
-    {
-      "id": "13e30beed9dcc64d0fc6",
-      "title": "제2회 NAMUHX 해커톤 — AI 웰니스 로봇 서비스 기획 공모",
-      "source_name": "씽굿",
-      "source_url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=106333",
-      "organizer": "SK인텔릭스",
-      "summary": "씽굿 공모 분야: 게임/소프트웨어, 기획/아이디어, 영상/UCC · 상금 200만원. 제한 없음. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "hackathon",
-      "field_tags": [
-        "게임",
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "데이터",
-        "클라우드·보안"
-      ],
-      "audience_tags": [
-        "대학생"
-      ],
-      "status": "closed",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai",
-          "본문·분류 키워드: ai, 게임, 데이터, 보안",
-          "공고 유형: hackathon",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-09-17T22:31:41+09:00",
-      "sources": [
-        {
-          "source_id": "thinkcontest",
-          "source_name": "씽굿",
-          "source_url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=106333",
-          "source_post_id": "106333",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-17T22:31:41+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-05-26",
-      "recruit_end": "2026-06-17",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": -92,
-      "eligibility": "제한 없음",
-      "benefits": "200만원",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "제2회namuhx해커톤ai웰니스로봇서비스기획공모|sk인텔릭스|2026-06-17",
-      "classification_inputs": [
-        {
-          "source_id": "thinkcontest",
-          "source_name": "씽굿",
-          "source_url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=106333",
-          "title": "제2회 NAMUHX 해커톤 — AI 웰니스 로봇 서비스 기획 공모",
-          "organizer": "SK인텔릭스",
-          "summary": "씽굿 공모 분야: 게임/소프트웨어, 기획/아이디어, 영상/UCC · 상금 200만원",
-          "body_text": "<p></p><p class=\"MsoNormal\"><b><span lang=\"EN-US\">[2nd </span>나무엑스<span lang=\"EN-US\"> Hackathon </span>참가 신청서 제출<span lang=\"EN-US\">]</span></b><span lang=\"EN-US\"><o:p></o:p></span></p> <p class=\"MsoNormal\"><span lang=\"EN-US\"><o:p> </o:p></span></p> <p class=\"MsoNormal\"><span lang=\"EN-US\">SK</span>인텔릭스에서 주관하는<span lang=\"EN-US\"> 2nd </span>나무엑스<span lang=\"EN-US\"> Hackathon </span>행사에 참여해주셔서 감사합니다<span lang=\"EN-US\">.<br> <br> <b>▶ </b></span><b>주제<span lang=\"EN-US\"><br> - </span>나무엑스의 주요 기능 기반 사용 시나리오<span lang=\"EN-US\"><br> </span></b><span lang=\"EN-US\"> <o:p></o:p></span></p> <p class=\"MsoNormal\">집<span lang=\"EN-US\">, </span>사무실 등 다양한 공간에서 나무엑스의<span lang=\"EN-US\"> Follow me, Safe Care, My Healthcare </span>기능을 활용해 삶의 질을 높여줄 혁신적인 유저 시나리오를 자유롭게 제안해주세요<span lang=\"EN-US\">.<o:p></o:p></span></p> <p class=\"MsoNormal\"><span lang=\"EN-US\"><o:p> </o:p></span></p> <p class=\"MsoNormal\"><span lang=\"EN-US\">*</span>아이디어 제안 시<span lang=\"EN-US\">, </span>나무엑스 제품의 아래 세부 기능을 참고 바랍니다<span lang=\"EN-US\">.<o:p></o:p></span></p> <p class=\"MsoNormal\">나무엑스 제품 상세 정보 보러가기<span lang=\"EN-US\">: <a href=\"https://www.namuhx.com/product/\" target=\"_self\">https://www.namuhx.com/product/</a> <o:p></o:p></span></p> <p class=\"MsoNormal\"><b><span lang=\"EN-US\">[ *</span>필수 반영<span lang=\"EN-US\"> </span>핵심 기능<span lang=\"EN-US\"> 3</span>가지<span lang=\"EN-US\"> ]</span></b><span lang=\"EN-US\"><o:p></o:p></span></p> <p class=\"MsoNormal\"><u><span lang=\"EN-US\">→ 3</span>개 기능 중<span lang=\"EN-US\"> 1</span>개 이상을 선택하여 시나리오를 작성해주세요<span lang=\"EN-US\">.</span></u><span lang=\"EN-US\"><o:p></o:p></span></p> <p class=\"MsoNormal\"><span lang=\"EN-US\"><o:p> </o:p></span></p> <p class=\"MsoNormal\"><span lang=\"EN-US\">① Follow-me : </span>나무엑스가 사용자를 식별하고 따라가는 기능<span lang=\"EN-US\">. </span>터치 없이<span lang=\"EN-US\"> '</span>하이 나무<span lang=\"EN-US\">, </span>나를 따라와<span lang=\"EN-US\">' </span>음성 명령으로 실행하며<span lang=\"EN-US\">, </span>명령이 종료될 때까지 사용자를 따라 이동합니다<span lang=\"EN-US\">.<o:p></o:p></span></p> <p class=\"MsoNormal\"><span lang=\"EN-US\"><o:p> </o:p></span></p> <p class=\"MsoNormal\"><span lang=\"EN-US\">② Safe Care : </span>집안의 침입<span lang=\"EN-US\">·</span>화재 등 이상 상황을 실시간 감지하고<span lang=\"EN-US\">, </span>위급 상황 시 보안요원의 긴급 출동과 하이나무 앱을 통한<span lang=\"EN-US\"> 112·119 </span>즉시 연결을 지원합니다<span lang=\"EN-US\">. Live View </span>기능으로 집 밖에서도 실시간 모니터링 및 원격 기기 제어가 가능합니다<span lang=\"EN-US\">.<o:p></o:p></span></p> <p class=\"MsoNormal\"><span lang=\"EN-US\"><br> ③ My Healthcare : </span>건강 관련 질의응답 및 상담에 특화된<span lang=\"EN-US\"> AI </span>챗봇<span lang=\"EN-US\">. </span>전문 의료 데이터베이스 기반으로 신뢰도를 강화하고<span lang=\"EN-US\">, </span>검진<span lang=\"EN-US\">·</span>병원<span lang=\"EN-US\">·</span>약국 등 개인 데이터 연계를 통해 맞춤형 답변을 제공합니다<span lang=\"EN-US\">. </span>향후 운동<span lang=\"EN-US\">·</span>영양<span lang=\"EN-US\">·</span>수면<span lang=\"EN-US\">·</span>정신건강 등 개인별 웰니스 솔루션으로 확장됩니다<span lang=\"EN-US\">.<o:p></o:p></span></p> <p class=\"MsoNormal\"><span lang=\"EN-US\"><o:p> </o:p></span></p> <p class=\"MsoNormal\"><b><span lang=\"EN-US\">▶ </span>참여 대상<span lang=\"EN-US\"><br> </span></b><span lang=\"EN-US\">- </span>나무엑스의 혁신 기술을 바탕으로 일상의 긍정적인 변화를 상상하며<span lang=\"EN-US\">, </span>나무엑스가 필요한<span lang=\"EN-US\"> '</span>사용자의 순간<span lang=\"EN-US\">'</span>을 구체적인 시나리오로 제안할 수 있는 팀<span lang=\"EN-US\"> (</span>대학생<span lang=\"EN-US\">, </span>일반인<span lang=\"EN-US\">, </span>직장인<span lang=\"EN-US\">, </span>프리랜서 등<span lang=\"EN-US\">) <o:p></o:p></span></p> <p class=\"MsoNormal\"><span lang=\"EN-US\">- </span>팀 단위<span lang=\"EN-US\"> : 1</span>인<span lang=\"EN-US\"> ~ 4</span>인<span lang=\"EN-US\"> (12</span>팀 내외 본선 선발 예정<span lang=\"EN-US\">)<o:p></o:p></span></p> <p class=\"MsoNormal\"><span lang=\"EN-US\"><br> <b>▶ </b></span><b>모집 일정</b><span lang=\"EN-US\"><o:p></o:p></span></p> <p class=\"MsoNormal\"><span lang=\"EN-US\">① </span>신청 및 접수<span lang=\"EN-US\"> : <u>~ 06.17 (</u></span><u>수<span lang=\"EN-US\">) 24:00 </span>마감<span lang=\"EN-US\"> ※ </span>접수기한 엄수</u><span lang=\"EN-US\"><br> ② </span>예선 결과 발표<span lang=\"EN-US\"> : 6</span>월<span lang=\"EN-US\"> 19</span>일<span lang=\"EN-US\"> (</span>금<span lang=\"EN-US\">) (</span>본선 진출팀<span lang=\"EN-US\"> 12</span>팀 내외 선발 예정<span lang=\"EN-US\">) <br> ③ </span>본선 발표 사전 점검<span lang=\"EN-US\"> : 6</span>월<span lang=\"EN-US\"> 24</span>일<span lang=\"EN-US\"> (</span>수<span lang=\"EN-US\">) ~ 6</span>월<span lang=\"EN-US\"> 26</span>일<span lang=\"EN-US\"> (</span>금<span lang=\"EN-US\">) </span>중 하루 온<span lang=\"EN-US\">/</span>오프라인으로 진행<span lang=\"EN-US\"><o:p></o:p></span></p> <p class=\"MsoNormal\"><span lang=\"EN-US\">(*</span>오프라인 참여가 원칙이며<span lang=\"EN-US\">, </span>불가피한 경우 온라인 참여 가능<span lang=\"EN-US\">.<o:p></o:p></span></p> <p class=\"MsoNormal\">팀 별 최소<span lang=\"EN-US\"> 1</span>인 이상 참석 필수<span lang=\"EN-US\">. </span>본선 진출 팀 대상 개별 안내 예정<span lang=\"EN-US\">.)<o:p></o:p></span></p> <p class=\"MsoNormal\"><span lang=\"EN-US\"><br> ④ </span>최종 발표 자료 제출<span lang=\"EN-US\"> : 7</span>월<span lang=\"EN-US\"> 1</span>일<span lang=\"EN-US\"> (</span>수<span lang=\"EN-US\">) 13:00</span>까지<span lang=\"EN-US\"><o:p></o:p></span></p> <p class=\"MsoNormal\"><span lang=\"EN-US\">(※</span>최종 결과물은 본선에 진출한 팀들 대상으로 추가 제출이 필요합니다<span lang=\"EN-US\">. </span>영상<span lang=\"EN-US\">/</span>콘티 등 시나리오 설명 자료 및 발표 자료<span lang=\"EN-US\"> - PPT </span>또는<span lang=\"EN-US\"> PDF </span>파일<span lang=\"EN-US\">) <o:p></o:p></span></p> <p class=\"MsoNormal\"><span lang=\"EN-US\"><o:p> </o:p></span></p> <p class=\"MsoNormal\"><span lang=\"EN-US\">⑤ </span>대회 본선 및 시상식<span lang=\"EN-US\"> : 7</span>월<span lang=\"EN-US\"> 3</span>일<span lang=\"EN-US\"> (</span>금<span lang=\"EN-US\">) 10:00 ~ 17:00 (18:00 </span>종료 예정<span lang=\"EN-US\">) | </span>장소<span lang=\"EN-US\">: </span>워커힐 호텔 아카디아<span lang=\"EN-US\"><o:p></o:p></span></p> <p class=\"MsoNormal\"><span lang=\"EN-US\"><o:p> </o:p></span></p> <p class=\"MsoNormal\"><span lang=\"EN-US\"><br> <b>▶ </b></span><b>접수 방법<span lang=\"EN-US\"><br> </span></b><span lang=\"EN-US\">https://event-us.kr/m/125194/55517<o:p></o:p></span></p> <p class=\"MsoNormal\"><span lang=\"EN-US\">- </span>참가 신청서 및 아래 제출 서류를 지원 단계에서 다운로드 받은 후 작성<span lang=\"EN-US\">, </span>제출해주세요<span lang=\"EN-US\">.<o:p></o:p></span></p> <p c",
-          "source_post_id": "106333",
-          "source_kind": "aggregate",
-          "source_priority": 40,
-          "application_url": null,
-          "document_url": null,
-          "recruit_start": "2026-05-26",
-          "recruit_end": "2026-06-17",
-          "event_start": null,
-          "event_end": null,
-          "date_kind": "exact",
-          "eligibility": "제한 없음",
-          "benefits": "200만원",
-          "location": "",
-          "mode": "",
-          "fee": "unknown",
-          "original_category": "게임/소프트웨어, 기획/아이디어, 영상/UCC",
           "collected_at": "2026-09-17T22:31:41+09:00"
         }
       ]
