@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-22T19:01:53+09:00",
+  "generated_at": "2026-09-22T21:01:40+09:00",
   "items": [
     {
       "id": "ee01812ca4ea0c531566",
@@ -119,7 +119,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-18T14:09:43+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "momo365",
@@ -128,7 +128,7 @@
           "source_post_id": null,
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -174,7 +174,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -265,89 +265,6 @@
       ]
     },
     {
-      "id": "7e37b7ddb598c5ef443d",
-      "title": "2026년 AI 융합 에스테틱 의료기기 글로벌 사업화 기반구축 사업(1차년도) 참여기업 통합모집 재공고 (바이오산업 개방형 생태계 조성 촉진)",
-      "source_name": "기업마당",
-      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=AI&condition=searchPblancNm&condition1=AND&keyword=AI&pblancId=PBLN_000000000126331",
-      "organizer": "원주의료기기산업진흥원",
-      "summary": "기업마당 공개 지원사업 · 기술 · 검색어 AI. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "AI",
-        "창업"
-      ],
-      "audience_tags": [],
-      "status": "today",
-      "relevance": {
-        "score": 78,
-        "reasons": [
-          "제목 핵심 키워드: ai, 사업화",
-          "본문·분류 키워드: ai, 사업화",
-          "공고 유형: support"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-09-22T07:11:22+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
-      "sources": [
-        {
-          "source_id": "bizinfo",
-          "source_name": "기업마당",
-          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=AI&condition=searchPblancNm&condition1=AND&keyword=AI&pblancId=PBLN_000000000126331",
-          "source_post_id": "PBLN_000000000126331",
-          "kind": "government",
-          "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-09-07",
-      "recruit_end": "2026-09-22",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 0,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026년ai융합에스테틱의료기기글로벌사업화기반구축사업1차년도참여기업통합모집재공고바이오산업개방형생태계조성촉진|원주의료기기산업진흥원|2026-09-22",
-      "classification_inputs": [
-        {
-          "source_id": "bizinfo",
-          "source_name": "기업마당",
-          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=AI&condition=searchPblancNm&condition1=AND&keyword=AI&pblancId=PBLN_000000000126331",
-          "title": "2026년 AI 융합 에스테틱 의료기기 글로벌 사업화 기반구축 사업(1차년도) 참여기업 통합모집 재공고 (바이오산업 개방형 생태계 조성 촉진)",
-          "organizer": "원주의료기기산업진흥원",
-          "summary": "기업마당 공개 지원사업 · 기술 · 검색어 AI",
-          "body_text": "기술 AI",
-          "source_post_id": "PBLN_000000000126331",
-          "source_kind": "government",
-          "source_priority": 80,
-          "application_url": null,
-          "document_url": null,
-          "recruit_start": "2026-09-07",
-          "recruit_end": "2026-09-22",
-          "event_start": null,
-          "event_end": null,
-          "date_kind": "exact",
-          "eligibility": "",
-          "benefits": "",
-          "location": "",
-          "mode": "",
-          "fee": "unknown",
-          "original_category": "기술",
-          "collected_at": "2026-09-22T14:21:01+09:00"
-        }
-      ]
-    },
-    {
       "id": "40a4847e6883151f46be",
       "title": "[사업화] --> 2026년 아태 AI 특화지구(AHAP) 조성 사업 공고",
       "source_name": "정보통신산업진흥원",
@@ -375,7 +292,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -384,7 +301,7 @@
           "source_post_id": "16921",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -430,7 +347,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "웹/모바일/IT · 소프트웨어 · AI",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -457,7 +374,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-16T06:43:59+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -466,7 +383,7 @@
           "source_post_id": "PBLN_000000000126472",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -512,7 +429,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "수출",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -539,7 +456,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-14T22:19:00+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -548,7 +465,7 @@
           "source_post_id": "PBLN_000000000126452",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -594,7 +511,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "기술",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -1148,7 +1065,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-16T06:43:59+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1157,7 +1074,7 @@
           "source_post_id": "PBLN_000000000126466",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -1203,7 +1120,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "기술",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -1231,7 +1148,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-17T06:15:06+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1240,7 +1157,7 @@
           "source_post_id": "PBLN_000000000126509",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -1286,7 +1203,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "수출",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -1313,7 +1230,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-14T22:19:00+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -1322,7 +1239,7 @@
           "source_post_id": "178896",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -1368,7 +1285,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "창업지원",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -1747,7 +1664,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-18T20:47:12+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1756,7 +1673,7 @@
           "source_post_id": "PBLN_000000000126638",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -1802,7 +1719,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "내수",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -1931,7 +1848,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-18T02:15:03+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1940,7 +1857,7 @@
           "source_post_id": "PBLN_000000000126590",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -1986,7 +1903,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "수출",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -2013,7 +1930,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-14T22:19:00+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2022,7 +1939,7 @@
           "source_post_id": "PBLN_000000000126447",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -2068,94 +1985,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "기술",
-          "collected_at": "2026-09-22T14:21:01+09:00"
-        }
-      ]
-    },
-    {
-      "id": "f7dd0ee987a7db3df998",
-      "title": "[공지] 2026 충남 천안 그린스타트업타운 입주기업 홍보 지원사업 참여 희망기업 모집",
-      "source_name": "모모365",
-      "source_url": "https://www.momo365.net/Support?cd=support&ViewType=detail&seq=177062",
-      "organizer": "모모365",
-      "summary": "문화사업지원플랫폼 모모365 | 지원정보 조회 광고문의 상품안내 공고등록 설문조사 로그인 회원가입 최근 본 정보 공모지원 공공입찰 채용정보 공고달력 커뮤니티 공모사업 공모전 공모결과 입찰공고 낙찰결과 채용공고 공고달력 공지사항 참여자모집 홍보게시판 자유게시판 문화공론장 모모's Pick 사업정보 상세 홈 > 사업정보 조회",
-      "primary_type": "support",
-      "field_tags": [
-        "AI",
-        "웹·앱",
-        "창업",
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [
-        "창업자·기업"
-      ],
-      "status": "open",
-      "relevance": {
-        "score": 82,
-        "reasons": [
-          "제목 핵심 키워드: 스타트업",
-          "본문·분류 키워드: ai, 스타트업, 창업, 콘텐츠",
-          "공고 유형: support"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-09-15T14:18:13+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
-      "sources": [
-        {
-          "source_id": "momo365",
-          "source_name": "모모365",
-          "source_url": "https://www.momo365.net/Support?cd=support&ViewType=detail&seq=177062",
-          "source_post_id": null,
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-09-15",
-      "recruit_end": "2026-09-29",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 7,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "공지2026충남천안그린스타트업타운입주기업홍보지원사업참여희망기업모집|모모365|2026-09-29",
-      "classification_inputs": [
-        {
-          "source_id": "momo365",
-          "source_name": "모모365",
-          "source_url": "https://www.momo365.net/Support?cd=support&ViewType=detail&seq=177062",
-          "title": "[공지] 2026 충남 천안 그린스타트업타운 입주기업 홍보 지원사업 참여 희망기업 모집",
-          "organizer": "모모365",
-          "summary": "문화사업지원플랫폼 모모365 | 지원정보 조회 광고문의 상품안내 공고등록 설문조사 로그인 회원가입 최근 본 정보 공모지원 공공입찰 채용정보 공고달력 커뮤니티 공모사업 공모전 공모결과 입찰공고 낙찰결과 채용공고 공고달력 공지사항 참여자모집 홍보게시판 자유게시판 문화공론장 모모's Pick 사업정보 상세 홈 > 사업정보 조회",
-          "body_text": "문화사업지원플랫폼 모모365 | 지원정보 조회 광고문의 상품안내 공고등록 설문조사 로그인 회원가입 최근 본 정보 공모지원 공공입찰 채용정보 공고달력 커뮤니티 공모사업 공모전 공모결과 입찰공고 낙찰결과 채용공고 공고달력 공지사항 참여자모집 홍보게시판 자유게시판 문화공론장 모모's Pick 사업정보 상세 홈 > 사업정보 조회 > 사업정보 상세 목록 [충남콘텐츠진흥원] [공지] 2026 충남 천안 그린스타트업타운 입주기업 홍보 지원사업 참여 희망기업 모집 등록일 2026-09-15 마감일 2026-09-29 관련링크 공고처 바로가기 첨부파일 20260915115710_기업_신청양식 2026년 충남 천안 그린스타트업타운 스타트업 홍보 지원사업 신청 양식.hwp 20260915115710_공고문 2026 그린스타트업타운 입주기업 홍보영상 및 홍보물 제작 지원사업 공고.pdf 상세내용 본 공고와 유사한 공고 ※ 댓글은 로그인 후 이용가능합니다. 댓글 0 댓글이 없습니다. 공모사업 충남콘텐츠진흥원 [공고] 2026 모두의 AI라운지@천안 AI 셰르파 입주기업 모집 공고 2026/09/07 ~ 2026/09/17 충남 공모사업 충남문화관광재단 2026년 충남문화예술교육 거점공간 협업 공간 추가 모집 안내 2026/08/27 ~ 2026/09/04 충남 공모사업 충남콘텐츠진흥원 [공고] 2026년 3차 충남콘텐츠기업지원센터 입주기업 모집 2026/08/24 ~ 2026/09/08 충남 공모사업 충남문화관광재단 2026년 충남문화예술교육 거점공간 모집 안내 2026/08/13 ~ 2026/08/21 충남 공모사업 충남콘텐츠진흥원 [공고] 2026년 스타트업 글로벌 진출 지원사업(FLY ASIA) 모집 공고 2026/08/10 ~ 2026/08/24 충남 공모사업 충남콘텐츠진흥원 [공고] 2026 벤처창업·AI분야 역량강화 교육 바우처 지원사업 2차 모집공고 2026/08/10 ~ 2026/08/28 충남 공모사업 충남콘텐츠진흥원 [공고] 2026년 2차 충남콘텐츠기업지원센터 입주기업 모집(연장) 공고 2026/07/16 ~ 2026/07/28 충남 공모사업 충남콘텐츠진흥원 [공고]2026 충남 천안 그린스타트업타운 오픈이노베이션 밋업 1차 모집 2026/07/06 ~ 2026/07/13 충남 공모사업 충남콘텐츠진흥원 (연장) [공고] 2026년 스타트업 글로벌 진출 지원사업(KBES) 모집공고 2026/06/29 ~ 2026/07/06 충남 회사명 기분좋은큐엑스 대표자명 황상훈 주소 서울시 용산구 한강대로 44길 17-4 사업자등록번호 106-86-83943 통신판매업신고번호 제 2020-서울용산-0347호 Copyright GIVENZONEQX All right reserved. 고객센터 02. 792. 5050 평일 10:00 ~ 18:30 | 점심시간 12:30 ~ 13:30 이메일 culture.momo365@gmail.com 이용약관 개인정보보호정책 문의하기",
-          "source_post_id": null,
-          "source_kind": "aggregate",
-          "source_priority": 40,
-          "application_url": null,
-          "document_url": null,
-          "recruit_start": "2026-09-15",
-          "recruit_end": "2026-09-29",
-          "event_start": null,
-          "event_end": null,
-          "date_kind": "exact",
-          "eligibility": "",
-          "benefits": "",
-          "location": "",
-          "mode": "",
-          "fee": "unknown",
-          "original_category": "",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -2367,7 +2197,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-17T21:02:19+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -2376,7 +2206,7 @@
           "source_post_id": "326D00108002",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -2422,7 +2252,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "디지털 콘텐츠 · 모집공모",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -2785,93 +2615,6 @@
       ]
     },
     {
-      "id": "534aca26dc4d74cdc810",
-      "title": "2026 청년성장동력 지원 사업 국악창업 실습 교육 참가자 모집 공고",
-      "source_name": "모모365",
-      "source_url": "https://www.momo365.net/Support?cd=support&ViewType=detail&seq=177056",
-      "organizer": "10 월 6, 13, 20 일 ( 수 ) 10:00~17:00 ㅇ 교육장소 : 전통공연창작",
-      "summary": "문화사업지원플랫폼 모모365 | 지원정보 조회 광고문의 상품안내 공고등록 설문조사 로그인 회원가입 최근 본 정보 공모지원 공공입찰 채용정보 공고달력 커뮤니티 공모사업 공모전 공모결과 입찰공고 낙찰결과 채용공고 공고달력 공지사항 참여자모집 홍보게시판 자유게시판 문화공론장 모모's Pick 사업정보 상세 홈 > 사업정보 조회",
-      "primary_type": "education",
-      "field_tags": [
-        "웹·앱",
-        "창업",
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [
-        "청년",
-        "창업자·기업"
-      ],
-      "status": "open",
-      "relevance": {
-        "score": 79,
-        "reasons": [
-          "제목 핵심 키워드: 창업",
-          "본문·분류 키워드: 스타트업, 창업, 콘텐츠, 플랫폼",
-          "공고 유형: education"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-09-15T14:18:13+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
-      "sources": [
-        {
-          "source_id": "momo365",
-          "source_name": "모모365",
-          "source_url": "https://www.momo365.net/Support?cd=support&ViewType=detail&seq=177056",
-          "source_post_id": null,
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-09-15",
-      "recruit_end": "2026-09-30",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 8,
-      "eligibility": "전통예술분야 비즈니스 창업 역량을 키우고 싶은 예술인 , 국악문화산업 창업 관련 업무에 관심이 있는 청년 □ 교육과정 ㅇ 강사 : 권수정 - Stop & C 대표 이은주 - 애플세",
-      "benefits": "",
-      "location": "전통공연창작마루 (8 층 ) 강의실 ㅇ 세부 교육내용 일정 강의 제목 주요 내용 10 월 6 일 10:00 예술가에서 창업가로 창업 개념과 예술가의 확장 예술가의 역할 확장을 이해",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026청년성장동력지원사업국악창업실습교육참가자모집공고|10월61320일수10001700교육장소전통공연창작|2026-09-30",
-      "classification_inputs": [
-        {
-          "source_id": "momo365",
-          "source_name": "모모365",
-          "source_url": "https://www.momo365.net/Support?cd=support&ViewType=detail&seq=177056",
-          "title": "2026 청년성장동력 지원 사업 국악창업 실습 교육 참가자 모집 공고",
-          "organizer": "10 월 6, 13, 20 일 ( 수 ) 10:00~17:00 ㅇ 교육장소 : 전통공연창작",
-          "summary": "문화사업지원플랫폼 모모365 | 지원정보 조회 광고문의 상품안내 공고등록 설문조사 로그인 회원가입 최근 본 정보 공모지원 공공입찰 채용정보 공고달력 커뮤니티 공모사업 공모전 공모결과 입찰공고 낙찰결과 채용공고 공고달력 공지사항 참여자모집 홍보게시판 자유게시판 문화공론장 모모's Pick 사업정보 상세 홈 > 사업정보 조회",
-          "body_text": "문화사업지원플랫폼 모모365 | 지원정보 조회 광고문의 상품안내 공고등록 설문조사 로그인 회원가입 최근 본 정보 공모지원 공공입찰 채용정보 공고달력 커뮤니티 공모사업 공모전 공모결과 입찰공고 낙찰결과 채용공고 공고달력 공지사항 참여자모집 홍보게시판 자유게시판 문화공론장 모모's Pick 사업정보 상세 홈 > 사업정보 조회 > 사업정보 상세 목록 [전통공연예술진흥재단] 2026 청년성장동력 지원 사업 국악창업 실습 교육 참가자 모집 공고 등록일 2026-09-15 마감일 2026-09-30 관련링크 공고처 바로가기 첨부파일 20260915115446_붙임 1. 2026 국악창업 실습 교육_공고문.pdf 상세내용 본 공고와 유사한 공고 2026 청년성장동력 지원 사업 국악창업 실습 교육 참가자 모집 공고 문화체육관광부와 ( 재 ) 전통공연예술진흥재단에서는 전통예술 공연기획 실무 교육을 진행합니다 . 본 과정은 전통예술분야 창업에 관심이 있는 청년 전통예술인이 본인의 예술형태에 적합한 사업자등록의 개념을 이해하고 , 창업의 이해와 방향설정을 통하여 , 예술콘텐츠의 비즈니스 전환을 지원 사업을 발판 삼아 성공적인 예술창업으로 진입하여 지속적인 예술 활동을 할 수 있도록 기획되었습니다 . 관심 있는 분들의 많은 참여 바랍니다 . □ 사업개요 ㅇ 사 업 명 : 국악창업 실습 교육 ㅇ 내 용 : 전통예술인의 창업관련 역량 강화 ㅇ 추진단계 : 공모 및 선정 (9 월 ) → 국악창업 실습 교육 (10 월 ) □ 공모내용 ㅇ 공 모 명 : 국악창업 실습 교육 참가자 모집 ㅇ 공모대상 : 전통예술분야 비즈니스 창업 역량을 키우고 싶은 예술인 , 국악문화산업 창업 관련 업무에 관심이 있는 청년 □ 교육과정 ㅇ 강사 : 권수정 - Stop & C 대표 이은주 - 애플세무회계 대표세무사 박제영 - 에잇어라운드 대표 ㅇ 교육명 : 국악창업 실습 교육 ㅇ 교육운영 : 10 월 6, 13, 20 일 ( 수 ) 10:00~17:00 ㅇ 교육장소 : 전통공연창작마루 (8 층 ) 강의실 ㅇ 세부 교육내용 일정 강의 제목 주요 내용 10 월 6 일 10:00 예술가에서 창업가로 창업 개념과 예술가의 확장 예술가의 역할 확장을 이해하고 , 창업을 새로운 표현 방식으로 인식 10 월 6 일 13:00 전통예술의 확장 가능성 예술콘텐츠가 확장을 위한 다양한 비즈니스 영역 탐색 10 월 6 일 15:00 나의 콘텐츠 자가진단과 비전 설계 자신의 강점 · 가치를 기반으로 창업 방향성 구체화 10 월 13 일 10:00 예술 콘텐츠 비즈니스 전환 고객과 시장 이해 고객의 관점에서 나의 콘텐츠 가치를 재정의 10 월 13 일 13:00 사업 아이디어 도출 워크숍 문제 – 해결 구조를 기반으로 사업 아이디어 구체화 10 월 13 일 15:00 비즈니스 모델 설계 나의 예술 콘텐츠를 비즈니스모델 구조화하기 10 월 20 일 10:00 창업 실전과 지속가능한 운영 세무 · 회계 기본 창업에 필수적인 회계 · 정산 · 세금 개념의 이해 10 월 20 일 13:00 나에게 맞는 세무 형태 선택 ( 프리랜서 · 고유번호증 · 사업자등록 ) 활동 계획에 맞는 법적 · 행정적 세무 형태 선택하기 ( 업종코드 , 과세 · 면세 , 간이과세 등 사업자등록 실무 ) 10 월 20 일 15:00 지원사업 탐색과 신청 준비 적합한 지원사업을 스스로 찾고 , 신청 가능성 판단 * 상기 일정은 진행 상황에 따라 변동이 있을 수 있 음 □ 접수안내 ㅇ 접수방법 : 구글 폼을 이용한 접수 https://forms.gle/6eDxmuSaQucRgiPm6 ㅇ 선발방법 : 선착순 30 명 이내 선착순 모집 , 결원발생시 추가선발 ㅇ 진행절차 : 1) 접수기간 : 9. 16.( 수 ) ~ 9. 30.( 수 ) 18:00 까지 . 2) 선정 결과 발표 : 10. 2.( 금 ) 개별안내 예정 * 선정자에 한하여 개별 문자 안내 예정 * 상기 일정은 교육 및 현장 상황에 따라 변동이 있을 수 있음 ㅇ 기타문의 : 인재육성팀 담당자 (070-8893-4774) □ 교육 참여자 안내사항 <유의사항> ※ 접수기간 외 신청은 불가능하며 , 접수된 서류는 반환되지 않음 ※ 제출서류 미비 및 접수 미확인 등으로 인한 책임은 신청자에게 있으며 사전 통보 없이 심사에서 제외될 수 있음 ※ 선정 후에도 제출서류가 거짓으로 밝혀지거나 교육 이행 사항이 불성실할 경우 선정을 취소할 수 있음 ※ 미선정 사유에 관한 정보 공개하지 않음 ※ 아래 해당할 경우 , 향우 교육 과정 참여 불이익이 있습니다 . - 대리 신청 및 대리 참석자 - 수강 선정 후 무단 중도 취소 및 결석자 ※ 댓글은 로그인 후 이용가능합니다. 댓글 0 댓글이 없습니다. 공모사업 한국문화예술위원회 2027년 해외레지던시참가지원(지정) IETM 국제현대공연예술네트워크 글로벌 커넥트 및 정기총회 초청 프로그램 2026/09/15 ~ 2026/10/15 전국 공모사업 (사)한국소극장협회 [회원등록공고] [공모] 2026년 야간 공연 관람권 운영 사업_4차 공모 2026/09/14 ~ 2026/09/27 전국 공모사업 한국문화예술회관연합회 2026년 문예회관 종합컨설팅 지원 사업 추가 공모 안내 2026/09/14 ~ 2026/09/30 전국 공모사업 충주문화관광재단 2026년 문화도시 충주 국악향유공간활성화지원 소소한호강 우리함께국악학교 모집 공고 2026/09/09 ~ 2026/09/30 전국 공모사업 충주문화관광재단 2026년 문화도시 충주 국악향유공간활성화지원 소소한호강 소소한살롱 모집 공고 2026/09/09 ~ 2026/09/30 전국 공모사업 서울문화재단 2026 예술인 스터디 커뮤니티 < 모닝쿼드> 호스트 모집 공모 2026/08/28 ~ 2026/10/16 전국 공모사업 (재)아산문화재단 [회원등록공고] 2026 은행나무길 거리예술제 < 아트 스테이지: Art Stage> 거리예술 공연팀 모집 공고 2026/08/28 ~ 2026/09/14 전국 공모사업 금천문화재단 2026년 금천하모니축제 통합 모집 공고 2026/08/31 ~ 2026/09/11 전국 공모사업 한국공예디자인문화진흥원 2026 하반기 전통문화 혁신이용권 공급기업 공모 2026/08/31 ~ 2026/09/18 전국 공모사업 아트누리 2027년 해외레지던시및프로그램참가지원(칠레 테아트로아밀축제-플라테아아밀) 2026/08/31 ~ 2026/09/14 전국 공모사업 한국문화예술회관연합회 2027 해외 우수 콘텐츠 지역 네트워크 사업 공모 안내 2026/08/24 ~ 2026/09/18 전국 공모사업 국립정동극장 국립정동극장 세실 2027 창작ing 작품 공모 2026/08/19 ~ 2026/09/21 전국 공모사업 아트누리 서울문화재단 대학로센터 < 제철공연> 참여단체 모집 2026/08/10 ~ 2026/09/02 전국 공모사업 (재)예술경영지원센터 2026년 예술기업 상생혁신(오픈이노베이션) 지원사업 공모 2026/08/06 ~ 2026/08/20 전국 공모사업 종로문화재단 2026 종로한복축제 부스(체험·마켓) 운영자 모집 2026/08/04 ~ 2026/08/15 전국 공모사업 한국공예디자인문화진흥원 2026 한복문화주간 일반참여처 추가 모집 2026/08/03 ~ 2026/08/28 전국 공모사업 예술경영지원센터 2026년 예술산업보증 8월(5차) 공모 2026/08/03 ~ 2026/08/10 전국 공모사업 김포문화재단 2026-27년 시즌 김포버스커 모집 2026/07/30 ~ 2026/08/11 전국 공모사업 예술경영지원센터 2026년 예술분야 예비창업 프로그램 참여자 모집 2026/07/27 ~ 2026/08/10 전국 공모사업 한국문화예술회관연합회 2026년 문예회관 아카데미 해외연수 과정 참가자 공모 안내 2026/07/27 ~ 2026/08/07 전국 공모사업 강서구청 2026 강서청년 문화예술축제 공연 전시 참여자 모집 2026/07/27 ~ 2026/08/03 전국 공모사업 영월문화관광재단 2026년 영월플레이리스트: 예술로 연결되다 공모 2026/07/22 ~ 2026/08/20 전국 공모사업 문화NOT공장, 강동문화재단 [회원등록공고] 예비예술인 : 아직은 없는 동네 2차 구성원 모집 2026/07/20 ~ 2026/08/04 전국 공모사업 전통공연예술진흥재단 2026 청년성장동력 지원 - 공연기획 실무 교육 참가자 모집 공고 2026/07/14 ~ 2026/07/29 전국 공모사업 광주문화재단 2026 광주거리예술축제 거리로프로젝트(아트마켓) 참가 작품 공고 2026/07/14 ~ 2026/07/31 전국 공모사업 서울문화재단 2026년 서울문화재단 예술플러스창업 포르쉐 프런티어 스타트업 공모 2026/07/13 ~ 2026/07/27 전국 공모사업 한국장애인문화예술원 2026 이:음 예술창작아카데미 파견기관 모집(~7/30) 2026/07/13 ~ 2026/07/30 전국 공모사업 (사)한국소극장협회 [회원등록공고] [공모] 2026년 야간 공연 관람권 운영 사업_3차 공모 2026/07/13 ~ 2026/07/26 전국 공모사업 라움아트센터 2027 라움 마티네 콘서트 콘텐츠 공모 2026/07/10 ~ 2026/07/26 전국 공모사업 한국국제문화교류진흥원 < 2026 한중일 문화교류의 해> 2026 한중일 미래세대 문화예술교류 지원사업 2차 공모 2026/07/09 ~ 2026/07/27 전국 공모사업 국립박물관문화재단 2027년 극장 용 공동기획 공연 추가 공모 안내 2026/07/07 ~ 2026/07/31 전국 공모사업 한국국제문화교류진흥원 2026년 제3차 공모 개최 2026/07/06 ~ 2026/07/20 전국 공모사업 한국콘텐츠진흥원 [추가공고] 2026년 대중음악 비즈니스 인력양성 지원 2026/06/30 ~ 2026/07/14 전국 공모사업 서울문화재단 [공모] 2026 서울문화재단 〈S-Arts 글로벌 프런티어〉 서커스·거리예술 특화형 공모(~7. 6.) 2026/06/29 ~ 2026/07/06 전국 공모사업 과천문화재단 2026년 과천공연예술축제 과천 집합쇼(GPAF-Show) 공모 2026/06/30 ~ 2026/07/19 전국 공모사업 전통공연예술진흥재단 2026 청년성장동력 지원 사업 음원제작 및 상품화 실습교육 참가자 모집 공고 2026/06/29 ~ 2026/07/15 전국 공모사업 예술경영지원센터 2026년 예술산업 금융지원 시범사업(융자) 3차 공모 2026/06/29 ~ 2026/07/17 전국 공모사업 대구문화예술진흥원 제23회 대구국제오페라축제 2026 대구글로벌오페라마켓 쇼케이스 예술단체 모집 공고 2026/06/29 ~ 2026/07/20 전국 회사명 기분좋은큐엑스 대표자명 황상훈 주소 서울시 용산구 한강대로 44길 17-4 사업자등록번호 106-86-83943 통신판매업신고번호 제 2020-서울용산-0347호 Copyright GIVENZONEQX All right reserved. 고객센터 02. 792. 5050 평일 10:00 ~ 18:30 | 점심시간 12:30 ~ 13:30 이메일 culture.momo365@gmail.com 이용약관 개인정보보호정책 문의하기",
-          "source_post_id": null,
-          "source_kind": "aggregate",
-          "source_priority": 40,
-          "application_url": null,
-          "document_url": null,
-          "recruit_start": "2026-09-15",
-          "recruit_end": "2026-09-30",
-          "event_start": null,
-          "event_end": null,
-          "date_kind": "exact",
-          "eligibility": "전통예술분야 비즈니스 창업 역량을 키우고 싶은 예술인 , 국악문화산업 창업 관련 업무에 관심이 있는 청년 □ 교육과정 ㅇ 강사 : 권수정 - Stop & C 대표 이은주 - 애플세",
-          "benefits": "",
-          "location": "전통공연창작마루 (8 층 ) 강의실 ㅇ 세부 교육내용 일정 강의 제목 주요 내용 10 월 6 일 10:00 예술가에서 창업가로 창업 개념과 예술가의 확장 예술가의 역할 확장을 이해",
-          "mode": "",
-          "fee": "unknown",
-          "original_category": "",
-          "collected_at": "2026-09-22T14:21:01+09:00"
-        }
-      ]
-    },
-    {
       "id": "44fac03ca5fa12342f32",
       "title": "2026 한국관광 데이터랩 활용 경진대회",
       "source_name": "위비티",
@@ -2981,7 +2724,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-18T02:15:03+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2990,7 +2733,7 @@
           "source_post_id": "PBLN_000000000126566",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -3036,7 +2779,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "내수",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -3063,7 +2806,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -3072,7 +2815,7 @@
           "source_post_id": "PBLN_000000000125199",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -3118,7 +2861,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "경영",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -3412,7 +3155,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-17T06:15:06+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -3421,7 +3164,7 @@
           "source_post_id": "PBLN_000000000126514",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -3467,7 +3210,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "수출",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -3494,7 +3237,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-17T06:15:06+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -3503,7 +3246,7 @@
           "source_post_id": "PBLN_000000000126513",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -3549,7 +3292,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "기술",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -3669,7 +3412,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-11T20:47:16+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -3678,7 +3421,7 @@
           "source_post_id": "16931",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -3724,7 +3467,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "웹/모바일/IT · 소프트웨어 · AI",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -3752,7 +3495,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-18T20:47:12+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -3761,7 +3504,7 @@
           "source_post_id": "PBLN_000000000126601",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -3807,7 +3550,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "창업",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -3834,7 +3577,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-17T06:15:06+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -3843,7 +3586,7 @@
           "source_post_id": "EVEN_000000000069453",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -3889,7 +3632,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -3916,7 +3659,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-18T02:15:03+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -3925,7 +3668,7 @@
           "source_post_id": "EVEN_000000000069455",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -3971,7 +3714,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -3998,7 +3741,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -4007,7 +3750,7 @@
           "source_post_id": "PBLN_000000000125282",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -4053,7 +3796,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "경영",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -4080,7 +3823,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -4089,7 +3832,7 @@
           "source_post_id": "EVEN_000000000068849",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -4135,7 +3878,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -4775,102 +4518,6 @@
       ]
     },
     {
-      "id": "80973f519c3cf765d168",
-      "title": "2026년 경남콘텐츠코리아랩 입주기업 모집 공고",
-      "source_name": "모모365",
-      "source_url": "https://www.momo365.net/Support?cd=support&ViewType=detail&seq=177176",
-      "organizer": "모모365",
-      "summary": "문화사업지원플랫폼 모모365 | 지원정보 조회 광고문의 상품안내 공고등록 설문조사 로그인 회원가입 최근 본 정보 공모지원 공공입찰 채용정보 공고달력 커뮤니티 공모사업 공모전 공모결과 입찰공고 낙찰결과 채용공고 공고달력 공지사항 참여자모집 홍보게시판 자유게시판 문화공론장 모모's Pick 사업정보 상세 홈 > 사업정보 조회",
-      "primary_type": "support",
-      "field_tags": [
-        "디지털 콘텐츠",
-        "웹·앱"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 94,
-        "reasons": [
-          "제목 핵심 키워드: 콘텐츠",
-          "본문·분류 키워드: 디지털 콘텐츠, 콘텐츠, 콘텐츠 제작, 플랫폼",
-          "공고 유형: support",
-          "게임·디지털 콘텐츠 형태로 참가 가능",
-          "본문·분류 키워드: 콘텐츠, 플랫폼"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-09-17T02:16:03+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
-      "sources": [
-        {
-          "source_id": "momo365",
-          "source_name": "모모365",
-          "source_url": "https://www.momo365.net/Support?cd=support&ViewType=detail&seq=177176",
-          "source_post_id": null,
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
-        },
-        {
-          "source_id": "momo365",
-          "source_name": "모모365",
-          "source_url": "https://www.momo365.net/Support?cd=support&ViewType=detail&seq=177096",
-          "source_post_id": null,
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-09-16",
-      "recruit_end": "2026-10-02",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 10,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-09-18T14:09:43+09:00",
-      "change_flags": [
-        "title"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026년경남콘텐츠코리아랩입주기업모집공고|모모365|2026-10-02",
-      "classification_inputs": [
-        {
-          "source_id": "momo365",
-          "source_name": "모모365",
-          "source_url": "https://www.momo365.net/Support?cd=support&ViewType=detail&seq=177176",
-          "title": "2026년 경남콘텐츠코리아랩 입주기업 모집 공고",
-          "organizer": "모모365",
-          "summary": "문화사업지원플랫폼 모모365 | 지원정보 조회 광고문의 상품안내 공고등록 설문조사 로그인 회원가입 최근 본 정보 공모지원 공공입찰 채용정보 공고달력 커뮤니티 공모사업 공모전 공모결과 입찰공고 낙찰결과 채용공고 공고달력 공지사항 참여자모집 홍보게시판 자유게시판 문화공론장 모모's Pick 사업정보 상세 홈 > 사업정보 조회",
-          "body_text": "문화사업지원플랫폼 모모365 | 지원정보 조회 광고문의 상품안내 공고등록 설문조사 로그인 회원가입 최근 본 정보 공모지원 공공입찰 채용정보 공고달력 커뮤니티 공모사업 공모전 공모결과 입찰공고 낙찰결과 채용공고 공고달력 공지사항 참여자모집 홍보게시판 자유게시판 문화공론장 모모's Pick 사업정보 상세 홈 > 사업정보 조회 > 사업정보 상세 목록 [경남문화예술진흥원] 2026년 경남콘텐츠코리아랩 입주기업 모집 공고 등록일 2026-09-16 마감일 2026-10-02 관련링크 공고처 바로가기 첨부파일 20260918082633_[붙임2] 경남콘텐츠코리아랩 입주 신청서_.hwp 20260918082633_[붙임1] 입주기업 모집 공고문_.hwp 상세내용 본 공고와 유사한 공고 ㅁㅁ ※ 댓글은 로그인 후 이용가능합니다. 댓글 0 댓글이 없습니다. 공모사업 경남문화예술진흥원 2026 경남 콘텐츠페어 전시존 참가기업 모집 공고 2026/09/17 ~ 2026/09/22 경남 공모사업 밀양문화재단 2026 시군구연고산업육성사업 밀양 워캐이션 모집 공고 2026/08/25 ~ 2026/08/31 경남 공모사업 경남문화예술진흥원 2026 지역문화예술교육 기초거점구축 지원사업 추가 공모(연장) 2026/07/02 ~ 2026/07/20 경남 공모사업 경남문화예술진흥원 2026 경남콘텐츠기업지원센터 문화기술 콘텐츠 실증 제작 지원사업 모집공고 2026/06/26 ~ 2026/07/15 경남 공모사업 경남문화예술진흥원 2026 경남 미래 자원 디지털 콘텐츠 제작 참여기업 모집 공고 2026/06/25 ~ 2026/07/14 경남 공모사업 경남문화예술진흥원 2026 경남CKL 로컬 스토리 미드폼 제작지원 사업 모집 공고 2026/06/23 ~ 2026/07/09 경남 회사명 기분좋은큐엑스 대표자명 황상훈 주소 서울시 용산구 한강대로 44길 17-4 사업자등록번호 106-86-83943 통신판매업신고번호 제 2020-서울용산-0347호 Copyright GIVENZONEQX All right reserved. 고객센터 02. 792. 5050 평일 10:00 ~ 18:30 | 점심시간 12:30 ~ 13:30 이메일 culture.momo365@gmail.com 이용약관 개인정보보호정책 문의하기",
-          "source_post_id": null,
-          "source_kind": "aggregate",
-          "source_priority": 40,
-          "application_url": null,
-          "document_url": null,
-          "recruit_start": "2026-09-16",
-          "recruit_end": "2026-10-02",
-          "event_start": null,
-          "event_end": null,
-          "date_kind": "exact",
-          "eligibility": "",
-          "benefits": "",
-          "location": "",
-          "mode": "",
-          "fee": "unknown",
-          "original_category": "",
-          "collected_at": "2026-09-22T14:21:01+09:00"
-        }
-      ]
-    },
-    {
       "id": "0641d0be4cd1b9c8ee54",
       "title": "2026년 국민체육진흥공단 공공데이터 활용 경진대회 SPECIAL",
       "source_name": "위비티",
@@ -4981,7 +4628,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-15T14:18:13+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -4990,7 +4637,7 @@
           "source_post_id": "126D00070010",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -5036,7 +4683,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "디지털 콘텐츠 · 자유공모",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -5145,7 +4792,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -5154,7 +4801,7 @@
           "source_post_id": "PBLN_000000000126110",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -5200,7 +4847,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "기술",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -5309,7 +4956,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-22T07:11:22+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -5318,7 +4965,7 @@
           "source_post_id": "PBLN_000000000126683",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -5364,7 +5011,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "기술",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -5745,7 +5392,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-17T21:02:19+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -5754,7 +5401,7 @@
           "source_post_id": "326D00092012",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -5800,7 +5447,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "디지털 콘텐츠 · 모집공모",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -5915,7 +5562,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-15T21:04:52+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -5924,7 +5571,7 @@
           "source_post_id": "179232",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -5972,7 +5619,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "창업지원",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -6177,7 +5824,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-19T01:42:16+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -6186,7 +5833,7 @@
           "source_post_id": "PBLN_000000000126405",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -6232,7 +5879,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "기술",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -6433,7 +6080,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-14T22:19:00+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -6442,7 +6089,7 @@
           "source_post_id": "EVEN_000000000069431",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -6488,7 +6135,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -6771,7 +6418,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-17T06:15:06+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -6780,7 +6427,7 @@
           "source_post_id": "PBLN_000000000126541",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -6826,16 +6473,16 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "기술",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
     {
-      "id": "8f874e8f148785e827f3",
-      "title": "[전국] 2026년 소상공인 업종전문기술교육 업종기초(5시간이면 충분한 AI 쓰는 사장님)과정 모집",
+      "id": "360192d250228aad1815",
+      "title": "[대구] 자동차ㆍ모빌리티 산업 재직자 역량 강화를 위한 AI를 활용한 제조업 실무교육",
       "source_name": "기업마당",
-      "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=AI&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069412",
-      "organizer": "소상공인시장진흥공단",
+      "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=AI&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069495",
+      "organizer": "지능형자동차부품진흥원",
       "summary": "기업마당 공개 행사 · 행사정보 · 검색어 AI. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
       "primary_type": "education",
       "field_tags": [
@@ -6852,22 +6499,22 @@
         ],
         "decision": "publish"
       },
-      "first_seen_at": "2026-09-10T20:47:11+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "first_seen_at": "2026-09-22T21:01:40+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
           "source_name": "기업마당",
-          "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=AI&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069412",
-          "source_post_id": "EVEN_000000000069412",
+          "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=AI&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069495",
+          "source_post_id": "EVEN_000000000069495",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
-      "recruit_start": "2026-10-08",
+      "recruit_start": "2026-10-07",
       "recruit_end": "2026-10-08",
       "event_start": null,
       "event_end": null,
@@ -6882,22 +6529,22 @@
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
-      "dedupe_key": "전국2026년소상공인업종전문기술교육업종기초5시간이면충분한ai쓰는사장님과정모집|소상공인시장진흥공단|2026-10-08",
+      "dedupe_key": "대구자동차모빌리티산업재직자역량강화를위한ai를활용한제조업실무교육|지능형자동차부품진흥원|2026-10-08",
       "classification_inputs": [
         {
           "source_id": "bizinfo",
           "source_name": "기업마당",
-          "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=AI&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069412",
-          "title": "[전국] 2026년 소상공인 업종전문기술교육 업종기초(5시간이면 충분한 AI 쓰는 사장님)과정 모집",
-          "organizer": "소상공인시장진흥공단",
+          "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=AI&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069495",
+          "title": "[대구] 자동차ㆍ모빌리티 산업 재직자 역량 강화를 위한 AI를 활용한 제조업 실무교육",
+          "organizer": "지능형자동차부품진흥원",
           "summary": "기업마당 공개 행사 · 행사정보 · 검색어 AI",
           "body_text": "행사정보 AI",
-          "source_post_id": "EVEN_000000000069412",
+          "source_post_id": "EVEN_000000000069495",
           "source_kind": "government",
           "source_priority": 80,
           "application_url": null,
           "document_url": null,
-          "recruit_start": "2026-10-08",
+          "recruit_start": "2026-10-07",
           "recruit_end": "2026-10-08",
           "event_start": null,
           "event_end": null,
@@ -6908,7 +6555,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -6935,7 +6582,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-16T06:43:59+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -6944,7 +6591,7 @@
           "source_post_id": "PBLN_000000000126474",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -6990,7 +6637,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "경영",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -7017,7 +6664,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-16T14:13:09+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -7026,7 +6673,7 @@
           "source_post_id": "326D00089011",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -7072,7 +6719,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "디지털 콘텐츠 · 모집공모",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -7099,7 +6746,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-18T20:47:12+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -7108,7 +6755,7 @@
           "source_post_id": "179294",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -7156,7 +6803,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "창업지원",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -7183,7 +6830,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -7192,7 +6839,7 @@
           "source_post_id": "PBLN_000000000125566",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -7238,7 +6885,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "인력",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -7514,7 +7161,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-18T20:47:12+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -7523,7 +7170,7 @@
           "source_post_id": "PBLN_000000000126618",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -7569,7 +7216,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "기술",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -7596,7 +7243,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-18T02:15:03+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -7605,7 +7252,7 @@
           "source_post_id": "PBLN_000000000126558",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -7651,7 +7298,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "기술",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -7766,7 +7413,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-17T06:15:06+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -7775,7 +7422,7 @@
           "source_post_id": "PBLN_000000000126531",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -7821,7 +7468,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "수출",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -7937,7 +7584,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-17T14:20:06+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -7946,7 +7593,7 @@
           "source_post_id": "179287",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -7994,7 +7641,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "창업지원",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -8077,6 +7724,93 @@
           "fee": "unknown",
           "original_category": "과학",
           "collected_at": "2026-09-22T19:01:53+09:00"
+        }
+      ]
+    },
+    {
+      "id": "f9f2c16b044af91c523f",
+      "title": "[공고]2026 벤처창업·AI분야 역량강화 교육 바우처 지원사업 2차 모집공고(연장)",
+      "source_name": "모모365",
+      "source_url": "https://www.momo365.net/Support?cd=support&ViewType=detail&seq=177461",
+      "organizer": "모모365",
+      "summary": "문화사업지원플랫폼 모모365 | 지원정보 조회 광고문의 상품안내 공고등록 설문조사 로그인 회원가입 최근 본 정보 공모지원 공공입찰 채용정보 공고달력 커뮤니티 공모사업 공모전 공모결과 입찰공고 낙찰결과 채용공고 공고달력 공지사항 참여자모집 홍보게시판 자유게시판 문화공론장 모모's Pick 사업정보 상세 홈 > 사업정보 조회",
+      "primary_type": "support",
+      "field_tags": [
+        "AI",
+        "웹·앱",
+        "창업",
+        "디지털 콘텐츠"
+      ],
+      "audience_tags": [
+        "창업자·기업"
+      ],
+      "status": "open",
+      "relevance": {
+        "score": 87,
+        "reasons": [
+          "제목 핵심 키워드: ai, 창업",
+          "본문·분류 키워드: ai, 사업화, 스타트업, 창업",
+          "공고 유형: support"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-09-22T21:01:40+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
+      "sources": [
+        {
+          "source_id": "momo365",
+          "source_name": "모모365",
+          "source_url": "https://www.momo365.net/Support?cd=support&ViewType=detail&seq=177461",
+          "source_post_id": null,
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-09-22T21:01:40+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-09-22",
+      "recruit_end": "2026-10-12",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 20,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "공고2026벤처창업ai분야역량강화교육바우처지원사업2차모집공고연장|모모365|2026-10-12",
+      "classification_inputs": [
+        {
+          "source_id": "momo365",
+          "source_name": "모모365",
+          "source_url": "https://www.momo365.net/Support?cd=support&ViewType=detail&seq=177461",
+          "title": "[공고]2026 벤처창업·AI분야 역량강화 교육 바우처 지원사업 2차 모집공고(연장)",
+          "organizer": "모모365",
+          "summary": "문화사업지원플랫폼 모모365 | 지원정보 조회 광고문의 상품안내 공고등록 설문조사 로그인 회원가입 최근 본 정보 공모지원 공공입찰 채용정보 공고달력 커뮤니티 공모사업 공모전 공모결과 입찰공고 낙찰결과 채용공고 공고달력 공지사항 참여자모집 홍보게시판 자유게시판 문화공론장 모모's Pick 사업정보 상세 홈 > 사업정보 조회",
+          "body_text": "문화사업지원플랫폼 모모365 | 지원정보 조회 광고문의 상품안내 공고등록 설문조사 로그인 회원가입 최근 본 정보 공모지원 공공입찰 채용정보 공고달력 커뮤니티 공모사업 공모전 공모결과 입찰공고 낙찰결과 채용공고 공고달력 공지사항 참여자모집 홍보게시판 자유게시판 문화공론장 모모's Pick 사업정보 상세 홈 > 사업정보 조회 > 사업정보 상세 목록 [충남콘텐츠진흥원] [공고]2026 벤처창업·AI분야 역량강화 교육 바우처 지원사업 2차 모집공고(연장) 등록일 2026-09-22 마감일 2026-10-12 관련링크 공고처 바로가기 첨부파일 20260922032117_양식 벤처창업·AI분야 역량강화 교육 바우처 2차 지원사업 신청서.hwp 20260922032117_벤처창업·AI분야 역량강화 교육 바우처 지원사업 2차모집 공고문연장 재공고_게시용.pdf 20260922032154_벤처창업·AI분야 역량강화 교육 바우처 지원사업 2차모집 공고문연장 재공고_게시용.pdf 20260922032154_양식 벤처창업·AI분야 역량강화 교육 바우처 2차 지원사업 신청서.hwp 상세내용 본 공고와 유사한 공고 ※ 댓글은 로그인 후 이용가능합니다. 댓글 0 댓글이 없습니다. 공모사업 충남콘텐츠진흥원 [공지] 2026 충남 천안 그린스타트업타운 입주기업 홍보 지원사업 참여 희망기업 모집 2026/09/15 ~ 2026/09/29 충남 공모사업 충남콘텐츠진흥원 [공고] 2026 모두의 AI라운지@천안 AI 셰르파 입주기업 모집 공고 2026/09/07 ~ 2026/09/17 충남 공모사업 충남문화관광재단 2026년 충남문화예술교육 거점공간 협업 공간 추가 모집 안내 2026/08/27 ~ 2026/09/04 충남 공모사업 충남콘텐츠진흥원 [공고] 2026년 3차 충남콘텐츠기업지원센터 입주기업 모집 2026/08/24 ~ 2026/09/08 충남 공모사업 충남문화관광재단 2026년 충남문화예술교육 거점공간 모집 안내 2026/08/13 ~ 2026/08/21 충남 공모사업 충남콘텐츠진흥원 [공고] 2026년 스타트업 글로벌 진출 지원사업(FLY ASIA) 모집 공고 2026/08/10 ~ 2026/08/24 충남 공모사업 충남콘텐츠진흥원 [공고] 2026 벤처창업·AI분야 역량강화 교육 바우처 지원사업 2차 모집공고 2026/08/10 ~ 2026/08/28 충남 공모사업 충남콘텐츠진흥원 [공고] 2026 그린스타트업타운 오픈이노베이션 사업화 지원사업 참여기업 모집 2026/08/14 ~ 2026/09/04 충남 공모사업 충남콘텐츠진흥원 [공고] 2026년 2차 충남콘텐츠기업지원센터 입주기업 모집(연장) 공고 2026/07/16 ~ 2026/07/28 충남 공모사업 충남콘텐츠진흥원 [공고]2026 충남 천안 그린스타트업타운 오픈이노베이션 밋업 1차 모집 2026/07/06 ~ 2026/07/13 충남 공모사업 충남콘텐츠진흥원 (연장) [공고] 2026년 스타트업 글로벌 진출 지원사업(KBES) 모집공고 2026/06/29 ~ 2026/07/06 충남 회사명 기분좋은큐엑스 대표자명 황상훈 주소 서울시 용산구 한강대로 44길 17-4 사업자등록번호 106-86-83943 통신판매업신고번호 제 2020-서울용산-0347호 Copyright GIVENZONEQX All right reserved. 고객센터 02. 792. 5050 평일 10:00 ~ 18:30 | 점심시간 12:30 ~ 13:30 이메일 culture.momo365@gmail.com 이용약관 개인정보보호정책 문의하기",
+          "source_post_id": null,
+          "source_kind": "aggregate",
+          "source_priority": 40,
+          "application_url": null,
+          "document_url": null,
+          "recruit_start": "2026-09-22",
+          "recruit_end": "2026-10-12",
+          "event_start": null,
+          "event_end": null,
+          "date_kind": "exact",
+          "eligibility": "",
+          "benefits": "",
+          "location": "",
+          "mode": "",
+          "fee": "unknown",
+          "original_category": "",
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -8219,7 +7953,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-15T14:18:13+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -8228,7 +7962,7 @@
           "source_post_id": "16934",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -8274,7 +8008,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "웹/모바일/IT · 소프트웨어 · AI",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -8481,7 +8215,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-17T06:15:06+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -8490,7 +8224,7 @@
           "source_post_id": "EVEN_000000000069452",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -8536,7 +8270,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -8563,7 +8297,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-16T06:43:59+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -8572,7 +8306,7 @@
           "source_post_id": "EVEN_000000000069440",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -8618,7 +8352,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -8647,7 +8381,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-14T22:19:00+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -8656,7 +8390,7 @@
           "source_post_id": "EVEN_000000000069432",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -8702,7 +8436,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -8794,6 +8528,88 @@
       ]
     },
     {
+      "id": "fab9bb22909ca7f60d3a",
+      "title": "[충남] AI 국방 로봇 신속 실증ㆍ시범 개발 지원 사업 모집 공고(충남ㆍ논산방산혁신클러스터)",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=AI&condition=searchPblancNm&condition1=AND&keyword=AI&pblancId=PBLN_000000000126709",
+      "organizer": "국방기술진흥연구소",
+      "summary": "기업마당 공개 지원사업 · 기술 · 검색어 AI. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "AI"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 70,
+        "reasons": [
+          "제목 핵심 키워드: ai",
+          "본문·분류 키워드: ai",
+          "공고 유형: support"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-09-22T21:01:40+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=AI&condition=searchPblancNm&condition1=AND&keyword=AI&pblancId=PBLN_000000000126709",
+          "source_post_id": "PBLN_000000000126709",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-09-22T21:01:40+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-09-16",
+      "recruit_end": "2026-10-15",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 23,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "충남ai국방로봇신속실증시범개발지원사업모집공고충남논산방산혁신클러스터|국방기술진흥연구소|2026-10-15",
+      "classification_inputs": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=AI&condition=searchPblancNm&condition1=AND&keyword=AI&pblancId=PBLN_000000000126709",
+          "title": "[충남] AI 국방 로봇 신속 실증ㆍ시범 개발 지원 사업 모집 공고(충남ㆍ논산방산혁신클러스터)",
+          "organizer": "국방기술진흥연구소",
+          "summary": "기업마당 공개 지원사업 · 기술 · 검색어 AI",
+          "body_text": "기술 AI",
+          "source_post_id": "PBLN_000000000126709",
+          "source_kind": "government",
+          "source_priority": 80,
+          "application_url": null,
+          "document_url": null,
+          "recruit_start": "2026-09-16",
+          "recruit_end": "2026-10-15",
+          "event_start": null,
+          "event_end": null,
+          "date_kind": "exact",
+          "eligibility": "",
+          "benefits": "",
+          "location": "",
+          "mode": "",
+          "fee": "unknown",
+          "original_category": "기술",
+          "collected_at": "2026-09-22T21:01:40+09:00"
+        }
+      ]
+    },
+    {
       "id": "88afd8a1d2cddcfb7393",
       "title": "2026 제5회 오픈소스 SW개발 경진대회",
       "source_name": "위비티",
@@ -8877,88 +8693,6 @@
           "fee": "unknown",
           "original_category": "게임/소프트웨어",
           "collected_at": "2026-09-22T19:01:53+09:00"
-        }
-      ]
-    },
-    {
-      "id": "0a90598030896692ee86",
-      "title": "[전국] 2026년 소상공인 업종전문기술교육 업종심화(이제, AI에게 일 시키는 사장님)과정 모집",
-      "source_name": "기업마당",
-      "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=AI&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069413",
-      "organizer": "소상공인시장진흥공단",
-      "summary": "기업마당 공개 행사 · 행사정보 · 검색어 AI. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "education",
-      "field_tags": [
-        "AI"
-      ],
-      "audience_tags": [],
-      "status": "upcoming",
-      "relevance": {
-        "score": 70,
-        "reasons": [
-          "제목 핵심 키워드: ai",
-          "본문·분류 키워드: ai",
-          "공고 유형: education"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-09-10T20:47:11+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
-      "sources": [
-        {
-          "source_id": "bizinfo",
-          "source_name": "기업마당",
-          "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=AI&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069413",
-          "source_post_id": "EVEN_000000000069413",
-          "kind": "government",
-          "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-10-15",
-      "recruit_end": "2026-10-16",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 24,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "전국2026년소상공인업종전문기술교육업종심화이제ai에게일시키는사장님과정모집|소상공인시장진흥공단|2026-10-16",
-      "classification_inputs": [
-        {
-          "source_id": "bizinfo",
-          "source_name": "기업마당",
-          "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=AI&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069413",
-          "title": "[전국] 2026년 소상공인 업종전문기술교육 업종심화(이제, AI에게 일 시키는 사장님)과정 모집",
-          "organizer": "소상공인시장진흥공단",
-          "summary": "기업마당 공개 행사 · 행사정보 · 검색어 AI",
-          "body_text": "행사정보 AI",
-          "source_post_id": "EVEN_000000000069413",
-          "source_kind": "government",
-          "source_priority": 80,
-          "application_url": null,
-          "document_url": null,
-          "recruit_start": "2026-10-15",
-          "recruit_end": "2026-10-16",
-          "event_start": null,
-          "event_end": null,
-          "date_kind": "exact",
-          "eligibility": "",
-          "benefits": "",
-          "location": "",
-          "mode": "",
-          "fee": "unknown",
-          "original_category": "행사정보",
-          "collected_at": "2026-09-22T14:21:01+09:00"
         }
       ]
     },
@@ -9411,7 +9145,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-22T07:11:22+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -9420,7 +9154,7 @@
           "source_post_id": "EVEN_000000000069480",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -9466,7 +9200,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -9493,7 +9227,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-10T20:47:11+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -9502,7 +9236,7 @@
           "source_post_id": "EVEN_000000000069416",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -9548,7 +9282,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -9659,7 +9393,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-17T06:15:06+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -9668,7 +9402,7 @@
           "source_post_id": "EVEN_000000000069449",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -9714,7 +9448,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -9742,7 +9476,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-22T07:11:22+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -9751,7 +9485,7 @@
           "source_post_id": "EVEN_000000000069478",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -9797,7 +9531,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -9824,7 +9558,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-18T02:15:03+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -9833,7 +9567,7 @@
           "source_post_id": "EVEN_000000000069462",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -9879,7 +9613,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -9906,7 +9640,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-22T07:11:22+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -9915,7 +9649,7 @@
           "source_post_id": "EVEN_000000000069483",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -9961,7 +9695,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -10432,7 +10166,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-22T07:11:22+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -10441,7 +10175,7 @@
           "source_post_id": "EVEN_000000000069481",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -10487,7 +10221,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -10514,7 +10248,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -10523,7 +10257,7 @@
           "source_post_id": "PBLN_000000000124309",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -10569,7 +10303,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "경영",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -10597,7 +10331,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -10606,7 +10340,7 @@
           "source_post_id": "EVEN_000000000069138",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -10652,7 +10386,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -10952,7 +10686,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-12T01:44:34+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -10961,7 +10695,7 @@
           "source_post_id": "EVEN_000000000069421",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -11007,7 +10741,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -11035,7 +10769,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -11044,7 +10778,7 @@
           "source_post_id": "EVEN_000000000068325",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         },
         {
           "source_id": "bizinfo",
@@ -11053,7 +10787,7 @@
           "source_post_id": "EVEN_000000000068313",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -11099,7 +10833,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -11549,7 +11283,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-18T02:15:03+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -11558,7 +11292,7 @@
           "source_post_id": "EVEN_000000000069458",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -11604,7 +11338,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -11631,7 +11365,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -11640,7 +11374,7 @@
           "source_post_id": "EVEN_000000000069352",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -11686,7 +11420,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -11881,7 +11615,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-14T22:19:00+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -11890,7 +11624,7 @@
           "source_post_id": "PBLN_000000000126426",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -11936,7 +11670,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "경영",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -11963,7 +11697,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-18T02:15:03+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -11972,7 +11706,7 @@
           "source_post_id": "EVEN_000000000068698",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -12018,7 +11752,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -12045,7 +11779,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -12054,7 +11788,7 @@
           "source_post_id": "PBLN_000000000124214",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -12100,7 +11834,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "경영",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -12214,7 +11948,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-09T01:50:04+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -12223,7 +11957,7 @@
           "source_post_id": "PBLN_000000000118285",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -12269,7 +12003,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "경영",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -12296,7 +12030,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-19T01:42:16+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -12305,7 +12039,7 @@
           "source_post_id": "EVEN_000000000068494",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -12351,7 +12085,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -12378,7 +12112,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -12387,7 +12121,7 @@
           "source_post_id": "175783",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -12433,7 +12167,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "창업지원",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -12460,7 +12194,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -12469,7 +12203,7 @@
           "source_post_id": "176076",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -12515,7 +12249,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "창업지원",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -12627,7 +12361,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -12636,7 +12370,7 @@
           "source_post_id": "PBLN_000000000123753",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -12682,7 +12416,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "창업",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -12712,7 +12446,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -12721,7 +12455,7 @@
           "source_post_id": "326D00034004",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -12767,7 +12501,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "디지털 콘텐츠 · 모집공모",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -12794,7 +12528,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-11T01:39:23+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -12803,7 +12537,7 @@
           "source_post_id": "PBLN_000000000117307",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -12849,7 +12583,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "기술",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
@@ -12877,7 +12611,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-09-22T14:21:01+09:00",
+      "last_seen_at": "2026-09-22T21:01:40+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -12886,7 +12620,7 @@
           "source_post_id": "EVEN_000000000068967",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-09-22T14:21:01+09:00"
+          "fetched_at": "2026-09-22T21:01:40+09:00"
         }
       ],
       "application_url": null,
@@ -12932,7 +12666,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-09-22T14:21:01+09:00"
+          "collected_at": "2026-09-22T21:01:40+09:00"
         }
       ]
     },
