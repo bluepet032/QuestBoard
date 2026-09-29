@@ -22,7 +22,7 @@ test('status route is reachable', async ({ page }) => {
   await expect(page.getByRole('heading', { name: '수집 상태' })).toBeVisible()
 })
 
-test('restores URL filters and personal state after reload', async ({ page }) => {
+test('requires login for favorites and restores URL and hidden state after reload', async ({ page }) => {
   await page.route('**/data/active.json', route => route.fulfill({
     contentType: 'application/json',
     body: JSON.stringify({
@@ -40,11 +40,16 @@ test('restores URL filters and personal state after reload', async ({ page }) =>
   await expect(page.locator('.result-toolbar strong')).toHaveText('1개')
   await expect(page.getByRole('button', { name: '지원사업 0' })).toBeVisible()
   await page.getByRole('button', { name: '관심 등록' }).click()
-  await expect(page.getByRole('button', { name: '관심 해제' })).toBeVisible()
+  await expect(page.getByRole('dialog', { name: 'QuestBoard 계정' })).toBeVisible()
+  await page.getByRole('button', { name: '닫기' }).click()
+  await page.getByRole('button', { name: '숨김' }).click()
+  await expect(page.getByRole('button', { name: '숨긴 공고 1개 모두 복원' })).toBeVisible()
 
   await page.reload()
 
   await expect(page.getByLabel('통합 검색')).toHaveValue('인디')
-  await expect(page.getByRole('button', { name: '관심 해제' })).toBeVisible()
+  await expect(page.getByRole('button', { name: '숨긴 공고 1개 모두 복원' })).toBeVisible()
+  await page.getByRole('button', { name: '숨긴 공고 1개 모두 복원' }).click()
+  await expect(page.getByRole('button', { name: '관심 등록' })).toBeVisible()
   await expect(page).toHaveURL(/q=%EC%9D%B8%EB%94%94/)
 })
