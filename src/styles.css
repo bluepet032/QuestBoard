@@ -241,3 +241,68 @@ footer strong { color: var(--text); }
 }
 
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { scroll-behavior: auto !important; transition: none !important; } }
+
+.header-actions { display: flex; align-items: center; gap: 14px; }
+.account-toolbar { display: flex; align-items: center; gap: 8px; }
+.account-email { max-width: 180px; overflow: hidden; color: var(--muted); font-size: 11px; text-overflow: ellipsis; white-space: nowrap; }
+.account-button, .primary-button, .danger-button { border: 1px solid var(--border); border-radius: 9px; background: var(--surface); color: var(--text); padding: 8px 12px; font-size: 12px; font-weight: 650; }
+.account-button:hover { border-color: var(--brand); color: var(--brand); }
+.primary-button { border-color: transparent; background: var(--brand); color: white; }
+.primary-button:disabled { opacity: .5; cursor: not-allowed; }
+.danger-button { color: #a02c24; border-color: color-mix(in srgb, #d14b43 55%, var(--border)); }
+.unread-badge { display: inline-flex; min-width: 18px; height: 18px; margin-left: 5px; align-items: center; justify-content: center; border-radius: 999px; background: #c43b32; color: white; font-size: 10px; }
+.personal-page { padding-bottom: 10px; }
+.personal-section { margin: 18px 0; padding: 22px; border: 1px solid var(--border); border-radius: 15px; background: var(--surface); box-shadow: var(--shadow); }
+.personal-section h2 { margin: 0; font-size: 19px; }
+.personal-section > h3 { margin: 24px 0 10px; font-size: 15px; }
+.personal-section .section-heading { align-items: center; margin-bottom: 14px; }
+.personal-section .section-heading h2 { margin: 0 0 5px; }
+.personal-section .section-heading p, .account-settings p { margin: 0; color: var(--muted); font-size: 12px; }
+.empty-personal { color: var(--muted); font-size: 13px; }
+.notification-list, .saved-list { display: grid; gap: 9px; }
+.notification-card, .saved-card { padding: 15px; border: 1px solid var(--border); border-radius: 11px; background: var(--surface); }
+.notification-card { display: flex; justify-content: space-between; align-items: flex-start; gap: 18px; }
+.notification-card.is-read { opacity: .72; }
+.notification-card p { margin: 5px 0; color: var(--muted); font-size: 12px; }
+.notification-card small, .saved-card > small { color: var(--muted); font-size: 11px; }
+.notification-actions { display: flex; align-items: center; gap: 10px; white-space: nowrap; font-size: 12px; }
+.notification-actions a, .saved-card-title a, .personal-match-list a { color: var(--brand); font-weight: 700; text-decoration: none; }
+.saved-card-title { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; }
+.saved-card-title > div { display: grid; gap: 4px; }
+.saved-card-title span { color: var(--muted); font-size: 11px; }
+.saved-toggle { display: inline-flex; align-items: center; gap: 7px; margin: 12px 0; font-size: 12px; }
+.schedule-fields { display: grid; grid-template-columns: minmax(170px, 220px) 1fr; gap: 12px; margin-bottom: 10px; }
+.schedule-fields label { display: grid; gap: 5px; color: var(--muted); font-size: 11px; }
+.schedule-fields input, .schedule-fields textarea, .keyword-form input { width: 100%; border: 1px solid var(--border); border-radius: 8px; background: var(--surface-muted); color: var(--text); padding: 9px; font: inherit; }
+.schedule-fields textarea { min-height: 42px; resize: vertical; }
+.keyword-form { display: flex; gap: 8px; }
+.keyword-list { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; padding: 0; list-style: none; }
+.keyword-list li { display: flex; align-items: center; gap: 8px; border: 1px solid var(--border); border-radius: 999px; padding: 4px 9px 4px 12px; font-size: 12px; }
+.personal-match-list { display: grid; gap: 7px; max-height: 440px; overflow: auto; margin: 0; padding: 0; list-style: none; }
+.personal-match-list li { display: flex; flex-direction: column; gap: 4px; padding: 9px 0; border-bottom: 1px solid var(--border); }
+.personal-match-list span { color: var(--muted); font-size: 11px; }
+.local-import { display: flex; justify-content: space-between; align-items: center; gap: 12px; padding: 11px 14px; border: 1px solid var(--border); border-radius: 10px; background: var(--surface); font-size: 12px; }
+.message-inline { margin: 8px 0; padding: 10px; border-radius: 8px; background: var(--surface-muted); color: var(--muted); font-size: 12px; }
+.message-inline.error { color: #a02c24; }
+.account-settings { display: grid; justify-items: start; gap: 10px; }
+.sign-in-prompt { display: grid; justify-items: start; gap: 12px; }
+.sign-in-prompt p { margin: 0; color: var(--muted); }
+.modal-backdrop { position: fixed; z-index: 1000; inset: 0; display: grid; place-items: center; overflow-y: auto; padding: 18px; background: rgba(12, 18, 34, .62); }
+.modal-card { position: relative; width: min(100%, 500px); max-height: min(90vh, 760px); overflow-y: auto; padding: 26px; border: 1px solid var(--border); border-radius: 16px; background: var(--surface); color: var(--text); box-shadow: 0 24px 80px rgba(0, 0, 0, .24); }
+.modal-card h2 { margin: 0 30px 12px 0; font-size: 21px; }
+.modal-card p { color: var(--muted); font-size: 13px; line-height: 1.65; }
+.modal-close { position: absolute; top: 12px; right: 14px; border: 0; background: transparent; color: var(--muted); font-size: 24px; }
+.privacy-check { display: flex; align-items: flex-start; gap: 8px; margin: 16px 0; color: var(--muted); font-size: 12px; }
+.modal-actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px; }
+.migration-list { max-height: 220px; overflow: auto; padding-left: 20px; color: var(--muted); font-size: 12px; }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; clip-path: inset(50%); }
+@media (max-width: 780px) {
+  .header-actions { margin-left: auto; gap: 8px; }
+  .account-email { display: none; }
+  .account-toolbar { gap: 5px; }
+  .account-button { padding: 7px 9px; }
+  .notification-card { flex-direction: column; }
+  .schedule-fields { grid-template-columns: 1fr; }
+  .local-import { align-items: flex-start; flex-direction: column; }
+  .personal-section { padding: 16px; }
+}

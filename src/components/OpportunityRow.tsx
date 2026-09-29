@@ -6,7 +6,7 @@ import { dDayLabel, formatDate, isNew, isUpdated } from '../utils'
 interface Props {
   item: Opportunity
   personal: PersonalState
-  onToggle: (bucket: 'favorites' | 'read' | 'hidden', id: string) => void
+  onToggle: (bucket: 'favorites' | 'read' | 'hidden', id: string, item?: Opportunity) => void
 }
 
 export function OpportunityRow({ item, personal, onToggle }: Props) {
@@ -53,7 +53,7 @@ export function OpportunityRow({ item, personal, onToggle }: Props) {
       <div className="state-cell">
         <span className={`status status-${item.status}`}>{STATUS_LABELS[item.status]}</span>
         <div className="row-actions">
-          <button type="button" className="icon-button" aria-label={favorite ? '관심 해제' : '관심 등록'} aria-pressed={favorite} onClick={() => onToggle('favorites', item.id)}>{favorite ? '★' : '☆'}</button>
+          <button type="button" className="icon-button" aria-label={favorite ? '관심 해제' : '관심 등록'} aria-pressed={favorite} onClick={() => onToggle('favorites', item.id, item)}>{favorite ? '★' : '☆'}</button>
           <button type="button" className="text-button" onClick={() => setExpanded(value => !value)} aria-expanded={expanded}>{expanded ? '접기' : '펼치기'}</button>
           <button type="button" className="text-button muted" onClick={() => onToggle('hidden', item.id)}>숨김</button>
         </div>

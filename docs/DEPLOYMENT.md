@@ -1,40 +1,73 @@
-# GitHub Pages 배포 안내서
+# QuestBoard 배포 안내서
 
-이 문서는 별도 도메인 없이 `https://사용자명.github.io/저장소명/`으로 QuestBoard를 공개하는 절차입니다.
+현재 운영 중인 사이트는 [https://bluepet032.github.io/QuestBoard/](https://bluepet032.github.io/QuestBoard/)이며, 저장소는 [bluepet032/QuestBoard](https://github.com/bluepet032/QuestBoard)입니다. Pages와 자동 배포가 이미 동작하므로 새 저장소 생성, `git remote` 등록, Pages 소스 설정은 다시 할 필요가 없습니다.
 
-## 1. 공개 저장소 만들기
+## 현재 운영 설정
 
-GitHub에서 비어 있는 공개 저장소를 만든 뒤 로컬 프로젝트에서 다음을 실행합니다. `YOUR_NAME`과 `YOUR_REPOSITORY`를 실제 값으로 바꾸세요.
+- 공고 수집은 기존 `Collect data and deploy` 워크플로가 계속 담당합니다.
+- 사이트 배포는 기존 `Deploy site` 워크플로가 담당합니다.
+- Firebase 개인 기능은 아래 프로젝트 설정과 저장소 변수가 준비된 뒤 새 코드가 배포되어야 켜집니다.
+- 공개 저장소에 `.env.local`, 서비스 계정 키, 관리자 자격 증명을 올리지 마세요. Firebase 웹 앱 설정값은 프런트엔드에 포함되는 공개 식별자이므로 아래 GitHub **Variables**에 둡니다.
+
+## 사용자가 설정할 Firebase 항목
+
+### 1. Firebase 프로젝트와 Firestore 만들기
+
+1. [Firebase Console](https://console.firebase.google.com/)에서 프로젝트를 만들거나 QuestBoard용 기존 프로젝트를 선택합니다. 요금제는 우선 Spark로 둡니다. 무료 사용량을 넘으면 해당 서비스가 그달 말까지 중지되며, 결제 계정을 연결하면 Blaze로 바뀔 수 있습니다. ([Firebase 요금제](https://firebase.google.com/docs/projects/billing/firebase-pricing-plans))
+2. **Firestore Database → 데이터베이스 만들기**에서 운영 모드를 선택합니다.
+3. 위치는 **서울 `asia-northeast3`**로 선택합니다. [지원 위치 목록](https://firebase.google.com/docs/firestore/locations)을 확인하고 생성 전에 위치를 결정하세요. 이미 데이터베이스를 만들었다면 위치를 바꿀 수 없으니 먼저 현재 위치를 확인합니다.
+4. Firestore의 **규칙(Rules)** 탭에 저장소의 [`firestore.rules`](../firestore.rules) 내용을 붙여 넣고 **게시(Publish)**합니다. 테스트 모드의 전체 공개 규칙은 게시하지 마세요.
+
+### 2. Google 로그인 켜기
+
+1. Firebase Console의 **Authentication → 시작하기 → 로그인 방법(Sign-in method) → Google**을 사용 설정하고 지원 이메일을 선택해 저장합니다. ([Google 로그인 공식 안내](https://firebase.google.com/docs/auth/web/google-signin))
+2. Authentication **Settings → 승인된 도메인(Authorized domains)**에서 다음 호스트를 추가합니다.
+   - `bluepet032.github.io` — 운영 사이트
+   - `localhost` — 로컬 로그인 확인용
+3. 도메인에는 `https://`, 저장소 경로(`/QuestBoard`) 또는 끝의 `/`를 넣지 않습니다. 최근 Firebase 프로젝트는 `localhost`가 기본 등록되어 있지 않을 수 있으므로 목록에서 확인하세요.
+
+### 3. Firebase 웹 앱 설정값 준비
+
+1. 프로젝트 설정(톱니바퀴) **→ 일반(General) → 내 앱(Your apps) → 웹 앱 추가**에서 QuestBoard 웹 앱을 등록합니다. Firebase Hosting은 추가할 필요가 없습니다.
+2. 웹 앱 SDK 설정에서 아래 네 값을 복사합니다. Firebase 웹 설정의 이 값들은 브라우저에 포함되는 공개 식별자입니다. 서비스 계정 JSON이나 관리자 키와 혼동하지 마세요.
+
+| 값 이름 | Firebase 설정에서 복사할 항목 |
+| --- | --- |
+| `VITE_FIREBASE_API_KEY` | `apiKey` |
+| `VITE_FIREBASE_AUTH_DOMAIN` | `authDomain` |
+| `VITE_FIREBASE_PROJECT_ID` | `projectId` |
+| `VITE_FIREBASE_APP_ID` | `appId` |
+
+### 4. 로컬 환경 변수 설정
+
+QuestBoard 프로젝트 루트에서 PowerShell을 열어 예시 파일을 복사하고 편집합니다.
 
 ```powershell
-git add .
-git commit -m "feat: initialize QuestBoard"
-git remote add origin https://github.com/YOUR_NAME/YOUR_REPOSITORY.git
-git push -u origin main
+Copy-Item .env.example .env.local
+notepad .env.local
 ```
 
-공개 저장소에는 `.env`, API 키, 로그인 쿠키, 원문 본문이나 개인정보를 올리지 마세요. `.gitignore`가 `.env`를 제외하는지 커밋 전에 `git status`로 확인합니다.
+`.env.local`의 Firebase 네 항목을 실제 값으로 채웁니다. 이 파일은 Git에 올라가지 않습니다. 값을 채운 뒤 알려 주시면 로컬에서 Google 로그인과 데이터 저장을 확인하겠습니다. 설정값 자체를 채팅으로 보낼 필요는 없습니다.
 
-## 2. Actions 권한 설정
+### 5. GitHub Actions 변수 설정
 
-저장소의 **Settings → Actions → General → Workflow permissions**에서 `Read and write permissions`를 선택하고 저장합니다. 이는 수집 워크플로가 `public/data` 변경을 커밋하는 데 필요합니다.
+1. [저장소 Actions 변수 설정](https://github.com/bluepet032/QuestBoard/settings/variables/actions)을 엽니다.
+2. **New repository variable**을 눌러 위 표의 이름 네 개를 각각 만듭니다.
+3. Firebase 웹 앱 설정에서 복사한 해당 값을 넣고 저장합니다. 이 값은 공개 웹 설정이라 **Variables**에 둡니다. **Secrets**나 서비스 계정 키는 사용하지 않습니다. ([GitHub 변수 설정 안내](https://docs.github.com/en/actions/how-tos/write-workflows/choose-what-workflows-do/use-variables))
 
-조직 정책으로 쓰기 권한을 허용할 수 없다면 자동 커밋 단계는 실패합니다. 그 경우 관리자의 허용이 필요하며, 토큰 우회나 개인 토큰 하드코딩은 하지 않습니다.
+두 배포 워크플로 모두 이 변수들을 빌드에 전달합니다. 따라서 수동 배포와 정기 데이터 수집 뒤 배포에서 Firebase 기능 설정이 빠지지 않습니다. 변수 추가가 끝나면 기존 코드 반영·배포 절차를 진행합니다.
 
-## 3. 기업마당 설정
+## 기업마당 설정
 
 기업마당은 공개 지원사업·행사 목록을 HTML로 읽으므로 API 키나 GitHub Secret을 등록할 필요가 없습니다.
 
-## 4. Pages 활성화
+## 기존 Pages 배포 동작
 
-1. **Settings → Pages**로 이동합니다.
-2. **Build and deployment → Source**를 `GitHub Actions`로 선택합니다.
-3. **Actions** 탭에서 `Deploy site`를 수동 실행합니다.
-4. 작업의 `Deploy GitHub Pages` 단계가 끝나면 표시된 URL을 엽니다.
+현재 사이트가 이미 공개되어 있으므로 일반 배포에서는 추가 Pages 설정이 필요하지 않습니다. `main` 변경으로 `Deploy site`가 실행되며, 작업 완료 뒤 같은 운영 주소에서 확인합니다. 아직 사이트에 없는 기능은 코드를 저장소에 반영하기 전까지 배포되지 않습니다.
 
 Vite의 상대 경로 빌드를 사용하므로 저장소명이 무엇이든 기본 Pages 하위 경로에서 동작합니다.
 
-## 5. 자동 수집 일정
+## 자동 수집 일정
 
 `Collect data and deploy` 워크플로는 GitHub cron의 UTC 기준으로 실행됩니다.
 
@@ -44,7 +77,7 @@ Vite의 상대 경로 빌드를 사용하므로 저장소명이 무엇이든 기
 
 GitHub의 부하에 따라 예약 실행이 지연될 수 있습니다. **Run workflow**에서 그룹, 특정 출처 ID, 최대 수집 건수를 정해 수동 실행할 수도 있습니다.
 
-## 6. 첫 배포 확인표
+## 배포 확인표
 
 - `CI`의 Python, 데이터 검증, lint, 단위 테스트, 빌드, 브라우저 테스트가 모두 통과했는가
 - Pages 첫 화면에서 `data/*.json`이 404 없이 로드되는가
