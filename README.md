@@ -51,8 +51,8 @@ pnpm dev
 ### 데이터 수집
 
 ```powershell
-# 자동화 가능한 모든 출처, 출처별 최대 100건
-python -m pipeline.cli --schedule all --limit 100
+# 자동화 가능한 모든 출처, 출처별 최대 150건
+python -m pipeline.cli --schedule all --limit 150
 
 # 1시간 그룹 또는 6시간 그룹
 python -m pipeline.cli --schedule fast

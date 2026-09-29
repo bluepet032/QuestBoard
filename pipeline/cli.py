@@ -11,7 +11,7 @@ def parser() -> argparse.ArgumentParser:
     value = argparse.ArgumentParser(description="QuestBoard data pipeline")
     value.add_argument("--schedule", choices=["fast", "slow", "all"], default="all")
     value.add_argument("--source", action="append", dest="sources", help="실행할 출처 ID (반복 가능)")
-    value.add_argument("--limit", type=int, default=100, help="출처별 최대 수집 개수")
+    value.add_argument("--limit", type=int, default=150, help="출처별 최대 수집 개수")
     value.add_argument("--output", type=Path, default=ROOT / "public" / "data")
     return value
 

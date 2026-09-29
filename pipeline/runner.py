@@ -46,7 +46,7 @@ def run_pipeline(
     output_dir: Path | None = None,
     schedule: str = "all",
     names: set[str] | None = None,
-    limit: int = 100,
+    limit: int = 150,
     now: datetime | None = None,
 ) -> tuple[list[Opportunity], list[CrawlStatus]]:
     current = now or datetime.now(KST)

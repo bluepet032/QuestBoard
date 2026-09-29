@@ -68,7 +68,7 @@ source_urls:
 수정 후 아래 순서로 확인합니다.
 
 ```powershell
-python -m pipeline.cli --schedule all --limit 100
+python -m pipeline.cli --schedule all --limit 150
 python -m pipeline.validate
 python -m pytest
 ```

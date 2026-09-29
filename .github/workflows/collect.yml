@@ -20,7 +20,7 @@ on:
       limit:
         description: 출처별 최대 수집 건수
         required: true
-        default: '100'
+        default: '150'
         type: string
 
 permissions:
@@ -61,7 +61,7 @@ jobs:
           mode="${MANUAL_SCHEDULE:-fast}"
           if [[ "$EVENT_SCHEDULE" == "43 */6 * * *" ]]; then mode=slow; fi
           if [[ "$EVENT_SCHEDULE" == "11 18 * * *" ]]; then mode=all; fi
-          limit="${MANUAL_LIMIT:-100}"
+          limit="${MANUAL_LIMIT:-150}"
           echo "mode=$mode" >> "$GITHUB_OUTPUT"
           echo "limit=$limit" >> "$GITHUB_OUTPUT"
       - name: Collect opportunities
