@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-02T14:44:38+09:00",
+  "generated_at": "2026-10-02T15:09:27+09:00",
   "items": [
     {
       "id": "6573820ee504317285af",
@@ -290,7 +290,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-01T07:11:43+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -299,7 +299,7 @@
           "source_post_id": "PBLN_000000000126843",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -345,90 +345,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "기술",
-          "collected_at": "2026-10-02T07:53:42+09:00"
-        }
-      ]
-    },
-    {
-      "id": "32bd3d205eb0cc40af5c",
-      "title": "2026년 대중음악 공연환경 개선 지원사업 추가 공고",
-      "source_name": "한국콘텐츠진흥원",
-      "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=126D00070010&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
-      "organizer": "한국콘텐츠진흥원",
-      "summary": "한국콘텐츠진흥원 공식 자유공모 공고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [],
-      "status": "today",
-      "relevance": {
-        "score": 98,
-        "reasons": [
-          "본문·분류 키워드: 디지털 콘텐츠, 콘텐츠",
-          "공고 유형: support",
-          "공식 전문기관 출처",
-          "원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-09-15T14:18:13+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
-      "sources": [
-        {
-          "source_id": "kocca",
-          "source_name": "한국콘텐츠진흥원",
-          "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=126D00070010&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
-          "source_post_id": "126D00070010",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-09-15",
-      "recruit_end": "2026-10-02",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 0,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026년대중음악공연환경개선지원사업추가공고|한국콘텐츠진흥원|2026-10-02",
-      "classification_inputs": [
-        {
-          "source_id": "kocca",
-          "source_name": "한국콘텐츠진흥원",
-          "source_url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=126D00070010&menuNo=204104&recptSt=&category=&pageIndex=1&search=&searchWrd=",
-          "title": "2026년 대중음악 공연환경 개선 지원사업 추가 공고",
-          "organizer": "한국콘텐츠진흥원",
-          "summary": "한국콘텐츠진흥원 공식 자유공모 공고",
-          "body_text": "디지털 콘텐츠 산업 지원",
-          "source_post_id": "126D00070010",
-          "source_kind": "official",
-          "source_priority": 100,
-          "application_url": null,
-          "document_url": null,
-          "recruit_start": "2026-09-15",
-          "recruit_end": "2026-10-02",
-          "event_start": null,
-          "event_end": null,
-          "date_kind": "exact",
-          "eligibility": "",
-          "benefits": "",
-          "location": "",
-          "mode": "",
-          "fee": "unknown",
-          "original_category": "디지털 콘텐츠 · 자유공모",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -537,7 +454,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-23T21:05:55+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -546,7 +463,7 @@
           "source_post_id": "PBLN_000000000126757",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -592,7 +509,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "기술",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -703,7 +620,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-01T07:11:43+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -712,7 +629,7 @@
           "source_post_id": "EVEN_000000000069260",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -758,7 +675,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -785,7 +702,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -794,7 +711,7 @@
           "source_post_id": "PBLN_000000000126110",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -840,7 +757,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "기술",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -867,7 +784,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-22T07:11:22+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -876,7 +793,7 @@
           "source_post_id": "PBLN_000000000126683",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -922,7 +839,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "기술",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -1407,7 +1324,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-17T21:02:19+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -1416,7 +1333,7 @@
           "source_post_id": "326D00092012",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         },
         {
           "source_id": "bizinfo",
@@ -1425,7 +1342,7 @@
           "source_post_id": "PBLN_000000000126621",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -1471,7 +1388,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "디지털 콘텐츠 · 모집공모",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -1670,7 +1587,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-23T21:05:55+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1679,7 +1596,7 @@
           "source_post_id": "PBLN_000000000126737",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -1725,7 +1642,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "수출",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -1837,7 +1754,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1846,7 +1763,7 @@
           "source_post_id": "PBLN_000000000124154",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -1892,7 +1809,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "기술",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -2005,7 +1922,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-15T21:04:52+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -2014,7 +1931,7 @@
           "source_post_id": "179232",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         },
         {
           "source_id": "bizinfo",
@@ -2023,7 +1940,7 @@
           "source_post_id": "PBLN_000000000126482",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -2073,7 +1990,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "창업",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -2371,7 +2288,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-30T07:11:42+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2380,7 +2297,7 @@
           "source_post_id": "PBLN_000000000126525",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -2426,7 +2343,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "창업",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -2535,7 +2452,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2544,7 +2461,7 @@
           "source_post_id": "EVEN_000000000069522",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -2590,7 +2507,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -2618,7 +2535,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2627,7 +2544,7 @@
           "source_post_id": "PBLN_000000000126405",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -2673,7 +2590,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "기술",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -2872,7 +2789,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-01T07:11:43+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2881,7 +2798,7 @@
           "source_post_id": "PBLN_000000000126857",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -2927,7 +2844,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "기술",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -2957,7 +2874,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-30T21:59:01+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "momo365",
@@ -2966,7 +2883,7 @@
           "source_post_id": null,
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -3012,7 +2929,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -3129,7 +3046,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-17T06:15:06+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -3138,7 +3055,7 @@
           "source_post_id": "PBLN_000000000126541",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -3184,7 +3101,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "기술",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -3294,7 +3211,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-23T21:05:55+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -3303,7 +3220,7 @@
           "source_post_id": "PBLN_000000000126747",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -3349,7 +3266,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "기술",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -3376,7 +3293,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-22T21:01:40+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -3385,7 +3302,7 @@
           "source_post_id": "EVEN_000000000069495",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -3431,7 +3348,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -3458,7 +3375,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-30T21:59:01+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -3467,7 +3384,7 @@
           "source_post_id": "PBLN_000000000126863",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -3513,7 +3430,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "수출",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -3540,7 +3457,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-28T23:26:13+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -3549,7 +3466,7 @@
           "source_post_id": "PBLN_000000000126799",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -3595,7 +3512,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "내수",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -3622,7 +3539,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-16T14:13:09+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -3631,7 +3548,7 @@
           "source_post_id": "326D00089011",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -3677,7 +3594,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "디지털 콘텐츠 · 모집공모",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -3704,7 +3621,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-18T20:47:12+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -3713,7 +3630,7 @@
           "source_post_id": "179294",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -3761,7 +3678,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "창업지원",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -3956,7 +3873,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-30T21:59:01+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -3965,7 +3882,7 @@
           "source_post_id": "PBLN_000000000126876",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -4011,7 +3928,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "경영",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -4128,7 +4045,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T15:10:10+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -4137,7 +4054,7 @@
           "source_post_id": "16953",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -4183,7 +4100,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "웹/모바일/IT · 소프트웨어 · AI",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -4382,7 +4299,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-18T20:47:12+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -4391,7 +4308,7 @@
           "source_post_id": "PBLN_000000000126618",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -4437,7 +4354,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "기술",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -4466,7 +4383,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-01T07:11:43+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -4475,7 +4392,7 @@
           "source_post_id": "PBLN_000000000126844",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -4521,7 +4438,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "창업",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -4718,7 +4635,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-17T06:15:06+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -4727,7 +4644,7 @@
           "source_post_id": "PBLN_000000000126531",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -4773,7 +4690,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "수출",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -4897,7 +4814,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -4906,7 +4823,7 @@
           "source_post_id": "PBLN_000000000126842",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -4952,7 +4869,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "경영",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -5064,7 +4981,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-17T14:20:06+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -5073,7 +4990,7 @@
           "source_post_id": "179287",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         },
         {
           "source_id": "bizinfo",
@@ -5082,7 +4999,7 @@
           "source_post_id": "PBLN_000000000126609",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -5132,7 +5049,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "경영",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -5241,7 +5158,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-01T15:30:44+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -5250,7 +5167,7 @@
           "source_post_id": "PBLN_000000000126909",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -5296,7 +5213,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "수출",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -5323,7 +5240,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-28T23:26:13+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -5332,7 +5249,7 @@
           "source_post_id": "PBLN_000000000126814",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -5378,7 +5295,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "인력",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -5509,7 +5426,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-15T14:18:13+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -5518,7 +5435,7 @@
           "source_post_id": "16934",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -5564,7 +5481,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "웹/모바일/IT · 소프트웨어 · AI",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -5591,7 +5508,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-01T15:30:44+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -5600,7 +5517,7 @@
           "source_post_id": "PBLN_000000000126907",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -5646,7 +5563,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "경영",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -5968,7 +5885,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-28T23:26:13+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -5977,7 +5894,7 @@
           "source_post_id": "PBLN_000000000126792",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -6023,7 +5940,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "기술",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -6052,7 +5969,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-01T07:11:43+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -6061,7 +5978,7 @@
           "source_post_id": "EVEN_000000000069488",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -6107,7 +6024,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -6134,7 +6051,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-17T06:15:06+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -6143,7 +6060,7 @@
           "source_post_id": "EVEN_000000000069452",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -6189,7 +6106,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -6216,7 +6133,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-01T15:30:44+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -6225,7 +6142,7 @@
           "source_post_id": "PBLN_000000000126905",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -6271,7 +6188,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "기술",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -6300,7 +6217,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-01T07:11:43+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -6309,7 +6226,7 @@
           "source_post_id": "PBLN_000000000126838",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -6355,7 +6272,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "창업",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -6468,7 +6385,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-30T21:59:01+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -6477,7 +6394,7 @@
           "source_post_id": "PBLN_000000000126890",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -6523,7 +6440,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "경영",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -6550,7 +6467,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -6559,7 +6476,7 @@
           "source_post_id": "EVEN_000000000069398",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -6605,7 +6522,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -6716,7 +6633,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-30T21:59:01+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -6725,7 +6642,7 @@
           "source_post_id": "EVEN_000000000069534",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -6771,7 +6688,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -6900,7 +6817,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -6909,7 +6826,7 @@
           "source_post_id": "PBLN_000000000126731",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -6955,7 +6872,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "수출",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -6984,7 +6901,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -6993,7 +6910,7 @@
           "source_post_id": "PBLN_000000000126837",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -7039,7 +6956,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "창업",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -7068,7 +6985,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-30T21:59:01+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -7077,7 +6994,7 @@
           "source_post_id": "EVEN_000000000069533",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -7123,7 +7040,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -7232,7 +7149,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-28T23:26:13+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -7241,7 +7158,7 @@
           "source_post_id": "EVEN_000000000069505",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -7287,7 +7204,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -7314,7 +7231,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-22T21:01:40+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -7323,7 +7240,7 @@
           "source_post_id": "PBLN_000000000126709",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -7369,7 +7286,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "기술",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -7591,7 +7508,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-28T14:49:47+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "gcon",
@@ -7600,7 +7517,7 @@
           "source_post_id": "11232",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-10-02T07:38:23+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         },
         {
           "source_id": "momo365",
@@ -7609,7 +7526,7 @@
           "source_post_id": null,
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-02T07:38:23+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -7638,7 +7555,7 @@
           "title": "2026년 AI 콘텐츠 캠퍼스 가상오피스 지원기업(2차) 모집",
           "organizer": "사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우",
           "summary": "사업공고 | 사업공고 | 알림마당 | 경기콘텐츠진흥원",
-          "body_text": "사업공고 | 사업공고 | 알림마당 | 경기콘텐츠진흥원 본문내용 바로가기 유튜브 네이버포스트 INSTAGRAM 사업소개 사업소개 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우드펀딩 공간지원 입주지원 공유오피스 비상주 사무실 창작공간 지역육성 사업 서부권역센터 운영 남부권역센터 운영 북부권역센터 운영 동부권역센터 운영 출판/만화/애니사업 책 생태계 활성화 만화애니영화 콘텐츠산업 활성화 경기국제웹툰페어 음악사업 경기도 음악산업 육성 경기인디뮤직페스티벌 개최 문화기술콘텐츠 사업 문화기술산업 육성 지역특화콘텐츠 개발 가상융합 사업 가상융합 산업 육성 경기 가상융합산업 혁신센터 게임산업 플레이엑스포 개최 게임산업육성 건전게임문화 조성 경기e스포츠 육성 영상사업 경기도 영화영상산업 육성 경기도 다양성영화 저변확대 글로벌 콘텐츠 컨퍼런스 대한민국 AI 콘텐츠 어워즈 지역영상미디어센터 활성화 지원 수출 / 자금지원 사업 콘텐츠 해외진출 지원 콘텐츠 기업 투자 유치 지원 콘텐츠 기업 보증지원 K-콘텐츠IP융복합제작지원 민관협력 투자유치 기회활성화 지원 콘텐츠창업기업기회펀드조성 G-유니콘패스 크라우드 펀딩 사업지원 인재양성사업 웹툰 청년 인턴십 지원 경기 콘텐츠 창의학교 문화창업플래너 AI 콘텐츠 캠퍼스 예약신청 예약신청 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 프로그램 예약 공간예약 장비예약 좌석예약 게임 과몰입 상담예약 알림마당 알림마당 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 공지사항 사업공고 사업공고 입찰공고 결과발표 교육 및 행사 자료실 유관기관 소식 정책게시판 기관소식 기관소식 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 보도자료 오피니언 기관 소식(SNS) 뉴스레터 뉴스레터 신청하기 뉴스레터 다시보기 열린경영 열린경영 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 경영공시 윤리경영 고객만족경영 행정정보 공개 GCA 소개 GCA 소개 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 인사말 이사장 인사말 기관장 인사말 미션/비전/전략 ESG 경영 연혁 조직도 및 연락처 인재채용 인재상/역량 채용정보 기관상징(CI/BI) 오시는길 로그인 회원가입 사업소개 사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우드펀딩 공간지원 입주지원 공유오피스 비상주 사무실 창작공간 지역육성 사업 서부권역센터 운영 남부권역센터 운영 북부권역센터 운영 동부권역센터 운영 출판/만화/애니사업 책 생태계 활성화 만화애니영화 콘텐츠산업 활성화 경기국제웹툰페어 음악사업 경기도 음악산업 육성 경기인디뮤직페스티벌 개최 문화기술콘텐츠 사업 문화기술산업 육성 지역특화콘텐츠 개발 가상융합 사업 가상융합 산업 육성 경기 가상융합산업 혁신센터 게임산업 플레이엑스포 개최 게임산업육성 건전게임문화 조성 경기e스포츠 육성 영상사업 경기도 영화영상산업 육성 경기도 다양성영화 저변확대 글로벌 콘텐츠 컨퍼런스 대한민국 AI 콘텐츠 어워즈 지역영상미디어센터 활성화 지원 수출 / 자금지원 사업 콘텐츠 해외진출 지원 콘텐츠 기업 투자 유치 지원 콘텐츠 기업 보증지원 K-콘텐츠IP융복합제작지원 민관협력 투자유치 기회활성화 지원 콘텐츠창업기업기회펀드조성 G-유니콘패스 크라우드 펀딩 사업지원 인재양성사업 웹툰 청년 인턴십 지원 경기 콘텐츠 창의학교 문화창업플래너 AI 콘텐츠 캠퍼스 예약신청 시설/교육예약 프로그램 공간 장비 좌석 상담예약 게임 과몰입 상담예약 알림마당 공지사항 사업공고 사업공고 입찰공고 결과발표 교육 및 행사 자료실 유관기관 소식 정책게시판 기관소식 보도자료 오피니언 기관 소식(SNS) 뉴스레터 뉴스레터 신청하기 뉴스레터 다시보기 열린경영 경영공시 경영공시 개요 경영목표 및 예산사업계획 임원 및 운영인력 현황 예산 결산 인건비 예산 및 집행현황 시책추진 업무 추진비 기관운영 업무 추진비 경영실적평가 결과 감사 결과 및 이행결과 성과계약 달성정도 기부금 계약정보 안전관리 윤리경영 윤리경영전략 윤리경영헌장 인권정책선언 비위면직자 취업제한 제도 윤리경영이행 자료실 클린신고센터 성희롱신고센터 고객만족경영 고객만족경영 고객의 소리 고객서비스 헌장 행정정보 공개 정보공개청구 공공데이터 개방 사전정보 공표 GCA 소개 인사말 이사장 인사말 기관장 인사말 미션/비전/전략 ESG 경영 연혁 2020년대 2010년대 2000년대 조직도 및 연락처 원장실 청렴감사실 경영본부 콘텐츠산업본부 지역육성본부 미래산업본부 대외협력실 인재채용 인재상/역량 채용정보 기관상징(CI/BI) 오시는길 로그인 회원가입 메뉴 열기 버튼 전체메뉴 로그인 회원가입 아이디 찾기 비밀번호 찾기 사업소개 사업소개 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우드펀딩 공간지원 입주지원 공유오피스 비상주 사무실 창작공간 지역육성 사업 서부권역센터 운영 남부권역센터 운영 북부권역센터 운영 동부권역센터 운영 출판/만화/애니사업 책 생태계 활성화 만화애니영화 콘텐츠산업 활성화 경기국제웹툰페어 음악사업 경기도 음악산업 육성 경기인디뮤직페스티벌 개최 문화기술콘텐츠 사업 문화기술산업 육성 지역특화콘텐츠 개발 가상융합 사업 가상융합 산업 육성 경기 가상융합산업 혁신센터 게임산업 플레이엑스포 개최 게임산업육성 건전게임문화 조성 경기e스포츠 육성 영상사업 경기도 영화영상산업 육성 경기도 다양성영화 저변확대 글로벌 콘텐츠 컨퍼런스 대한민국 AI 콘텐츠 어워즈 지역영상미디어센터 활성화 지원 수출 / 자금지원 사업 콘텐츠 해외진출 지원 콘텐츠 기업 투자 유치 지원 콘텐츠 기업 보증지원 K-콘텐츠IP융복합제작지원 민관협력 투자유치 기회활성화 지원 콘텐츠창업기업기회펀드조성 G-유니콘패스 크라우드 펀딩 사업지원 인재양성사업 웹툰 청년 인턴십 지원 경기 콘텐츠 창의학교 문화창업플래너 AI 콘텐츠 캠퍼스 예약신청 예약신청 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 프로그램 예약 공간예약 장비예약 좌석예약 게임상담예약 알림마당 알림마당 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 공지사항 사업공고 사업공고 입찰공고 결과발표 교육 및 행사 자료실 유관기관 소식 정책게시판 기관소식 기관소식 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 보도자료 오피니언 기관 소식(SNS) 뉴스레터 뉴스레터 신청하기 뉴스레터 다시보기 열린경영 열린경영 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 경영공시 윤리경영 고객만족경영 행정정보 공개 GCA 소개 GCA 소개 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 인사말 이사장 인사말 기관장 인사말 미션/비전/전략 ESG 경영 연혁 조직도 및 연락처 인재채용 인재상/역량 채용정보 기관상징(CI/BI) 오시는길 close 검색어 입력 찾으시는 검색어를 위 검색창에 입력해 주세요. 좌측 메뉴 홈 알림마당 사업소개 예약신청 알림마당 기관소식 열린경영 GCA 소개 사업공고 공지사항 사업공고 교육 및 행사 자료실 유관기관 소식 정책게시판 사업공고 사업공고 입찰공고 결과발표 사업공고 SNS 공유하기 레이어 열기 트위터 공유 새창열림 카카오톡 공유 새창열림 블로그 공유 새창열림 페이스북 공유 새창열림 2026년 AI 콘텐츠 캠퍼스 가상오피스 지원기업(2차) 모집 [제 2026-123호] 등록일 2026.09.28 조회수 2,099 담당자 김민경 담당부서 인재양성팀 전화번호 032-623-8081 접수기간 2026년 09월 28일 13시 00분 ~ 2026년 10월 16일 16시 00분 지원항목 교육프로그램 가상오피스 지원 모집조건 제한없음 경기도 기업 사업개요 사업명 2026년 AI 콘텐츠 캠퍼스 가상오피스 지원 사업기간 2026년 10월 26일 (월) ~ 2027년 10월 25일 (월) 지원내용 지원항목 교육프로그램 가상오피스 지원 지원내용 - 사업자 주소지 지원 - AI 콘텐츠 캠퍼스 내 공간, 장비 사용 및 우편함 제공 - 문화창업플래너 컨설팅 지원 등 모집개요 모집기간 2026년 09월 28일 13시 00분 ~ 2026년 10월 16일 16시 00분 모집조건 사업(행사) 참가기업이 반드시 갖추어야 하는 조건은 아래와 같습니다. 업력 제한없음 소재지 경기도 기업 구성원수 10 이하 모집분야 장르 만화 게임 영화 애니메이션 방송 콘텐츠솔루션 분야 모집규모 10명(팀) 제출서류 사업계획서 제출파일 모집 공고문_AI 콘텐츠 캠퍼스 가상오피스_2차.hwp ( 파일크기: 339.67 KB) 첨부파일 지원신청서_AI 콘텐츠 캠퍼스_2차.hwp ( 파일크기: 20,992byte) 개인(기업)정보 수집이용 제공동의서_AI 콘텐츠 캠퍼스.hwp ( 파일크기: 19,456byte) 목록 이전글 2026년 경기게임커넥트(G-GameConnect) 비즈매칭 참가사 (게임개발사, 바이어) 모집 다음글 2026년 하반기 경기XR센터 공간지원 및 가상오피스지원 기업 모집(모집 규모 수정) 회원서비스 본 신청은 회원을 위한 서비스입니다. 로그인하시거나 회원가입하여 이용하여 주시기 바랍니다. 회원가입 로그인 신청하기 닫기 사이트명 개인정보처리방침 이메일무단수집거부 (우) 14557 경기도 부천시 부천로198번길 18(춘의동) 춘의테크노파크Ⅱ 202동 9층 TEL.032)623-8000 FAX. 032)623-8088 Copyrightⓒ 2026 GYEONGGI CONTENT AGENCY All rights reserved. 유튜브 네이버포스트 INSTAGRAM 관련사이트 바로가기 내부관련사이트 경기콘텐츠코리아랩 플레이엑스포 해외진출지원 누리집 경기게임문화센터 경기글로벌게임센터 경기XR센터 외부관련사이트 경기도청 부천시청 문화체육관광부 경기도의회 한국콘텐츠진흥원 성남산업진흥원 SBA 서울애니메이션센터 K-STARTUP 창업지원포털 한국만화영상진흥원 온라인피해365센터 광주정보문화산업진흥원 부산정보산업진흥원 청주시문화산업진흥재단 강원정보문화산업진흥원 kotra 울산문화산업개발원 인천테크노파크 경남문화예술진흥원 (재)전남정보문화산업진흥원 경상북도콘텐츠진흥원 전라북도문화콘텐츠산업진흥원 고양산업진흥원 전주정보문화산업진흥원 제주테크노파크 대구디지털산업진흥원 대전정보문화산업진흥원 충남정보문화산업진흥원 경인지방통계청 콘텐츠코리아랩 한국게임산업협회 창조경제혁신센터 춘천문화원 한국지능정보사회진흥원 한국저작권보호원 경기도경제과학진흥원 이지비즈 로딩중입니다.",
+          "body_text": "사업공고 | 사업공고 | 알림마당 | 경기콘텐츠진흥원 본문내용 바로가기 유튜브 네이버포스트 INSTAGRAM 사업소개 사업소개 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우드펀딩 공간지원 입주지원 공유오피스 비상주 사무실 창작공간 지역육성 사업 서부권역센터 운영 남부권역센터 운영 북부권역센터 운영 동부권역센터 운영 출판/만화/애니사업 책 생태계 활성화 만화애니영화 콘텐츠산업 활성화 경기국제웹툰페어 음악사업 경기도 음악산업 육성 경기인디뮤직페스티벌 개최 문화기술콘텐츠 사업 문화기술산업 육성 지역특화콘텐츠 개발 가상융합 사업 가상융합 산업 육성 경기 가상융합산업 혁신센터 게임산업 플레이엑스포 개최 게임산업육성 건전게임문화 조성 경기e스포츠 육성 영상사업 경기도 영화영상산업 육성 경기도 다양성영화 저변확대 글로벌 콘텐츠 컨퍼런스 대한민국 AI 콘텐츠 어워즈 지역영상미디어센터 활성화 지원 수출 / 자금지원 사업 콘텐츠 해외진출 지원 콘텐츠 기업 투자 유치 지원 콘텐츠 기업 보증지원 K-콘텐츠IP융복합제작지원 민관협력 투자유치 기회활성화 지원 콘텐츠창업기업기회펀드조성 G-유니콘패스 크라우드 펀딩 사업지원 인재양성사업 웹툰 청년 인턴십 지원 경기 콘텐츠 창의학교 문화창업플래너 AI 콘텐츠 캠퍼스 예약신청 예약신청 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 프로그램 예약 공간예약 장비예약 좌석예약 게임 과몰입 상담예약 알림마당 알림마당 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 공지사항 사업공고 사업공고 입찰공고 결과발표 교육 및 행사 자료실 유관기관 소식 정책게시판 기관소식 기관소식 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 보도자료 오피니언 기관 소식(SNS) 뉴스레터 뉴스레터 신청하기 뉴스레터 다시보기 열린경영 열린경영 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 경영공시 윤리경영 고객만족경영 행정정보 공개 GCA 소개 GCA 소개 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 인사말 이사장 인사말 기관장 인사말 미션/비전/전략 ESG 경영 연혁 조직도 및 연락처 인재채용 인재상/역량 채용정보 기관상징(CI/BI) 오시는길 로그인 회원가입 사업소개 사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우드펀딩 공간지원 입주지원 공유오피스 비상주 사무실 창작공간 지역육성 사업 서부권역센터 운영 남부권역센터 운영 북부권역센터 운영 동부권역센터 운영 출판/만화/애니사업 책 생태계 활성화 만화애니영화 콘텐츠산업 활성화 경기국제웹툰페어 음악사업 경기도 음악산업 육성 경기인디뮤직페스티벌 개최 문화기술콘텐츠 사업 문화기술산업 육성 지역특화콘텐츠 개발 가상융합 사업 가상융합 산업 육성 경기 가상융합산업 혁신센터 게임산업 플레이엑스포 개최 게임산업육성 건전게임문화 조성 경기e스포츠 육성 영상사업 경기도 영화영상산업 육성 경기도 다양성영화 저변확대 글로벌 콘텐츠 컨퍼런스 대한민국 AI 콘텐츠 어워즈 지역영상미디어센터 활성화 지원 수출 / 자금지원 사업 콘텐츠 해외진출 지원 콘텐츠 기업 투자 유치 지원 콘텐츠 기업 보증지원 K-콘텐츠IP융복합제작지원 민관협력 투자유치 기회활성화 지원 콘텐츠창업기업기회펀드조성 G-유니콘패스 크라우드 펀딩 사업지원 인재양성사업 웹툰 청년 인턴십 지원 경기 콘텐츠 창의학교 문화창업플래너 AI 콘텐츠 캠퍼스 예약신청 시설/교육예약 프로그램 공간 장비 좌석 상담예약 게임 과몰입 상담예약 알림마당 공지사항 사업공고 사업공고 입찰공고 결과발표 교육 및 행사 자료실 유관기관 소식 정책게시판 기관소식 보도자료 오피니언 기관 소식(SNS) 뉴스레터 뉴스레터 신청하기 뉴스레터 다시보기 열린경영 경영공시 경영공시 개요 경영목표 및 예산사업계획 임원 및 운영인력 현황 예산 결산 인건비 예산 및 집행현황 시책추진 업무 추진비 기관운영 업무 추진비 경영실적평가 결과 감사 결과 및 이행결과 성과계약 달성정도 기부금 계약정보 안전관리 윤리경영 윤리경영전략 윤리경영헌장 인권정책선언 비위면직자 취업제한 제도 윤리경영이행 자료실 클린신고센터 성희롱신고센터 고객만족경영 고객만족경영 고객의 소리 고객서비스 헌장 행정정보 공개 정보공개청구 공공데이터 개방 사전정보 공표 GCA 소개 인사말 이사장 인사말 기관장 인사말 미션/비전/전략 ESG 경영 연혁 2020년대 2010년대 2000년대 조직도 및 연락처 원장실 청렴감사실 경영본부 콘텐츠산업본부 지역육성본부 미래산업본부 대외협력실 인재채용 인재상/역량 채용정보 기관상징(CI/BI) 오시는길 로그인 회원가입 메뉴 열기 버튼 전체메뉴 로그인 회원가입 아이디 찾기 비밀번호 찾기 사업소개 사업소개 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우드펀딩 공간지원 입주지원 공유오피스 비상주 사무실 창작공간 지역육성 사업 서부권역센터 운영 남부권역센터 운영 북부권역센터 운영 동부권역센터 운영 출판/만화/애니사업 책 생태계 활성화 만화애니영화 콘텐츠산업 활성화 경기국제웹툰페어 음악사업 경기도 음악산업 육성 경기인디뮤직페스티벌 개최 문화기술콘텐츠 사업 문화기술산업 육성 지역특화콘텐츠 개발 가상융합 사업 가상융합 산업 육성 경기 가상융합산업 혁신센터 게임산업 플레이엑스포 개최 게임산업육성 건전게임문화 조성 경기e스포츠 육성 영상사업 경기도 영화영상산업 육성 경기도 다양성영화 저변확대 글로벌 콘텐츠 컨퍼런스 대한민국 AI 콘텐츠 어워즈 지역영상미디어센터 활성화 지원 수출 / 자금지원 사업 콘텐츠 해외진출 지원 콘텐츠 기업 투자 유치 지원 콘텐츠 기업 보증지원 K-콘텐츠IP융복합제작지원 민관협력 투자유치 기회활성화 지원 콘텐츠창업기업기회펀드조성 G-유니콘패스 크라우드 펀딩 사업지원 인재양성사업 웹툰 청년 인턴십 지원 경기 콘텐츠 창의학교 문화창업플래너 AI 콘텐츠 캠퍼스 예약신청 예약신청 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 프로그램 예약 공간예약 장비예약 좌석예약 게임상담예약 알림마당 알림마당 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 공지사항 사업공고 사업공고 입찰공고 결과발표 교육 및 행사 자료실 유관기관 소식 정책게시판 기관소식 기관소식 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 보도자료 오피니언 기관 소식(SNS) 뉴스레터 뉴스레터 신청하기 뉴스레터 다시보기 열린경영 열린경영 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 경영공시 윤리경영 고객만족경영 행정정보 공개 GCA 소개 GCA 소개 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 인사말 이사장 인사말 기관장 인사말 미션/비전/전략 ESG 경영 연혁 조직도 및 연락처 인재채용 인재상/역량 채용정보 기관상징(CI/BI) 오시는길 close 검색어 입력 찾으시는 검색어를 위 검색창에 입력해 주세요. 좌측 메뉴 홈 알림마당 사업소개 예약신청 알림마당 기관소식 열린경영 GCA 소개 사업공고 공지사항 사업공고 교육 및 행사 자료실 유관기관 소식 정책게시판 사업공고 사업공고 입찰공고 결과발표 사업공고 SNS 공유하기 레이어 열기 트위터 공유 새창열림 카카오톡 공유 새창열림 블로그 공유 새창열림 페이스북 공유 새창열림 2026년 AI 콘텐츠 캠퍼스 가상오피스 지원기업(2차) 모집 [제 2026-123호] 등록일 2026.09.28 조회수 2,289 담당자 김민경 담당부서 인재양성팀 전화번호 032-623-8081 접수기간 2026년 09월 28일 13시 00분 ~ 2026년 10월 16일 16시 00분 지원항목 교육프로그램 가상오피스 지원 모집조건 제한없음 경기도 기업 사업개요 사업명 2026년 AI 콘텐츠 캠퍼스 가상오피스 지원 사업기간 2026년 10월 26일 (월) ~ 2027년 10월 25일 (월) 지원내용 지원항목 교육프로그램 가상오피스 지원 지원내용 - 사업자 주소지 지원 - AI 콘텐츠 캠퍼스 내 공간, 장비 사용 및 우편함 제공 - 문화창업플래너 컨설팅 지원 등 모집개요 모집기간 2026년 09월 28일 13시 00분 ~ 2026년 10월 16일 16시 00분 모집조건 사업(행사) 참가기업이 반드시 갖추어야 하는 조건은 아래와 같습니다. 업력 제한없음 소재지 경기도 기업 구성원수 10 이하 모집분야 장르 만화 게임 영화 애니메이션 방송 콘텐츠솔루션 분야 모집규모 10명(팀) 제출서류 사업계획서 제출파일 모집 공고문_AI 콘텐츠 캠퍼스 가상오피스_2차.hwp ( 파일크기: 339.67 KB) 첨부파일 지원신청서_AI 콘텐츠 캠퍼스_2차.hwp ( 파일크기: 20,992byte) 개인(기업)정보 수집이용 제공동의서_AI 콘텐츠 캠퍼스.hwp ( 파일크기: 19,456byte) 목록 이전글 2026년 경기게임커넥트(G-GameConnect) 비즈매칭 참가사 (게임개발사, 바이어) 모집 다음글 2026년 하반기 경기XR센터 공간지원 및 가상오피스지원 기업 모집(모집 규모 수정) 회원서비스 본 신청은 회원을 위한 서비스입니다. 로그인하시거나 회원가입하여 이용하여 주시기 바랍니다. 회원가입 로그인 신청하기 닫기 사이트명 개인정보처리방침 이메일무단수집거부 (우) 14557 경기도 부천시 부천로198번길 18(춘의동) 춘의테크노파크Ⅱ 202동 9층 TEL.032)623-8000 FAX. 032)623-8088 Copyrightⓒ 2026 GYEONGGI CONTENT AGENCY All rights reserved. 유튜브 네이버포스트 INSTAGRAM 관련사이트 바로가기 내부관련사이트 경기콘텐츠코리아랩 플레이엑스포 해외진출지원 누리집 경기게임문화센터 경기글로벌게임센터 경기XR센터 외부관련사이트 경기도청 부천시청 문화체육관광부 경기도의회 한국콘텐츠진흥원 성남산업진흥원 SBA 서울애니메이션센터 K-STARTUP 창업지원포털 한국만화영상진흥원 온라인피해365센터 광주정보문화산업진흥원 부산정보산업진흥원 청주시문화산업진흥재단 강원정보문화산업진흥원 kotra 울산문화산업개발원 인천테크노파크 경남문화예술진흥원 (재)전남정보문화산업진흥원 경상북도콘텐츠진흥원 전라북도문화콘텐츠산업진흥원 고양산업진흥원 전주정보문화산업진흥원 제주테크노파크 대구디지털산업진흥원 대전정보문화산업진흥원 충남정보문화산업진흥원 경인지방통계청 콘텐츠코리아랩 한국게임산업협회 창조경제혁신센터 춘천문화원 한국지능정보사회진흥원 한국저작권보호원 경기도경제과학진흥원 이지비즈 로딩중입니다.",
           "source_post_id": "11232",
           "source_kind": "official",
           "source_priority": 100,
@@ -7655,7 +7572,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "",
-          "collected_at": "2026-10-02T07:38:23+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -7779,7 +7696,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -7788,7 +7705,7 @@
           "source_post_id": "PBLN_000000000125107",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -7834,7 +7751,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "경영",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -7944,7 +7861,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-28T23:26:13+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -7953,7 +7870,7 @@
           "source_post_id": "PBLN_000000000126797",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -7999,7 +7916,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "기술",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -8626,7 +8543,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-01T22:51:56+09:00",
-      "last_seen_at": "2026-10-02T07:38:23+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "gcon",
@@ -8635,7 +8552,7 @@
           "source_post_id": "11234",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-10-02T07:38:23+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -8664,7 +8581,7 @@
           "title": "2026년 판교 경기문화창조허브 스타트업 오피스 신규 입주기업(17기 2차) 모집",
           "organizer": "사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우",
           "summary": "사업공고 | 사업공고 | 알림마당 | 경기콘텐츠진흥원",
-          "body_text": "사업공고 | 사업공고 | 알림마당 | 경기콘텐츠진흥원 본문내용 바로가기 유튜브 네이버포스트 INSTAGRAM 사업소개 사업소개 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우드펀딩 공간지원 입주지원 공유오피스 비상주 사무실 창작공간 지역육성 사업 서부권역센터 운영 남부권역센터 운영 북부권역센터 운영 동부권역센터 운영 출판/만화/애니사업 책 생태계 활성화 만화애니영화 콘텐츠산업 활성화 경기국제웹툰페어 음악사업 경기도 음악산업 육성 경기인디뮤직페스티벌 개최 문화기술콘텐츠 사업 문화기술산업 육성 지역특화콘텐츠 개발 가상융합 사업 가상융합 산업 육성 경기 가상융합산업 혁신센터 게임산업 플레이엑스포 개최 게임산업육성 건전게임문화 조성 경기e스포츠 육성 영상사업 경기도 영화영상산업 육성 경기도 다양성영화 저변확대 글로벌 콘텐츠 컨퍼런스 대한민국 AI 콘텐츠 어워즈 지역영상미디어센터 활성화 지원 수출 / 자금지원 사업 콘텐츠 해외진출 지원 콘텐츠 기업 투자 유치 지원 콘텐츠 기업 보증지원 K-콘텐츠IP융복합제작지원 민관협력 투자유치 기회활성화 지원 콘텐츠창업기업기회펀드조성 G-유니콘패스 크라우드 펀딩 사업지원 인재양성사업 웹툰 청년 인턴십 지원 경기 콘텐츠 창의학교 문화창업플래너 AI 콘텐츠 캠퍼스 예약신청 예약신청 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 프로그램 예약 공간예약 장비예약 좌석예약 게임 과몰입 상담예약 알림마당 알림마당 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 공지사항 사업공고 사업공고 입찰공고 결과발표 교육 및 행사 자료실 유관기관 소식 정책게시판 기관소식 기관소식 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 보도자료 오피니언 기관 소식(SNS) 뉴스레터 뉴스레터 신청하기 뉴스레터 다시보기 열린경영 열린경영 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 경영공시 윤리경영 고객만족경영 행정정보 공개 GCA 소개 GCA 소개 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 인사말 이사장 인사말 기관장 인사말 미션/비전/전략 ESG 경영 연혁 조직도 및 연락처 인재채용 인재상/역량 채용정보 기관상징(CI/BI) 오시는길 로그인 회원가입 사업소개 사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우드펀딩 공간지원 입주지원 공유오피스 비상주 사무실 창작공간 지역육성 사업 서부권역센터 운영 남부권역센터 운영 북부권역센터 운영 동부권역센터 운영 출판/만화/애니사업 책 생태계 활성화 만화애니영화 콘텐츠산업 활성화 경기국제웹툰페어 음악사업 경기도 음악산업 육성 경기인디뮤직페스티벌 개최 문화기술콘텐츠 사업 문화기술산업 육성 지역특화콘텐츠 개발 가상융합 사업 가상융합 산업 육성 경기 가상융합산업 혁신센터 게임산업 플레이엑스포 개최 게임산업육성 건전게임문화 조성 경기e스포츠 육성 영상사업 경기도 영화영상산업 육성 경기도 다양성영화 저변확대 글로벌 콘텐츠 컨퍼런스 대한민국 AI 콘텐츠 어워즈 지역영상미디어센터 활성화 지원 수출 / 자금지원 사업 콘텐츠 해외진출 지원 콘텐츠 기업 투자 유치 지원 콘텐츠 기업 보증지원 K-콘텐츠IP융복합제작지원 민관협력 투자유치 기회활성화 지원 콘텐츠창업기업기회펀드조성 G-유니콘패스 크라우드 펀딩 사업지원 인재양성사업 웹툰 청년 인턴십 지원 경기 콘텐츠 창의학교 문화창업플래너 AI 콘텐츠 캠퍼스 예약신청 시설/교육예약 프로그램 공간 장비 좌석 상담예약 게임 과몰입 상담예약 알림마당 공지사항 사업공고 사업공고 입찰공고 결과발표 교육 및 행사 자료실 유관기관 소식 정책게시판 기관소식 보도자료 오피니언 기관 소식(SNS) 뉴스레터 뉴스레터 신청하기 뉴스레터 다시보기 열린경영 경영공시 경영공시 개요 경영목표 및 예산사업계획 임원 및 운영인력 현황 예산 결산 인건비 예산 및 집행현황 시책추진 업무 추진비 기관운영 업무 추진비 경영실적평가 결과 감사 결과 및 이행결과 성과계약 달성정도 기부금 계약정보 안전관리 윤리경영 윤리경영전략 윤리경영헌장 인권정책선언 비위면직자 취업제한 제도 윤리경영이행 자료실 클린신고센터 성희롱신고센터 고객만족경영 고객만족경영 고객의 소리 고객서비스 헌장 행정정보 공개 정보공개청구 공공데이터 개방 사전정보 공표 GCA 소개 인사말 이사장 인사말 기관장 인사말 미션/비전/전략 ESG 경영 연혁 2020년대 2010년대 2000년대 조직도 및 연락처 원장실 청렴감사실 경영본부 콘텐츠산업본부 지역육성본부 미래산업본부 대외협력실 인재채용 인재상/역량 채용정보 기관상징(CI/BI) 오시는길 로그인 회원가입 메뉴 열기 버튼 전체메뉴 로그인 회원가입 아이디 찾기 비밀번호 찾기 사업소개 사업소개 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우드펀딩 공간지원 입주지원 공유오피스 비상주 사무실 창작공간 지역육성 사업 서부권역센터 운영 남부권역센터 운영 북부권역센터 운영 동부권역센터 운영 출판/만화/애니사업 책 생태계 활성화 만화애니영화 콘텐츠산업 활성화 경기국제웹툰페어 음악사업 경기도 음악산업 육성 경기인디뮤직페스티벌 개최 문화기술콘텐츠 사업 문화기술산업 육성 지역특화콘텐츠 개발 가상융합 사업 가상융합 산업 육성 경기 가상융합산업 혁신센터 게임산업 플레이엑스포 개최 게임산업육성 건전게임문화 조성 경기e스포츠 육성 영상사업 경기도 영화영상산업 육성 경기도 다양성영화 저변확대 글로벌 콘텐츠 컨퍼런스 대한민국 AI 콘텐츠 어워즈 지역영상미디어센터 활성화 지원 수출 / 자금지원 사업 콘텐츠 해외진출 지원 콘텐츠 기업 투자 유치 지원 콘텐츠 기업 보증지원 K-콘텐츠IP융복합제작지원 민관협력 투자유치 기회활성화 지원 콘텐츠창업기업기회펀드조성 G-유니콘패스 크라우드 펀딩 사업지원 인재양성사업 웹툰 청년 인턴십 지원 경기 콘텐츠 창의학교 문화창업플래너 AI 콘텐츠 캠퍼스 예약신청 예약신청 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 프로그램 예약 공간예약 장비예약 좌석예약 게임상담예약 알림마당 알림마당 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 공지사항 사업공고 사업공고 입찰공고 결과발표 교육 및 행사 자료실 유관기관 소식 정책게시판 기관소식 기관소식 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 보도자료 오피니언 기관 소식(SNS) 뉴스레터 뉴스레터 신청하기 뉴스레터 다시보기 열린경영 열린경영 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 경영공시 윤리경영 고객만족경영 행정정보 공개 GCA 소개 GCA 소개 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 인사말 이사장 인사말 기관장 인사말 미션/비전/전략 ESG 경영 연혁 조직도 및 연락처 인재채용 인재상/역량 채용정보 기관상징(CI/BI) 오시는길 close 검색어 입력 찾으시는 검색어를 위 검색창에 입력해 주세요. 좌측 메뉴 홈 알림마당 사업소개 예약신청 알림마당 기관소식 열린경영 GCA 소개 사업공고 공지사항 사업공고 교육 및 행사 자료실 유관기관 소식 정책게시판 사업공고 사업공고 입찰공고 결과발표 사업공고 SNS 공유하기 레이어 열기 트위터 공유 새창열림 카카오톡 공유 새창열림 블로그 공유 새창열림 페이스북 공유 새창열림 2026년 판교 경기문화창조허브 스타트업 오피스 신규 입주기업(17기 2차) 모집 [제 2026-125호] 등록일 2026.10.01 조회수 331 담당자 강민석 담당부서 남부권역센터 전화번호 031-776-4634 접수기간 2026년 10월 01일 00시 55분 ~ 2026년 10월 19일 00시 00분 지원항목 스타트업 오피스 지원 모집조건 7년 이내 경기도 기업 경기도 이전 예정 경기도 외 기업 사업개요 사업명 2026 판교허브 - 입주기업 선발 및 시설 운 2026 판교 경기문화창조허브 공간운영 17기 2차 입주기업 모집 사업기간 2026년 01월 01일 (목) ~ 2026년 12월 31일 (목) 사업목적 콘텐츠 산업 분야 스타트업 육성 및 업무 환경 공간 제공 지원내용 지원항목 스타트업 오피스 지원 지원내용 모집개요 모집기간 2026년 10월 01일 00시 55분 ~ 2026년 10월 19일 00시 00분 모집조건 사업(행사) 참가기업이 반드시 갖추어야 하는 조건은 아래와 같습니다. 업력 7년 이내 소재지 경기도 기업 경기도 이전 예정 경기도 외 기업 기타 세부내용 공고문 참고 모집분야 장르 출판 만화 음악 게임 애니메이션 방송 공연 광고 지식정보 콘텐츠솔루션 캐릭터 분야 창작 일러스트 창작 전문디자인 창작 콘텐츠기획 창작 디자인 IT관련 SW IT관련 ICT 신규산업 VR 신규산업 AR 신규산업 MCN 기타 기획 기타 개발 기타 마케팅 기타장르 ICT, AI 융복합 모집규모 16명(팀) 우대사항 콘텐츠 + AI, 인공지능 융복합 아이템의 경우 서류평가 가점 적용 제한사항 - 2026년 12월 30일 이전에 창업 가능한 예비 창업자(사업장 주소지 이전 포함) - 협약일(2026. 11. 15. 예정) 기준 1개월 이내 입주 가능한 기업(사업장 주소지 이전 포함) - 금융기관 등으로부터 채무불이행으로 규제중인 자 또는 기업 - 국세, 지방세 중 1개 이상 체납 중인 자 또는 기업 - 정부 및 지방자체단체, 공공기관으로부터 제재 처분을 받았거나 사업 참여를 제한받고 있는 자 또는 기업 - 판교 경기문화창조허브 스타트업오피스 졸업‧퇴거기업 선정개요 해당 사업의 심사일정, 발표일정은 변동될 수 있습니다. 1차 심사 선정방법 서류심사 심사일정 2026년 10월 22일 (목) ~ 2026년 10월 22일 (목) 발표일정 2026년 10월 23일 (금) 심사기준 지원동기(40) 사업내용(30) 사업추진계획(30) 가점(최대 5) 2차 심사 선정방법 발표평가 심사일정 2026년 10월 26일 (월) ~ 2026년 10월 26일 (월) 발표일정 2026년 10월 30일 (금) 심사기준 사업 역량(30) 성장 가능성(30) 팀 역량(20) 공간지원 적정성(20) 제출서류 사업계획서 사업자등록증 지방세/국세납입증 투자 유치 증빙서류 발표PPT 지적재산권 안내사항 추가문의처 판교 경기문화창조허브 공간 담당 매니저 ㅣ 031-776-4634 ㅣ mkang15@gcon.or.kr 첨부파일 01.공고문_2026년 판교 경기문화창조허브 스타트업 오피스 신규 입주기업(17기 2차) 모집.hwp.pdf ( 파일크기: 199,857byte) 02.신청서_2026년 판교 경기문화창조허브 스타트업 오피스 신규 입주기업(17기 2차) 모집_기업명(안).hwp ( 파일크기: 80,384byte) 03.사전진단확인증 발급안내문.hwp ( 파일크기: 951,296byte) 04.2026 판교 스타트업 오피스 입주지원 포스터(17기 2차).jpg ( 파일크기: 173,581byte) 지원하기 목록 이전글 2026년 제8회 경기마을미디어 공모전 참여 모집 공고 다음글 다음글이 없습니다. 회원서비스 본 신청은 회원을 위한 서비스입니다. 로그인하시거나 회원가입하여 이용하여 주시기 바랍니다. 회원가입 로그인 신청하기 닫기 사이트명 개인정보처리방침 이메일무단수집거부 (우) 14557 경기도 부천시 부천로198번길 18(춘의동) 춘의테크노파크Ⅱ 202동 9층 TEL.032)623-8000 FAX. 032)623-8088 Copyrightⓒ 2026 GYEONGGI CONTENT AGENCY All rights reserved. 유튜브 네이버포스트 INSTAGRAM 관련사이트 바로가기 내부관련사이트 경기콘텐츠코리아랩 플레이엑스포 해외진출지원 누리집 경기게임문화센터 경기글로벌게임센터 경기XR센터 외부관련사이트 경기도청 부천시청 문화체육관광부 경기도의회 한국콘텐츠진흥원 성남산업진흥원 SBA 서울애니메이션센터 K-STARTUP 창업지원포털 한국만화영상진흥원 온라인피해365센터 광주정보문화산업진흥원 부산정보산업진흥원 청주시문화산업진흥재단 강원정보문화산업진흥원 kotra 울산문화산업개발원 인천테크노파크 경남문화예술진흥원 (재)전남정보문화산업진흥원 경상북도콘텐츠진흥원 전라북도문화콘텐츠산업진흥원 고양산업진흥원 전주정보문화산업진흥원 제주테크노파크 대구디지털산업진흥원 대전정보문화산업진흥원 충남정보문화산업진흥원 경인지방통계청 콘텐츠코리아랩 한국게임산업협회 창조경제혁신센터 춘천문화원 한국지능정보사회진흥원 한국저작권보호원 경기",
+          "body_text": "사업공고 | 사업공고 | 알림마당 | 경기콘텐츠진흥원 본문내용 바로가기 유튜브 네이버포스트 INSTAGRAM 사업소개 사업소개 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우드펀딩 공간지원 입주지원 공유오피스 비상주 사무실 창작공간 지역육성 사업 서부권역센터 운영 남부권역센터 운영 북부권역센터 운영 동부권역센터 운영 출판/만화/애니사업 책 생태계 활성화 만화애니영화 콘텐츠산업 활성화 경기국제웹툰페어 음악사업 경기도 음악산업 육성 경기인디뮤직페스티벌 개최 문화기술콘텐츠 사업 문화기술산업 육성 지역특화콘텐츠 개발 가상융합 사업 가상융합 산업 육성 경기 가상융합산업 혁신센터 게임산업 플레이엑스포 개최 게임산업육성 건전게임문화 조성 경기e스포츠 육성 영상사업 경기도 영화영상산업 육성 경기도 다양성영화 저변확대 글로벌 콘텐츠 컨퍼런스 대한민국 AI 콘텐츠 어워즈 지역영상미디어센터 활성화 지원 수출 / 자금지원 사업 콘텐츠 해외진출 지원 콘텐츠 기업 투자 유치 지원 콘텐츠 기업 보증지원 K-콘텐츠IP융복합제작지원 민관협력 투자유치 기회활성화 지원 콘텐츠창업기업기회펀드조성 G-유니콘패스 크라우드 펀딩 사업지원 인재양성사업 웹툰 청년 인턴십 지원 경기 콘텐츠 창의학교 문화창업플래너 AI 콘텐츠 캠퍼스 예약신청 예약신청 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 프로그램 예약 공간예약 장비예약 좌석예약 게임 과몰입 상담예약 알림마당 알림마당 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 공지사항 사업공고 사업공고 입찰공고 결과발표 교육 및 행사 자료실 유관기관 소식 정책게시판 기관소식 기관소식 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 보도자료 오피니언 기관 소식(SNS) 뉴스레터 뉴스레터 신청하기 뉴스레터 다시보기 열린경영 열린경영 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 경영공시 윤리경영 고객만족경영 행정정보 공개 GCA 소개 GCA 소개 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 인사말 이사장 인사말 기관장 인사말 미션/비전/전략 ESG 경영 연혁 조직도 및 연락처 인재채용 인재상/역량 채용정보 기관상징(CI/BI) 오시는길 로그인 회원가입 사업소개 사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우드펀딩 공간지원 입주지원 공유오피스 비상주 사무실 창작공간 지역육성 사업 서부권역센터 운영 남부권역센터 운영 북부권역센터 운영 동부권역센터 운영 출판/만화/애니사업 책 생태계 활성화 만화애니영화 콘텐츠산업 활성화 경기국제웹툰페어 음악사업 경기도 음악산업 육성 경기인디뮤직페스티벌 개최 문화기술콘텐츠 사업 문화기술산업 육성 지역특화콘텐츠 개발 가상융합 사업 가상융합 산업 육성 경기 가상융합산업 혁신센터 게임산업 플레이엑스포 개최 게임산업육성 건전게임문화 조성 경기e스포츠 육성 영상사업 경기도 영화영상산업 육성 경기도 다양성영화 저변확대 글로벌 콘텐츠 컨퍼런스 대한민국 AI 콘텐츠 어워즈 지역영상미디어센터 활성화 지원 수출 / 자금지원 사업 콘텐츠 해외진출 지원 콘텐츠 기업 투자 유치 지원 콘텐츠 기업 보증지원 K-콘텐츠IP융복합제작지원 민관협력 투자유치 기회활성화 지원 콘텐츠창업기업기회펀드조성 G-유니콘패스 크라우드 펀딩 사업지원 인재양성사업 웹툰 청년 인턴십 지원 경기 콘텐츠 창의학교 문화창업플래너 AI 콘텐츠 캠퍼스 예약신청 시설/교육예약 프로그램 공간 장비 좌석 상담예약 게임 과몰입 상담예약 알림마당 공지사항 사업공고 사업공고 입찰공고 결과발표 교육 및 행사 자료실 유관기관 소식 정책게시판 기관소식 보도자료 오피니언 기관 소식(SNS) 뉴스레터 뉴스레터 신청하기 뉴스레터 다시보기 열린경영 경영공시 경영공시 개요 경영목표 및 예산사업계획 임원 및 운영인력 현황 예산 결산 인건비 예산 및 집행현황 시책추진 업무 추진비 기관운영 업무 추진비 경영실적평가 결과 감사 결과 및 이행결과 성과계약 달성정도 기부금 계약정보 안전관리 윤리경영 윤리경영전략 윤리경영헌장 인권정책선언 비위면직자 취업제한 제도 윤리경영이행 자료실 클린신고센터 성희롱신고센터 고객만족경영 고객만족경영 고객의 소리 고객서비스 헌장 행정정보 공개 정보공개청구 공공데이터 개방 사전정보 공표 GCA 소개 인사말 이사장 인사말 기관장 인사말 미션/비전/전략 ESG 경영 연혁 2020년대 2010년대 2000년대 조직도 및 연락처 원장실 청렴감사실 경영본부 콘텐츠산업본부 지역육성본부 미래산업본부 대외협력실 인재채용 인재상/역량 채용정보 기관상징(CI/BI) 오시는길 로그인 회원가입 메뉴 열기 버튼 전체메뉴 로그인 회원가입 아이디 찾기 비밀번호 찾기 사업소개 사업소개 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우드펀딩 공간지원 입주지원 공유오피스 비상주 사무실 창작공간 지역육성 사업 서부권역센터 운영 남부권역센터 운영 북부권역센터 운영 동부권역센터 운영 출판/만화/애니사업 책 생태계 활성화 만화애니영화 콘텐츠산업 활성화 경기국제웹툰페어 음악사업 경기도 음악산업 육성 경기인디뮤직페스티벌 개최 문화기술콘텐츠 사업 문화기술산업 육성 지역특화콘텐츠 개발 가상융합 사업 가상융합 산업 육성 경기 가상융합산업 혁신센터 게임산업 플레이엑스포 개최 게임산업육성 건전게임문화 조성 경기e스포츠 육성 영상사업 경기도 영화영상산업 육성 경기도 다양성영화 저변확대 글로벌 콘텐츠 컨퍼런스 대한민국 AI 콘텐츠 어워즈 지역영상미디어센터 활성화 지원 수출 / 자금지원 사업 콘텐츠 해외진출 지원 콘텐츠 기업 투자 유치 지원 콘텐츠 기업 보증지원 K-콘텐츠IP융복합제작지원 민관협력 투자유치 기회활성화 지원 콘텐츠창업기업기회펀드조성 G-유니콘패스 크라우드 펀딩 사업지원 인재양성사업 웹툰 청년 인턴십 지원 경기 콘텐츠 창의학교 문화창업플래너 AI 콘텐츠 캠퍼스 예약신청 예약신청 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 프로그램 예약 공간예약 장비예약 좌석예약 게임상담예약 알림마당 알림마당 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 공지사항 사업공고 사업공고 입찰공고 결과발표 교육 및 행사 자료실 유관기관 소식 정책게시판 기관소식 기관소식 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 보도자료 오피니언 기관 소식(SNS) 뉴스레터 뉴스레터 신청하기 뉴스레터 다시보기 열린경영 열린경영 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 경영공시 윤리경영 고객만족경영 행정정보 공개 GCA 소개 GCA 소개 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 인사말 이사장 인사말 기관장 인사말 미션/비전/전략 ESG 경영 연혁 조직도 및 연락처 인재채용 인재상/역량 채용정보 기관상징(CI/BI) 오시는길 close 검색어 입력 찾으시는 검색어를 위 검색창에 입력해 주세요. 좌측 메뉴 홈 알림마당 사업소개 예약신청 알림마당 기관소식 열린경영 GCA 소개 사업공고 공지사항 사업공고 교육 및 행사 자료실 유관기관 소식 정책게시판 사업공고 사업공고 입찰공고 결과발표 사업공고 SNS 공유하기 레이어 열기 트위터 공유 새창열림 카카오톡 공유 새창열림 블로그 공유 새창열림 페이스북 공유 새창열림 2026년 판교 경기문화창조허브 스타트업 오피스 신규 입주기업(17기 2차) 모집 [제 2026-125호] 등록일 2026.10.01 조회수 593 담당자 강민석 담당부서 남부권역센터 전화번호 031-776-4634 접수기간 2026년 10월 01일 00시 55분 ~ 2026년 10월 19일 00시 00분 지원항목 스타트업 오피스 지원 모집조건 7년 이내 경기도 기업 경기도 이전 예정 경기도 외 기업 사업개요 사업명 2026 판교허브 - 입주기업 선발 및 시설 운 2026 판교 경기문화창조허브 공간운영 17기 2차 입주기업 모집 사업기간 2026년 01월 01일 (목) ~ 2026년 12월 31일 (목) 사업목적 콘텐츠 산업 분야 스타트업 육성 및 업무 환경 공간 제공 지원내용 지원항목 스타트업 오피스 지원 지원내용 모집개요 모집기간 2026년 10월 01일 00시 55분 ~ 2026년 10월 19일 00시 00분 모집조건 사업(행사) 참가기업이 반드시 갖추어야 하는 조건은 아래와 같습니다. 업력 7년 이내 소재지 경기도 기업 경기도 이전 예정 경기도 외 기업 기타 세부내용 공고문 참고 모집분야 장르 출판 만화 음악 게임 애니메이션 방송 공연 광고 지식정보 콘텐츠솔루션 캐릭터 분야 창작 일러스트 창작 전문디자인 창작 콘텐츠기획 창작 디자인 IT관련 SW IT관련 ICT 신규산업 VR 신규산업 AR 신규산업 MCN 기타 기획 기타 개발 기타 마케팅 기타장르 ICT, AI 융복합 모집규모 16명(팀) 우대사항 콘텐츠 + AI, 인공지능 융복합 아이템의 경우 서류평가 가점 적용 제한사항 - 2026년 12월 30일 이전에 창업 가능한 예비 창업자(사업장 주소지 이전 포함) - 협약일(2026. 11. 15. 예정) 기준 1개월 이내 입주 가능한 기업(사업장 주소지 이전 포함) - 금융기관 등으로부터 채무불이행으로 규제중인 자 또는 기업 - 국세, 지방세 중 1개 이상 체납 중인 자 또는 기업 - 정부 및 지방자체단체, 공공기관으로부터 제재 처분을 받았거나 사업 참여를 제한받고 있는 자 또는 기업 - 판교 경기문화창조허브 스타트업오피스 졸업‧퇴거기업 선정개요 해당 사업의 심사일정, 발표일정은 변동될 수 있습니다. 1차 심사 선정방법 서류심사 심사일정 2026년 10월 22일 (목) ~ 2026년 10월 22일 (목) 발표일정 2026년 10월 23일 (금) 심사기준 지원동기(40) 사업내용(30) 사업추진계획(30) 가점(최대 5) 2차 심사 선정방법 발표평가 심사일정 2026년 10월 26일 (월) ~ 2026년 10월 26일 (월) 발표일정 2026년 10월 30일 (금) 심사기준 사업 역량(30) 성장 가능성(30) 팀 역량(20) 공간지원 적정성(20) 제출서류 사업계획서 사업자등록증 지방세/국세납입증 투자 유치 증빙서류 발표PPT 지적재산권 안내사항 추가문의처 판교 경기문화창조허브 공간 담당 매니저 ㅣ 031-776-4634 ㅣ mkang15@gcon.or.kr 첨부파일 01.공고문_2026년 판교 경기문화창조허브 스타트업 오피스 신규 입주기업(17기 2차) 모집.hwp.pdf ( 파일크기: 199,857byte) 02.신청서_2026년 판교 경기문화창조허브 스타트업 오피스 신규 입주기업(17기 2차) 모집_기업명(안).hwp ( 파일크기: 80,384byte) 03.사전진단확인증 발급안내문.hwp ( 파일크기: 951,296byte) 04.2026 판교 스타트업 오피스 입주지원 포스터(17기 2차).jpg ( 파일크기: 173,581byte) 지원하기 목록 이전글 2026년 제8회 경기마을미디어 공모전 참여 모집 공고 다음글 다음글이 없습니다. 회원서비스 본 신청은 회원을 위한 서비스입니다. 로그인하시거나 회원가입하여 이용하여 주시기 바랍니다. 회원가입 로그인 신청하기 닫기 사이트명 개인정보처리방침 이메일무단수집거부 (우) 14557 경기도 부천시 부천로198번길 18(춘의동) 춘의테크노파크Ⅱ 202동 9층 TEL.032)623-8000 FAX. 032)623-8088 Copyrightⓒ 2026 GYEONGGI CONTENT AGENCY All rights reserved. 유튜브 네이버포스트 INSTAGRAM 관련사이트 바로가기 내부관련사이트 경기콘텐츠코리아랩 플레이엑스포 해외진출지원 누리집 경기게임문화센터 경기글로벌게임센터 경기XR센터 외부관련사이트 경기도청 부천시청 문화체육관광부 경기도의회 한국콘텐츠진흥원 성남산업진흥원 SBA 서울애니메이션센터 K-STARTUP 창업지원포털 한국만화영상진흥원 온라인피해365센터 광주정보문화산업진흥원 부산정보산업진흥원 청주시문화산업진흥재단 강원정보문화산업진흥원 kotra 울산문화산업개발원 인천테크노파크 경남문화예술진흥원 (재)전남정보문화산업진흥원 경상북도콘텐츠진흥원 전라북도문화콘텐츠산업진흥원 고양산업진흥원 전주정보문화산업진흥원 제주테크노파크 대구디지털산업진흥원 대전정보문화산업진흥원 충남정보문화산업진흥원 경인지방통계청 콘텐츠코리아랩 한국게임산업협회 창조경제혁신센터 춘천문화원 한국지능정보사회진흥원 한국저작권보호원 경기",
           "source_post_id": "11234",
           "source_kind": "official",
           "source_priority": 100,
@@ -8681,7 +8598,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "",
-          "collected_at": "2026-10-02T07:38:23+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -9058,7 +8975,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-22T07:11:22+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -9067,7 +8984,7 @@
           "source_post_id": "EVEN_000000000069480",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -9113,7 +9030,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -9140,7 +9057,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-10T20:47:11+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -9149,7 +9066,7 @@
           "source_post_id": "EVEN_000000000069416",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -9195,7 +9112,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -9391,7 +9308,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-01T07:11:43+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -9400,7 +9317,7 @@
           "source_post_id": "PBLN_000000000126865",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -9446,7 +9363,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "경영",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -9640,7 +9557,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-22T07:11:22+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -9649,7 +9566,7 @@
           "source_post_id": "EVEN_000000000069483",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -9695,7 +9612,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -9987,7 +9904,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-23T14:08:38+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -9996,7 +9913,7 @@
           "source_post_id": "EVEN_000000000069500",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -10042,7 +9959,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -10069,7 +9986,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -10078,7 +9995,7 @@
           "source_post_id": "EVEN_000000000069519",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -10124,7 +10041,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -10498,7 +10415,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-23T21:05:55+09:00",
-      "last_seen_at": "2026-10-02T07:38:23+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "gcon",
@@ -10507,7 +10424,7 @@
           "source_post_id": "11230",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-10-02T07:38:23+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -10538,7 +10455,7 @@
           "title": "2026년 하반기 경기XR센터 공간지원 및 가상오피스지원 기업 모집(모집 규모 수정)",
           "organizer": "사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우",
           "summary": "사업공고 | 사업공고 | 알림마당 | 경기콘텐츠진흥원",
-          "body_text": "사업공고 | 사업공고 | 알림마당 | 경기콘텐츠진흥원 본문내용 바로가기 유튜브 네이버포스트 INSTAGRAM 사업소개 사업소개 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우드펀딩 공간지원 입주지원 공유오피스 비상주 사무실 창작공간 지역육성 사업 서부권역센터 운영 남부권역센터 운영 북부권역센터 운영 동부권역센터 운영 출판/만화/애니사업 책 생태계 활성화 만화애니영화 콘텐츠산업 활성화 경기국제웹툰페어 음악사업 경기도 음악산업 육성 경기인디뮤직페스티벌 개최 문화기술콘텐츠 사업 문화기술산업 육성 지역특화콘텐츠 개발 가상융합 사업 가상융합 산업 육성 경기 가상융합산업 혁신센터 게임산업 플레이엑스포 개최 게임산업육성 건전게임문화 조성 경기e스포츠 육성 영상사업 경기도 영화영상산업 육성 경기도 다양성영화 저변확대 글로벌 콘텐츠 컨퍼런스 대한민국 AI 콘텐츠 어워즈 지역영상미디어센터 활성화 지원 수출 / 자금지원 사업 콘텐츠 해외진출 지원 콘텐츠 기업 투자 유치 지원 콘텐츠 기업 보증지원 K-콘텐츠IP융복합제작지원 민관협력 투자유치 기회활성화 지원 콘텐츠창업기업기회펀드조성 G-유니콘패스 크라우드 펀딩 사업지원 인재양성사업 웹툰 청년 인턴십 지원 경기 콘텐츠 창의학교 문화창업플래너 AI 콘텐츠 캠퍼스 예약신청 예약신청 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 프로그램 예약 공간예약 장비예약 좌석예약 게임 과몰입 상담예약 알림마당 알림마당 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 공지사항 사업공고 사업공고 입찰공고 결과발표 교육 및 행사 자료실 유관기관 소식 정책게시판 기관소식 기관소식 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 보도자료 오피니언 기관 소식(SNS) 뉴스레터 뉴스레터 신청하기 뉴스레터 다시보기 열린경영 열린경영 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 경영공시 윤리경영 고객만족경영 행정정보 공개 GCA 소개 GCA 소개 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 인사말 이사장 인사말 기관장 인사말 미션/비전/전략 ESG 경영 연혁 조직도 및 연락처 인재채용 인재상/역량 채용정보 기관상징(CI/BI) 오시는길 로그인 회원가입 사업소개 사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우드펀딩 공간지원 입주지원 공유오피스 비상주 사무실 창작공간 지역육성 사업 서부권역센터 운영 남부권역센터 운영 북부권역센터 운영 동부권역센터 운영 출판/만화/애니사업 책 생태계 활성화 만화애니영화 콘텐츠산업 활성화 경기국제웹툰페어 음악사업 경기도 음악산업 육성 경기인디뮤직페스티벌 개최 문화기술콘텐츠 사업 문화기술산업 육성 지역특화콘텐츠 개발 가상융합 사업 가상융합 산업 육성 경기 가상융합산업 혁신센터 게임산업 플레이엑스포 개최 게임산업육성 건전게임문화 조성 경기e스포츠 육성 영상사업 경기도 영화영상산업 육성 경기도 다양성영화 저변확대 글로벌 콘텐츠 컨퍼런스 대한민국 AI 콘텐츠 어워즈 지역영상미디어센터 활성화 지원 수출 / 자금지원 사업 콘텐츠 해외진출 지원 콘텐츠 기업 투자 유치 지원 콘텐츠 기업 보증지원 K-콘텐츠IP융복합제작지원 민관협력 투자유치 기회활성화 지원 콘텐츠창업기업기회펀드조성 G-유니콘패스 크라우드 펀딩 사업지원 인재양성사업 웹툰 청년 인턴십 지원 경기 콘텐츠 창의학교 문화창업플래너 AI 콘텐츠 캠퍼스 예약신청 시설/교육예약 프로그램 공간 장비 좌석 상담예약 게임 과몰입 상담예약 알림마당 공지사항 사업공고 사업공고 입찰공고 결과발표 교육 및 행사 자료실 유관기관 소식 정책게시판 기관소식 보도자료 오피니언 기관 소식(SNS) 뉴스레터 뉴스레터 신청하기 뉴스레터 다시보기 열린경영 경영공시 경영공시 개요 경영목표 및 예산사업계획 임원 및 운영인력 현황 예산 결산 인건비 예산 및 집행현황 시책추진 업무 추진비 기관운영 업무 추진비 경영실적평가 결과 감사 결과 및 이행결과 성과계약 달성정도 기부금 계약정보 안전관리 윤리경영 윤리경영전략 윤리경영헌장 인권정책선언 비위면직자 취업제한 제도 윤리경영이행 자료실 클린신고센터 성희롱신고센터 고객만족경영 고객만족경영 고객의 소리 고객서비스 헌장 행정정보 공개 정보공개청구 공공데이터 개방 사전정보 공표 GCA 소개 인사말 이사장 인사말 기관장 인사말 미션/비전/전략 ESG 경영 연혁 2020년대 2010년대 2000년대 조직도 및 연락처 원장실 청렴감사실 경영본부 콘텐츠산업본부 지역육성본부 미래산업본부 대외협력실 인재채용 인재상/역량 채용정보 기관상징(CI/BI) 오시는길 로그인 회원가입 메뉴 열기 버튼 전체메뉴 로그인 회원가입 아이디 찾기 비밀번호 찾기 사업소개 사업소개 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우드펀딩 공간지원 입주지원 공유오피스 비상주 사무실 창작공간 지역육성 사업 서부권역센터 운영 남부권역센터 운영 북부권역센터 운영 동부권역센터 운영 출판/만화/애니사업 책 생태계 활성화 만화애니영화 콘텐츠산업 활성화 경기국제웹툰페어 음악사업 경기도 음악산업 육성 경기인디뮤직페스티벌 개최 문화기술콘텐츠 사업 문화기술산업 육성 지역특화콘텐츠 개발 가상융합 사업 가상융합 산업 육성 경기 가상융합산업 혁신센터 게임산업 플레이엑스포 개최 게임산업육성 건전게임문화 조성 경기e스포츠 육성 영상사업 경기도 영화영상산업 육성 경기도 다양성영화 저변확대 글로벌 콘텐츠 컨퍼런스 대한민국 AI 콘텐츠 어워즈 지역영상미디어센터 활성화 지원 수출 / 자금지원 사업 콘텐츠 해외진출 지원 콘텐츠 기업 투자 유치 지원 콘텐츠 기업 보증지원 K-콘텐츠IP융복합제작지원 민관협력 투자유치 기회활성화 지원 콘텐츠창업기업기회펀드조성 G-유니콘패스 크라우드 펀딩 사업지원 인재양성사업 웹툰 청년 인턴십 지원 경기 콘텐츠 창의학교 문화창업플래너 AI 콘텐츠 캠퍼스 예약신청 예약신청 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 프로그램 예약 공간예약 장비예약 좌석예약 게임상담예약 알림마당 알림마당 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 공지사항 사업공고 사업공고 입찰공고 결과발표 교육 및 행사 자료실 유관기관 소식 정책게시판 기관소식 기관소식 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 보도자료 오피니언 기관 소식(SNS) 뉴스레터 뉴스레터 신청하기 뉴스레터 다시보기 열린경영 열린경영 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 경영공시 윤리경영 고객만족경영 행정정보 공개 GCA 소개 GCA 소개 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 인사말 이사장 인사말 기관장 인사말 미션/비전/전략 ESG 경영 연혁 조직도 및 연락처 인재채용 인재상/역량 채용정보 기관상징(CI/BI) 오시는길 close 검색어 입력 찾으시는 검색어를 위 검색창에 입력해 주세요. 좌측 메뉴 홈 알림마당 사업소개 예약신청 알림마당 기관소식 열린경영 GCA 소개 사업공고 공지사항 사업공고 교육 및 행사 자료실 유관기관 소식 정책게시판 사업공고 사업공고 입찰공고 결과발표 사업공고 SNS 공유하기 레이어 열기 트위터 공유 새창열림 카카오톡 공유 새창열림 블로그 공유 새창열림 페이스북 공유 새창열림 2026년 하반기 경기XR센터 공간지원 및 가상오피스지원 기업 모집(모집 규모 수정) [제 2026-121호] 등록일 2026.09.29 조회수 5,274 담당자 류원열 담당부서 가상융합산업팀 전화번호 031-8064-1718 접수기간 2026년 09월 23일 08시 00분 ~ 2026년 10월 23일 12시 00분 지원항목 네트워킹 프로그램 전문가 컨설팅&멘토링 스타트업 오피스 지원 가상오피스 지원 모집조건 7년 이내 경기도 기업 경기도 이전 예정 사업개요 사업명 2026년 경기XR센터 운영 2026년 하반기 경기XR센터 공간지원 및 가상오피스지원 기업 모집 사업기간 2026년 12월 01일 (화) ~ 2027년 11월 30일 (화) 사업목적 경기도 가상융합 산업육성을 위한 경기XR센터 시설/장비 인프라 운영으로 가상융합 및 신기술 융복합 산업 분야 지원 확대 사업내용 공간지원 및 가상오피스지원을 통해 입주기업의 안정적인 활동을 지원 지원내용 지원항목 네트워킹 프로그램 전문가 컨설팅&멘토링 스타트업 오피스 지원 가상오피스 지원 지원내용 1. 입주기간 : 최초 1년 및 연장 심사를 통해 추가 연장 가능(기본 1년, 최대 2년) 2. 지원내용 가. 임대관리보증금 및 임차료 무상 지원(연간 사용료 제외) 나. 공용지원시설 및 장비 제공 - 회의실, 공용공간 라운지, 탕비실, OA·인터넷, 우편함 - 센터 보유 XR 장비 대여 다. [공간지원] 입주기업 지원 프로그램 - 기업 간 네트워킹 목적의 간담회 - 경영·특허·마케팅 등 1:1 전문가 컨설팅 프로그램 라. [가상오피스지원] 비상주 사업자등록 주소지 사용 허가 (경기도 수원시 영통구 광교로 156 11층 경기XR센터 VO-00(이의동, 광교비즈니스센터)) ※ 상기 지원 사항은 진흥원 사업계획 변동에 따라 달라질 수 있습니다. 모집개요 모집기간 2026년 09월 23일 08시 00분 ~ 2026년 10월 23일 12시 00분 모집조건 사업(행사) 참가기업이 반드시 갖추어야 하는 조건은 아래와 같습니다. 업력 7년 이내 소재지 경기도 기업 경기도 이전 예정 기타 가상융합(XR, 디지털 트윈 등) 및 신기술(AI 등) 융복합 관련 사업을 영위하는 기업 혹은 창업을 희망하는 예비창업자 모집분야 기타장르 가상융합(XR, 디지털 트윈) 및 신기술(AI 등) 융복합 관련 사업 ※ 관련 세부 내용 공고문 확인 必 모집규모 4명(팀) 우대사항 2025년, 2026년 가상융합산업팀 자금지원형 지원 사업 선정 기업 ※ 관련 세부 내용 공고문 확인 必 제한사항 지원 제한 대상 ① 국세 또는 지방세를 체납 중인 자 또는 기업 ② 정부 부처 및 지방자치단체, 기관 사업에 참여 제한 등 제재 중이거나 법위반 자 또는 기업 ③ 금융기관 등으로부터 채무불이행으로 규제 중인 자 또는 기업 ④ 경기도 법위반기업에 대한 기업지원 제한 조례에 저촉되는 기업 선정개요 해당 사업의 심사일정, 발표일정은 변동될 수 있습니다. 1차 심사 선정방법 O 제출한 지원신청서에 대한 서면 평가 - 가상오피스 지원 기업 : 서면 평가만 진행하여 적격자 선정 ※ 사업 운영에 따라 심사 일정은 변동될 수 있습니다. ※ 관련 세부 내용 공고문 확인 必 심사일정 2026년 10월 28일 (수) ~ 2026년 10월 28일 (수) 발표일정 2026년 10월 30일 (금) 심사기준 사업성 및 기획력(40), 매출 및 시장전망(30), 입주공간 활용계획(30) ※ 관련 세부 내용 공고문 확인 必 2차 심사 선정방법 O 제출한 지원신청서 및 기업소개서에 대한 발표 평가 ※ 사업 운영에 따라 심사 일정은 변동될 수 있습니다. ※ 관련 세부 내용 공고문 확인 必 심사일정 2026년 11월 06일 (금) ~ 2026년 11월 06일 (금) 발표일정 2026년 11월 20일 (금) 심사기준 사업성 및 기획력(40), 매출 및 시장전망(30), 입주공간 활용계획(30) ※ 관련 세부 내용 공고문 확인 必 제출서류 사업계획서 사업자등록증 지방세/국세납입증 기타 안내사항 FAQ O 사업 관련 문의 - 경기콘텐츠진흥원 가상융합산업팀 - TEL) 031-8064-1718 - E-mail) ggxr@gcon.or.kr 기타안내사항 - 모집기한 내(10/23 12시) 사업공고 페이지에 첨부된 지원신청서 및 부속서류를 이메일(ggxr@gcon.or.kr)로 제출해야 합니다. - 공간지원 및 가상오피스지원 기업 모두 공고문 내 제출 서류 목록을 준수하여 접수해야 합니다. ※ 관련 세부 내용 공고문 확인 必 첨부파일 [공고문] 2026년 하반기 경기XR센터 신규 지원기업 모집.pdf ( 파일크기: 134,113byte) (지원신청서) 2026년 하반기 경기XR센터 신규 지원기업 모집.hwp ( 파일크기: 89,088byte) 목록 이전글 2026년 AI 콘텐츠 캠퍼스 가상오피스 지원기업(2차) 모집 다음글 2026년 제8회 경기마을미디어 공모전 참여 모집 공고 회원서비스 본 신청은 회원을 위한 서비스입니다. 로그인하시거나 회원가입하여 이용하여 주시기 바랍니다. 회원가입 로그인 신청하기 닫기 사이트명 ",
+          "body_text": "사업공고 | 사업공고 | 알림마당 | 경기콘텐츠진흥원 본문내용 바로가기 유튜브 네이버포스트 INSTAGRAM 사업소개 사업소개 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우드펀딩 공간지원 입주지원 공유오피스 비상주 사무실 창작공간 지역육성 사업 서부권역센터 운영 남부권역센터 운영 북부권역센터 운영 동부권역센터 운영 출판/만화/애니사업 책 생태계 활성화 만화애니영화 콘텐츠산업 활성화 경기국제웹툰페어 음악사업 경기도 음악산업 육성 경기인디뮤직페스티벌 개최 문화기술콘텐츠 사업 문화기술산업 육성 지역특화콘텐츠 개발 가상융합 사업 가상융합 산업 육성 경기 가상융합산업 혁신센터 게임산업 플레이엑스포 개최 게임산업육성 건전게임문화 조성 경기e스포츠 육성 영상사업 경기도 영화영상산업 육성 경기도 다양성영화 저변확대 글로벌 콘텐츠 컨퍼런스 대한민국 AI 콘텐츠 어워즈 지역영상미디어센터 활성화 지원 수출 / 자금지원 사업 콘텐츠 해외진출 지원 콘텐츠 기업 투자 유치 지원 콘텐츠 기업 보증지원 K-콘텐츠IP융복합제작지원 민관협력 투자유치 기회활성화 지원 콘텐츠창업기업기회펀드조성 G-유니콘패스 크라우드 펀딩 사업지원 인재양성사업 웹툰 청년 인턴십 지원 경기 콘텐츠 창의학교 문화창업플래너 AI 콘텐츠 캠퍼스 예약신청 예약신청 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 프로그램 예약 공간예약 장비예약 좌석예약 게임 과몰입 상담예약 알림마당 알림마당 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 공지사항 사업공고 사업공고 입찰공고 결과발표 교육 및 행사 자료실 유관기관 소식 정책게시판 기관소식 기관소식 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 보도자료 오피니언 기관 소식(SNS) 뉴스레터 뉴스레터 신청하기 뉴스레터 다시보기 열린경영 열린경영 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 경영공시 윤리경영 고객만족경영 행정정보 공개 GCA 소개 GCA 소개 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 인사말 이사장 인사말 기관장 인사말 미션/비전/전략 ESG 경영 연혁 조직도 및 연락처 인재채용 인재상/역량 채용정보 기관상징(CI/BI) 오시는길 로그인 회원가입 사업소개 사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우드펀딩 공간지원 입주지원 공유오피스 비상주 사무실 창작공간 지역육성 사업 서부권역센터 운영 남부권역센터 운영 북부권역센터 운영 동부권역센터 운영 출판/만화/애니사업 책 생태계 활성화 만화애니영화 콘텐츠산업 활성화 경기국제웹툰페어 음악사업 경기도 음악산업 육성 경기인디뮤직페스티벌 개최 문화기술콘텐츠 사업 문화기술산업 육성 지역특화콘텐츠 개발 가상융합 사업 가상융합 산업 육성 경기 가상융합산업 혁신센터 게임산업 플레이엑스포 개최 게임산업육성 건전게임문화 조성 경기e스포츠 육성 영상사업 경기도 영화영상산업 육성 경기도 다양성영화 저변확대 글로벌 콘텐츠 컨퍼런스 대한민국 AI 콘텐츠 어워즈 지역영상미디어센터 활성화 지원 수출 / 자금지원 사업 콘텐츠 해외진출 지원 콘텐츠 기업 투자 유치 지원 콘텐츠 기업 보증지원 K-콘텐츠IP융복합제작지원 민관협력 투자유치 기회활성화 지원 콘텐츠창업기업기회펀드조성 G-유니콘패스 크라우드 펀딩 사업지원 인재양성사업 웹툰 청년 인턴십 지원 경기 콘텐츠 창의학교 문화창업플래너 AI 콘텐츠 캠퍼스 예약신청 시설/교육예약 프로그램 공간 장비 좌석 상담예약 게임 과몰입 상담예약 알림마당 공지사항 사업공고 사업공고 입찰공고 결과발표 교육 및 행사 자료실 유관기관 소식 정책게시판 기관소식 보도자료 오피니언 기관 소식(SNS) 뉴스레터 뉴스레터 신청하기 뉴스레터 다시보기 열린경영 경영공시 경영공시 개요 경영목표 및 예산사업계획 임원 및 운영인력 현황 예산 결산 인건비 예산 및 집행현황 시책추진 업무 추진비 기관운영 업무 추진비 경영실적평가 결과 감사 결과 및 이행결과 성과계약 달성정도 기부금 계약정보 안전관리 윤리경영 윤리경영전략 윤리경영헌장 인권정책선언 비위면직자 취업제한 제도 윤리경영이행 자료실 클린신고센터 성희롱신고센터 고객만족경영 고객만족경영 고객의 소리 고객서비스 헌장 행정정보 공개 정보공개청구 공공데이터 개방 사전정보 공표 GCA 소개 인사말 이사장 인사말 기관장 인사말 미션/비전/전략 ESG 경영 연혁 2020년대 2010년대 2000년대 조직도 및 연락처 원장실 청렴감사실 경영본부 콘텐츠산업본부 지역육성본부 미래산업본부 대외협력실 인재채용 인재상/역량 채용정보 기관상징(CI/BI) 오시는길 로그인 회원가입 메뉴 열기 버튼 전체메뉴 로그인 회원가입 아이디 찾기 비밀번호 찾기 사업소개 사업소개 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우드펀딩 공간지원 입주지원 공유오피스 비상주 사무실 창작공간 지역육성 사업 서부권역센터 운영 남부권역센터 운영 북부권역센터 운영 동부권역센터 운영 출판/만화/애니사업 책 생태계 활성화 만화애니영화 콘텐츠산업 활성화 경기국제웹툰페어 음악사업 경기도 음악산업 육성 경기인디뮤직페스티벌 개최 문화기술콘텐츠 사업 문화기술산업 육성 지역특화콘텐츠 개발 가상융합 사업 가상융합 산업 육성 경기 가상융합산업 혁신센터 게임산업 플레이엑스포 개최 게임산업육성 건전게임문화 조성 경기e스포츠 육성 영상사업 경기도 영화영상산업 육성 경기도 다양성영화 저변확대 글로벌 콘텐츠 컨퍼런스 대한민국 AI 콘텐츠 어워즈 지역영상미디어센터 활성화 지원 수출 / 자금지원 사업 콘텐츠 해외진출 지원 콘텐츠 기업 투자 유치 지원 콘텐츠 기업 보증지원 K-콘텐츠IP융복합제작지원 민관협력 투자유치 기회활성화 지원 콘텐츠창업기업기회펀드조성 G-유니콘패스 크라우드 펀딩 사업지원 인재양성사업 웹툰 청년 인턴십 지원 경기 콘텐츠 창의학교 문화창업플래너 AI 콘텐츠 캠퍼스 예약신청 예약신청 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 프로그램 예약 공간예약 장비예약 좌석예약 게임상담예약 알림마당 알림마당 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 공지사항 사업공고 사업공고 입찰공고 결과발표 교육 및 행사 자료실 유관기관 소식 정책게시판 기관소식 기관소식 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 보도자료 오피니언 기관 소식(SNS) 뉴스레터 뉴스레터 신청하기 뉴스레터 다시보기 열린경영 열린경영 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 경영공시 윤리경영 고객만족경영 행정정보 공개 GCA 소개 GCA 소개 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 인사말 이사장 인사말 기관장 인사말 미션/비전/전략 ESG 경영 연혁 조직도 및 연락처 인재채용 인재상/역량 채용정보 기관상징(CI/BI) 오시는길 close 검색어 입력 찾으시는 검색어를 위 검색창에 입력해 주세요. 좌측 메뉴 홈 알림마당 사업소개 예약신청 알림마당 기관소식 열린경영 GCA 소개 사업공고 공지사항 사업공고 교육 및 행사 자료실 유관기관 소식 정책게시판 사업공고 사업공고 입찰공고 결과발표 사업공고 SNS 공유하기 레이어 열기 트위터 공유 새창열림 카카오톡 공유 새창열림 블로그 공유 새창열림 페이스북 공유 새창열림 2026년 하반기 경기XR센터 공간지원 및 가상오피스지원 기업 모집(모집 규모 수정) [제 2026-121호] 등록일 2026.09.29 조회수 5,576 담당자 류원열 담당부서 가상융합산업팀 전화번호 031-8064-1718 접수기간 2026년 09월 23일 08시 00분 ~ 2026년 10월 23일 12시 00분 지원항목 네트워킹 프로그램 전문가 컨설팅&멘토링 스타트업 오피스 지원 가상오피스 지원 모집조건 7년 이내 경기도 기업 경기도 이전 예정 사업개요 사업명 2026년 경기XR센터 운영 2026년 하반기 경기XR센터 공간지원 및 가상오피스지원 기업 모집 사업기간 2026년 12월 01일 (화) ~ 2027년 11월 30일 (화) 사업목적 경기도 가상융합 산업육성을 위한 경기XR센터 시설/장비 인프라 운영으로 가상융합 및 신기술 융복합 산업 분야 지원 확대 사업내용 공간지원 및 가상오피스지원을 통해 입주기업의 안정적인 활동을 지원 지원내용 지원항목 네트워킹 프로그램 전문가 컨설팅&멘토링 스타트업 오피스 지원 가상오피스 지원 지원내용 1. 입주기간 : 최초 1년 및 연장 심사를 통해 추가 연장 가능(기본 1년, 최대 2년) 2. 지원내용 가. 임대관리보증금 및 임차료 무상 지원(연간 사용료 제외) 나. 공용지원시설 및 장비 제공 - 회의실, 공용공간 라운지, 탕비실, OA·인터넷, 우편함 - 센터 보유 XR 장비 대여 다. [공간지원] 입주기업 지원 프로그램 - 기업 간 네트워킹 목적의 간담회 - 경영·특허·마케팅 등 1:1 전문가 컨설팅 프로그램 라. [가상오피스지원] 비상주 사업자등록 주소지 사용 허가 (경기도 수원시 영통구 광교로 156 11층 경기XR센터 VO-00(이의동, 광교비즈니스센터)) ※ 상기 지원 사항은 진흥원 사업계획 변동에 따라 달라질 수 있습니다. 모집개요 모집기간 2026년 09월 23일 08시 00분 ~ 2026년 10월 23일 12시 00분 모집조건 사업(행사) 참가기업이 반드시 갖추어야 하는 조건은 아래와 같습니다. 업력 7년 이내 소재지 경기도 기업 경기도 이전 예정 기타 가상융합(XR, 디지털 트윈 등) 및 신기술(AI 등) 융복합 관련 사업을 영위하는 기업 혹은 창업을 희망하는 예비창업자 모집분야 기타장르 가상융합(XR, 디지털 트윈) 및 신기술(AI 등) 융복합 관련 사업 ※ 관련 세부 내용 공고문 확인 必 모집규모 4명(팀) 우대사항 2025년, 2026년 가상융합산업팀 자금지원형 지원 사업 선정 기업 ※ 관련 세부 내용 공고문 확인 必 제한사항 지원 제한 대상 ① 국세 또는 지방세를 체납 중인 자 또는 기업 ② 정부 부처 및 지방자치단체, 기관 사업에 참여 제한 등 제재 중이거나 법위반 자 또는 기업 ③ 금융기관 등으로부터 채무불이행으로 규제 중인 자 또는 기업 ④ 경기도 법위반기업에 대한 기업지원 제한 조례에 저촉되는 기업 선정개요 해당 사업의 심사일정, 발표일정은 변동될 수 있습니다. 1차 심사 선정방법 O 제출한 지원신청서에 대한 서면 평가 - 가상오피스 지원 기업 : 서면 평가만 진행하여 적격자 선정 ※ 사업 운영에 따라 심사 일정은 변동될 수 있습니다. ※ 관련 세부 내용 공고문 확인 必 심사일정 2026년 10월 28일 (수) ~ 2026년 10월 28일 (수) 발표일정 2026년 10월 30일 (금) 심사기준 사업성 및 기획력(40), 매출 및 시장전망(30), 입주공간 활용계획(30) ※ 관련 세부 내용 공고문 확인 必 2차 심사 선정방법 O 제출한 지원신청서 및 기업소개서에 대한 발표 평가 ※ 사업 운영에 따라 심사 일정은 변동될 수 있습니다. ※ 관련 세부 내용 공고문 확인 必 심사일정 2026년 11월 06일 (금) ~ 2026년 11월 06일 (금) 발표일정 2026년 11월 20일 (금) 심사기준 사업성 및 기획력(40), 매출 및 시장전망(30), 입주공간 활용계획(30) ※ 관련 세부 내용 공고문 확인 必 제출서류 사업계획서 사업자등록증 지방세/국세납입증 기타 안내사항 FAQ O 사업 관련 문의 - 경기콘텐츠진흥원 가상융합산업팀 - TEL) 031-8064-1718 - E-mail) ggxr@gcon.or.kr 기타안내사항 - 모집기한 내(10/23 12시) 사업공고 페이지에 첨부된 지원신청서 및 부속서류를 이메일(ggxr@gcon.or.kr)로 제출해야 합니다. - 공간지원 및 가상오피스지원 기업 모두 공고문 내 제출 서류 목록을 준수하여 접수해야 합니다. ※ 관련 세부 내용 공고문 확인 必 첨부파일 [공고문] 2026년 하반기 경기XR센터 신규 지원기업 모집.pdf ( 파일크기: 134,113byte) (지원신청서) 2026년 하반기 경기XR센터 신규 지원기업 모집.hwp ( 파일크기: 89,088byte) 목록 이전글 2026년 AI 콘텐츠 캠퍼스 가상오피스 지원기업(2차) 모집 다음글 2026년 제8회 경기마을미디어 공모전 참여 모집 공고 회원서비스 본 신청은 회원을 위한 서비스입니다. 로그인하시거나 회원가입하여 이용하여 주시기 바랍니다. 회원가입 로그인 신청하기 닫기 사이트명 ",
           "source_post_id": "11230",
           "source_kind": "official",
           "source_priority": 100,
@@ -10555,7 +10472,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "",
-          "collected_at": "2026-10-02T07:38:23+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -10750,7 +10667,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -10759,7 +10676,7 @@
           "source_post_id": "PBLN_000000000126714",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -10805,7 +10722,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "내수",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -10835,7 +10752,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-30T21:59:01+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -10844,7 +10761,7 @@
           "source_post_id": "EVEN_000000000069532",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -10890,7 +10807,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -11475,7 +11392,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-23T21:05:55+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "gcon",
@@ -11484,7 +11401,7 @@
           "source_post_id": "11231",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-10-02T07:38:23+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         },
         {
           "source_id": "momo365",
@@ -11493,7 +11410,7 @@
           "source_post_id": null,
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-02T07:38:23+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -11522,7 +11439,7 @@
           "title": "2026년 경기게임커넥트(G-GameConnect) 비즈매칭 참가사 (게임개발사, 바이어) 모집",
           "organizer": "사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우",
           "summary": "사업공고 | 사업공고 | 알림마당 | 경기콘텐츠진흥원",
-          "body_text": "사업공고 | 사업공고 | 알림마당 | 경기콘텐츠진흥원 본문내용 바로가기 유튜브 네이버포스트 INSTAGRAM 사업소개 사업소개 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우드펀딩 공간지원 입주지원 공유오피스 비상주 사무실 창작공간 지역육성 사업 서부권역센터 운영 남부권역센터 운영 북부권역센터 운영 동부권역센터 운영 출판/만화/애니사업 책 생태계 활성화 만화애니영화 콘텐츠산업 활성화 경기국제웹툰페어 음악사업 경기도 음악산업 육성 경기인디뮤직페스티벌 개최 문화기술콘텐츠 사업 문화기술산업 육성 지역특화콘텐츠 개발 가상융합 사업 가상융합 산업 육성 경기 가상융합산업 혁신센터 게임산업 플레이엑스포 개최 게임산업육성 건전게임문화 조성 경기e스포츠 육성 영상사업 경기도 영화영상산업 육성 경기도 다양성영화 저변확대 글로벌 콘텐츠 컨퍼런스 대한민국 AI 콘텐츠 어워즈 지역영상미디어센터 활성화 지원 수출 / 자금지원 사업 콘텐츠 해외진출 지원 콘텐츠 기업 투자 유치 지원 콘텐츠 기업 보증지원 K-콘텐츠IP융복합제작지원 민관협력 투자유치 기회활성화 지원 콘텐츠창업기업기회펀드조성 G-유니콘패스 크라우드 펀딩 사업지원 인재양성사업 웹툰 청년 인턴십 지원 경기 콘텐츠 창의학교 문화창업플래너 AI 콘텐츠 캠퍼스 예약신청 예약신청 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 프로그램 예약 공간예약 장비예약 좌석예약 게임 과몰입 상담예약 알림마당 알림마당 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 공지사항 사업공고 사업공고 입찰공고 결과발표 교육 및 행사 자료실 유관기관 소식 정책게시판 기관소식 기관소식 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 보도자료 오피니언 기관 소식(SNS) 뉴스레터 뉴스레터 신청하기 뉴스레터 다시보기 열린경영 열린경영 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 경영공시 윤리경영 고객만족경영 행정정보 공개 GCA 소개 GCA 소개 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 인사말 이사장 인사말 기관장 인사말 미션/비전/전략 ESG 경영 연혁 조직도 및 연락처 인재채용 인재상/역량 채용정보 기관상징(CI/BI) 오시는길 로그인 회원가입 사업소개 사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우드펀딩 공간지원 입주지원 공유오피스 비상주 사무실 창작공간 지역육성 사업 서부권역센터 운영 남부권역센터 운영 북부권역센터 운영 동부권역센터 운영 출판/만화/애니사업 책 생태계 활성화 만화애니영화 콘텐츠산업 활성화 경기국제웹툰페어 음악사업 경기도 음악산업 육성 경기인디뮤직페스티벌 개최 문화기술콘텐츠 사업 문화기술산업 육성 지역특화콘텐츠 개발 가상융합 사업 가상융합 산업 육성 경기 가상융합산업 혁신센터 게임산업 플레이엑스포 개최 게임산업육성 건전게임문화 조성 경기e스포츠 육성 영상사업 경기도 영화영상산업 육성 경기도 다양성영화 저변확대 글로벌 콘텐츠 컨퍼런스 대한민국 AI 콘텐츠 어워즈 지역영상미디어센터 활성화 지원 수출 / 자금지원 사업 콘텐츠 해외진출 지원 콘텐츠 기업 투자 유치 지원 콘텐츠 기업 보증지원 K-콘텐츠IP융복합제작지원 민관협력 투자유치 기회활성화 지원 콘텐츠창업기업기회펀드조성 G-유니콘패스 크라우드 펀딩 사업지원 인재양성사업 웹툰 청년 인턴십 지원 경기 콘텐츠 창의학교 문화창업플래너 AI 콘텐츠 캠퍼스 예약신청 시설/교육예약 프로그램 공간 장비 좌석 상담예약 게임 과몰입 상담예약 알림마당 공지사항 사업공고 사업공고 입찰공고 결과발표 교육 및 행사 자료실 유관기관 소식 정책게시판 기관소식 보도자료 오피니언 기관 소식(SNS) 뉴스레터 뉴스레터 신청하기 뉴스레터 다시보기 열린경영 경영공시 경영공시 개요 경영목표 및 예산사업계획 임원 및 운영인력 현황 예산 결산 인건비 예산 및 집행현황 시책추진 업무 추진비 기관운영 업무 추진비 경영실적평가 결과 감사 결과 및 이행결과 성과계약 달성정도 기부금 계약정보 안전관리 윤리경영 윤리경영전략 윤리경영헌장 인권정책선언 비위면직자 취업제한 제도 윤리경영이행 자료실 클린신고센터 성희롱신고센터 고객만족경영 고객만족경영 고객의 소리 고객서비스 헌장 행정정보 공개 정보공개청구 공공데이터 개방 사전정보 공표 GCA 소개 인사말 이사장 인사말 기관장 인사말 미션/비전/전략 ESG 경영 연혁 2020년대 2010년대 2000년대 조직도 및 연락처 원장실 청렴감사실 경영본부 콘텐츠산업본부 지역육성본부 미래산업본부 대외협력실 인재채용 인재상/역량 채용정보 기관상징(CI/BI) 오시는길 로그인 회원가입 메뉴 열기 버튼 전체메뉴 로그인 회원가입 아이디 찾기 비밀번호 찾기 사업소개 사업소개 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우드펀딩 공간지원 입주지원 공유오피스 비상주 사무실 창작공간 지역육성 사업 서부권역센터 운영 남부권역센터 운영 북부권역센터 운영 동부권역센터 운영 출판/만화/애니사업 책 생태계 활성화 만화애니영화 콘텐츠산업 활성화 경기국제웹툰페어 음악사업 경기도 음악산업 육성 경기인디뮤직페스티벌 개최 문화기술콘텐츠 사업 문화기술산업 육성 지역특화콘텐츠 개발 가상융합 사업 가상융합 산업 육성 경기 가상융합산업 혁신센터 게임산업 플레이엑스포 개최 게임산업육성 건전게임문화 조성 경기e스포츠 육성 영상사업 경기도 영화영상산업 육성 경기도 다양성영화 저변확대 글로벌 콘텐츠 컨퍼런스 대한민국 AI 콘텐츠 어워즈 지역영상미디어센터 활성화 지원 수출 / 자금지원 사업 콘텐츠 해외진출 지원 콘텐츠 기업 투자 유치 지원 콘텐츠 기업 보증지원 K-콘텐츠IP융복합제작지원 민관협력 투자유치 기회활성화 지원 콘텐츠창업기업기회펀드조성 G-유니콘패스 크라우드 펀딩 사업지원 인재양성사업 웹툰 청년 인턴십 지원 경기 콘텐츠 창의학교 문화창업플래너 AI 콘텐츠 캠퍼스 예약신청 예약신청 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 프로그램 예약 공간예약 장비예약 좌석예약 게임상담예약 알림마당 알림마당 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 공지사항 사업공고 사업공고 입찰공고 결과발표 교육 및 행사 자료실 유관기관 소식 정책게시판 기관소식 기관소식 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 보도자료 오피니언 기관 소식(SNS) 뉴스레터 뉴스레터 신청하기 뉴스레터 다시보기 열린경영 열린경영 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 경영공시 윤리경영 고객만족경영 행정정보 공개 GCA 소개 GCA 소개 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 인사말 이사장 인사말 기관장 인사말 미션/비전/전략 ESG 경영 연혁 조직도 및 연락처 인재채용 인재상/역량 채용정보 기관상징(CI/BI) 오시는길 close 검색어 입력 찾으시는 검색어를 위 검색창에 입력해 주세요. 좌측 메뉴 홈 알림마당 사업소개 예약신청 알림마당 기관소식 열린경영 GCA 소개 사업공고 공지사항 사업공고 교육 및 행사 자료실 유관기관 소식 정책게시판 사업공고 사업공고 입찰공고 결과발표 사업공고 SNS 공유하기 레이어 열기 트위터 공유 새창열림 카카오톡 공유 새창열림 블로그 공유 새창열림 페이스북 공유 새창열림 2026년 경기게임커넥트(G-GameConnect) 비즈매칭 참가사 (게임개발사, 바이어) 모집 [제 2026-122호] 등록일 2026.09.23 조회수 4,554 담당자 김서영 담당부서 게임산업팀 접수기간 2026년 09월 23일 14시 00분 ~ 2026년 10월 27일 17시 00분 지원항목 유통지원 B2B상담 지원 사업개요 사업명 경기게임커넥트(G-Game Connect) 2026 경기게임커넥트(G-Game Connect) 2026 사업기간 2026년 06월 01일 (월) ~ 2026년 12월 31일 (목) 사업목적 - 플레이엑스포 수출상담회 후속 미팅 및 네트워킹 지원 - 중소 게임사의 국내·외 시장진출 및 유통 지원 사업내용 '2026 경기게임커넥트(G-Game Connect) 참가사 모집'을 다음과 같게 모집합니다. - 모집기간 : 2026. 9. 23.(수) ~ 10. 27.(화) 까지 ※진흥원 사정으로 인해 연장 가능 - 모집대상 : 국내 게임 개발사 및 게임분야 바이어(투자사/ 퍼블리셔) - 접수방법 ① 개발자 신청 : https://forms.gle/MSbJb8pFKH1qVjxF7 ② 바이어 신청 : https://forms.gle/3EUo4bPTV9WBRpbD6 자세한사항은 이메일로 문의 주시면 답변 드리겠습니다. - playx4@gcon.or.kr - sykim@gcon.or.kr / 031-776-4786 김서영 매니저 지원내용 지원항목 유통지원 B2B상담 지원 지원내용 모집개요 모집기간 2026년 09월 23일 14시 00분 ~ 2026년 10월 27일 17시 00분 모집조건 사업(행사) 참가기업이 반드시 갖추어야 하는 조건은 아래와 같습니다. 모집규모 120명(팀) 목록 이전글 2026년 경기 글로벌 로케이션 인센티브 추가 모집 공고(2차) 다음글 2026년 AI 콘텐츠 캠퍼스 가상오피스 지원기업(2차) 모집 회원서비스 본 신청은 회원을 위한 서비스입니다. 로그인하시거나 회원가입하여 이용하여 주시기 바랍니다. 회원가입 로그인 신청하기 닫기 사이트명 개인정보처리방침 이메일무단수집거부 (우) 14557 경기도 부천시 부천로198번길 18(춘의동) 춘의테크노파크Ⅱ 202동 9층 TEL.032)623-8000 FAX. 032)623-8088 Copyrightⓒ 2026 GYEONGGI CONTENT AGENCY All rights reserved. 유튜브 네이버포스트 INSTAGRAM 관련사이트 바로가기 내부관련사이트 경기콘텐츠코리아랩 플레이엑스포 해외진출지원 누리집 경기게임문화센터 경기글로벌게임센터 경기XR센터 외부관련사이트 경기도청 부천시청 문화체육관광부 경기도의회 한국콘텐츠진흥원 성남산업진흥원 SBA 서울애니메이션센터 K-STARTUP 창업지원포털 한국만화영상진흥원 온라인피해365센터 광주정보문화산업진흥원 부산정보산업진흥원 청주시문화산업진흥재단 강원정보문화산업진흥원 kotra 울산문화산업개발원 인천테크노파크 경남문화예술진흥원 (재)전남정보문화산업진흥원 경상북도콘텐츠진흥원 전라북도문화콘텐츠산업진흥원 고양산업진흥원 전주정보문화산업진흥원 제주테크노파크 대구디지털산업진흥원 대전정보문화산업진흥원 충남정보문화산업진흥원 경인지방통계청 콘텐츠코리아랩 한국게임산업협회 창조경제혁신센터 춘천문화원 한국지능정보사회진흥원 한국저작권보호원 경기도경제과학진흥원 이지비즈 로딩중입니다.",
+          "body_text": "사업공고 | 사업공고 | 알림마당 | 경기콘텐츠진흥원 본문내용 바로가기 유튜브 네이버포스트 INSTAGRAM 사업소개 사업소개 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우드펀딩 공간지원 입주지원 공유오피스 비상주 사무실 창작공간 지역육성 사업 서부권역센터 운영 남부권역센터 운영 북부권역센터 운영 동부권역센터 운영 출판/만화/애니사업 책 생태계 활성화 만화애니영화 콘텐츠산업 활성화 경기국제웹툰페어 음악사업 경기도 음악산업 육성 경기인디뮤직페스티벌 개최 문화기술콘텐츠 사업 문화기술산업 육성 지역특화콘텐츠 개발 가상융합 사업 가상융합 산업 육성 경기 가상융합산업 혁신센터 게임산업 플레이엑스포 개최 게임산업육성 건전게임문화 조성 경기e스포츠 육성 영상사업 경기도 영화영상산업 육성 경기도 다양성영화 저변확대 글로벌 콘텐츠 컨퍼런스 대한민국 AI 콘텐츠 어워즈 지역영상미디어센터 활성화 지원 수출 / 자금지원 사업 콘텐츠 해외진출 지원 콘텐츠 기업 투자 유치 지원 콘텐츠 기업 보증지원 K-콘텐츠IP융복합제작지원 민관협력 투자유치 기회활성화 지원 콘텐츠창업기업기회펀드조성 G-유니콘패스 크라우드 펀딩 사업지원 인재양성사업 웹툰 청년 인턴십 지원 경기 콘텐츠 창의학교 문화창업플래너 AI 콘텐츠 캠퍼스 예약신청 예약신청 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 프로그램 예약 공간예약 장비예약 좌석예약 게임 과몰입 상담예약 알림마당 알림마당 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 공지사항 사업공고 사업공고 입찰공고 결과발표 교육 및 행사 자료실 유관기관 소식 정책게시판 기관소식 기관소식 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 보도자료 오피니언 기관 소식(SNS) 뉴스레터 뉴스레터 신청하기 뉴스레터 다시보기 열린경영 열린경영 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 경영공시 윤리경영 고객만족경영 행정정보 공개 GCA 소개 GCA 소개 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 인사말 이사장 인사말 기관장 인사말 미션/비전/전략 ESG 경영 연혁 조직도 및 연락처 인재채용 인재상/역량 채용정보 기관상징(CI/BI) 오시는길 로그인 회원가입 사업소개 사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우드펀딩 공간지원 입주지원 공유오피스 비상주 사무실 창작공간 지역육성 사업 서부권역센터 운영 남부권역센터 운영 북부권역센터 운영 동부권역센터 운영 출판/만화/애니사업 책 생태계 활성화 만화애니영화 콘텐츠산업 활성화 경기국제웹툰페어 음악사업 경기도 음악산업 육성 경기인디뮤직페스티벌 개최 문화기술콘텐츠 사업 문화기술산업 육성 지역특화콘텐츠 개발 가상융합 사업 가상융합 산업 육성 경기 가상융합산업 혁신센터 게임산업 플레이엑스포 개최 게임산업육성 건전게임문화 조성 경기e스포츠 육성 영상사업 경기도 영화영상산업 육성 경기도 다양성영화 저변확대 글로벌 콘텐츠 컨퍼런스 대한민국 AI 콘텐츠 어워즈 지역영상미디어센터 활성화 지원 수출 / 자금지원 사업 콘텐츠 해외진출 지원 콘텐츠 기업 투자 유치 지원 콘텐츠 기업 보증지원 K-콘텐츠IP융복합제작지원 민관협력 투자유치 기회활성화 지원 콘텐츠창업기업기회펀드조성 G-유니콘패스 크라우드 펀딩 사업지원 인재양성사업 웹툰 청년 인턴십 지원 경기 콘텐츠 창의학교 문화창업플래너 AI 콘텐츠 캠퍼스 예약신청 시설/교육예약 프로그램 공간 장비 좌석 상담예약 게임 과몰입 상담예약 알림마당 공지사항 사업공고 사업공고 입찰공고 결과발표 교육 및 행사 자료실 유관기관 소식 정책게시판 기관소식 보도자료 오피니언 기관 소식(SNS) 뉴스레터 뉴스레터 신청하기 뉴스레터 다시보기 열린경영 경영공시 경영공시 개요 경영목표 및 예산사업계획 임원 및 운영인력 현황 예산 결산 인건비 예산 및 집행현황 시책추진 업무 추진비 기관운영 업무 추진비 경영실적평가 결과 감사 결과 및 이행결과 성과계약 달성정도 기부금 계약정보 안전관리 윤리경영 윤리경영전략 윤리경영헌장 인권정책선언 비위면직자 취업제한 제도 윤리경영이행 자료실 클린신고센터 성희롱신고센터 고객만족경영 고객만족경영 고객의 소리 고객서비스 헌장 행정정보 공개 정보공개청구 공공데이터 개방 사전정보 공표 GCA 소개 인사말 이사장 인사말 기관장 인사말 미션/비전/전략 ESG 경영 연혁 2020년대 2010년대 2000년대 조직도 및 연락처 원장실 청렴감사실 경영본부 콘텐츠산업본부 지역육성본부 미래산업본부 대외협력실 인재채용 인재상/역량 채용정보 기관상징(CI/BI) 오시는길 로그인 회원가입 메뉴 열기 버튼 전체메뉴 로그인 회원가입 아이디 찾기 비밀번호 찾기 사업소개 사업소개 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우드펀딩 공간지원 입주지원 공유오피스 비상주 사무실 창작공간 지역육성 사업 서부권역센터 운영 남부권역센터 운영 북부권역센터 운영 동부권역센터 운영 출판/만화/애니사업 책 생태계 활성화 만화애니영화 콘텐츠산업 활성화 경기국제웹툰페어 음악사업 경기도 음악산업 육성 경기인디뮤직페스티벌 개최 문화기술콘텐츠 사업 문화기술산업 육성 지역특화콘텐츠 개발 가상융합 사업 가상융합 산업 육성 경기 가상융합산업 혁신센터 게임산업 플레이엑스포 개최 게임산업육성 건전게임문화 조성 경기e스포츠 육성 영상사업 경기도 영화영상산업 육성 경기도 다양성영화 저변확대 글로벌 콘텐츠 컨퍼런스 대한민국 AI 콘텐츠 어워즈 지역영상미디어센터 활성화 지원 수출 / 자금지원 사업 콘텐츠 해외진출 지원 콘텐츠 기업 투자 유치 지원 콘텐츠 기업 보증지원 K-콘텐츠IP융복합제작지원 민관협력 투자유치 기회활성화 지원 콘텐츠창업기업기회펀드조성 G-유니콘패스 크라우드 펀딩 사업지원 인재양성사업 웹툰 청년 인턴십 지원 경기 콘텐츠 창의학교 문화창업플래너 AI 콘텐츠 캠퍼스 예약신청 예약신청 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 프로그램 예약 공간예약 장비예약 좌석예약 게임상담예약 알림마당 알림마당 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 공지사항 사업공고 사업공고 입찰공고 결과발표 교육 및 행사 자료실 유관기관 소식 정책게시판 기관소식 기관소식 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 보도자료 오피니언 기관 소식(SNS) 뉴스레터 뉴스레터 신청하기 뉴스레터 다시보기 열린경영 열린경영 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 경영공시 윤리경영 고객만족경영 행정정보 공개 GCA 소개 GCA 소개 첨단 콘텐츠 산업을 선도하는 창조적 진흥기관 인사말 이사장 인사말 기관장 인사말 미션/비전/전략 ESG 경영 연혁 조직도 및 연락처 인재채용 인재상/역량 채용정보 기관상징(CI/BI) 오시는길 close 검색어 입력 찾으시는 검색어를 위 검색창에 입력해 주세요. 좌측 메뉴 홈 알림마당 사업소개 예약신청 알림마당 기관소식 열린경영 GCA 소개 사업공고 공지사항 사업공고 교육 및 행사 자료실 유관기관 소식 정책게시판 사업공고 사업공고 입찰공고 결과발표 사업공고 SNS 공유하기 레이어 열기 트위터 공유 새창열림 카카오톡 공유 새창열림 블로그 공유 새창열림 페이스북 공유 새창열림 2026년 경기게임커넥트(G-GameConnect) 비즈매칭 참가사 (게임개발사, 바이어) 모집 [제 2026-122호] 등록일 2026.09.23 조회수 4,739 담당자 김서영 담당부서 게임산업팀 접수기간 2026년 09월 23일 14시 00분 ~ 2026년 10월 27일 17시 00분 지원항목 유통지원 B2B상담 지원 사업개요 사업명 경기게임커넥트(G-Game Connect) 2026 경기게임커넥트(G-Game Connect) 2026 사업기간 2026년 06월 01일 (월) ~ 2026년 12월 31일 (목) 사업목적 - 플레이엑스포 수출상담회 후속 미팅 및 네트워킹 지원 - 중소 게임사의 국내·외 시장진출 및 유통 지원 사업내용 '2026 경기게임커넥트(G-Game Connect) 참가사 모집'을 다음과 같게 모집합니다. - 모집기간 : 2026. 9. 23.(수) ~ 10. 27.(화) 까지 ※진흥원 사정으로 인해 연장 가능 - 모집대상 : 국내 게임 개발사 및 게임분야 바이어(투자사/ 퍼블리셔) - 접수방법 ① 개발자 신청 : https://forms.gle/MSbJb8pFKH1qVjxF7 ② 바이어 신청 : https://forms.gle/3EUo4bPTV9WBRpbD6 자세한사항은 이메일로 문의 주시면 답변 드리겠습니다. - playx4@gcon.or.kr - sykim@gcon.or.kr / 031-776-4786 김서영 매니저 지원내용 지원항목 유통지원 B2B상담 지원 지원내용 모집개요 모집기간 2026년 09월 23일 14시 00분 ~ 2026년 10월 27일 17시 00분 모집조건 사업(행사) 참가기업이 반드시 갖추어야 하는 조건은 아래와 같습니다. 모집규모 120명(팀) 목록 이전글 2026년 경기 글로벌 로케이션 인센티브 추가 모집 공고(2차) 다음글 2026년 AI 콘텐츠 캠퍼스 가상오피스 지원기업(2차) 모집 회원서비스 본 신청은 회원을 위한 서비스입니다. 로그인하시거나 회원가입하여 이용하여 주시기 바랍니다. 회원가입 로그인 신청하기 닫기 사이트명 개인정보처리방침 이메일무단수집거부 (우) 14557 경기도 부천시 부천로198번길 18(춘의동) 춘의테크노파크Ⅱ 202동 9층 TEL.032)623-8000 FAX. 032)623-8088 Copyrightⓒ 2026 GYEONGGI CONTENT AGENCY All rights reserved. 유튜브 네이버포스트 INSTAGRAM 관련사이트 바로가기 내부관련사이트 경기콘텐츠코리아랩 플레이엑스포 해외진출지원 누리집 경기게임문화센터 경기글로벌게임센터 경기XR센터 외부관련사이트 경기도청 부천시청 문화체육관광부 경기도의회 한국콘텐츠진흥원 성남산업진흥원 SBA 서울애니메이션센터 K-STARTUP 창업지원포털 한국만화영상진흥원 온라인피해365센터 광주정보문화산업진흥원 부산정보산업진흥원 청주시문화산업진흥재단 강원정보문화산업진흥원 kotra 울산문화산업개발원 인천테크노파크 경남문화예술진흥원 (재)전남정보문화산업진흥원 경상북도콘텐츠진흥원 전라북도문화콘텐츠산업진흥원 고양산업진흥원 전주정보문화산업진흥원 제주테크노파크 대구디지털산업진흥원 대전정보문화산업진흥원 충남정보문화산업진흥원 경인지방통계청 콘텐츠코리아랩 한국게임산업협회 창조경제혁신센터 춘천문화원 한국지능정보사회진흥원 한국저작권보호원 경기도경제과학진흥원 이지비즈 로딩중입니다.",
           "source_post_id": "11231",
           "source_kind": "official",
           "source_priority": 100,
@@ -11539,7 +11456,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "",
-          "collected_at": "2026-10-02T07:38:23+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -11569,7 +11486,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-22T07:11:22+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -11578,7 +11495,7 @@
           "source_post_id": "EVEN_000000000069481",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -11624,7 +11541,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -11745,7 +11662,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-01T07:11:43+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -11754,7 +11671,7 @@
           "source_post_id": "EVEN_000000000069417",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -11800,7 +11717,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -11828,7 +11745,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-30T21:59:01+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -11837,7 +11754,7 @@
           "source_post_id": "EVEN_000000000069531",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -11883,7 +11800,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -12604,7 +12521,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-01T15:30:44+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -12613,7 +12530,7 @@
           "source_post_id": "16952",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -12659,7 +12576,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "웹/모바일/IT · 소프트웨어 · AI",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -12686,7 +12603,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -12695,7 +12612,7 @@
           "source_post_id": "PBLN_000000000124309",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -12741,7 +12658,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "경영",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -13015,7 +12932,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -13024,7 +12941,7 @@
           "source_post_id": "EVEN_000000000069138",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -13070,7 +12987,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -13179,7 +13096,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -13188,7 +13105,7 @@
           "source_post_id": "EVEN_000000000068332",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -13234,7 +13151,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -13936,7 +13853,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-12T01:44:34+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -13945,7 +13862,7 @@
           "source_post_id": "EVEN_000000000069421",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -13991,7 +13908,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -14019,7 +13936,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -14028,7 +13945,7 @@
           "source_post_id": "EVEN_000000000068325",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         },
         {
           "source_id": "bizinfo",
@@ -14037,7 +13954,7 @@
           "source_post_id": "EVEN_000000000068313",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -14083,7 +14000,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -14446,7 +14363,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-28T23:26:13+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -14455,7 +14372,7 @@
           "source_post_id": "EVEN_000000000069513",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -14501,7 +14418,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -14529,7 +14446,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -14538,7 +14455,7 @@
           "source_post_id": "EVEN_000000000068481",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -14584,7 +14501,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -14781,7 +14698,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -14790,7 +14707,7 @@
           "source_post_id": "EVEN_000000000069352",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -14836,7 +14753,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -14863,7 +14780,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -14872,7 +14789,7 @@
           "source_post_id": "EVEN_000000000068672",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -14918,7 +14835,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -15027,7 +14944,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -15036,7 +14953,7 @@
           "source_post_id": "EVEN_000000000069518",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -15082,7 +14999,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -15193,7 +15110,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-28T23:26:13+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -15202,7 +15119,7 @@
           "source_post_id": "EVEN_000000000069506",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -15248,7 +15165,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -15277,7 +15194,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-01T07:11:43+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -15286,7 +15203,7 @@
           "source_post_id": "EVEN_000000000069499",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -15332,7 +15249,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -15361,7 +15278,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-01T07:11:43+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -15370,7 +15287,7 @@
           "source_post_id": "EVEN_000000000069143",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -15416,7 +15333,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -15609,7 +15526,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -15618,7 +15535,7 @@
           "source_post_id": "EVEN_000000000069447",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -15664,7 +15581,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -15691,7 +15608,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -15700,7 +15617,7 @@
           "source_post_id": "PBLN_000000000126833",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -15746,7 +15663,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "기술",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -15773,7 +15690,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -15782,7 +15699,7 @@
           "source_post_id": "PBLN_000000000121038",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -15828,7 +15745,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "기술",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -15857,7 +15774,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-14T22:19:00+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -15866,7 +15783,7 @@
           "source_post_id": "PBLN_000000000126426",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -15914,7 +15831,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "경영",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -15941,7 +15858,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -15950,7 +15867,7 @@
           "source_post_id": "PBLN_000000000123587",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -15996,7 +15913,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "경영",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -16023,7 +15940,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-18T02:15:03+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -16032,7 +15949,7 @@
           "source_post_id": "EVEN_000000000068698",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -16078,7 +15995,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -16105,7 +16022,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -16114,7 +16031,7 @@
           "source_post_id": "PBLN_000000000124214",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -16160,7 +16077,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "경영",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -16274,7 +16191,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-09T01:50:04+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -16283,7 +16200,7 @@
           "source_post_id": "PBLN_000000000118285",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -16329,7 +16246,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "경영",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -16356,7 +16273,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-19T01:42:16+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -16365,7 +16282,7 @@
           "source_post_id": "EVEN_000000000068494",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -16411,7 +16328,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -16438,7 +16355,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -16447,7 +16364,7 @@
           "source_post_id": "PBLN_000000000123973",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -16493,7 +16410,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "경영",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -16605,7 +16522,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -16614,7 +16531,7 @@
           "source_post_id": "175783",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -16660,7 +16577,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "창업지원",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -16687,7 +16604,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "kstartup",
@@ -16696,7 +16613,7 @@
           "source_post_id": "176076",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -16742,7 +16659,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "창업지원",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -16769,7 +16686,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-01T15:30:44+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -16778,7 +16695,7 @@
           "source_post_id": "PBLN_000000000126910",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -16824,7 +16741,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "기술",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -16936,7 +16853,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -16945,7 +16862,7 @@
           "source_post_id": "PBLN_000000000123753",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -16991,7 +16908,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "창업",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -17021,7 +16938,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "kocca",
@@ -17030,7 +16947,7 @@
           "source_post_id": "326D00034004",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -17076,7 +16993,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "디지털 콘텐츠 · 모집공모",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -17187,7 +17104,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-11T01:39:23+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -17196,7 +17113,7 @@
           "source_post_id": "PBLN_000000000117307",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -17242,7 +17159,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "기술",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
@@ -17270,7 +17187,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-02T07:53:42+09:00",
+      "last_seen_at": "2026-10-02T15:09:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -17279,7 +17196,7 @@
           "source_post_id": "EVEN_000000000068967",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-02T07:53:42+09:00"
+          "fetched_at": "2026-10-02T15:09:27+09:00"
         }
       ],
       "application_url": null,
@@ -17325,7 +17242,7 @@
           "mode": "",
           "fee": "unknown",
           "original_category": "행사정보",
-          "collected_at": "2026-10-02T07:53:42+09:00"
+          "collected_at": "2026-10-02T15:09:27+09:00"
         }
       ]
     },
