@@ -2,6 +2,7 @@ from __future__ import annotations
 
 from pipeline.collectors.base import Collector
 from pipeline.collectors.bizinfo import BizinfoCollector
+from pipeline.collectors.dacon import DaconCollector
 from pipeline.collectors.dev_event import DevEventCollector
 from pipeline.collectors.eventus import EventusCollector
 from pipeline.collectors.html import StructuredHtmlCollector
@@ -16,25 +17,28 @@ from pipeline.config import SourceConfig
 from pipeline.http import HttpClient
 
 
+DEFAULT_COLLECTOR = "html"
+COLLECTORS: dict[str, type[Collector]] = {
+    "bizinfo": BizinfoCollector,
+    "dacon": DaconCollector,
+    "dev_event": DevEventCollector,
+    "eventus": EventusCollector,
+    "gcon": GconCollector,
+    "html": StructuredHtmlCollector,
+    "kocca": KoccaCollector,
+    "kstartup": KStartupCollector,
+    "linkareer": LinkareerCollector,
+    "nipa": NipaCollector,
+    "thinkcontest": ThinkContestCollector,
+    "wevity": WevityCollector,
+}
+
+
 def create_collector(config: SourceConfig, client: HttpClient | None = None) -> Collector:
-    if config.id == "bizinfo":
-        return BizinfoCollector(config, client)
-    if config.id == "dev_event":
-        return DevEventCollector(config, client)
-    if config.id == "eventus":
-        return EventusCollector(config, client)
-    if config.id == "kocca":
-        return KoccaCollector(config, client)
-    if config.id == "kstartup":
-        return KStartupCollector(config, client)
-    if config.id == "linkareer":
-        return LinkareerCollector(config, client)
-    if config.id == "thinkcontest":
-        return ThinkContestCollector(config, client)
-    if config.id == "wevity":
-        return WevityCollector(config, client)
-    if config.id == "gcon":
-        return GconCollector(config, client)
-    if config.id == "nipa":
-        return NipaCollector(config, client)
-    return StructuredHtmlCollector(config, client)
+    """Pick the collector named in ``sources.yml``, then one matching the source ID, then generic HTML."""
+
+    if config.collector:
+        if config.collector not in COLLECTORS:
+            raise ValueError(f"알 수 없는 수집기: {config.collector} (출처 {config.id})")
+        return COLLECTORS[config.collector](config, client)
+    return COLLECTORS.get(config.id, COLLECTORS[DEFAULT_COLLECTOR])(config, client)

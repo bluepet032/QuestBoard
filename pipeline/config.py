@@ -24,6 +24,7 @@ class SourceConfig:
     homepage: str
     enabled: bool = True
     requires_secret: str | None = None
+    collector: str | None = None
 
 
 def load_yaml(path: Path) -> dict[str, Any]:

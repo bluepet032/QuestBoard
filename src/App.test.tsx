@@ -1,6 +1,7 @@
 import { cleanup, fireEvent, render, screen, waitFor } from '@testing-library/react'
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest'
 import { App } from './App'
+import { clearDataCache } from './data'
 
 const payload = { schema_version: 1, generated_at: '2026-07-30T12:00:00+09:00', items: [] }
 
@@ -8,6 +9,7 @@ describe('QuestBoard', () => {
   afterEach(() => cleanup())
   beforeEach(() => {
     localStorage.clear()
+    clearDataCache()
     window.location.hash = '#/'
     vi.stubGlobal('fetch', vi.fn().mockResolvedValue({ ok: true, json: async () => payload }))
   })

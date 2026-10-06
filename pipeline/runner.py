@@ -65,6 +65,10 @@ def run_pipeline(
     for source in selected_sources(sources, schedule, effective_names):
         started = datetime.now(KST)
         previous = old_statuses.get(source.id, {})
+        baseline = (
+            previous.get("collected_count") if previous.get("status") == "success"
+            else previous.get("previous_collected_count")
+        )
         try:
             raw_items = create_collector(source).collect(current, limit=limit)
             normalized_items = [normalize(item, taxonomy, current) for item in raw_items]
@@ -82,6 +86,7 @@ def run_pipeline(
                 review_count=review,
                 consecutive_failures=0,
                 last_success_at=current.isoformat(timespec="seconds"),
+                previous_collected_count=baseline,
             ))
         except Exception as error:
             statuses.append(CrawlStatus(
@@ -93,6 +98,7 @@ def run_pipeline(
                 consecutive_failures=int(previous.get("consecutive_failures", 0)) + 1,
                 last_success_at=previous.get("last_success_at"),
                 error=str(error)[:500],
+                previous_collected_count=baseline,
             ))
 
     # Preserve untouched data, and keep the last good copy when a selected source fails.

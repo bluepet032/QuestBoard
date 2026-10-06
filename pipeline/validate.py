@@ -15,6 +15,8 @@ OPPORTUNITY_FILES = ("active.json", "undated.json", "closed.json", "review.json"
 VALID_TYPES = {"contest", "support", "hackathon", "event", "education", "supporters", "employment", "other"}
 VALID_STATUSES = {"upcoming", "open", "urgent", "today", "closed", "ongoing", "unknown"}
 VALID_DATE_KINDS = {"exact", "ongoing", "first_come", "budget", "unknown", "inquiry"}
+# Source bodies are used only during classification and must never be republished.
+FORBIDDEN_ITEM_KEYS = ("classification_inputs", "body_text")
 
 
 def valid_http_url(value: str | None) -> bool:
@@ -52,6 +54,10 @@ def validate_payloads(data_dir: Path) -> list[str]:
                     errors.append(f"{filename}[{index}]: 출처 상태 필드가 올바르지 않습니다")
             continue
         for index, data in enumerate(payload["items"]):
+            leaked = [key for key in FORBIDDEN_ITEM_KEYS if key in data]
+            if leaked:
+                errors.append(f"{filename}[{index}]: 원문 본문 필드는 공개 데이터에 포함할 수 없습니다 ({', '.join(leaked)})")
+                data = {key: value for key, value in data.items() if key not in leaked}
             try:
                 item = Opportunity.from_dict(data)
             except (KeyError, TypeError, ValueError) as error:

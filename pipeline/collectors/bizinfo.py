@@ -7,6 +7,7 @@ from urllib.parse import parse_qs, urlencode, urljoin, urlsplit, urlunsplit
 
 from pipeline.collectors.base import Collector, CollectorStructureError
 from pipeline.collectors.html import clean_text, dates_from_text
+from pipeline.http import FetchError, RobotsDisallowed
 from pipeline.models import RawOpportunity
 
 
@@ -39,13 +40,24 @@ class BizinfoCollector(Collector):
         "클라우드", "보안", "블록체인", "스타트업", "창업", "반도체", "로봇",
     )
 
+    # Searches are many small requests; tolerate a few timeouts instead of failing the source,
+    # but give up (keeping the last good data) when too many fail to trust a partial result.
+    MAX_FAILED_SEARCHES = 3
+    MAX_FAILED_RATIO = 0.2
+
     def collect(self, now: datetime, limit: int = 30) -> list[RawOpportunity]:
+        self._attempts = 0
+        self._failures: list[str] = []
         support_limit = max(1, round(limit * 0.67))
         event_limit = max(1, limit - support_limit)
         support_url = self.config.list_url
         event_url = urljoin(support_url, "/sie/siea/selectSIEA430View.do")
         results = self._collect_searches(support_url, "support", support_limit, now)
         results.extend(self._collect_searches(event_url, "event", event_limit, now))
+        if len(self._failures) > max(self.MAX_FAILED_SEARCHES, self._attempts * self.MAX_FAILED_RATIO):
+            raise FetchError(
+                f"기업마당 검색 {self._attempts}회 중 {len(self._failures)}회 실패: {self._failures[0]}"
+            )
         if not results:
             raise CollectorStructureError("기업마당 공개 지원사업·행사 검색에서 항목을 찾지 못했습니다")
         return results[:limit]
@@ -66,7 +78,14 @@ class BizinfoCollector(Collector):
                     }
                 else:
                     params = {"rows": 15, "cpage": page, "condition": "TITLE", "keyword": keyword}
-                response = self.client.get(_query_url(base_url, params))
+                self._attempts += 1
+                try:
+                    response = self.client.get(_query_url(base_url, params))
+                except RobotsDisallowed:
+                    raise
+                except FetchError as error:
+                    self._failures.append(str(error)[:200])
+                    continue
                 page_items = self._parse_rows(response.text, response.url, kind, keyword, now)
                 new_items = [item for item in page_items if item.source_post_id not in seen]
                 if not page_items:

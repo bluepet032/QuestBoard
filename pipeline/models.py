@@ -94,7 +94,6 @@ class Opportunity:
     change_flags: list[str] = field(default_factory=list)
     is_manual_reviewed: bool = False
     dedupe_key: str = ""
-    classification_inputs: list[dict[str, Any]] = field(default_factory=list)
 
     def to_dict(self) -> dict[str, Any]:
         data = asdict(self)
@@ -125,6 +124,8 @@ class CrawlStatus:
     consecutive_failures: int = 0
     last_success_at: str | None = None
     error: str | None = None
+    # Item count of the previous successful run, used to detect sudden collection drops.
+    previous_collected_count: int | None = None
 
     def to_dict(self) -> dict[str, Any]:
         return asdict(self)

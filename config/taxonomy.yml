@@ -25,16 +25,21 @@ types:
     keywords: []
 
 fields:
-  game: [게임, 게임개발, 게임기획, 인디게임, 게임그래픽, 게임아트, 게임사운드, e스포츠]
+  game: [게임, 게임개발, 게임기획, 인디게임, 게임그래픽, 게임아트, 게임사운드, e스포츠, 언리얼, unreal, 유니티, unity]
   indie: [인디게임, 인디 게임, indie]
-  ai: [인공지능, 생성형 ai, ai, aix, genai, aiengineering, 머신러닝, machine learning]
+  ai: [인공지능, 생성형 ai, ai, aix, genai, aiengineering, 머신러닝, machine learning, llm, chatgpt, claude]
   software: [소프트웨어, sw, 프로그래밍, 코딩, 개발자, ict, it, api, 알고리즘, 컴퓨터, 시스템, 오픈소스, 임베디드, 자동화, 디지털 전환, dx, ax]
-  web_app: [웹, 앱, 모바일, saas, 플랫폼, it 서비스]
+  web_app: [웹, 앱, 모바일, saas, 플랫폼, it 서비스, 웹서비스, 웹 서비스, 웹개발, 웹 개발, 앱개발, 앱 개발]
   data: [데이터, 빅데이터, 데이터분석]
-  immersive: [메타버스, vr, ar, xr]
+  immersive: [메타버스, vr, ar, xr, 가상현실, 증강현실, 확장현실, 실감콘텐츠, 실감 콘텐츠, 가상융합]
   cloud_security: [클라우드, 보안, 오픈소스]
   startup: [스타트업, 창업, 사업화]
-  digital_content: [디지털 콘텐츠, 콘텐츠 제작, 인터랙티브, 콘텐츠, 캐릭터, 웹툰, 애니메이션, 미디어아트, 3d, 그래픽]
+  digital_content: [디지털 콘텐츠, 디지털콘텐츠, 콘텐츠 제작, 인터랙티브, 콘텐츠, 캐릭터, 웹툰, 애니메이션, 미디어아트, 3d, 그래픽]
+
+# Common words that also appear outside IT and games (web novels, delivery apps, beauty
+# pop-ups). A title whose only field keywords are these goes to the review queue instead
+# of being published, unless the source or its original category is already IT/game.
+weak_title_keywords: [웹, 앱, 콘텐츠, 콘텐츠 제작, 플랫폼, 캐릭터, 그래픽, 3d, 시스템, 자동화, 컴퓨터, 디지털 전환]
 
 audiences:
   university: [대학생, 대학원생, 재학생, 대학생 대상]

@@ -20,6 +20,21 @@ def date_distance(left: str | None, right: str | None) -> int | None:
         return None
 
 
+def distinct_posts_of_same_source(left: Opportunity, right: Opportunity) -> bool:
+    """True when one source lists differently titled items under different post IDs.
+
+    Similar but not identical titles within one source are separate tracks of a series
+    (e.g. "SW부문" and "AI부문") and must not be merged by fuzzy matching. Identically
+    titled reposts on the same source are still treated as duplicates.
+    """
+
+    if normalize_text(left.title) == normalize_text(right.title):
+        return False
+    left_posts = {source.source_id: source.source_post_id for source in left.sources if source.source_post_id}
+    right_posts = {source.source_id: source.source_post_id for source in right.sources if source.source_post_id}
+    return any(left_posts[source_id] != right_posts[source_id] for source_id in left_posts.keys() & right_posts.keys())
+
+
 def is_duplicate(left: Opportunity, right: Opportunity) -> bool:
     if left.id == right.id:
         return True
@@ -31,6 +46,8 @@ def is_duplicate(left: Opportunity, right: Opportunity) -> bool:
         return True
     if left.dedupe_key and left.dedupe_key == right.dedupe_key:
         return True
+    if distinct_posts_of_same_source(left, right):
+        return False
     distance = date_distance(left.recruit_end, right.recruit_end)
     left_source_ids = {source.source_id for source in left.sources}
     right_source_ids = {source.source_id for source in right.sources}

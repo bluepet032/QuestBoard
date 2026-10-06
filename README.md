@@ -24,7 +24,7 @@ public/data/            사이트가 읽는 생성 JSON
 schemas/                공개 데이터 JSON 스키마
 src/                    React + TypeScript 사이트
 tests/, e2e/            Python·프론트·브라우저 테스트
-.github/workflows/      CI, 차등 수집, Pages 배포
+.github/workflows/      CI, 매일 수집, Pages 배포
 docs/                   배포·운영·수집 정책
 firestore.rules         UID별 개인 데이터 접근 규칙
 ```
@@ -54,7 +54,7 @@ pnpm dev
 # 자동화 가능한 모든 출처, 출처별 최대 150건
 python -m pipeline.cli --schedule all --limit 150
 
-# 1시간 그룹 또는 6시간 그룹
+# 출처 일부 그룹만(sources.yml의 schedule 값 기준)
 python -m pipeline.cli --schedule fast
 python -m pipeline.cli --schedule slow
 
@@ -102,7 +102,7 @@ pnpm test:e2e
 
 ## GitHub Pages 배포
 
-원격 저장소 생성, Secret, Actions 권한과 Pages 설정은 [배포 안내서](docs/DEPLOYMENT.md)를 순서대로 따르세요. 사이트 코드 변경은 `pages.yml`, 데이터 갱신은 `collect.yml`이 빌드와 Pages 배포를 담당합니다. 자동 데이터 커밋이 다른 워크플로를 다시 발생시키지 않아도 같은 수집 워크플로에서 최신 사이트를 배포합니다.
+원격 저장소 생성, Secret, Actions 권한과 Pages 설정은 [배포 안내서](docs/DEPLOYMENT.md)를 순서대로 따르세요. 사이트 코드 변경은 `pages.yml`, 데이터 갱신은 `collect.yml`이 매일 한국시간 약 03:11에 수집·빌드·Pages 배포를 담당합니다. 바로 갱신하려면 [배포 안내서의 수동 갱신](docs/DEPLOYMENT.md#수동-갱신)을 따르세요. 자동 데이터 커밋이 다른 워크플로를 다시 발생시키지 않아도 같은 수집 워크플로에서 최신 사이트를 배포합니다.
 
 ## 운영상 주의
 

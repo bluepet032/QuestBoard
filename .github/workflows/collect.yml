@@ -2,13 +2,12 @@ name: Collect data and deploy
 
 on:
   schedule:
-    - cron: '17 * * * *'
-    - cron: '43 */6 * * *'
+    # Once a day at 03:11 KST (18:11 UTC). Use "Run workflow" for a manual refresh.
     - cron: '11 18 * * *'
   workflow_dispatch:
     inputs:
       schedule:
-        description: 수집 그룹
+        description: 수집 그룹 (all=전체, fast/slow=출처 일부만)
         required: true
         type: choice
         default: all
@@ -25,6 +24,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
   pages: write
   id-token: write
 
@@ -39,7 +39,6 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     env:
-      EVENT_SCHEDULE: ${{ github.event.schedule }}
       MANUAL_SCHEDULE: ${{ inputs.schedule }}
       MANUAL_SOURCE: ${{ inputs.source }}
       MANUAL_LIMIT: ${{ inputs.limit }}
@@ -58,9 +57,8 @@ jobs:
         id: mode
         shell: bash
         run: |
-          mode="${MANUAL_SCHEDULE:-fast}"
-          if [[ "$EVENT_SCHEDULE" == "43 */6 * * *" ]]; then mode=slow; fi
-          if [[ "$EVENT_SCHEDULE" == "11 18 * * *" ]]; then mode=all; fi
+          # The daily schedule always refreshes every source; manual runs may pick a group.
+          mode="${MANUAL_SCHEDULE:-all}"
           limit="${MANUAL_LIMIT:-150}"
           echo "mode=$mode" >> "$GITHUB_OUTPUT"
           echo "limit=$limit" >> "$GITHUB_OUTPUT"
@@ -72,6 +70,34 @@ jobs:
           python -m pipeline.cli "${args[@]}"
       - name: Validate generated data
         run: python -m pipeline.validate
+      - name: Report failing or shrinking sources
+        # Alerting must never block the data commit or the deploy.
+        continue-on-error: true
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          alert_args=()
+          # Partial manual runs collect fewer items on purpose; only check drops on full runs.
+          if [[ -n "$MANUAL_SOURCE" || "${{ steps.mode.outputs.mode }}" != "all" || "${{ steps.mode.outputs.limit }}" != "150" ]]; then
+            alert_args+=(--skip-drops)
+          fi
+          alerts="$(python -m pipeline.alerts "${alert_args[@]}")"
+          open_titles="$(gh issue list --state open --limit 200 --json title,number)"
+          echo "$alerts" | jq -c '.failing[]' | while read -r item; do
+            title="$(jq -r '.title' <<<"$item")"
+            if jq -e --arg title "$title" 'any(.[]; .title == $title)' <<<"$open_titles" >/dev/null; then
+              echo "Issue already open: $title"
+            else
+              gh issue create --title "$title" --body "$(jq -r '.body' <<<"$item")"
+            fi
+          done
+          echo "$alerts" | jq -c '.recovered[]' | while read -r item; do
+            title="$(jq -r '.title' <<<"$item")"
+            jq -r --arg title "$title" '.[] | select(.title == $title) | .number' <<<"$open_titles" | while read -r number; do
+              gh issue close "$number" --comment "출처 상태가 회복되어 자동으로 닫습니다."
+            done
+          done
       - name: Commit changed data
         shell: bash
         run: |
@@ -82,7 +108,17 @@ jobs:
             git config user.name "questboard-bot"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git commit -m "data: refresh ${{ steps.mode.outputs.mode }} sources"
-            git push
+            # main may have moved while collecting; replay the data commit on top and retry.
+            for attempt in 1 2 3; do
+              if git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}"; then
+                exit 0
+              fi
+              git rebase --abort 2>/dev/null || true
+              echo "Push attempt ${attempt} failed; retrying."
+              sleep $((attempt * 10))
+            done
+            echo "::error::Could not push generated data after 3 attempts."
+            exit 1
           fi
 
       - uses: pnpm/action-setup@v4

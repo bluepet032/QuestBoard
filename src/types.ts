@@ -72,6 +72,7 @@ export interface CrawlStatus {
   consecutive_failures: number
   last_success_at?: string | null
   error?: string | null
+  previous_collected_count?: number | null
 }
 
 export interface PersonalState {

@@ -51,6 +51,7 @@
             }
           }
         },
+        "not": { "anyOf": [{ "required": ["classification_inputs"] }, { "required": ["body_text"] }] },
         "additionalProperties": true
       }
     }

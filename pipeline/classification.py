@@ -118,6 +118,11 @@ def classify(raw: RawOpportunity, taxonomy: dict[str, Any]) -> tuple[str, list[s
     if not title_field_hits and not strong_format and not category_format and score >= 70:
         score = 69
         reasons.append("제목의 IT·게임 직접 근거 부족")
+    weak = {normalized(word) for word in taxonomy.get("weak_title_keywords", [])}
+    only_weak_title_hits = bool(title_field_hits) and {normalized(hit) for hit in title_field_hits} <= weak
+    if only_weak_title_hits and raw.source_kind != "specialist" and not strong_format and not category_format and score >= 70:
+        score = 69
+        reasons.append(f"제목 키워드가 일반 단어뿐: {', '.join(sorted(set(title_field_hits)))}")
     score = max(0, min(100, score))
     decision = "publish" if score >= 70 else "review" if score >= 50 else "exclude"
     adjacent = primary_type == "employment" or (primary_type == "education" and raw.fee == "paid")

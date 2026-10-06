@@ -2,7 +2,6 @@ from __future__ import annotations
 
 import hashlib
 import re
-from dataclasses import asdict
 from datetime import datetime
 from urllib.parse import urlsplit, urlunsplit
 
@@ -94,5 +93,4 @@ def normalize(raw: RawOpportunity, taxonomy: dict, now: datetime) -> Opportunity
         fee=raw.fee,
         is_adjacent=adjacent,
         dedupe_key=dedupe_key,
-        classification_inputs=[asdict(raw)],
     )

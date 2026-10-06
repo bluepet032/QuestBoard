@@ -13,3 +13,9 @@ export const TYPES = Object.keys(TYPE_LABELS) as OpportunityType[]
 export const QUICK_TAGS = ['대학생', '인디', 'AI', 'NEW', 'UPDATED', '마감임박'] as const
 export const PAGE_SIZE = 50
 
+
+export const REPOSITORY_URL = 'https://github.com/bluepet032/QuestBoard'
+export const COLLECT_WORKFLOW_URL = `${REPOSITORY_URL}/actions/workflows/collect.yml`
+export const AUTO_REFRESH_LABEL = '매일 새벽 3시(KST)'
+// Collection runs daily, so a source is only stale after missing about two runs.
+export const STALE_AFTER_MS = 48 * 60 * 60 * 1000

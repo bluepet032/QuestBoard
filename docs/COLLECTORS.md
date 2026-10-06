@@ -2,21 +2,23 @@
 
 구현은 공식 API → RSS/피드 → 공개 JSON·구조화 데이터 → 공개 HTML → 수동 YAML 순으로 선택합니다. CAPTCHA, 로그인, 접근 제한, 속도 제한을 우회하지 않습니다. 아래의 `HTML`은 공개 페이지의 JSON-LD를 우선 읽고, 없을 때 동일 도메인의 공고 링크와 상세 페이지를 보수적으로 해석하는 방식입니다.
 
-| ID | 출처 | 주기 | 현재 방식 | 운영 전 확인 |
+| ID | 출처 | 그룹 | 현재 방식 | 운영 전 확인 |
 |---|---|---:|---|---|
-| `bizinfo` | 기업마당 | 6시간 | 공개 지원사업·행사 HTML 검색 | robots/약관, 목록 구조 |
-| `kstartup` | K-Startup | 6시간 | 공개 HTML | robots/약관, 목록 구조 |
-| `kocca` | 한국콘텐츠진흥원 | 6시간 | 지원사업공고 공개 HTML | robots/약관, 목록 구조 |
-| `nipa` | 정보통신산업진흥원 | 6시간 | 공개 HTML | robots/약관, 목록 구조 |
-| `wevity` | 위비티 | 1시간 | 공개 HTML | robots/약관, 호출 빈도 |
-| `thinkcontest` | 씽굿 | 1시간 | 공식 목록·상세 공개 HTML | robots/약관, 호출 빈도 |
-| `linkareer` | 링커리어 | 1시간 | 공개 HTML | robots/약관, 동적 렌더링 |
-| `eventus` | 이벤터스 | 1시간 | 검색 페이지 내 공개 JSON | robots/약관, 공개 데이터 구조 |
-| `onoffmix` | 온오프믹스 | 1시간 | 공개 HTML | robots/약관, 동적 렌더링 |
-| `dev_event` | Dev-Event GitHub | 1시간 | 공개 Markdown | 저장소 라이선스·구조 |
-| `dacon` | DACON | 1시간 | 공개 HTML | robots/약관, 동적 렌더링 |
-| `gcon` | 경기콘텐츠진흥원 | 6시간 | 공개 HTML | robots/약관, 목록 구조 |
-| `momo365` | 모모365 | 6시간 | 공개 HTML | robots/약관, 호출 빈도 |
+| `bizinfo` | 기업마당 | slow | 공개 지원사업·행사 HTML 검색 | robots/약관, 목록 구조 |
+| `kstartup` | K-Startup | slow | 공개 HTML | robots/약관, 목록 구조 |
+| `kocca` | 한국콘텐츠진흥원 | slow | 지원사업공고 공개 HTML | robots/약관, 목록 구조 |
+| `nipa` | 정보통신산업진흥원 | slow | 공개 HTML | robots/약관, 목록 구조 |
+| `wevity` | 위비티 | fast | 공개 HTML | robots/약관, 호출 빈도 |
+| `thinkcontest` | 씽굿 | fast | 공식 목록·상세 공개 HTML | robots/약관, 호출 빈도 |
+| `linkareer` | 링커리어 | fast | 공개 HTML | robots/약관, 동적 렌더링 |
+| `eventus` | 이벤터스 | fast | 검색 페이지 내 공개 JSON | robots/약관, 공개 데이터 구조 |
+| `onoffmix` | 온오프믹스 | fast | 공개 HTML | robots/약관, 동적 렌더링 |
+| `dev_event` | Dev-Event GitHub | fast | 공개 Markdown | 저장소 라이선스·구조 |
+| `dacon` | DACON | fast | 공개 HTML | robots/약관, 동적 렌더링 |
+| `gcon` | 경기콘텐츠진흥원 | slow | 공개 HTML | robots/약관, 목록 구조 |
+| `momo365` | 모모365 | slow | 공개 HTML | robots/약관, 호출 빈도 |
+
+자동 수집은 하루 한 번 모든 출처를 함께 실행합니다. `그룹`(`sources.yml`의 `schedule`)은 수동 실행 때 일부 출처만 고르는 용도로 남아 있습니다.
 
 이 표는 법률 자문이나 영구 허가 판정이 아닙니다. 공개 배포 직전과 이후 정기적으로 각 사이트의 최신 robots.txt·이용약관·API 문서를 사람이 확인해야 합니다. 구조가 바뀌면 0건을 성공으로 기록하지 않고 구조 오류로 남깁니다.
 
@@ -24,7 +26,11 @@
 
 각 수집기는 출처 설정과 실행 시각을 입력받아 `RawOpportunity[]`를 반환합니다. 목록 탐색, 상세 추출, 날짜 정규화, 원문 URL 보존이 필수이며 네트워크·5xx 오류는 최대 3회 지수 백오프로 재시도합니다. 필수 필드 누락이나 0개 구조 결과는 출처 실패로 격리됩니다.
 
-새 수집기를 추가할 때는 `pipeline/collectors/base.py`의 계약을 구현하고 `registry.py`에 연결한 뒤, 응답을 최소화한 HTML/API 픽스처로 정상·필드 누락·구조 변경·부분 실패 테스트를 작성합니다. 픽스처에도 원문 전체나 불필요한 개인정보를 넣지 않습니다.
+`pipeline/http.py`의 공통 HTTP 클라이언트는 실행마다 호스트별 robots.txt를 한 번 읽어 `QuestBoard` 에이전트 기준으로 허용 여부를 확인합니다. robots.txt가 없거나 4xx면 허용하고, 5xx·접속 실패면 RFC 9309에 따라 전체 금지로 봅니다. 금지된 URL은 요청하지 않고 출처 실패(`robots.txt가 수집을 허용하지 않습니다`)로 기록합니다. 같은 호스트에는 최소 1초 간격(robots.txt의 `Crawl-delay`가 더 길면 그 값)으로 요청하고, 429·503의 `Retry-After`가 30초 이하면 기다렸다가 재시도하며, 그보다 길면 재시도하지 않습니다.
+
+수집기는 `sources.yml`의 `collector` 값 → 출처 ID와 같은 이름 → 범용 `html` 순으로 고릅니다. 다른 출처의 수집기를 재사용하려면 `collector: wevity`처럼 지정하고, 등록되지 않은 이름은 실행 시 오류로 처리합니다.
+
+새 수집기를 추가할 때는 `pipeline/collectors/base.py`의 계약을 구현하고 `registry.py`의 `COLLECTORS`에 이름을 등록한 뒤, 응답을 최소화한 HTML/API 픽스처로 정상·필드 누락·구조 변경·부분 실패 테스트를 작성합니다. 픽스처에도 원문 전체나 불필요한 개인정보를 넣지 않습니다.
 
 이벤터스 수집기는 브라우저 렌더링이나 비공개 API 호출을 흉내 내지 않고 검색 페이지에 서버가 직접 포함한 `searchDataRaw` JSON만 읽습니다. 이 공개 데이터가 사라지거나 형식이 바뀌면 0건 성공으로 처리하지 않고 구조 오류를 기록합니다.
 

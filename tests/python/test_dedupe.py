@@ -77,3 +77,30 @@ def test_same_stable_id_merges_even_when_other_fields_diverge():
 
     assert len(merged) == 1
     assert len(merged[0].sources) == 2
+
+
+def test_similar_tracks_from_one_source_with_distinct_post_ids_stay_separate():
+    def track(post_id: str, title: str):
+        return normalize(RawOpportunity(
+            source_id="dacon", source_name="DACON", source_url=f"https://dacon.io/competitions/official/{post_id}/overview/description",
+            source_post_id=post_id, title=title, organizer="DACON", source_kind="specialist", source_priority=60,
+            recruit_end="2026-07-15", date_kind="exact", collected_at=NOW.isoformat(),
+        ), load_taxonomy(), NOW)
+
+    merged = deduplicate([
+        track("236693", "2026 AI·SW중심대학 디지털 경진대회 : SW부문"),
+        track("236694", "2026 AI·SW중심대학 디지털 경진대회 : AI부문"),
+    ])
+
+    assert len(merged) == 2
+
+
+def test_identically_titled_reposts_on_one_source_still_merge():
+    def post(post_id: str, end: str):
+        return normalize(RawOpportunity(
+            source_id="linkareer", source_name="링커리어", source_url=f"https://linkareer.com/activity/{post_id}",
+            source_post_id=post_id, title="2026 SNU X Croche AI 앱 해커톤", organizer="SNU", source_kind="aggregate",
+            source_priority=40, recruit_end=end, date_kind="exact", collected_at=NOW.isoformat(),
+        ), load_taxonomy(), NOW)
+
+    assert len(deduplicate([post("353364", "2026-10-20"), post("353594", "2026-10-21")])) == 1

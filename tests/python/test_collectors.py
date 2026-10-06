@@ -135,6 +135,48 @@ def test_bizinfo_public_html_support_and_event_contract():
     assert {item.source_post_id for item in items} == {"P1", "E1"}
 
 
+def bizinfo_rows(prefix: str, count: int, detail: str, id_key: str) -> str:
+    return "".join(
+        f'<tr><td>{index}</td><td>기술</td><td><a href="/x/{detail}.do?{id_key}={prefix}{index}">AI 게임 공고 {index}</a></td>'
+        f'<td>2026-10-01 ~ 2026-10-31</td><td>부처</td><td>수행기관</td><td>2026-10-01</td><td>1</td></tr>'
+        for index in range(count)
+    )
+
+
+def test_bizinfo_skips_an_occasional_timed_out_search():
+    from pipeline.http import FetchError
+
+    cfg = SourceConfig("bizinfo", "기업마당", "government", 80, "slow", "html", "https://example.com/sii/siia/selectSIIA200View.do", "https://example.com", True)
+
+    class FlakyClient:
+        calls = 0
+
+        def get(self, url, headers=None):
+            FlakyClient.calls += 1
+            if FlakyClient.calls == 1:
+                raise FetchError("요청 실패: timed out")
+            if "SIEA430" in url:
+                return Response(url, 200, bizinfo_rows("E", 15, "selectSIEA430Detail", "eventInfoId"), "text/html")
+            return Response(url, 200, bizinfo_rows(f"P{FlakyClient.calls}-", 15, "selectSIIA200Detail", "pblancId"), "text/html")
+
+    items = BizinfoCollector(cfg, FlakyClient()).collect(NOW, 20)
+    assert len(items) == 20
+
+
+def test_bizinfo_fails_when_many_searches_time_out():
+    import pytest
+    from pipeline.http import FetchError
+
+    cfg = SourceConfig("bizinfo", "기업마당", "government", 80, "slow", "html", "https://example.com/sii/siia/selectSIIA200View.do", "https://example.com", True)
+
+    class DownClient:
+        def get(self, url, headers=None):
+            raise FetchError("요청 실패: timed out")
+
+    with pytest.raises(FetchError, match="실패"):
+        BizinfoCollector(cfg, DownClient()).collect(NOW, 20)
+
+
 def test_thinkcontest_game_category_contract():
     cfg = config("thinkcontest")
     payload = '{"listJsonData":[{"contest_pk":42,"program_nm":"게임 제작 공모전","host_company":"게임사","accept_dt":"2026-07-20","finish_dt":"2026-08-20","contest_field_nm":"게임/소프트웨어","process":"ING"}]}'
@@ -158,3 +200,54 @@ def test_linkareer_server_state_contract():
     item = LinkareerCollector(cfg, FakeClient({url: markup})).collect(NOW, 1)[0]
     assert item.source_post_id == "42"
     assert item.organizer == "NHN"
+
+
+def test_detail_dates_prefer_recruitment_label_over_first_page_date():
+    from pipeline.collectors.html import recruit_dates_from_text
+
+    text = "등록일 2026.09.01 조회수 120 행사일 2026-11-20 접수기간 : 2026.10.06(월) 10:00 ~ 10.20(월) 18:00"
+    assert recruit_dates_from_text(text) == ("2026-10-06", "2026-10-20")
+
+
+def test_detail_dates_handle_year_rollover_and_deadline_only_labels():
+    from pipeline.collectors.html import recruit_dates_from_text
+
+    assert recruit_dates_from_text("모집기간 2026.12.20 ~ 01.10") == ("2026-12-20", "2027-01-10")
+    assert recruit_dates_from_text("게시일 2026.09.01 / 신청마감 : 2026년 10월 31일") == (None, "2026-10-31")
+
+
+def test_detail_dates_drop_implausible_unlabeled_periods():
+    from pipeline.collectors.html import recruit_dates_from_text
+
+    assert recruit_dates_from_text("수정일 2026.10.01 최초 작성 2024.03.02") == (None, None)
+    assert recruit_dates_from_text("작성 2026.01.01 행사 2027.12.31") == (None, None)
+    assert recruit_dates_from_text("2026.10.01 ~ 2026.10.15 진행") == ("2026-10-01", "2026-10-15")
+
+
+def test_dacon_embedded_nuxt_state_contract():
+    from pipeline.collectors.dacon import DaconCollector
+
+    markup = (
+        '<script>window.__NUXT__=(function(a,b,c,d){return {layout:"default",data:[{compData:['
+        '{cpt_id:236771,name:"항만 문제해결을 위한 AI 기술 공모전",keyword:"알고리즘 | 해운물류",'
+        'period_start:"2026-10-12 10:00:00",period_end:"2026-11-02 10:00:00",sponsor:a,prize_info:"950 만원",on_going:b},'
+        '{cpt_id:236753,name:"블랙박스 영상 AI 경진대회",keyword:"컴퓨터비전",period_start:c,period_end:d,sponsor:a,prize_info:"-"}'
+        ']}],fetch:{}}}("",true,"2026-08-26 10:00:00","2026-09-30 10:00:00"));</script>'
+    )
+
+    items = DaconCollector(config("dacon"), FakeClient({"https://example.com/list": markup})).collect(NOW, 10)
+
+    assert [item.source_post_id for item in items] == ["236771", "236753"]
+    assert (items[0].recruit_start, items[0].recruit_end) == ("2026-10-12", "2026-11-02")
+    assert (items[1].recruit_start, items[1].recruit_end) == ("2026-08-26", "2026-09-30")
+    assert items[0].source_url.endswith("/competitions/official/236771/overview/description")
+    assert items[0].benefits == "상금 950 만원" and items[1].benefits == ""
+
+
+def test_dacon_missing_embedded_state_is_a_structure_error():
+    import pytest
+    from pipeline.collectors.base import CollectorStructureError
+    from pipeline.collectors.dacon import DaconCollector
+
+    with pytest.raises(CollectorStructureError):
+        DaconCollector(config("dacon"), FakeClient({"https://example.com/list": "<html><body>대회 목록</body></html>"})).collect(NOW, 10)

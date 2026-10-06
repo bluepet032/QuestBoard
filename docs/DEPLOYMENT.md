@@ -18,6 +18,22 @@
 3. 위치는 **서울 `asia-northeast3`**로 선택합니다. [지원 위치 목록](https://firebase.google.com/docs/firestore/locations)을 확인하고 생성 전에 위치를 결정하세요. 이미 데이터베이스를 만들었다면 위치를 바꿀 수 없으니 먼저 현재 위치를 확인합니다.
 4. Firestore의 **규칙(Rules)** 탭에 저장소의 [`firestore.rules`](../firestore.rules) 내용을 붙여 넣고 **게시(Publish)**합니다. 테스트 모드의 전체 공개 규칙은 게시하지 마세요.
 
+#### 보안 규칙 검사(게시 전 권장)
+
+`firestore.rules`는 사이트가 실제로 쓰는 필드와 길이만 허용합니다. 규칙을 바꿨다면 게시 전에 에뮬레이터로 확인하세요. JDK 21 이상이 필요하고, 프로젝트 의존성을 건드리지 않도록 별도 폴더(여유 공간이 있는 드라이브)에서 실행합니다.
+
+```powershell
+New-Item -ItemType Directory -Force D:\qb-rules-test; Set-Location D:\qb-rules-test
+'{"emulators":{"firestore":{"host":"127.0.0.1","port":8080},"ui":{"enabled":false}}}' | Set-Content firebase.json
+npm init -y
+npm install --legacy-peer-deps firebase-tools @firebase/rules-unit-testing firebase@12
+Copy-Item D:\Projects\QuestBoard\tests\firestore\rules.test.mjs .
+$env:RULES_PATH = 'D:\Projects\QuestBoard\firestore.rules'
+npx firebase emulators:exec --only firestore --project demo-questboard "node rules.test.mjs"
+```
+
+마지막 줄에 `20/20 passed`가 나오면 사이트의 저장·수정·삭제는 모두 허용되고, 다른 사용자 접근·알 수 없는 필드·길이 초과는 거부되는 것입니다. 확인 후 폴더는 지워도 됩니다.
+
 ### 2. Google 로그인 켜기
 
 1. Firebase Console의 **Authentication → 시작하기 → 로그인 방법(Sign-in method) → Google**을 사용 설정하고 지원 이메일을 선택해 저장합니다. ([Google 로그인 공식 안내](https://firebase.google.com/docs/auth/web/google-signin))
@@ -69,13 +85,30 @@ Vite의 상대 경로 빌드를 사용하므로 저장소명이 무엇이든 기
 
 ## 자동 수집 일정
 
-`Collect data and deploy` 워크플로는 GitHub cron의 UTC 기준으로 실행됩니다.
+`Collect data and deploy` 워크플로는 **하루 한 번, 한국시간 약 03:11**(UTC 18:11)에 모든 출처를 수집하고 배포합니다. GitHub의 부하에 따라 예약 실행이 몇십 분 늦어질 수 있습니다.
 
-- 빠른 출처: 매시간 17분
-- 느린 출처: 6시간마다 43분
-- 전체 정합성 재생성: 매일 한국시간 약 03:11
+### 수동 갱신
 
-GitHub의 부하에 따라 예약 실행이 지연될 수 있습니다. **Run workflow**에서 그룹, 특정 출처 ID, 최대 수집 건수를 정해 수동 실행할 수도 있습니다.
+바로 갱신하고 싶을 때는 저장소 관리자가 직접 실행합니다.
+
+1. 사이트의 **수집 상태** 화면에서 **GitHub에서 지금 수집 실행**을 누르거나, [수집 워크플로](https://github.com/bluepet032/QuestBoard/actions/workflows/collect.yml)를 엽니다.
+2. **Run workflow**를 누릅니다. 기본값(`all`, 150건)이면 전체 출처를 수집합니다. 특정 출처만 다시 받으려면 출처 ID를, 빠르게 확인하려면 더 작은 건수를 넣습니다.
+3. 수집과 배포에 보통 5~10분이 걸립니다. 끝나면 사이트에서 **다시 불러오기**(목록 화면) 또는 **최신 데이터 다시 불러오기**(수집 상태 화면)를 누릅니다.
+
+터미널에서는 GitHub CLI로도 실행할 수 있습니다.
+
+```powershell
+gh workflow run collect.yml -f schedule=all -f limit=150
+```
+
+사이트에는 실행 버튼 대신 GitHub 링크만 둡니다. 정적 사이트에 워크플로 실행 토큰을 넣으면 누구나 토큰을 꺼내 쓸 수 있기 때문입니다.
+
+### 수집 이상 자동 이슈
+
+수집이 끝나면 다음 조건에서 GitHub 이슈를 자동으로 엽니다. 같은 제목의 이슈가 열려 있으면 새로 만들지 않고, 상태가 회복되면 자동으로 닫습니다. 저장소의 Issues 기능이 켜져 있어야 합니다.
+
+- `[수집 실패] <출처 ID>`: 2회 연속 실패(하루 한 번 실행 기준 약 이틀)
+- `[수집 급감] <출처 ID>`: 직전 성공 때 10건 이상이던 수집 건수가 절반 미만으로 줄어듦. 특정 출처만 또는 150건 미만으로 수동 실행했을 때는 검사하지 않습니다.
 
 ## 배포 확인표
 

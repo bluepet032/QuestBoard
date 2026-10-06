@@ -54,6 +54,7 @@ interface PersonalContextValue {
   localFavoriteCount: number
   error: string
   toggle: (bucket: 'favorites' | 'read' | 'hidden', id: string, item?: Opportunity) => void
+  restoreHidden: () => void
   openSignIn: () => void
   closeMigration: (skip: boolean) => void
   importLocalFavorites: () => Promise<void>
@@ -334,6 +335,8 @@ export function PersonalProvider({ children }: { children: ReactNode }) {
     }).catch(reason => setError(reason.message || '찜을 저장하지 못했습니다.'))
   }, [userId, currentFavorites, openLogin])
 
+  const restoreHidden = useCallback(() => setLocal(current => ({ ...current, hidden: [] })), [])
+
   const importLocalFavorites = useCallback(async () => {
     if (!userId || !db) return
     const firestore = db
@@ -451,6 +454,7 @@ export function PersonalProvider({ children }: { children: ReactNode }) {
     localFavoriteCount: local.favorites.length,
     error,
     toggle,
+    restoreHidden,
     openSignIn: openLogin,
     closeMigration,
     importLocalFavorites,

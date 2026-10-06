@@ -2,7 +2,6 @@ from __future__ import annotations
 
 import html
 import re
-import time
 from datetime import datetime
 from urllib.parse import parse_qs, urlencode, urljoin, urlsplit, urlunsplit
 
@@ -52,7 +51,6 @@ class GconCollector(StructuredHtmlCollector):
                 results.append(item)
                 if len(results) >= limit:
                     return results
-                time.sleep(0.1)
         if not results:
             raise CollectorStructureError("경기콘텐츠진흥원 접수중 사업공고를 찾지 못했습니다")
         return results

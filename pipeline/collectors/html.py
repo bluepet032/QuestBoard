@@ -3,12 +3,12 @@ from __future__ import annotations
 import html
 import json
 import re
-import time
 from datetime import date, datetime
 from html.parser import HTMLParser
 from urllib.parse import urljoin, urlparse
 
 from pipeline.collectors.base import Collector, CollectorStructureError
+from pipeline.http import RobotsDisallowed
 from pipeline.models import RawOpportunity
 
 
@@ -107,6 +107,57 @@ def dates_from_text(value: str) -> tuple[str | None, str | None]:
     return dates[0], dates[1]
 
 
+PERIOD_LABEL_RE = re.compile(r"(?:접수|모집|신청|응모|공모|참가\s*신청|제출)\s*(?:기간|일정|마감일?)|마감일?")
+RANGE_TAIL_RE = re.compile(
+    r"^\s*(?:\([^)]{1,4}\))?\s*(?:\d{1,2}:\d{2})?\s*[~∼〜\-–]\s*"
+    r"(?:(?P<year>20\d{2})[.\-/년\s]+)?(?P<month>\d{1,2})[.\-/월\s]+(?P<day>\d{1,2})"
+)
+LABEL_WINDOW = 80
+MAX_RECRUIT_DAYS = 400
+
+
+def plausible_period(start: str | None, end: str | None) -> bool:
+    if not start or not end:
+        return True
+    span = (date.fromisoformat(end) - date.fromisoformat(start)).days
+    return 0 <= span <= MAX_RECRUIT_DAYS
+
+
+def _labeled_period(window: str) -> tuple[str | None, str | None]:
+    match = DATE_RE.search(window)
+    first = parse_date(match.group(0)) if match else None
+    if not match or not first:
+        return None, None
+    tail = RANGE_TAIL_RE.match(window[match.end():])
+    if not tail:
+        # A single date after a period or deadline label is the deadline (e.g. "접수기간: ~ 2026.10.20").
+        return None, first
+    start = date.fromisoformat(first)
+    month, day = int(tail["month"]), int(tail["day"])
+    year = int(tail["year"]) if tail["year"] else start.year + (1 if month < start.month else 0)
+    try:
+        return first, date(year, month, day).isoformat()
+    except ValueError:
+        return None, None
+
+
+def recruit_dates_from_text(text: str) -> tuple[str | None, str | None]:
+    """Prefer dates right after a recruitment label over the first dates on the page.
+
+    Detail pages often start with a posting or event date, so taking the first two dates
+    of the whole page mislabels them as the recruitment period. Implausible periods
+    (end before start, or longer than ``MAX_RECRUIT_DAYS``) are dropped so the item
+    lands in the undated list instead of showing a wrong deadline.
+    """
+
+    for label in PERIOD_LABEL_RE.finditer(text or ""):
+        start, end = _labeled_period(text[label.end():label.end() + LABEL_WINDOW])
+        if end and plausible_period(start, end):
+            return start, end
+    start, end = dates_from_text(text)
+    return (start, end) if plausible_period(start, end) else (None, None)
+
+
 def first_value(document: dict, keys: tuple[str, ...]) -> str:
     for key in keys:
         value = document.get(key)
@@ -170,7 +221,8 @@ class StructuredHtmlCollector(Collector):
                 if any(phrase in item.title for phrase in NAVIGATION_PHRASES):
                     continue
                 results.append(item)
-                time.sleep(0.15)
+            except RobotsDisallowed:
+                raise
             except Exception:
                 if not any(phrase in list_title for phrase in NAVIGATION_PHRASES):
                     results.append(self._fallback_item(url, list_title, now))
@@ -215,7 +267,7 @@ class StructuredHtmlCollector(Collector):
                 title = prefix
                 break
         description = clean_text(parser.metas.get("description") or parser.metas.get("og:description") or "")
-        start, end = dates_from_text(full_text)
+        start, end = recruit_dates_from_text(full_text)
         organizer = ""
         match = re.search(r"(?:주최|주관|기관|운영)\s*[:：]?\s*([^|·\n]{2,50})", full_text)
         if match:

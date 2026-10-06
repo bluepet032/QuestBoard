@@ -105,3 +105,38 @@ def test_authoritative_game_category_publishes_generic_title():
     ), load_taxonomy())
     assert "게임" in fields
     assert relevance.decision == "publish"
+
+
+def test_generic_title_words_alone_go_to_review():
+    # Each case published at exactly 70 before the weak-keyword rule (summaries as collected).
+    cases = [
+        ("2026 대한민국 SF판타지 웹소설 공모전", "aggregate", ""),
+        ("[서울] 2026년 3차 B the B 뷰티 기반 융복합 콘텐츠 전시(다운타운) 팝업 참여기업 모집 공고", "government", "기업마당 공개 지원사업 · 경영 · 검색어 콘텐츠"),
+        ("[경기] 부천시 2026년 공공배달앱 배달특급 개별 가맹점 홍보물 제작 지원 공고", "government", "기업마당 공개 지원사업 · 내수 · 검색어 앱"),
+    ]
+    for title, kind, summary in cases:
+        _, _, _, relevance, _ = classify(raw(title=title, source_kind=kind, summary=summary), load_taxonomy())
+        assert relevance.score == 69, title
+        assert relevance.decision == "review", title
+
+
+def test_generic_title_words_still_publish_from_specialist_sources_or_with_strong_keywords():
+    _, _, _, specialist, _ = classify(raw(title="스위프 앱 6기 데모데이 & 네트워킹 행사", source_kind="specialist"), load_taxonomy())
+    _, _, _, strong, _ = classify(raw(title="2026 관광데이터 활용 공모전(웹ㆍ앱 구현 부문)", source_kind="aggregate"), load_taxonomy())
+    assert specialist.decision == "publish"
+    assert strong.decision == "publish"
+
+
+def test_concrete_tech_terms_keep_generic_sounding_titles_published():
+    titles = [
+        "2026년 전주MBC K-하이테크 플랫폼 제2회 가상현실 공간 창작 공모전",
+        "[전국] 언리얼엔진5 시퀀서를 활용한 산업현장 교육 콘텐츠 제작 과정",
+        "[경남ㆍ부산ㆍ울산] Claude를 활용한 웹서비스 아키텍처 개발 과정 교육생 모집 안내",
+        "2026년 실감콘텐츠 스튜디오 프로젝트 현물지원기업 모집 공고",
+        "[경북] 2026년 도쿄디지털콘텐츠박람회(DCEXPO) 경북 공동관 참여기업 모집 공고",
+    ]
+    for title in titles:
+        _, _, _, relevance, _ = classify(raw(
+            title=title, source_kind="government", summary="기업마당 공개 지원사업 · 기술 · 검색어 콘텐츠",
+        ), load_taxonomy())
+        assert relevance.decision == "publish", title
