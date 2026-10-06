@@ -78,11 +78,16 @@ def merge(left: Opportunity, right: Opportunity) -> Opportunity:
     winner.audience_tags = sorted(set(winner.audience_tags + other.audience_tags))
     winner.relevance.score = max(winner.relevance.score, other.relevance.score)
     winner.relevance.reasons = list(dict.fromkeys(winner.relevance.reasons + other.relevance.reasons))
-    winner.relevance.decision = (
-        "publish" if winner.relevance.score >= 70
-        else "review" if winner.relevance.score >= 50
-        else "exclude"
-    )
+    if winner.relevance.score >= 70:
+        winner.relevance.decision, winner.domain = "publish", "it"
+    else:
+        # Below the IT threshold, keep a copy that was published in another field tab.
+        tabbed = next((item for item in (winner, other) if item.domain != "it" and item.relevance.decision == "publish"), None)
+        if tabbed:
+            winner.relevance.decision, winner.domain = "publish", tabbed.domain
+            winner.field_tags = sorted(set(tabbed.field_tags))
+        else:
+            winner.relevance.decision = "review" if winner.relevance.score >= 50 else "exclude"
     winner.first_seen_at = min(winner.first_seen_at, other.first_seen_at)
     winner.last_seen_at = max(winner.last_seen_at, other.last_seen_at)
     return winner

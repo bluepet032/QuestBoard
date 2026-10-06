@@ -9,6 +9,7 @@ from pipeline.collectors.html import StructuredHtmlCollector
 from pipeline.collectors.kocca import KoccaCollector
 from pipeline.collectors.kstartup import KStartupCollector
 from pipeline.collectors.linkareer import LinkareerCollector
+from pipeline.collectors.momo365 import Momo365Collector
 from pipeline.collectors.nipa import NipaCollector
 from pipeline.collectors.gcon import GconCollector
 from pipeline.collectors.thinkcontest import ThinkContestCollector
@@ -28,6 +29,7 @@ COLLECTORS: dict[str, type[Collector]] = {
     "kocca": KoccaCollector,
     "kstartup": KStartupCollector,
     "linkareer": LinkareerCollector,
+    "momo365": Momo365Collector,
     "nipa": NipaCollector,
     "thinkcontest": ThinkContestCollector,
     "wevity": WevityCollector,

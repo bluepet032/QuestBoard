@@ -140,3 +140,45 @@ def test_concrete_tech_terms_keep_generic_sounding_titles_published():
             title=title, source_kind="government", summary="기업마당 공개 지원사업 · 기술 · 검색어 콘텐츠",
         ), load_taxonomy())
         assert relevance.decision == "publish", title
+
+
+def domain_of(title: str, **values):
+    from pipeline.classification import assign_domain
+
+    item = raw(title=title, **values)
+    _, _, _, relevance, _ = classify(item, load_taxonomy())
+    return assign_domain(item, load_taxonomy(), relevance)
+
+
+def test_non_it_contests_are_published_in_their_own_field_tab():
+    cases = {
+        "2026 남원시 영상 공모전": ("design_media", ["영상"]),
+        "제2회 강남구 세계청소년 백일장": ("literature_arts", ["문학"]),
+        "2026년 하반기 용인시 정책 아이디어 공모전": ("planning_ideas", ["아이디어", "정책·사회"]),
+        "「민관협력 오픈이노베이션 지원」 참여기업 모집공고": ("business", ["창업"]),
+    }
+    for title, (domain, topics) in cases.items():
+        assigned, assigned_topics, relevance = domain_of(title, source_kind="aggregate")
+        assert (assigned, assigned_topics) == (domain, topics), title
+        assert relevance.decision == "publish"
+
+
+def test_it_qualifying_items_stay_in_the_it_tab():
+    domain, topics, relevance = domain_of("AI 숏폼 영상 생성 해커톤", source_kind="aggregate")
+    assert domain == "it" and topics == [] and relevance.decision == "publish"
+
+
+def test_items_without_a_known_topic_or_with_excluded_phrases_stay_out():
+    assert domain_of("전국 한미 버거 콘테스트", source_kind="aggregate")[2].decision == "exclude"
+    assert domain_of("홍보 영상 제작 용역 입찰 공고", source_kind="aggregate")[2].decision != "publish"
+
+
+def test_substring_traps_do_not_pick_the_wrong_field():
+    # "교통안전시설" contains "전시"; the arts topic uses "전시회" to avoid this.
+    domain, topics, _ = domain_of("도민과 함께 만드는 교통안전시설 개선 아이디어 공모전", source_kind="aggregate")
+    assert domain == "planning_ideas" and topics == ["아이디어"]
+
+
+def test_source_category_can_place_an_item():
+    domain, topics, _ = domain_of("2026년 업사이클 공모전", source_kind="aggregate", original_category="과학, 디자인, 미술")
+    assert domain == "design_media" and topics == ["디자인", "미술"]

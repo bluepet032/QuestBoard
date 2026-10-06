@@ -77,3 +77,38 @@ test('hides items whose deadline passed after the last collection', async ({ pag
   await expect(page.getByText('이미 마감된 게임 공모전')).toHaveCount(0)
   await expect(page.locator('.opportunity').first()).toContainText('D-21')
 })
+
+const routeActive = (page: import('@playwright/test').Page, items: unknown[]) => page.route('**/data/active.json', route => route.fulfill({
+  contentType: 'application/json',
+  body: JSON.stringify({ schema_version: 1, generated_at: '2026-07-30T12:00:00+09:00', items }),
+}))
+
+test('field tabs, typo-tolerant search and source badges', async ({ page }) => {
+  await routeActive(page, [
+    opportunity({}),
+    opportunity({ id: 'video-1', title: '2026 남원시 영상 공모전', organizer: '남원시', summary: '남원의 관광지와 축제를 소재로 한 짧은 영상을 공모하며 자세한 참가 조건과 일정은 원문 공고에서 확인합니다.', source_url: 'https://example.com/video', domain: 'design_media', field_tags: ['영상'], audience_tags: [], relevance: { score: 20, reasons: [], decision: 'publish' }, sources: [{ source_id: 'linkareer', source_name: '링커리어', source_url: 'https://example.com/video', kind: 'aggregate', priority: 40 }] }),
+  ])
+  await page.goto('/#/')
+  await expect(page.locator('.result-toolbar strong')).toHaveText('1개')
+  await expect(page.locator('.opportunity').first()).toContainText('공식기관')
+
+  await page.getByRole('button', { name: /디자인·영상/ }).click()
+  await expect(page).toHaveURL(/domain=design_media/)
+  await expect(page.locator('.opportunity')).toHaveCount(1)
+  await expect(page.locator('.opportunity').first()).toContainText('남원시 영상 공모전')
+  await expect(page.locator('.opportunity').first()).toContainText('모음 사이트')
+
+  await page.getByRole('button', { name: /모든 분야/ }).click()
+  await page.getByLabel('통합 검색').fill('개임')
+  await expect(page.getByText('철자가 비슷한 공고를 보여 드립니다')).toBeVisible()
+  await expect(page.locator('.opportunity')).toHaveCount(1)
+})
+
+test('weekly digest lists deadlines this week', async ({ page }) => {
+  await routeActive(page, [opportunity({ title: '오늘 마감 게임 공모전', recruit_end: isoDay(0), d_day: 0 })])
+  await page.goto('/#/weekly')
+  await expect(page.getByRole('heading', { name: '주간 요약' })).toBeVisible()
+  const thisWeek = page.locator('section[aria-labelledby="closing-this-week"]')
+  await expect(thisWeek).toContainText('오늘 마감 게임 공모전')
+  await expect(thisWeek.locator('.section-heading strong')).toHaveText('1건')
+})

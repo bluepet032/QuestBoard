@@ -1,3 +1,4 @@
+import { isOfficialSource } from './sourceTrust'
 import type { Opportunity } from './types'
 
 const HOUR = 60 * 60 * 1000
@@ -23,6 +24,7 @@ export function matchesQuickTag(item: Opportunity, tag: string) {
   if (tag === 'NEW') return isNew(item)
   if (tag === 'UPDATED') return isUpdated(item)
   if (tag === '마감임박') return isDeadlineSoon(item)
+  if (tag === '공식 출처') return isOfficialSource(item)
   return item.field_tags.includes(tag) || item.audience_tags.includes(tag)
 }
 

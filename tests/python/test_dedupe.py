@@ -104,3 +104,18 @@ def test_identically_titled_reposts_on_one_source_still_merge():
         ), load_taxonomy(), NOW)
 
     assert len(deduplicate([post("353364", "2026-10-20"), post("353594", "2026-10-21")])) == 1
+
+
+def test_merge_keeps_an_item_published_in_another_field_tab():
+    def video(source_id: str, url: str, priority: int):
+        return normalize(RawOpportunity(
+            source_id=source_id, source_name=source_id, source_url=url, title="2026 남원시 영상 공모전",
+            organizer="남원시", source_kind="aggregate", source_priority=priority,
+            recruit_end="2026-10-31", date_kind="exact", collected_at=NOW.isoformat(),
+        ), load_taxonomy(), NOW)
+
+    merged = deduplicate([video("linkareer", "https://linkareer.com/activity/1", 40), video("wevity", "https://wevity.com/1", 40)])
+
+    assert len(merged) == 1
+    assert merged[0].domain == "design_media"
+    assert merged[0].relevance.decision == "publish"

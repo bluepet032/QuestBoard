@@ -12,7 +12,8 @@ from pipeline.models import RawOpportunity
 
 ROW_RE = re.compile(r"<tr\b[^>]*>(?P<body>.*?)</tr>", re.I | re.S)
 LINK_RE = re.compile(r'<a\s+href=["\'](?P<href>[^"\']*view\.do\?pbancSrnm=(?P<id>\d+)[^"\']*)["\'][^>]*>(?P<title>.*?)</a>', re.I | re.S)
-TAG_RE = re.compile(r"<[^>]+>")
+# Only real tags start with a letter; titles such as "<2027 작품 공모>" are kept.
+TAG_RE = re.compile(r"</?[A-Za-z!][^>]*>")
 
 
 def _page_url(url: str, page: int) -> str:
@@ -31,11 +32,11 @@ class GconCollector(StructuredHtmlCollector):
             candidates: list[tuple[str, str, str]] = []
             for row in ROW_RE.finditer(response.text):
                 link = LINK_RE.search(row.group("body"))
-                state = clean_text(TAG_RE.sub(" ", html.unescape(row.group("body"))))
+                state = clean_text(TAG_RE.sub(" ", row.group("body")))
                 if not link or "접수중" not in state or link.group("id") in seen:
                     continue
                 seen.add(link.group("id"))
-                title = clean_text(html.unescape(TAG_RE.sub(" ", link.group("title"))))
+                title = clean_text(TAG_RE.sub(" ", link.group("title")))
                 candidates.append((urljoin(response.url, html.unescape(link.group("href"))), title, link.group("id")))
             if not candidates:
                 break

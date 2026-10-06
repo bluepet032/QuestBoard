@@ -35,3 +35,19 @@ def test_source_body_text_in_public_data_is_rejected(tmp_path: Path):
     errors = validate_payloads(data_dir)
 
     assert any("원문 본문 필드" in error for error in errors)
+
+
+def test_field_tab_items_may_publish_below_the_it_threshold_but_need_a_known_domain(tmp_path: Path):
+    data_dir = tmp_path / "data"
+    copytree(Path("public/data"), data_dir)
+    path = data_dir / "active.json"
+    payload = json.loads(path.read_text(encoding="utf-8"))
+    payload["items"][0]["relevance"]["score"] = 10
+    payload["items"][0]["domain"] = "design_media"
+    payload["items"][1]["domain"] = "cooking"
+    path.write_text(json.dumps(payload, ensure_ascii=False), encoding="utf-8")
+
+    errors = validate_payloads(data_dir)
+
+    assert not any("[0]: 공개 점수" in error for error in errors)
+    assert any("[1]: 분야(domain)" in error for error in errors)

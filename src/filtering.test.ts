@@ -3,7 +3,7 @@ import { matchesOpportunity, type OpportunityFilters } from './filtering'
 import type { Opportunity } from './types'
 
 const filters: OpportunityFilters = {
-  type: 'all', quick: '', search: '', field: '', status: '',
+  domain: 'all', type: 'all', quick: '', search: '', field: '', status: '',
 }
 
 const item = {
@@ -30,5 +30,20 @@ describe('matchesOpportunity', () => {
     const adjacent = { ...item, primary_type: 'employment', is_adjacent: true } satisfies Opportunity
     expect(matchesOpportunity(adjacent, filters)).toBe(false)
     expect(matchesOpportunity(adjacent, { ...filters, type: 'employment' })).toBe(true)
+  })
+
+  it('filters by field tab and treats items without a domain as IT·게임', () => {
+    const video = { ...item, domain: 'design_media' } satisfies Opportunity
+    expect(matchesOpportunity(item, { ...filters, domain: 'it' })).toBe(true)
+    expect(matchesOpportunity(video, { ...filters, domain: 'it' })).toBe(false)
+    expect(matchesOpportunity(video, { ...filters, domain: 'design_media' })).toBe(true)
+    expect(matchesOpportunity(video, filters)).toBe(true)
+  })
+
+  it('uses 초성, synonyms and, only when asked, typo tolerance', () => {
+    expect(matchesOpportunity(item, { ...filters, search: 'ㅇㄷㄱㅇ' })).toBe(true)
+    expect(matchesOpportunity(item, { ...filters, search: 'indie' })).toBe(true)
+    expect(matchesOpportunity(item, { ...filters, search: '공모젼' })).toBe(false)
+    expect(matchesOpportunity(item, { ...filters, search: '공모젼' }, { fuzzy: true })).toBe(true)
   })
 })

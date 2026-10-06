@@ -5,7 +5,7 @@ import re
 from datetime import datetime
 from urllib.parse import urlsplit, urlunsplit
 
-from pipeline.classification import classify
+from pipeline.classification import assign_domain, classify
 from pipeline.dates import status_for
 from pipeline.models import Opportunity, RawOpportunity, SourceRecord
 
@@ -47,6 +47,10 @@ def summarize(raw: RawOpportunity) -> str:
 
 def normalize(raw: RawOpportunity, taxonomy: dict, now: datetime) -> Opportunity:
     primary_type, fields, audiences, relevance, adjacent = classify(raw, taxonomy)
+    domain, topics, relevance = assign_domain(raw, taxonomy, relevance)
+    if domain != "it":
+        # IT sub-field tags are noise outside the IT tab; show the field's own topics instead.
+        fields = topics
     status, d_day = status_for(raw.recruit_start, raw.recruit_end, raw.date_kind, now)
     timestamp = raw.collected_at or now.isoformat(timespec="seconds")
     source_url = clean_url(raw.source_url)
@@ -92,5 +96,6 @@ def normalize(raw: RawOpportunity, taxonomy: dict, now: datetime) -> Opportunity
         mode=raw.mode,
         fee=raw.fee,
         is_adjacent=adjacent,
+        domain=domain,  # type: ignore[arg-type]
         dedupe_key=dedupe_key,
     )

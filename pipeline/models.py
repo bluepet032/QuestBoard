@@ -12,6 +12,8 @@ OpportunityType = Literal[
     "contest", "support", "hackathon", "event", "education", "supporters", "employment", "other"
 ]
 DateKind = Literal["exact", "ongoing", "first_come", "budget", "unknown", "inquiry"]
+# "it" is the original IT·게임 scope; the others come from taxonomy.yml `domains`.
+Domain = Literal["it", "design_media", "literature_arts", "planning_ideas", "business"]
 
 
 @dataclass(slots=True)
@@ -90,6 +92,7 @@ class Opportunity:
     mode: str = ""
     fee: str = "unknown"
     is_adjacent: bool = False
+    domain: Domain = "it"
     last_changed_at: str | None = None
     change_flags: list[str] = field(default_factory=list)
     is_manual_reviewed: bool = False

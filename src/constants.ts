@@ -1,4 +1,4 @@
-import type { OpportunityStatus, OpportunityType } from './types'
+import type { Domain, OpportunityStatus, OpportunityType } from './types'
 
 export const TYPE_LABELS: Record<OpportunityType, string> = {
   contest: '공모전', support: '지원사업', hackathon: '해커톤·게임잼', event: '행사·네트워킹',
@@ -10,7 +10,15 @@ export const STATUS_LABELS: Record<OpportunityStatus, string> = {
 }
 
 export const TYPES = Object.keys(TYPE_LABELS) as OpportunityType[]
-export const QUICK_TAGS = ['대학생', '인디', 'AI', 'NEW', 'UPDATED', '마감임박'] as const
+
+// Order matches the tab row; IT·게임 is the default tab and the site's original scope.
+export const DOMAIN_LABELS: Record<Domain, string> = {
+  it: 'IT·게임', design_media: '디자인·영상', literature_arts: '문학·예술', planning_ideas: '기획·아이디어', business: '창업·비즈니스',
+}
+export const DOMAINS = Object.keys(DOMAIN_LABELS) as Domain[]
+export const DEFAULT_DOMAIN: Domain = 'it'
+export const domainOf = (item: { domain?: Domain }): Domain => item.domain ?? DEFAULT_DOMAIN
+export const QUICK_TAGS = ['대학생', '인디', 'AI', '공식 출처', 'NEW', 'UPDATED', '마감임박'] as const
 export const PAGE_SIZE = 50
 
 

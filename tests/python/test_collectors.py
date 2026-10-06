@@ -251,3 +251,35 @@ def test_dacon_missing_embedded_state_is_a_structure_error():
 
     with pytest.raises(CollectorStructureError):
         DaconCollector(config("dacon"), FakeClient({"https://example.com/list": "<html><body>대회 목록</body></html>"})).collect(NOW, 10)
+
+
+def test_momo365_list_table_contract():
+    from pipeline.collectors.momo365 import Momo365Collector
+
+    row = '''<tr id="tr_177969"><td><input type="checkbox"></td><td>255</td>
+      <td><p><a href="/Support?cd=support&ViewType=detail&seq=177969">프로젝트 스페이스 2027 시각 예술 작가 공모</a></p></td>
+      <td><p>언더 레이어</p></td><td>서울</td><td class="file_icon_td"><img src="x.png"></td>
+      <td>2026-10-06</td><td>2026-10-31</td><td><img id="img_177969"></td></tr>'''
+    ad = '<a href="Support?cd=support&ViewType=detail&seq=1"><img src="ad.png"></a>'
+    pages = {"https://example.com/list": ad + "<table>" + row + "</table>"}
+
+    items = Momo365Collector(config("momo365"), FakeClient(pages)).collect(NOW, 10)
+
+    assert len(items) == 1
+    item = items[0]
+    assert (item.source_post_id, item.title, item.organizer, item.location) == ("177969", "프로젝트 스페이스 2027 시각 예술 작가 공모", "언더 레이어", "서울")
+    assert (item.recruit_start, item.recruit_end) == (None, "2026-10-31")
+    assert item.source_url == "https://example.com/Support?cd=support&ViewType=detail&seq=177969"
+
+
+def test_table_collectors_keep_angle_brackets_that_are_part_of_titles():
+    from pipeline.collectors.bizinfo import _text as bizinfo_text
+    from pipeline.collectors.kocca import _text as kocca_text
+    from pipeline.collectors.momo365 import _text as momo_text
+    from pipeline.collectors.wevity import _text as wevity_text
+
+    markup = '<a href="#">[공고] 종로아이들극장 &lt;2027년도 어린이·가족공연 작품 공모&gt;</a>'
+    unescaped = '<p><a href="#">[한국연극인복지재단] <2026 프로젝트 워크숍 ; 이음과 과정> 배우 공모</a></p>'
+    for text in (bizinfo_text, kocca_text, momo_text, wevity_text):
+        assert text(markup) == "[공고] 종로아이들극장 <2027년도 어린이·가족공연 작품 공모>"
+        assert text(unescaped) == "[한국연극인복지재단] <2026 프로젝트 워크숍 ; 이음과 과정> 배우 공모"

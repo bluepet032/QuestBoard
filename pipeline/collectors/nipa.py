@@ -1,6 +1,5 @@
 from __future__ import annotations
 
-import html
 import re
 from datetime import datetime
 from urllib.parse import urljoin
@@ -12,7 +11,8 @@ from pipeline.models import RawOpportunity
 
 ROW_RE = re.compile(r"<tr\b[^>]*>(?P<body>.*?)</tr>", re.I | re.S)
 LINK_RE = re.compile(r'<a\s+href=["\'](?P<href>/home/2-2/(?P<id>\d+))["\'][^>]*>(?P<title>.*?)</a>', re.I | re.S)
-TAG_RE = re.compile(r"<[^>]+>")
+# Only real tags start with a letter; titles such as "<2027 작품 공모>" are kept.
+TAG_RE = re.compile(r"</?[A-Za-z!][^>]*>")
 
 
 class NipaCollector(Collector):
@@ -23,8 +23,8 @@ class NipaCollector(Collector):
             link = LINK_RE.search(row.group("body"))
             if not link:
                 continue
-            body = clean_text(TAG_RE.sub(" ", html.unescape(row.group("body"))))
-            title = clean_text(TAG_RE.sub(" ", html.unescape(link.group("title"))))
+            body = clean_text(TAG_RE.sub(" ", row.group("body")))
+            title = clean_text(TAG_RE.sub(" ", link.group("title")))
             start, end = dates_from_text(body)
             results.append(RawOpportunity(
                 source_id=self.config.id, source_name=self.config.name,

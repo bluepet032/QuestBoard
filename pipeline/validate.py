@@ -15,6 +15,7 @@ OPPORTUNITY_FILES = ("active.json", "undated.json", "closed.json", "review.json"
 VALID_TYPES = {"contest", "support", "hackathon", "event", "education", "supporters", "employment", "other"}
 VALID_STATUSES = {"upcoming", "open", "urgent", "today", "closed", "ongoing", "unknown"}
 VALID_DATE_KINDS = {"exact", "ongoing", "first_come", "budget", "unknown", "inquiry"}
+VALID_DOMAINS = {"it", "design_media", "literature_arts", "planning_ideas", "business"}
 # Source bodies are used only during classification and must never be republished.
 FORBIDDEN_ITEM_KEYS = ("classification_inputs", "body_text")
 
@@ -91,7 +92,10 @@ def validate_payloads(data_dir: Path) -> list[str]:
             for field_name in ("application_url", "document_url"):
                 if not valid_http_url(getattr(item, field_name)):
                     errors.append(f"{filename}[{index}]: {field_name}이 안전한 HTTP(S) URL이 아닙니다")
-            if item.relevance.decision == "publish" and item.relevance.score < 70:
+            if item.domain not in VALID_DOMAINS:
+                errors.append(f"{filename}[{index}]: 분야(domain)가 올바르지 않습니다")
+            # The 70-point threshold is the IT·게임 relevance score; other field tabs publish by topic match.
+            if item.relevance.decision == "publish" and item.domain == "it" and item.relevance.score < 70:
                 errors.append(f"{filename}[{index}]: 공개 점수가 70점 미만입니다")
             if item.relevance.decision == "review" and not 50 <= item.relevance.score < 70:
                 errors.append(f"{filename}[{index}]: 검토 점수가 50~69점 범위가 아닙니다")

@@ -15,13 +15,15 @@ LINK_RE = re.compile(
     r'<div\s+class=["\']tit["\'][^>]*>.*?<a\s+href=["\'](?P<href>[^"\']*gbn=view[^"\']*)["\'][^>]*>(?P<title>.*?)</a>',
     re.I | re.S,
 )
-TAG_RE = re.compile(r"<[^>]+>")
+# Only real tags start with a letter; titles such as "<2027 작품 공모>" are kept.
+TAG_RE = re.compile(r"</?[A-Za-z!][^>]*>")
 DDAY_RE = re.compile(r"D-(\d+)", re.I)
 DPLUS_RE = re.compile(r"D\+(\d+)", re.I)
 
 
 def _text(markup: str) -> str:
-    return clean_text(TAG_RE.sub(" ", html.unescape(markup)))
+    # Strip tags before unescaping, so a literal "&lt;title&gt;" in the text is kept.
+    return clean_text(TAG_RE.sub(" ", markup))
 
 
 def _div_text(markup: str, class_name: str) -> str:

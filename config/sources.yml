@@ -79,7 +79,8 @@ sources:
     mode: html
     list_url: https://onoffmix.com/event/main
     homepage: https://onoffmix.com/
-    enabled: true
+    # robots.txt allows only named search/preview bots (User-agent: * / Disallow: /), checked 2026-10-06.
+    enabled: false
   - id: dev_event
     name: Dev-Event GitHub
     kind: specialist

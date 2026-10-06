@@ -1,6 +1,5 @@
 from __future__ import annotations
 
-import html
 import re
 from datetime import datetime, timedelta
 from urllib.parse import parse_qs, urlencode, urlsplit, urlunsplit
@@ -13,7 +12,8 @@ from pipeline.models import RawOpportunity
 ITEM_RE = re.compile(r"<a\s+href=[\"']javascript:go_view\((?P<id>\d+)\);?[\"'][^>]*>(?P<body>.*?)</a>", re.I | re.S)
 TITLE_RE = re.compile(r"<p\s+class=[\"']tit[\"'][^>]*>(?P<title>.*?)</p>", re.I | re.S)
 DDAY_RE = re.compile(r"D-(\d+)", re.I)
-TAG_RE = re.compile(r"<[^>]+>")
+# Only real tags start with a letter; titles such as "<2027 작품 공모>" are kept.
+TAG_RE = re.compile(r"</?[A-Za-z!][^>]*>")
 
 
 def _url(url: str, **updates: str | int) -> str:
@@ -50,7 +50,7 @@ class KStartupCollector(Collector):
             title_match = TITLE_RE.search(match.group("body"))
             if not title_match:
                 continue
-            title = clean_text(TAG_RE.sub(" ", html.unescape(title_match.group("title"))))
+            title = clean_text(TAG_RE.sub(" ", title_match.group("title")))
             dday = DDAY_RE.search(match.group("body"))
             if not dday:
                 continue

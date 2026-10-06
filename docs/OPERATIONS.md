@@ -53,7 +53,7 @@ items:
     force_publish: true
 ```
 
-강제로 검토 큐에 두려면 `force_review: true`를 사용합니다. 자동 필드를 수정할 수 있는 키는 제목, 기관, 요약, 링크, 날짜, 대상, 혜택, 장소, 방식, 비용, 유형·분야·대상 태그, 확장 기회 여부입니다.
+강제로 검토 큐에 두려면 `force_review: true`를 사용합니다. 자동 필드를 수정할 수 있는 키는 제목, 기관, 요약, 링크, 날짜, 대상, 혜택, 장소, 방식, 비용, 유형·분야·대상 태그, 확장 기회 여부, 분야 탭(`domain`: `it`, `design_media`, `literature_arts`, `planning_ideas`, `business`)입니다. 다른 탭으로 옮기려면 `domain`과 `force_publish: true`를 함께 지정합니다.
 
 ## 제외 예시
 

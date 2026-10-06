@@ -15,6 +15,7 @@ ALLOWED_FIELDS = {
     "title", "organizer", "summary", "application_url", "document_url", "recruit_start",
     "recruit_end", "event_start", "event_end", "date_kind", "eligibility", "benefits",
     "location", "mode", "fee", "primary_type", "field_tags", "audience_tags", "is_adjacent",
+    "domain",
 }
 KST = ZoneInfo("Asia/Seoul")
 

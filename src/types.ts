@@ -1,6 +1,7 @@
 export type OpportunityType = 'contest' | 'support' | 'hackathon' | 'event' | 'education' | 'supporters' | 'employment' | 'other'
 export type OpportunityStatus = 'upcoming' | 'open' | 'urgent' | 'today' | 'closed' | 'ongoing' | 'unknown'
 export type DateKind = 'exact' | 'ongoing' | 'first_come' | 'budget' | 'unknown' | 'inquiry'
+export type Domain = 'it' | 'design_media' | 'literature_arts' | 'planning_ideas' | 'business'
 
 export interface SourceRecord {
   source_id: string
@@ -47,6 +48,8 @@ export interface Opportunity {
   mode?: string
   fee?: string
   is_adjacent?: boolean
+  /** Field tab; data generated before tabs existed has no value and counts as 'it'. */
+  domain?: Domain
   last_changed_at?: string | null
   change_flags?: string[]
   is_manual_reviewed?: boolean

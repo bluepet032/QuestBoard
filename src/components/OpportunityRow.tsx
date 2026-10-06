@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { STATUS_LABELS, TYPE_LABELS } from '../constants'
 import type { Opportunity, PersonalState } from '../types'
+import { kindOf, SOURCE_KINDS, sourceTrust } from '../sourceTrust'
 import { dDayLabel, formatDate, isNew, isUpdated } from '../utils'
 
 interface Props {
@@ -13,6 +14,7 @@ export function OpportunityRow({ item, personal, onToggle }: Props) {
   const [expanded, setExpanded] = useState(false)
   const favorite = personal.favorites.includes(item.id)
   const read = personal.read.includes(item.id)
+  const trust = sourceTrust(item)
   return (
     <article className={`opportunity type-${item.primary_type} ${read ? 'is-read' : ''}`}>
       <div className="date-cell">
@@ -25,6 +27,7 @@ export function OpportunityRow({ item, personal, onToggle }: Props) {
           <a href={item.source_url} target="_blank" rel="noopener noreferrer" onClick={() => onToggle('read', item.id)}>{item.title}</a>
           {isNew(item) && <span className="badge badge-new">NEW</span>}
           {isUpdated(item) && <span className="badge badge-updated">UPDATED</span>}
+          <span className={`badge trust trust-${trust.kind}`} title={trust.description}>{trust.label}{trust.sourceCount > 1 && ` · 출처 ${trust.sourceCount}곳`}</span>
         </div>
         <p>{item.summary}</p>
         <div className="mobile-meta">{item.organizer} · {STATUS_LABELS[item.status]}</div>
@@ -38,8 +41,9 @@ export function OpportunityRow({ item, personal, onToggle }: Props) {
               <div><dt>참가 대상</dt><dd>{item.eligibility || '원문 확인 필요'}</dd></div>
               <div><dt>혜택·지원</dt><dd>{item.benefits || '원문 확인 필요'}</dd></div>
               <div><dt>장소·방식</dt><dd>{[item.location, item.mode].filter(Boolean).join(' · ') || '원문 확인 필요'}</dd></div>
-              <div><dt>출처</dt><dd>{item.sources.map(source => source.source_name).join(', ')}</dd></div>
+              <div><dt>출처</dt><dd>{item.sources.map(source => `${source.source_name}(${SOURCE_KINDS[kindOf(source)].label})`).join(', ')}</dd></div>
             </dl>
+            {trust.kind === 'aggregate' && <p className="trust-note">{trust.description}</p>}
             <div className="detail-links">
               <a className="button-link" href={item.source_url} target="_blank" rel="noopener noreferrer">원문 보기</a>
               {item.application_url && <a href={item.application_url} target="_blank" rel="noopener noreferrer">신청하기</a>}

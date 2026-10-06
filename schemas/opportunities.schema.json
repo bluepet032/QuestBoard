@@ -22,6 +22,7 @@
           "status": { "enum": ["upcoming", "open", "urgent", "today", "closed", "ongoing", "unknown"] },
           "date_kind": { "enum": ["exact", "ongoing", "first_come", "budget", "unknown", "inquiry"] },
           "primary_type": { "enum": ["contest", "support", "hackathon", "event", "education", "supporters", "employment", "other"] },
+          "domain": { "enum": ["it", "design_media", "literature_arts", "planning_ideas", "business"], "description": "분야 탭. 없으면 it(IT·게임)으로 봅니다." },
           "field_tags": { "type": "array", "items": { "type": "string" } },
           "audience_tags": { "type": "array", "items": { "type": "string" } },
           "first_seen_at": { "type": "string", "format": "date-time" },

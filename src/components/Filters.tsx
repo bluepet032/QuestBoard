@@ -1,10 +1,11 @@
 import { useEffect, useRef, useState } from 'react'
-import { QUICK_TAGS, TYPE_LABELS, TYPES } from '../constants'
+import { DOMAIN_LABELS, DOMAINS, QUICK_TAGS, TYPE_LABELS, TYPES } from '../constants'
 import { matchesOpportunity, type OpportunityFilters } from '../filtering'
-import type { Opportunity, OpportunityType } from '../types'
+import type { Domain, Opportunity, OpportunityType } from '../types'
 
 interface Props extends OpportunityFilters {
   items: Opportunity[]
+  domain: string
   type: string
   quick: string
   search: string
@@ -22,13 +23,19 @@ export function Filters(props: Props) {
   }, [props.search])
 
   const filterValues: OpportunityFilters = {
-    type: props.type, quick: props.quick, search: props.search, field: props.field, status: props.status,
+    domain: props.domain, type: props.type, quick: props.quick, search: props.search, field: props.field, status: props.status,
   }
+  const domainCount = (domain: Domain | 'all') => props.items.filter(item => matchesOpportunity(item, { ...filterValues, domain })).length
   const counts = (type: OpportunityType | 'all') => props.items.filter(item => matchesOpportunity(item, { ...filterValues, type })).length
   const tagCount = (quick: string) => props.items.filter(item => matchesOpportunity(item, { ...filterValues, quick })).length
-  const fields = [...new Set(props.items.flatMap(item => item.field_tags))].sort()
+  // Detail tags differ by field tab, so only offer the ones present in the selected tab.
+  const fields = [...new Set(props.items.filter(item => matchesOpportunity(item, { ...filterValues, type: 'all', quick: '', search: '', field: '', status: '' })).flatMap(item => item.field_tags))].sort()
   return (
     <section className="filter-panel" aria-label="공고 검색과 필터">
+      <div className="domain-tabs" role="group" aria-label="분야">
+        {DOMAINS.map(domain => <button key={domain} className={props.domain === domain ? 'active' : ''} aria-pressed={props.domain === domain} onClick={() => props.onChange('domain', domain)}>{DOMAIN_LABELS[domain]} <span>{domainCount(domain)}</span></button>)}
+        <button className={props.domain === 'all' ? 'active' : ''} aria-pressed={props.domain === 'all'} onClick={() => props.onChange('domain', 'all')}>모든 분야 <span>{domainCount('all')}</span></button>
+      </div>
       <div className="type-tabs" role="group" aria-label="공고 유형">
         <button className={props.type === 'all' ? 'active' : ''} onClick={() => props.onChange('type', 'all')}>전체 <span>{counts('all')}</span></button>
         {TYPES.map(type => <button key={type} className={props.type === type ? `active type-${type}` : ''} onClick={() => props.onChange('type', type)}>{TYPE_LABELS[type]} <span>{counts(type)}</span></button>)}
@@ -49,9 +56,9 @@ export function Filters(props: Props) {
             setDraftSearch(event.target.value)
             if (!composing.current) props.onChange('q', event.target.value)
           }}
-          placeholder="공고명, 기관, 요약, 태그 검색"
+          placeholder="공고명, 기관, 태그 검색 (초성·영문 가능)"
         /></label>
-        <select value={props.field} onChange={event => props.onChange('field', event.target.value)} aria-label="기술 분야"><option value="">모든 분야</option>{fields.map(field => <option key={field}>{field}</option>)}</select>
+        <select value={props.field} onChange={event => props.onChange('field', event.target.value)} aria-label="세부 분야"><option value="">모든 세부 분야</option>{fields.map(field => <option key={field}>{field}</option>)}</select>
         <select value={props.status} onChange={event => props.onChange('status', event.target.value)} aria-label="접수 상태"><option value="">모든 상태</option><option value="upcoming">접수예정</option><option value="open">접수중</option><option value="urgent">긴급</option><option value="today">오늘마감</option><option value="ongoing">상시모집</option><option value="closed">마감</option><option value="unknown">날짜 미상</option></select>
       </div>
     </section>

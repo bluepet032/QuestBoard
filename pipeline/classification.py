@@ -127,3 +127,32 @@ def classify(raw: RawOpportunity, taxonomy: dict[str, Any]) -> tuple[str, list[s
     decision = "publish" if score >= 70 else "review" if score >= 50 else "exclude"
     adjacent = primary_type == "employment" or (primary_type == "education" and raw.fee == "paid")
     return primary_type, field_tags, audience_tags, Relevance(score, reasons or ["관련성 근거 부족"], decision), adjacent
+
+
+def assign_domain(raw: RawOpportunity, taxonomy: dict[str, Any], relevance: Relevance) -> tuple[str, list[str], Relevance]:
+    """Place an item that is not published as IT·게임 into another field tab.
+
+    IT·게임 always wins when the item already qualifies for it. Otherwise the title and the
+    source's own category are matched against ``taxonomy["domains"]`` topics; the domain with
+    the most matching topics is chosen. Excluded phrases (procurement, giveaways) never
+    qualify. Returns the domain, the matched topic labels and the possibly updated relevance.
+    """
+
+    if relevance.decision == "publish":
+        return "it", [], relevance
+    if keyword_matches(normalized(raw.title), taxonomy.get("exclude_phrases", [])):
+        return "it", [], relevance
+    text = normalized(f"{raw.title} {raw.original_category}")
+    best: tuple[str, str, list[str]] | None = None
+    for domain_id, config in taxonomy.get("domains", {}).items():
+        topics = [topic for topic, words in config.get("topics", {}).items() if keyword_matches(text, words)]
+        if topics and (best is None or len(topics) > len(best[2])):
+            best = (domain_id, config.get("label", domain_id), topics)
+    if not best:
+        return "it", [], relevance
+    domain_id, label, topics = best
+    return domain_id, topics, Relevance(
+        relevance.score,
+        [*relevance.reasons, f"분야 탭: {label} ({', '.join(topics)})"],
+        "publish",
+    )

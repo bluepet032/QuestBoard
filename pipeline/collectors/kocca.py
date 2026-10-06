@@ -13,12 +13,14 @@ from pipeline.models import RawOpportunity
 ROW_RE = re.compile(r"<tr\b[^>]*>(?P<body>.*?)</tr>", re.I | re.S)
 LINK_RE = re.compile(r'<a\s+href=["\'](?P<href>[^"\']*pims/view\.do[^"\']*)["\'][^>]*>(?P<title>.*?)</a>', re.I | re.S)
 CELL_RE = re.compile(r"<td\b[^>]*>(?P<body>.*?)</td>", re.I | re.S)
-TAG_RE = re.compile(r"<[^>]+>")
+# Only real tags start with a letter; titles such as "<2027 작품 공모>" are kept.
+TAG_RE = re.compile(r"</?[A-Za-z!][^>]*>")
 SHORT_DATE_RE = re.compile(r"(?<!\d)(?P<year>\d{2})\.(?P<month>\d{1,2})\.(?P<day>\d{1,2})(?!\d)")
 
 
 def _text(markup: str) -> str:
-    return clean_text(TAG_RE.sub(" ", html.unescape(markup)))
+    # Strip tags before unescaping, so a literal "&lt;title&gt;" in the text is kept.
+    return clean_text(TAG_RE.sub(" ", markup))
 
 
 def _short_dates(value: str) -> list[str]:
