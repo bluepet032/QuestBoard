@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-07T03:44:26+09:00",
+  "generated_at": "2026-10-07T07:37:45+09:00",
   "items": [
     {
       "id": "4a6ac8801924a80e386a",
@@ -26,7 +26,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-17T06:15:06+09:00",
-      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T07:37:45+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -35,7 +35,7 @@
           "source_post_id": "PBLN_000000000126541",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T03:44:26+09:00"
+          "fetched_at": "2026-10-07T07:37:45+09:00"
         }
       ],
       "application_url": null,
@@ -82,7 +82,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T07:37:45+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -91,7 +91,7 @@
           "source_post_id": "PBLN_000000000124402",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T03:44:26+09:00"
+          "fetched_at": "2026-10-07T07:37:45+09:00"
         }
       ],
       "application_url": null,
@@ -113,174 +113,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "충북2026년한방바이오제천몰웹상세페이지제작지원사업공고|제천한방천연물산업진흥재단|"
-    },
-    {
-      "id": "6d7357391037781756f9",
-      "title": "2026년 2차 산업혁신기반구축사업(첨단 방위산업용 고성능ㆍ고신뢰성 시스템반도체 부품 실증 기반구축) 기술지원(설계ㆍ성능 검증, 기술지도) 사업 공고",
-      "source_name": "기업마당",
-      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%B0%98%EB%8F%84%EC%B2%B4&condition=searchPblancNm&condition1=AND&keyword=%EB%B0%98%EB%8F%84%EC%B2%B4&pblancId=PBLN_000000000126931",
-      "organizer": "한국전자기술연구원",
-      "summary": "기업마당 공개 지원사업 · 기술 · 검색어 반도체. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "소프트웨어"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 69,
-        "reasons": [
-          "제목 핵심 키워드: 시스템",
-          "본문·분류 키워드: 시스템",
-          "공고 유형: support",
-          "제목 키워드가 일반 단어뿐: 시스템"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-10-07T03:44:26+09:00",
-      "last_seen_at": "2026-10-07T03:44:26+09:00",
-      "sources": [
-        {
-          "source_id": "bizinfo",
-          "source_name": "기업마당",
-          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%B0%98%EB%8F%84%EC%B2%B4&condition=searchPblancNm&condition1=AND&keyword=%EB%B0%98%EB%8F%84%EC%B2%B4&pblancId=PBLN_000000000126931",
-          "source_post_id": "PBLN_000000000126931",
-          "kind": "government",
-          "priority": 80,
-          "fetched_at": "2026-10-07T03:44:26+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-10-01",
-      "recruit_end": "2026-10-16",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 9,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "domain": "it",
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026년2차산업혁신기반구축사업첨단방위산업용고성능고신뢰성시스템반도체부품실증기반구축기술지원설계성능검증기술지도사업공고|한국전자기술연구원|2026-10-16"
-    },
-    {
-      "id": "3e8b0986044ad02e0685",
-      "title": "2026년 의료기기 반도체 실증플랫폼 구축사업 실증지원 통합 공고",
-      "source_name": "기업마당",
-      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%B0%98%EB%8F%84%EC%B2%B4&condition=searchPblancNm&condition1=AND&keyword=%EB%B0%98%EB%8F%84%EC%B2%B4&pblancId=PBLN_000000000126213",
-      "organizer": "강원테크노파크",
-      "summary": "기업마당 공개 지원사업 · 기술 · 검색어 반도체. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "웹·앱"
-      ],
-      "audience_tags": [],
-      "status": "unknown",
-      "relevance": {
-        "score": 69,
-        "reasons": [
-          "제목 핵심 키워드: 플랫폼",
-          "본문·분류 키워드: 플랫폼",
-          "공고 유형: support",
-          "제목 키워드가 일반 단어뿐: 플랫폼"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-10-07T03:44:26+09:00",
-      "last_seen_at": "2026-10-07T03:44:26+09:00",
-      "sources": [
-        {
-          "source_id": "bizinfo",
-          "source_name": "기업마당",
-          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%B0%98%EB%8F%84%EC%B2%B4&condition=searchPblancNm&condition1=AND&keyword=%EB%B0%98%EB%8F%84%EC%B2%B4&pblancId=PBLN_000000000126213",
-          "source_post_id": "PBLN_000000000126213",
-          "kind": "government",
-          "priority": 80,
-          "fetched_at": "2026-10-07T03:44:26+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": null,
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "unknown",
-      "d_day": null,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "domain": "it",
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026년의료기기반도체실증플랫폼구축사업실증지원통합공고|강원테크노파크|"
-    },
-    {
-      "id": "915b4ac1c6840ba3c7a6",
-      "title": "물류영역 서비스로봇 공통플랫폼구축 사업 기업 지원 모집 공고",
-      "source_name": "기업마당",
-      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%A1%9C%EB%B4%87&condition=searchPblancNm&condition1=AND&keyword=%EB%A1%9C%EB%B4%87&pblancId=PBLN_000000000125008",
-      "organizer": "한국산업기술시험원",
-      "summary": "기업마당 공개 지원사업 · 기술 · 검색어 로봇. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "웹·앱"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 69,
-        "reasons": [
-          "제목 핵심 키워드: 플랫폼",
-          "본문·분류 키워드: 플랫폼",
-          "공고 유형: support",
-          "제목 키워드가 일반 단어뿐: 플랫폼"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-10-07T03:44:26+09:00",
-      "last_seen_at": "2026-10-07T03:44:26+09:00",
-      "sources": [
-        {
-          "source_id": "bizinfo",
-          "source_name": "기업마당",
-          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%A1%9C%EB%B4%87&condition=searchPblancNm&condition1=AND&keyword=%EB%A1%9C%EB%B4%87&pblancId=PBLN_000000000125008",
-          "source_post_id": "PBLN_000000000125008",
-          "kind": "government",
-          "priority": 80,
-          "fetched_at": "2026-10-07T03:44:26+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-07-31",
-      "recruit_end": "2026-12-18",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 72,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "domain": "it",
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "물류영역서비스로봇공통플랫폼구축사업기업지원모집공고|한국산업기술시험원|2026-12-18"
     },
     {
       "id": "c7f8554e2b4cd9bba01e",
@@ -306,7 +138,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-18T02:15:03+09:00",
-      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T07:37:45+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -315,7 +147,7 @@
           "source_post_id": "EVEN_000000000068698",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T03:44:26+09:00"
+          "fetched_at": "2026-10-07T07:37:45+09:00"
         }
       ],
       "application_url": null,
@@ -362,7 +194,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-29T17:36:15+09:00",
-      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T07:37:45+09:00",
       "sources": [
         {
           "source_id": "linkareer",
@@ -371,7 +203,7 @@
           "source_post_id": "353503",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-07T03:44:26+09:00"
+          "fetched_at": "2026-10-07T07:37:45+09:00"
         }
       ],
       "application_url": null,
@@ -393,62 +225,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "2026년성남시장애인권리증진콘텐츠공모전|성남시장애인권리증진센터|2026-10-30"
-    },
-    {
-      "id": "fa5507f12fa37d4e310e",
-      "title": "2026 한국관광 콘텐츠랩 활용 우수사례 어워즈",
-      "source_name": "링커리어",
-      "source_url": "https://linkareer.com/activity/353201",
-      "organizer": "한국관광콘텐츠랩",
-      "summary": "링커리어 공개 공모전 목록. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 69,
-        "reasons": [
-          "제목 핵심 키워드: 콘텐츠",
-          "본문·분류 키워드: 콘텐츠",
-          "공고 유형: contest",
-          "제목 키워드가 일반 단어뿐: 콘텐츠"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-10-07T03:44:26+09:00",
-      "last_seen_at": "2026-10-07T03:44:26+09:00",
-      "sources": [
-        {
-          "source_id": "linkareer",
-          "source_name": "링커리어",
-          "source_url": "https://linkareer.com/activity/353201",
-          "source_post_id": "353201",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-10-07T03:44:26+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-11-06",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 30,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "domain": "it",
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026한국관광콘텐츠랩활용우수사례어워즈|한국관광콘텐츠랩|2026-11-06"
     },
     {
       "id": "21a6d0e54023d4e5810c",
@@ -474,7 +250,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-01T22:25:03+09:00",
-      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T07:37:45+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -483,7 +259,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T03:44:26+09:00"
+          "fetched_at": "2026-10-07T07:37:45+09:00"
         }
       ],
       "application_url": null,
@@ -530,7 +306,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-06T01:05:39+09:00",
-      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T07:37:45+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -539,7 +315,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T03:44:26+09:00"
+          "fetched_at": "2026-10-07T07:37:45+09:00"
         }
       ],
       "application_url": null,
@@ -584,7 +360,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-09T20:49:14+09:00",
-      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T07:37:45+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -593,7 +369,7 @@
           "source_post_id": "EVEN_000000000069405",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T03:44:26+09:00"
+          "fetched_at": "2026-10-07T07:37:45+09:00"
         }
       ],
       "application_url": null,
@@ -639,7 +415,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T07:37:45+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -648,7 +424,7 @@
           "source_post_id": "EVEN_000000000069516",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T03:44:26+09:00"
+          "fetched_at": "2026-10-07T07:37:45+09:00"
         }
       ],
       "application_url": null,
@@ -694,7 +470,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-23T15:01:53+09:00",
-      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T07:37:45+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -703,7 +479,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T03:44:26+09:00"
+          "fetched_at": "2026-10-07T07:37:45+09:00"
         }
       ],
       "application_url": null,
@@ -752,7 +528,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-06T01:05:39+09:00",
-      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T07:37:45+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -761,7 +537,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T03:44:26+09:00"
+          "fetched_at": "2026-10-07T07:37:45+09:00"
         }
       ],
       "application_url": null,
@@ -807,7 +583,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-06T01:05:39+09:00",
-      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T07:37:45+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -816,7 +592,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T03:44:26+09:00"
+          "fetched_at": "2026-10-07T07:37:45+09:00"
         }
       ],
       "application_url": null,
@@ -862,7 +638,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T07:37:45+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -871,7 +647,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T03:44:26+09:00"
+          "fetched_at": "2026-10-07T07:37:45+09:00"
         }
       ],
       "application_url": null,
@@ -917,7 +693,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T07:37:45+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -926,7 +702,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T03:44:26+09:00"
+          "fetched_at": "2026-10-07T07:37:45+09:00"
         }
       ],
       "application_url": null,
@@ -972,7 +748,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-29T00:33:00+09:00",
-      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T07:37:45+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -981,7 +757,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T03:44:26+09:00"
+          "fetched_at": "2026-10-07T07:37:45+09:00"
         },
         {
           "source_id": "dev_event",
@@ -990,7 +766,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T03:44:26+09:00"
+          "fetched_at": "2026-10-07T07:37:45+09:00"
         }
       ],
       "application_url": null,
@@ -1036,7 +812,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T07:37:45+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1045,7 +821,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T03:44:26+09:00"
+          "fetched_at": "2026-10-07T07:37:45+09:00"
         }
       ],
       "application_url": null,
@@ -1091,7 +867,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-24T13:57:15+09:00",
-      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T07:37:45+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1100,7 +876,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T03:44:26+09:00"
+          "fetched_at": "2026-10-07T07:37:45+09:00"
         }
       ],
       "application_url": null,
@@ -1146,7 +922,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-06T01:05:39+09:00",
-      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T07:37:45+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1155,7 +931,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T03:44:26+09:00"
+          "fetched_at": "2026-10-07T07:37:45+09:00"
         }
       ],
       "application_url": null,
@@ -1201,7 +977,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T07:37:45+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1210,7 +986,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T03:44:26+09:00"
+          "fetched_at": "2026-10-07T07:37:45+09:00"
         }
       ],
       "application_url": null,
@@ -1255,7 +1031,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-03T07:10:09+09:00",
-      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T07:37:45+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1264,7 +1040,7 @@
           "source_post_id": "EVEN_000000000069554",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T03:44:26+09:00"
+          "fetched_at": "2026-10-07T07:37:45+09:00"
         }
       ],
       "application_url": null,
@@ -1309,7 +1085,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T07:37:45+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1318,7 +1094,7 @@
           "source_post_id": "EVEN_000000000069000",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T03:44:26+09:00"
+          "fetched_at": "2026-10-07T07:37:45+09:00"
         }
       ],
       "application_url": null,
@@ -1363,7 +1139,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T07:37:45+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1372,7 +1148,7 @@
           "source_post_id": "EVEN_000000000067915",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T03:44:26+09:00"
+          "fetched_at": "2026-10-07T07:37:45+09:00"
         }
       ],
       "application_url": null,
@@ -1418,7 +1194,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-01T22:25:03+09:00",
-      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T07:37:45+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1427,7 +1203,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T03:44:26+09:00"
+          "fetched_at": "2026-10-07T07:37:45+09:00"
         }
       ],
       "application_url": null,
@@ -1473,7 +1249,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-06T01:05:39+09:00",
-      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T07:37:45+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1482,7 +1258,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T03:44:26+09:00"
+          "fetched_at": "2026-10-07T07:37:45+09:00"
         }
       ],
       "application_url": null,
@@ -1527,7 +1303,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-29T00:33:00+09:00",
-      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T07:37:45+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1536,7 +1312,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T03:44:26+09:00"
+          "fetched_at": "2026-10-07T07:37:45+09:00"
         }
       ],
       "application_url": null,
@@ -1581,7 +1357,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-24T13:57:15+09:00",
-      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T07:37:45+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1590,7 +1366,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T03:44:26+09:00"
+          "fetched_at": "2026-10-07T07:37:45+09:00"
         }
       ],
       "application_url": null,
@@ -1635,7 +1411,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-23T15:01:53+09:00",
-      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T07:37:45+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1644,7 +1420,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T03:44:26+09:00"
+          "fetched_at": "2026-10-07T07:37:45+09:00"
         }
       ],
       "application_url": null,
@@ -1689,7 +1465,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-06T01:05:39+09:00",
-      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T07:37:45+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1698,7 +1474,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T03:44:26+09:00"
+          "fetched_at": "2026-10-07T07:37:45+09:00"
         }
       ],
       "application_url": null,
@@ -1743,7 +1519,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-24T13:57:15+09:00",
-      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T07:37:45+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1752,7 +1528,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T03:44:26+09:00"
+          "fetched_at": "2026-10-07T07:37:45+09:00"
         }
       ],
       "application_url": null,
@@ -1801,7 +1577,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T07:37:45+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -1810,7 +1586,7 @@
           "source_post_id": "236754",
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T03:44:26+09:00"
+          "fetched_at": "2026-10-07T07:37:45+09:00"
         }
       ],
       "application_url": null,
@@ -1872,7 +1648,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T07:37:45+09:00",
       "sources": [
         {
           "source_id": "gcon",
@@ -1881,7 +1657,7 @@
           "source_post_id": "11233",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-10-07T03:44:26+09:00"
+          "fetched_at": "2026-10-07T07:37:45+09:00"
         }
       ],
       "application_url": null,
@@ -1936,7 +1712,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-18T20:47:12+09:00",
-      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T07:37:45+09:00",
       "sources": [
         {
           "source_id": "gcon",
@@ -1945,7 +1721,7 @@
           "source_post_id": "11224",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-10-07T03:44:26+09:00"
+          "fetched_at": "2026-10-07T07:37:45+09:00"
         }
       ],
       "application_url": null,
