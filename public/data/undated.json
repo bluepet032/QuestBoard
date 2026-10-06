@@ -1,552 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-07T02:14:05+09:00",
+  "generated_at": "2026-10-07T03:44:26+09:00",
   "items": [
-    {
-      "id": "bf9d7872005d842c3d55",
-      "title": "딥보이스 범죄 대응을 위한 AI 탐지 모델 경진대회",
-      "source_name": "DACON",
-      "source_url": "https://dacon.io/competitions/official/236749/overview/description",
-      "organizer": "/ 운영] 주최: 행정안전부, 한국지능정보사회진흥원 주관: 국립과학수사연구원 운영: 데이콘",
-      "summary": "알고리즘 | 코드 제출 평가 | 오디오 | 딥보이스. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "데이터"
-      ],
-      "audience_tags": [],
-      "status": "unknown",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai",
-          "본문·분류 키워드: ai, 데이터, 생성형 ai, 시스템",
-          "공고 유형: contest",
-          "IT·게임 전문 출처"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-08-18T10:52:38+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
-      "sources": [
-        {
-          "source_id": "dacon",
-          "source_name": "DACON",
-          "source_url": "https://dacon.io/competitions/official/236749/overview/description",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": null,
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "unknown",
-      "d_day": null,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-10-01T22:25:03+09:00",
-      "change_flags": [
-        "organizer",
-        "recruit_start",
-        "recruit_end",
-        "date_kind"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "딥보이스범죄대응을위한ai탐지모델경진대회|운영주최행정안전부한국지능정보사회진흥원주관국립과학수사연구원운영데이콘|"
-    },
-    {
-      "id": "6ceca90811d5adbb2c9a",
-      "title": "블랙박스 영상 기반 지능형 고의사고 분석 모델 AI 경진대회",
-      "source_name": "DACON",
-      "source_url": "https://dacon.io/competitions/official/236753/overview/description",
-      "organizer": "/ 운영] 주최: 행정안전부, 한국지능정보사회진흥원 주관: 국립과학수사연구원 운영: 데이콘",
-      "summary": "알고리즘 | 코드 제출 평가 | 컴퓨터비전 | 고의교통사고. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "contest",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "데이터"
-      ],
-      "audience_tags": [],
-      "status": "unknown",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai",
-          "본문·분류 키워드: ai, 데이터, 시스템, 알고리즘",
-          "공고 유형: contest",
-          "IT·게임 전문 출처"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
-      "sources": [
-        {
-          "source_id": "dacon",
-          "source_name": "DACON",
-          "source_url": "https://dacon.io/competitions/official/236753/overview/description",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": null,
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "unknown",
-      "d_day": null,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-10-01T22:25:03+09:00",
-      "change_flags": [
-        "organizer",
-        "recruit_start",
-        "recruit_end",
-        "date_kind"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "블랙박스영상기반지능형고의사고분석모델ai경진대회|운영주최행정안전부한국지능정보사회진흥원주관국립과학수사연구원운영데이콘|"
-    },
-    {
-      "id": "19e196d5689b45b2346e",
-      "title": "Aimers 9기 : 투구 제구 성공 확률 예측 AI 오프라인 해커톤",
-      "source_name": "DACON",
-      "source_url": "https://dacon.io/competitions/official/236767/overview/description",
-      "organizer": "과 타자 대응, 실점 억제에 영향을 미치는 핵심 요소입니다. 투구의 제구 특성을 이해하려면",
-      "summary": "LG Aimers | 채용 | 알고리즘 | 코드제출 | 정형 | 스포츠 | 야구. 투구를 예측합니다. 학습 데이터에는 제구 등급( control_grade )과 투구 위치 좌표가 제공되며, 좌표 정보는 위치 예측 등 보조 Label을 활용한 학습에도 사용할 수",
-      "primary_type": "hackathon",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "데이터"
-      ],
-      "audience_tags": [],
-      "status": "unknown",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai",
-          "본문·분류 키워드: ai, 데이터, 시스템, 알고리즘",
-          "공고 유형: hackathon",
-          "IT·게임 전문 출처",
-          "게임·디지털 콘텐츠 형태로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-09-19T14:57:57+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
-      "sources": [
-        {
-          "source_id": "dacon",
-          "source_name": "DACON",
-          "source_url": "https://dacon.io/competitions/official/236767/overview/description",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": null,
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "unknown",
-      "d_day": null,
-      "eligibility": "투구를 예측합니다. 학습 데이터에는 제구 등급( control_grade )과 투구 위치 좌표가 제공되며, 좌표 정보는 위치 예측 등 보조 Label을 활용한 학습에도 사용할 수",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "aimers9기투구제구성공확률예측ai오프라인해커톤|과타자대응실점억제에영향을미치는핵심요소입니다투구의제구특성을이해하려면|"
-    },
-    {
-      "id": "7d34b901ed02de95d506",
-      "title": "Aimers 9기 : 투구 제구 성공 확률 예측 AI 온라인 해커톤",
-      "source_name": "DACON",
-      "source_url": "https://dacon.io/competitions/official/236743/overview/description",
-      "organizer": ", 타자 대응 전략에 직접적인 영향을 주는 핵심 요소입니다. 기존에는 투수의 제구력을 평균",
-      "summary": "LG Aimers | 채용 | 알고리즘 | 코드제출 | 정형 | 스포츠 | 야구. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "hackathon",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "데이터"
-      ],
-      "audience_tags": [],
-      "status": "unknown",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai",
-          "본문·분류 키워드: ai, 데이터, 시스템, 알고리즘",
-          "공고 유형: hackathon",
-          "IT·게임 전문 출처",
-          "게임·디지털 콘텐츠 형태로 참가 가능"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
-      "sources": [
-        {
-          "source_id": "dacon",
-          "source_name": "DACON",
-          "source_url": "https://dacon.io/competitions/official/236743/overview/description",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": null,
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "unknown",
-      "d_day": null,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "aimers9기투구제구성공확률예측ai온라인해커톤|타자대응전략에직접적인영향을주는핵심요소입니다기존에는투수의제구력을평균|"
-    },
-    {
-      "id": "1fe719993762b5a8f149",
-      "title": "제3회 풍력발전량 예측 AI 경진대회 - BARAM 2026",
-      "source_name": "DACON",
-      "source_url": "https://dacon.io/competitions/official/236727/overview/description",
-      "organizer": "환경에서는 기상예보 데이터를 바탕으로 향후 발전량을 정밀하게 예측하는 역량이 필요합니다.",
-      "summary": "알고리즘 | 사전 워크샵 | 정형 | 회귀 | 에너지 | 정산금 | NMAE. 으로 2차 발표평가가 진행됩니다. 2차 발표평가에서는 과제 이해도, 기술 우수성, 문제 해결력, 적용 가능성 등을 종합적으로 평가하여 최종 수상팀을 선정합니다. [주최 / 주관]",
-      "primary_type": "contest",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "데이터"
-      ],
-      "audience_tags": [
-        "대학생"
-      ],
-      "status": "unknown",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai",
-          "본문·분류 키워드: ai, 데이터, 시스템, 알고리즘",
-          "공고 유형: contest",
-          "IT·게임 전문 출처"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
-      "sources": [
-        {
-          "source_id": "dacon",
-          "source_name": "DACON",
-          "source_url": "https://dacon.io/competitions/official/236727/overview/description",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": null,
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "unknown",
-      "d_day": null,
-      "eligibility": "으로 2차 발표평가가 진행됩니다. 2차 발표평가에서는 과제 이해도, 기술 우수성, 문제 해결력, 적용 가능성 등을 종합적으로 평가하여 최종 수상팀을 선정합니다. [주최 / 주관]",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "제3회풍력발전량예측ai경진대회baram2026|환경에서는기상예보데이터를바탕으로향후발전량을정밀하게예측하는역량이필요합니다|"
-    },
-    {
-      "id": "eb549830fee8573e54ab",
-      "title": "2026 AI·SW중심대학 디지털 경진대회 : SW부문",
-      "source_name": "DACON",
-      "source_url": "https://dacon.io/competitions/official/236693/overview/description",
-      "organizer": "/ 주관] 주최",
-      "summary": "AI·SW중심대학 | SW부문 | AI·SW개발 | AI Agent. ] AI·SW중심대학 학생(57개교) ※ 참가 접수일 (5.26.~6.8.) 기준 재학생 및 휴학생 참가 가능(전공무관), 졸업생 참가 불가 ※ 동일인 2개 부문 중복 접수 불가",
-      "primary_type": "contest",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "데이터",
-        "클라우드·보안"
-      ],
-      "audience_tags": [
-        "대학생"
-      ],
-      "status": "unknown",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai, sw",
-          "본문·분류 키워드: ai, sw, 데이터, 보안",
-          "공고 유형: contest",
-          "IT·게임 전문 출처"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
-      "sources": [
-        {
-          "source_id": "dacon",
-          "source_name": "DACON",
-          "source_url": "https://dacon.io/competitions/official/236693/overview/description",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": null,
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "unknown",
-      "d_day": null,
-      "eligibility": "] AI·SW중심대학 학생(57개교) ※ 참가 접수일 (5.26.~6.8.) 기준 재학생 및 휴학생 참가 가능(전공무관), 졸업생 참가 불가 ※ 동일인 2개 부문 중복 접수 불가",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026aisw중심대학디지털경진대회sw부문|주관주최|"
-    },
-    {
-      "id": "a2a5313c48d0e6d3b6e9",
-      "title": "2026 AI·SW중심대학 디지털 경진대회 : AI부문",
-      "source_name": "DACON",
-      "source_url": "https://dacon.io/competitions/official/236694/overview/description",
-      "organizer": "/ 주관] 주최",
-      "summary": "AI·SW중심대학 | AI부문 | 알고리즘 | NLP | AI Agent | 코드 제출 평가. 은 파일 읽기·검색·수정, 셸 명령 실행, 테스트 실행, 사용자 질문 등 에이전트의 주요 탐색·수정·실행·대화 행동을 포함하며, 평가지표는 14개 클래스에 대한 Macro-F1입니",
-      "primary_type": "contest",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "데이터"
-      ],
-      "audience_tags": [
-        "대학생"
-      ],
-      "status": "unknown",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai, sw",
-          "본문·분류 키워드: ai, sw, 데이터, 시스템",
-          "공고 유형: contest",
-          "IT·게임 전문 출처"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
-      "sources": [
-        {
-          "source_id": "dacon",
-          "source_name": "DACON",
-          "source_url": "https://dacon.io/competitions/official/236694/overview/description",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": null,
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "unknown",
-      "d_day": null,
-      "eligibility": "은 파일 읽기·검색·수정, 셸 명령 실행, 테스트 실행, 사용자 질문 등 에이전트의 주요 탐색·수정·실행·대화 행동을 포함하며, 평가지표는 14개 클래스에 대한 Macro-F1입니",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026aisw중심대학디지털경진대회ai부문|주관주최|"
-    },
-    {
-      "id": "dc8b05abe27f394c8942",
-      "title": "[1차예선] 2026 Samsung Collegiate Programming Challenge : AI 챌린지",
-      "source_name": "DACON",
-      "source_url": "https://dacon.io/competitions/official/236730/overview/description",
-      "organizer": "/ 운영] 주최: 삼성전자 주관: 삼성리서치 운영: 데이콘 대회 주요 일정 06.11 참가",
-      "summary": "채용 | SCPC | 알고리즘 | sLM | Harness Engineering. 으로 프로그래밍 챌린지 SCPC(Samsung Collegiate Programming Challenge) 를 개최하며, 알고리즘 기반 문제 해결 능력을 갖춘 우수 인재를 지속적으",
-      "primary_type": "contest",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "데이터",
-        "클라우드·보안"
-      ],
-      "audience_tags": [
-        "대학생"
-      ],
-      "status": "unknown",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai",
-          "본문·분류 키워드: ai, api, 데이터, 보안",
-          "공고 유형: contest",
-          "IT·게임 전문 출처"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
-      "sources": [
-        {
-          "source_id": "dacon",
-          "source_name": "DACON",
-          "source_url": "https://dacon.io/competitions/official/236730/overview/description",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": null,
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "unknown",
-      "d_day": null,
-      "eligibility": "으로 프로그래밍 챌린지 SCPC(Samsung Collegiate Programming Challenge) 를 개최하며, 알고리즘 기반 문제 해결 능력을 갖춘 우수 인재를 지속적으",
-      "benefits": "을 제공합니다. [대회 방식] 본 챌린지는 개인전(1인)이며 1차, 2차 예선과 본선 순으로 진행됩니다. 🔹1차 예선 : 2차 예선 진출자를 선발하기 위한 과정이며 Private",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "1차예선2026samsungcollegiateprogrammingchallengeai챌린지|운영주최삼성전자주관삼성리서치운영데이콘대회주요일정0611참가|"
-    },
-    {
-      "id": "d5967ee5527543bd8928",
-      "title": "모기 비행 궤적 예측 AI 경진대회",
-      "source_name": "DACON",
-      "source_url": "https://dacon.io/competitions/official/236716/overview/description",
-      "organizer": "/ 주관] 데이콘 [문의처] 대회 기간 중 공식 답변은 토크 게시판을 통해서만 제공됩니다.",
-      "summary": "알고리즘 | 시계열 | 정형 | 회귀 | LiDAR | Hit Rate. ] 일반인, 학생, 직장인 등 데이터 분석 및 AI 모델링에 관심이 있는 누구나 [주최 / 주관] 데이콘 [문의처] 대회 기간 중 공식 답변은 토크 게시판을 통해서만 제공됩니다.",
-      "primary_type": "contest",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "데이터",
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [],
-      "status": "unknown",
-      "relevance": {
-        "score": 100,
-        "reasons": [
-          "제목 핵심 키워드: ai",
-          "본문·분류 키워드: 3d, ai, 데이터, 시스템",
-          "공고 유형: contest",
-          "IT·게임 전문 출처"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
-      "sources": [
-        {
-          "source_id": "dacon",
-          "source_name": "DACON",
-          "source_url": "https://dacon.io/competitions/official/236716/overview/description",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": null,
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "unknown",
-      "d_day": null,
-      "eligibility": "] 일반인, 학생, 직장인 등 데이터 분석 및 AI 모델링에 관심이 있는 누구나 [주최 / 주관] 데이콘 [문의처] 대회 기간 중 공식 답변은 토크 게시판을 통해서만 제공됩니다.",
-      "benefits": "",
-      "location": "및 환경 조건을 기반으로 구성되므로, 특정 공간 구조를 외우는 방식보다는 센서 기준 상대 운동 패턴과 짧은 시간 뒤의 위치 변화를 일반화하여 예측하는 것이 핵심입니다. [참가 대상",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "모기비행궤적예측ai경진대회|주관데이콘문의처대회기간중공식답변은토크게시판을통해서만제공됩니다|"
-    },
     {
       "id": "679238eaf29512dd0573",
       "title": "[부산] 2026년 게임ㆍ콘텐츠 기업을 위한 무료 법률 자문 오피스아워 상시 모집 공고",
@@ -571,7 +26,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -580,7 +35,7 @@
           "source_post_id": "PBLN_000000000123841",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -597,6 +52,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -628,7 +84,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -637,7 +93,7 @@
           "source_post_id": "PBLN_000000000123662",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -654,6 +110,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -682,7 +139,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -691,7 +148,7 @@
           "source_post_id": "PBLN_000000000123170",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -708,6 +165,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -736,7 +194,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -745,7 +203,7 @@
           "source_post_id": "PBLN_000000000119967",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -762,6 +220,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -776,21 +235,23 @@
       "summary": "기업마당 공개 지원사업 · 경영 · 검색어 인디. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
       "primary_type": "support",
       "field_tags": [
-        "소프트웨어"
+        "경영·지원"
       ],
       "audience_tags": [],
       "status": "unknown",
       "relevance": {
-        "score": 70,
+        "score": 69,
         "reasons": [
           "제목 핵심 키워드: 디지털 전환",
           "본문·분류 키워드: 디지털 전환",
-          "공고 유형: support"
+          "공고 유형: support",
+          "제목 키워드가 일반 단어뿐: 디지털 전환",
+          "분야 탭: 창업·비즈니스 (경영·지원)"
         ],
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -799,7 +260,7 @@
           "source_post_id": "PBLN_000000000123844",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -816,6 +277,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "business",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -830,21 +292,23 @@
       "summary": "기업마당 공개 지원사업 · 경영 · 검색어 인디. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
       "primary_type": "support",
       "field_tags": [
-        "소프트웨어"
+        "경영·지원"
       ],
       "audience_tags": [],
       "status": "unknown",
       "relevance": {
-        "score": 70,
+        "score": 69,
         "reasons": [
           "제목 핵심 키워드: 디지털 전환",
           "본문·분류 키워드: 디지털 전환",
-          "공고 유형: support"
+          "공고 유형: support",
+          "제목 키워드가 일반 단어뿐: 디지털 전환",
+          "분야 탭: 창업·비즈니스 (경영·지원)"
         ],
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -853,7 +317,7 @@
           "source_post_id": "PBLN_000000000119255",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -870,6 +334,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "business",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -902,7 +367,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -911,7 +376,7 @@
           "source_post_id": "PBLN_000000000122497",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -928,6 +393,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -957,7 +423,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-03T07:10:09+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -966,7 +432,7 @@
           "source_post_id": "PBLN_000000000126963",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -983,6 +449,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1013,7 +480,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-30T21:59:01+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1022,7 +489,7 @@
           "source_post_id": "PBLN_000000000126878",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -1039,6 +506,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1068,7 +536,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-30T21:59:01+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1077,7 +545,7 @@
           "source_post_id": "PBLN_000000000126877",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -1094,6 +562,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1122,7 +591,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-28T23:26:13+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1131,7 +600,7 @@
           "source_post_id": "PBLN_000000000126776",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -1148,6 +617,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1176,7 +646,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-23T21:05:55+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1185,7 +655,7 @@
           "source_post_id": "PBLN_000000000126739",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -1202,6 +672,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1231,7 +702,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-22T07:11:22+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1240,7 +711,7 @@
           "source_post_id": "PBLN_000000000126667",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -1257,6 +728,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1285,7 +757,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1294,7 +766,7 @@
           "source_post_id": "PBLN_000000000126109",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -1311,6 +783,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1339,7 +812,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1348,7 +821,7 @@
           "source_post_id": "PBLN_000000000125888",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -1365,6 +838,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1394,7 +868,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1403,7 +877,7 @@
           "source_post_id": "PBLN_000000000125775",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -1420,6 +894,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1448,7 +923,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1457,7 +932,7 @@
           "source_post_id": "PBLN_000000000124433",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -1474,6 +949,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1502,7 +978,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1511,7 +987,7 @@
           "source_post_id": "PBLN_000000000117371",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -1528,6 +1004,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1556,7 +1033,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1565,7 +1042,7 @@
           "source_post_id": "PBLN_000000000120620",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -1582,6 +1059,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1612,7 +1090,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1621,7 +1099,7 @@
           "source_post_id": "PBLN_000000000123682",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -1638,6 +1116,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1652,21 +1131,23 @@
       "summary": "기업마당 공개 지원사업 · 경영 · 검색어 콘텐츠. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
       "primary_type": "support",
       "field_tags": [
-        "디지털 콘텐츠"
+        "경영·지원"
       ],
       "audience_tags": [],
       "status": "unknown",
       "relevance": {
-        "score": 70,
+        "score": 69,
         "reasons": [
           "제목 핵심 키워드: 콘텐츠",
           "본문·분류 키워드: 콘텐츠",
-          "공고 유형: support"
+          "공고 유형: support",
+          "제목 키워드가 일반 단어뿐: 콘텐츠",
+          "분야 탭: 창업·비즈니스 (경영·지원)"
         ],
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1675,7 +1156,7 @@
           "source_post_id": "PBLN_000000000125089",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -1692,6 +1173,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "business",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1706,21 +1188,23 @@
       "summary": "기업마당 공개 지원사업 · 경영 · 검색어 콘텐츠. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
       "primary_type": "support",
       "field_tags": [
-        "디지털 콘텐츠"
+        "경영·지원"
       ],
       "audience_tags": [],
       "status": "unknown",
       "relevance": {
-        "score": 70,
+        "score": 69,
         "reasons": [
           "제목 핵심 키워드: 콘텐츠",
           "본문·분류 키워드: 콘텐츠",
-          "공고 유형: support"
+          "공고 유형: support",
+          "제목 키워드가 일반 단어뿐: 콘텐츠",
+          "분야 탭: 창업·비즈니스 (경영·지원)"
         ],
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1729,7 +1213,7 @@
           "source_post_id": "PBLN_000000000122428",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -1746,6 +1230,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "business",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1765,16 +1250,16 @@
       "audience_tags": [],
       "status": "unknown",
       "relevance": {
-        "score": 70,
+        "score": 78,
         "reasons": [
-          "제목 핵심 키워드: 콘텐츠",
-          "본문·분류 키워드: 콘텐츠",
+          "제목 핵심 키워드: 디지털콘텐츠, 콘텐츠",
+          "본문·분류 키워드: 디지털콘텐츠, 콘텐츠",
           "공고 유형: support"
         ],
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1783,7 +1268,7 @@
           "source_post_id": "PBLN_000000000121231",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -1800,10 +1285,65 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "광주2026년소상공인sns블로그홍보지원참여업체모집공고디지털콘텐츠홍보지원사업|광주경제진흥상생일자리재단|"
+    },
+    {
+      "id": "d9f1ea47ceecc266bad6",
+      "title": "2026년 권역별 선도서점 육성 사업 컨설팅(경영ㆍ마케팅ㆍ디지털) 참여서점 추가 모집 공고",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%94%94%EC%A7%80%ED%84%B8&condition=searchPblancNm&condition1=AND&keyword=%EB%94%94%EC%A7%80%ED%84%B8&pblancId=PBLN_000000000126535",
+      "organizer": "한국출판문화산업진흥원",
+      "summary": "기업마당 공개 지원사업 · 경영 · 검색어 디지털. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "마케팅"
+      ],
+      "audience_tags": [],
+      "status": "unknown",
+      "relevance": {
+        "score": 12,
+        "reasons": [
+          "공고 유형: support",
+          "분야 탭: 기획·아이디어 (마케팅)"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%94%94%EC%A7%80%ED%84%B8&condition=searchPblancNm&condition1=AND&keyword=%EB%94%94%EC%A7%80%ED%84%B8&pblancId=PBLN_000000000126535",
+          "source_post_id": "PBLN_000000000126535",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-10-07T03:44:26+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": null,
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "unknown",
+      "d_day": null,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "planning_ideas",
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026년권역별선도서점육성사업컨설팅경영마케팅디지털참여서점추가모집공고|한국출판문화산업진흥원|"
     },
     {
       "id": "3233219e6316aecf0802",
@@ -1829,7 +1369,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-19T01:42:16+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1838,7 +1378,7 @@
           "source_post_id": "PBLN_000000000124975",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -1855,10 +1395,122 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "2026년ev플랫폼연계부품xr디지털트윈기술지원기반구축사업기업지원통합공고|한국기계연구원|"
+    },
+    {
+      "id": "19f1898a164f8ecd5b65",
+      "title": "[대구] 유성구 2026년 하반기 디지털 골목상점 참여업소 모집 공고",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%94%94%EC%A7%80%ED%84%B8&condition=searchPblancNm&condition1=AND&keyword=%EB%94%94%EC%A7%80%ED%84%B8&pblancId=PBLN_000000000124890",
+      "organizer": "기초자치단체",
+      "summary": "기업마당 공개 지원사업 · 경영 · 검색어 디지털. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "경영·지원"
+      ],
+      "audience_tags": [],
+      "status": "unknown",
+      "relevance": {
+        "score": 12,
+        "reasons": [
+          "공고 유형: support",
+          "분야 탭: 창업·비즈니스 (경영·지원)"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%94%94%EC%A7%80%ED%84%B8&condition=searchPblancNm&condition1=AND&keyword=%EB%94%94%EC%A7%80%ED%84%B8&pblancId=PBLN_000000000124890",
+          "source_post_id": "PBLN_000000000124890",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-10-07T03:44:26+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": null,
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "unknown",
+      "d_day": null,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "business",
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "대구유성구2026년하반기디지털골목상점참여업소모집공고|기초자치단체|"
+    },
+    {
+      "id": "f77a76d6d5effef008cd",
+      "title": "[대구] 북구 먹거리골목 외식업소 디지털 주문시스템 설치 지원사업 참여업소 모집 재공고",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%94%94%EC%A7%80%ED%84%B8&condition=searchPblancNm&condition1=AND&keyword=%EB%94%94%EC%A7%80%ED%84%B8&pblancId=PBLN_000000000123513",
+      "organizer": "기초자치단체",
+      "summary": "기업마당 공개 지원사업 · 경영 · 검색어 디지털. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "경영·지원"
+      ],
+      "audience_tags": [],
+      "status": "unknown",
+      "relevance": {
+        "score": 69,
+        "reasons": [
+          "제목 핵심 키워드: 시스템",
+          "본문·분류 키워드: 시스템",
+          "공고 유형: support",
+          "제목 키워드가 일반 단어뿐: 시스템",
+          "분야 탭: 창업·비즈니스 (경영·지원)"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%94%94%EC%A7%80%ED%84%B8&condition=searchPblancNm&condition1=AND&keyword=%EB%94%94%EC%A7%80%ED%84%B8&pblancId=PBLN_000000000123513",
+          "source_post_id": "PBLN_000000000123513",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-10-07T03:44:26+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": null,
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "unknown",
+      "d_day": null,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "business",
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "대구북구먹거리골목외식업소디지털주문시스템설치지원사업참여업소모집재공고|기초자치단체|"
     },
     {
       "id": "7ff8e601f7286d75c586",
@@ -1883,7 +1535,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1892,7 +1544,7 @@
           "source_post_id": "PBLN_000000000123093",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -1909,6 +1561,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1938,7 +1591,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1947,7 +1600,7 @@
           "source_post_id": "PBLN_000000000122609",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -1964,6 +1617,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1992,7 +1646,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2001,7 +1655,7 @@
           "source_post_id": "PBLN_000000000121480",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -2018,6 +1672,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -2032,21 +1687,23 @@
       "summary": "기업마당 공개 지원사업 · 내수 · 검색어 앱. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
       "primary_type": "support",
       "field_tags": [
-        "웹·앱"
+        "마케팅"
       ],
       "audience_tags": [],
       "status": "unknown",
       "relevance": {
-        "score": 70,
+        "score": 69,
         "reasons": [
           "제목 핵심 키워드: 앱",
           "본문·분류 키워드: 앱",
-          "공고 유형: support"
+          "공고 유형: support",
+          "제목 키워드가 일반 단어뿐: 앱",
+          "분야 탭: 기획·아이디어 (마케팅)"
         ],
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2055,7 +1712,7 @@
           "source_post_id": "PBLN_000000000119791",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -2072,64 +1729,11 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "planning_ideas",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "경기부천시2026년공공배달앱배달특급개별가맹점홍보물제작지원공고|부천산업진흥원|"
-    },
-    {
-      "id": "116070c367b636e9f880",
-      "title": "[충북] 2026년 한방바이오제천몰 웹상세페이지 제작 지원사업 공고",
-      "source_name": "기업마당",
-      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EC%9B%B9&condition=searchPblancNm&condition1=AND&keyword=%EC%9B%B9&pblancId=PBLN_000000000124402",
-      "organizer": "제천한방천연물산업진흥재단",
-      "summary": "기업마당 공개 지원사업 · 내수 · 검색어 웹. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "웹·앱"
-      ],
-      "audience_tags": [],
-      "status": "unknown",
-      "relevance": {
-        "score": 70,
-        "reasons": [
-          "제목 핵심 키워드: 웹",
-          "본문·분류 키워드: 웹",
-          "공고 유형: support"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
-      "sources": [
-        {
-          "source_id": "bizinfo",
-          "source_name": "기업마당",
-          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EC%9B%B9&condition=searchPblancNm&condition1=AND&keyword=%EC%9B%B9&pblancId=PBLN_000000000124402",
-          "source_post_id": "PBLN_000000000124402",
-          "kind": "government",
-          "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": null,
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "unknown",
-      "d_day": null,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "충북2026년한방바이오제천몰웹상세페이지제작지원사업공고|제천한방천연물산업진흥재단|"
     },
     {
       "id": "d098ecbe148e1131d224",
@@ -2140,21 +1744,23 @@
       "summary": "기업마당 공개 지원사업 · 수출 · 검색어 웹. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
       "primary_type": "support",
       "field_tags": [
-        "웹·앱"
+        "마케팅"
       ],
       "audience_tags": [],
       "status": "unknown",
       "relevance": {
-        "score": 70,
+        "score": 69,
         "reasons": [
           "제목 핵심 키워드: 웹",
           "본문·분류 키워드: 웹",
-          "공고 유형: support"
+          "공고 유형: support",
+          "제목 키워드가 일반 단어뿐: 웹",
+          "분야 탭: 기획·아이디어 (마케팅)"
         ],
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2163,7 +1769,7 @@
           "source_post_id": "PBLN_000000000120957",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -2180,6 +1786,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "planning_ideas",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -2209,7 +1816,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2218,7 +1825,7 @@
           "source_post_id": "PBLN_000000000120871",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -2235,6 +1842,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -2263,7 +1871,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2272,7 +1880,7 @@
           "source_post_id": "PBLN_000000000125898",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -2289,6 +1897,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -2317,7 +1926,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2326,7 +1935,7 @@
           "source_post_id": "PBLN_000000000123023",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -2343,6 +1952,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -2371,7 +1981,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2380,7 +1990,7 @@
           "source_post_id": "PBLN_000000000122333",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -2397,10 +2007,66 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "2026년sdv전장부품보안평가센터기업지원사업수혜기업모집공고|지능형자동차부품진흥원|"
+    },
+    {
+      "id": "228a6ed177a00f7b7867",
+      "title": "2026년 중소사업자 개인정보 안전조치 모니터링 지원 사업 공고",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%B3%B4%EC%95%88&condition=searchPblancNm&condition1=AND&keyword=%EB%B3%B4%EC%95%88&pblancId=PBLN_000000000122104",
+      "organizer": "개인정보보호협회",
+      "summary": "기업마당 공개 지원사업 · 경영 · 검색어 보안. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "경영·지원"
+      ],
+      "audience_tags": [],
+      "status": "unknown",
+      "relevance": {
+        "score": 30,
+        "reasons": [
+          "본문·분류 키워드: 보안",
+          "공고 유형: support",
+          "분야 탭: 창업·비즈니스 (경영·지원)"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%B3%B4%EC%95%88&condition=searchPblancNm&condition1=AND&keyword=%EB%B3%B4%EC%95%88&pblancId=PBLN_000000000122104",
+          "source_post_id": "PBLN_000000000122104",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-10-07T03:44:26+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": null,
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "unknown",
+      "d_day": null,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "business",
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026년중소사업자개인정보안전조치모니터링지원사업공고|개인정보보호협회|"
     },
     {
       "id": "c65504ba2c96c175de81",
@@ -2427,7 +2093,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2436,7 +2102,7 @@
           "source_post_id": "PBLN_000000000126686",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -2453,6 +2119,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -2483,7 +2150,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-30T21:59:01+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2492,7 +2159,7 @@
           "source_post_id": "PBLN_000000000121175",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -2509,6 +2176,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -2539,7 +2207,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-01T07:11:43+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2548,7 +2216,7 @@
           "source_post_id": "PBLN_000000000120707",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -2565,6 +2233,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -2595,7 +2264,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-01T15:30:44+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2604,7 +2273,7 @@
           "source_post_id": "PBLN_000000000126943",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -2621,6 +2290,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -2651,7 +2321,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-03T07:10:09+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2660,7 +2330,7 @@
           "source_post_id": "PBLN_000000000126774",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -2677,10 +2347,344 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "경기파주시2026년파주청년창업지원센터청년창업멘토링지원참여기업팀모집공고|경기테크노파크|"
+    },
+    {
+      "id": "894f8ca99417de115022",
+      "title": "[경북] 2026년 청년창업제품 온라인 기획전 판로지원 참가기업 추가모집 공고(청년창업제품 판로개척 지원사업)",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EC%B0%BD%EC%97%85&condition=searchPblancNm&condition1=AND&keyword=%EC%B0%BD%EC%97%85&pblancId=PBLN_000000000126692",
+      "organizer": "경상북도경제진흥원",
+      "summary": "기업마당 공개 지원사업 · 창업 · 검색어 창업. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "창업"
+      ],
+      "audience_tags": [
+        "청년"
+      ],
+      "status": "unknown",
+      "relevance": {
+        "score": 70,
+        "reasons": [
+          "제목 핵심 키워드: 창업",
+          "본문·분류 키워드: 창업",
+          "공고 유형: support"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EC%B0%BD%EC%97%85&condition=searchPblancNm&condition1=AND&keyword=%EC%B0%BD%EC%97%85&pblancId=PBLN_000000000126692",
+          "source_post_id": "PBLN_000000000126692",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-10-07T03:44:26+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": null,
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "unknown",
+      "d_day": null,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "it",
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "경북2026년청년창업제품온라인기획전판로지원참가기업추가모집공고청년창업제품판로개척지원사업|경상북도경제진흥원|"
+    },
+    {
+      "id": "408d4c66d7d58b174321",
+      "title": "2026년 전동화 전력반도체 일괄공정 테스트베드 구축 기업지원 모집 공고",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%B0%98%EB%8F%84%EC%B2%B4&condition=searchPblancNm&condition1=AND&keyword=%EB%B0%98%EB%8F%84%EC%B2%B4&pblancId=PBLN_000000000121098",
+      "organizer": "부산테크노파크",
+      "summary": "기업마당 공개 지원사업 · 기술 · 검색어 반도체. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "문학"
+      ],
+      "audience_tags": [],
+      "status": "unknown",
+      "relevance": {
+        "score": 12,
+        "reasons": [
+          "공고 유형: support",
+          "분야 탭: 문학·예술 (문학)"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%B0%98%EB%8F%84%EC%B2%B4&condition=searchPblancNm&condition1=AND&keyword=%EB%B0%98%EB%8F%84%EC%B2%B4&pblancId=PBLN_000000000121098",
+          "source_post_id": "PBLN_000000000121098",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-10-07T03:44:26+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": null,
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "unknown",
+      "d_day": null,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "literature_arts",
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026년전동화전력반도체일괄공정테스트베드구축기업지원모집공고|부산테크노파크|"
+    },
+    {
+      "id": "f6a934611ed2067bc380",
+      "title": "2026년 산업혁신기반구축사업 제조 특화 온디바이스 AI 기반 자율제조 실증 기반 구축사업 기업지원 프로그램(애로기술 지원) 수혜기업 상시모집 공고",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=2&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=AI&condition=searchPblancNm&condition1=AND&keyword=AI&pblancId=PBLN_000000000126552",
+      "organizer": "한국로봇융합연구원",
+      "summary": "기업마당 공개 지원사업 · 기술 · 검색어 AI. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "education",
+      "field_tags": [
+        "AI"
+      ],
+      "audience_tags": [],
+      "status": "unknown",
+      "relevance": {
+        "score": 70,
+        "reasons": [
+          "제목 핵심 키워드: ai",
+          "본문·분류 키워드: ai",
+          "공고 유형: education"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=2&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=AI&condition=searchPblancNm&condition1=AND&keyword=AI&pblancId=PBLN_000000000126552",
+          "source_post_id": "PBLN_000000000126552",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-10-07T03:44:26+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": null,
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "unknown",
+      "d_day": null,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "it",
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026년산업혁신기반구축사업제조특화온디바이스ai기반자율제조실증기반구축사업기업지원프로그램애로기술지원수혜기업상시모집공고|한국로봇융합연구원|"
+    },
+    {
+      "id": "ed54c6554de723be6e85",
+      "title": "[부산] 2차 글로벌시장 대응 AI기반 공조부품 성능평가 인프라 고도화사업 지원사업 공고",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=2&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=AI&condition=searchPblancNm&condition1=AND&keyword=AI&pblancId=PBLN_000000000126209",
+      "organizer": "부산테크노파크",
+      "summary": "기업마당 공개 지원사업 · 기술 · 검색어 AI. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "AI"
+      ],
+      "audience_tags": [],
+      "status": "unknown",
+      "relevance": {
+        "score": 70,
+        "reasons": [
+          "제목 핵심 키워드: ai",
+          "본문·분류 키워드: ai",
+          "공고 유형: support"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=2&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=AI&condition=searchPblancNm&condition1=AND&keyword=AI&pblancId=PBLN_000000000126209",
+          "source_post_id": "PBLN_000000000126209",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-10-07T03:44:26+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": null,
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "unknown",
+      "d_day": null,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "it",
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "부산2차글로벌시장대응ai기반공조부품성능평가인프라고도화사업지원사업공고|부산테크노파크|"
+    },
+    {
+      "id": "127476912caf933bcee8",
+      "title": "[경남] 창원시 2026년 강소특구 이노테크 기업육성 AI-CNC 기반 제품 실증 및 성능 검증 지원 사업 공고",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=2&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=AI&condition=searchPblancNm&condition1=AND&keyword=AI&pblancId=PBLN_000000000125928",
+      "organizer": "한국전기연구원",
+      "summary": "기업마당 공개 지원사업 · 기술 · 검색어 AI. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "AI"
+      ],
+      "audience_tags": [],
+      "status": "unknown",
+      "relevance": {
+        "score": 70,
+        "reasons": [
+          "제목 핵심 키워드: ai",
+          "본문·분류 키워드: ai",
+          "공고 유형: support"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=2&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=AI&condition=searchPblancNm&condition1=AND&keyword=AI&pblancId=PBLN_000000000125928",
+          "source_post_id": "PBLN_000000000125928",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-10-07T03:44:26+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": null,
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "unknown",
+      "d_day": null,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "it",
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "경남창원시2026년강소특구이노테크기업육성aicnc기반제품실증및성능검증지원사업공고|한국전기연구원|"
+    },
+    {
+      "id": "7aae90364f97f5eec1ec",
+      "title": "[충남ㆍ충북ㆍ대전ㆍ세종] 2026년 중소기업 AI훈련확산센터 참여기업 모집 공고",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=2&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=AI&condition=searchPblancNm&condition1=AND&keyword=AI&pblancId=PBLN_000000000125707",
+      "organizer": "한국생산성본부",
+      "summary": "기업마당 공개 지원사업 · 경영 · 검색어 AI. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "AI"
+      ],
+      "audience_tags": [
+        "창업자·기업"
+      ],
+      "status": "unknown",
+      "relevance": {
+        "score": 70,
+        "reasons": [
+          "제목 핵심 키워드: ai",
+          "본문·분류 키워드: ai",
+          "공고 유형: support"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=2&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=AI&condition=searchPblancNm&condition1=AND&keyword=AI&pblancId=PBLN_000000000125707",
+          "source_post_id": "PBLN_000000000125707",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-10-07T03:44:26+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": null,
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "unknown",
+      "d_day": null,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "it",
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "충남충북대전세종2026년중소기업ai훈련확산센터참여기업모집공고|한국생산성본부|"
     }
   ]
 }

@@ -1,239 +1,158 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-07T02:14:05+09:00",
+  "generated_at": "2026-10-07T03:44:26+09:00",
   "items": [
     {
-      "id": "b826e66796d522377ad2",
-      "title": "2026 전북-수도권기업 『투자 & 비즈니스 라운드』",
-      "source_name": "온오프믹스",
-      "source_url": "https://onoffmix.com/event/350293",
-      "organizer": "1:1 상담 이벤트소개 더보기 #전북특별자치도 #전북도 #투자유치 #전북투자라인업 #현대차",
-      "summary": "· 전북 투자펀드 소개 · 1차 유망기업 투자IR · 투자사 네트워킹 (30개사+) · 전북도 및 관계기관 1:1 상담",
-      "primary_type": "contest",
+      "id": "4a6ac8801924a80e386a",
+      "title": "2026년 랩온어칩 생산시설 활용기업 발굴 및 활용계획 접수 공고(디지털 랩온어칩 실용화플랫폼 구축사업)",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%94%94%EC%A7%80%ED%84%B8&condition=searchPblancNm&condition1=AND&keyword=%EB%94%94%EC%A7%80%ED%84%B8&pblancId=PBLN_000000000126541",
+      "organizer": "춘천바이오산업진흥원",
+      "summary": "기업마당 공개 지원사업 · 기술 · 검색어 디지털. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
       "field_tags": [
-        "게임",
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "창업"
+        "웹·앱"
       ],
-      "audience_tags": [
-        "창업자·기업"
-      ],
-      "status": "closed",
+      "audience_tags": [],
+      "status": "urgent",
       "relevance": {
         "score": 69,
         "reasons": [
-          "본문·분류 키워드: ai, it, 게임, 스타트업",
-          "공고 유형: contest",
-          "IT·게임 전문 출처",
-          "제목의 IT·게임 직접 근거 부족"
+          "제목 핵심 키워드: 플랫폼",
+          "본문·분류 키워드: 플랫폼",
+          "공고 유형: support",
+          "제목 키워드가 일반 단어뿐: 플랫폼"
         ],
         "decision": "review"
       },
-      "first_seen_at": "2026-09-28T15:59:18+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
+      "first_seen_at": "2026-09-17T06:15:06+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
-          "source_id": "onoffmix",
-          "source_name": "온오프믹스",
-          "source_url": "https://onoffmix.com/event/350293",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%94%94%EC%A7%80%ED%84%B8&condition=searchPblancNm&condition1=AND&keyword=%EB%94%94%EC%A7%80%ED%84%B8&pblancId=PBLN_000000000126541",
+          "source_post_id": "PBLN_000000000126541",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
-      "recruit_start": "2025-12-12",
-      "recruit_end": "2025-11-03",
+      "recruit_start": "2026-09-15",
+      "recruit_end": "2026-10-08",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -338,
+      "d_day": 1,
       "eligibility": "",
       "benefits": "",
-      "location": "서울 강남구 테헤란로7길 22 서울 강남 과학기술컨벤션센터 B1 중회의실3 지도보기 2026.10.8 (목) 13:00 까지 신청가능 본 이벤트는 외부접수 이벤트입니다. 외부접수",
+      "location": "",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-10-01T04:24:53+09:00",
-      "change_flags": [
-        "eligibility"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026전북수도권기업투자비즈니스라운드|11상담이벤트소개더보기전북특별자치도전북도투자유치전북투자라인업현대차|2025-11-03"
-    },
-    {
-      "id": "a813b738dda648314469",
-      "title": "15th Asia Privacy Bridge Forum 2026",
-      "source_name": "온오프믹스",
-      "source_url": "https://onoffmix.com/event/345562",
-      "organizer": "측)가 아닙니다. 이벤트 내용과 관련한 사항은 이벤트 개설자에게 문의 바랍니다. HOT I",
-      "summary": "Autonomous Agents in Motion: Securing Resilience and Accountability in AI & Privacy",
-      "primary_type": "contest",
-      "field_tags": [
-        "게임",
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "창업"
-      ],
-      "audience_tags": [
-        "창업자·기업"
-      ],
-      "status": "closed",
-      "relevance": {
-        "score": 69,
-        "reasons": [
-          "본문·분류 키워드: ai, ict, it, 게임",
-          "공고 유형: contest",
-          "IT·게임 전문 출처",
-          "제목의 IT·게임 직접 근거 부족"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-08-26T13:57:43+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
-      "sources": [
-        {
-          "source_id": "onoffmix",
-          "source_name": "온오프믹스",
-          "source_url": "https://onoffmix.com/event/345562",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-05-12",
-      "recruit_end": "2025-11-13",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": -328,
-      "eligibility": "",
-      "benefits": "",
-      "location": "서울 영등포구 여의대로 24 Conference Center, FKI Tower 지도보기 기본그룹 무료 개설자선정 정원 300 명 2026.10.14 (수) 23:59 까지 27",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-10-07T02:14:05+09:00",
-      "change_flags": [
-        "location"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "15thasiaprivacybridgeforum2026|측가아닙니다이벤트내용과관련한사항은이벤트개설자에게문의바랍니다hoti|2025-11-13"
-    },
-    {
-      "id": "23680bfef45d66d3e73d",
-      "title": "[무료] MOVECON IN SEONGSU 웰니스 체험 프로그램",
-      "source_name": "온오프믹스",
-      "source_url": "https://onoffmix.com/event/350403",
-      "organizer": "측)가 아닙니다. 이벤트 내용과 관련한 사항은 이벤트 개설자에게 문의 바랍니다. HOT I",
-      "summary": "10월 9~11일, 성수에서 즐기는 무료 웰니스 체험! 필라테스·바레·요가·GX를 만나보세요. MOVECON IN SEONGSU 2026 성수에서 만나는 무료 웰니스 체험 프로그램 2026년 10월 9일부터 11일까지, 성수에서 MoveCon Korea 2026이 개최됩니다. 필라테스…",
-      "primary_type": "education",
-      "field_tags": [
-        "게임",
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "창업"
-      ],
-      "audience_tags": [
-        "창업자·기업"
-      ],
-      "status": "upcoming",
-      "relevance": {
-        "score": 69,
-        "reasons": [
-          "본문·분류 키워드: ai, it, 게임, 스타트업",
-          "공고 유형: education",
-          "IT·게임 전문 출처",
-          "제목의 IT·게임 직접 근거 부족"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-10-07T02:14:05+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
-      "sources": [
-        {
-          "source_id": "onoffmix",
-          "source_name": "온오프믹스",
-          "source_url": "https://onoffmix.com/event/350403",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-10-09",
-      "recruit_end": "2026-10-09",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 2,
-      "eligibility": "",
-      "benefits": "",
-      "location": "서울 성동구 아차산로11가길 6 지도보기 무료 · 명 선착순 정원 100 명 2026.10.9 (금) 05:00 까지 98 명 신청가능 오픈 클래스 이벤트기간 2026.10.9 (",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
-      "dedupe_key": "무료moveconinseongsu웰니스체험프로그램|측가아닙니다이벤트내용과관련한사항은이벤트개설자에게문의바랍니다hoti|2026-10-09"
+      "dedupe_key": "2026년랩온어칩생산시설활용기업발굴및활용계획접수공고디지털랩온어칩실용화플랫폼구축사업|춘천바이오산업진흥원|2026-10-08"
     },
     {
-      "id": "f97b1c814e5ac2196ba1",
-      "title": "제1회 삿갓런(RUN) 참가자 모집 '삿갓 쓰고 도포 자락 날리며, 영월을 달리다!'",
-      "source_name": "온오프믹스",
-      "source_url": "https://onoffmix.com/event/349898",
-      "organizer": "측)가 아닙니다. 이벤트 내용과 관련한 사항은 이벤트 개설자에게 문의 바랍니다. HOT I",
-      "summary": "조선의 낭만과 풍류가 있는 특별한 레이스, 제1회 영월 김삿갓 RUN 제1회 삿갓런(RUN) 참가자 모집 '삿갓 쓰고 도포 자락 날리며, 영월을 달리다!' 제1회 영월 김삿갓 RUN은 난고 김삿갓문학관 일대를 따라 달리거나 걸으며 영월의 경치와 김삿갓문화제를 함께 즐기는 펀런 행사입니…",
-      "primary_type": "contest",
+      "id": "116070c367b636e9f880",
+      "title": "[충북] 2026년 한방바이오제천몰 웹상세페이지 제작 지원사업 공고",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EC%9B%B9&condition=searchPblancNm&condition1=AND&keyword=%EC%9B%B9&pblancId=PBLN_000000000124402",
+      "organizer": "제천한방천연물산업진흥재단",
+      "summary": "기업마당 공개 지원사업 · 내수 · 검색어 웹. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
       "field_tags": [
-        "게임",
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "창업"
+        "웹·앱"
       ],
-      "audience_tags": [
-        "창업자·기업"
-      ],
-      "status": "upcoming",
+      "audience_tags": [],
+      "status": "unknown",
       "relevance": {
         "score": 69,
         "reasons": [
-          "본문·분류 키워드: ai, it, 게임, 스타트업",
-          "공고 유형: contest",
-          "IT·게임 전문 출처",
-          "제목의 IT·게임 직접 근거 부족"
+          "제목 핵심 키워드: 웹",
+          "본문·분류 키워드: 웹",
+          "공고 유형: support",
+          "제목 키워드가 일반 단어뿐: 웹"
         ],
         "decision": "review"
       },
-      "first_seen_at": "2026-09-18T20:21:35+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
+      "first_seen_at": "2026-09-29T22:18:03+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
-          "source_id": "onoffmix",
-          "source_name": "온오프믹스",
-          "source_url": "https://onoffmix.com/event/349898",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EC%9B%B9&condition=searchPblancNm&condition1=AND&keyword=%EC%9B%B9&pblancId=PBLN_000000000124402",
+          "source_post_id": "PBLN_000000000124402",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
-      "recruit_start": "2026-10-18",
+      "recruit_start": null,
+      "recruit_end": null,
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "unknown",
+      "d_day": null,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "it",
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "충북2026년한방바이오제천몰웹상세페이지제작지원사업공고|제천한방천연물산업진흥재단|"
+    },
+    {
+      "id": "6d7357391037781756f9",
+      "title": "2026년 2차 산업혁신기반구축사업(첨단 방위산업용 고성능ㆍ고신뢰성 시스템반도체 부품 실증 기반구축) 기술지원(설계ㆍ성능 검증, 기술지도) 사업 공고",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%B0%98%EB%8F%84%EC%B2%B4&condition=searchPblancNm&condition1=AND&keyword=%EB%B0%98%EB%8F%84%EC%B2%B4&pblancId=PBLN_000000000126931",
+      "organizer": "한국전자기술연구원",
+      "summary": "기업마당 공개 지원사업 · 기술 · 검색어 반도체. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "소프트웨어"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 69,
+        "reasons": [
+          "제목 핵심 키워드: 시스템",
+          "본문·분류 키워드: 시스템",
+          "공고 유형: support",
+          "제목 키워드가 일반 단어뿐: 시스템"
+        ],
+        "decision": "review"
+      },
+      "first_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%B0%98%EB%8F%84%EC%B2%B4&condition=searchPblancNm&condition1=AND&keyword=%EB%B0%98%EB%8F%84%EC%B2%B4&pblancId=PBLN_000000000126931",
+          "source_post_id": "PBLN_000000000126931",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-10-07T03:44:26+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-10-01",
       "recruit_end": "2026-10-16",
       "event_start": null,
       "event_end": null,
@@ -241,547 +160,295 @@
       "d_day": 9,
       "eligibility": "",
       "benefits": "",
-      "location": "강원특별자치도 영월군 김삿갓면 김삿갓로 216-22 특설무대 지도보기 2KM 버티컬 10,000 원 · 명 선착순 정원 30 명 2026.10.16 (금) 23:59 까지 18 명",
+      "location": "",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
-      "last_changed_at": "2026-10-06T19:24:40+09:00",
-      "change_flags": [
-        "location"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "제1회삿갓런run참가자모집삿갓쓰고도포자락날리며영월을달리다|측가아닙니다이벤트내용과관련한사항은이벤트개설자에게문의바랍니다hoti|2026-10-16"
-    },
-    {
-      "id": "8f7c855b45ada91ddfbc",
-      "title": "Kwon Lecture 2026: P. R. Kumar 교수 초청 강연",
-      "source_name": "온오프믹스",
-      "source_url": "https://onoffmix.com/event/346819",
-      "organizer": "측)가 아닙니다. 이벤트 내용과 관련한 사항은 이벤트 개설자에게 문의 바랍니다. HOT I",
-      "summary": "올해로 8회를 맞이하는 Kwon Lecture의 2026년 연사는 미국 Texas A&M University의 P. R. Kumar 교수님입니다.",
-      "primary_type": "contest",
-      "field_tags": [
-        "게임",
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "데이터",
-        "창업"
-      ],
-      "audience_tags": [
-        "창업자·기업"
-      ],
-      "status": "closed",
-      "relevance": {
-        "score": 69,
-        "reasons": [
-          "본문·분류 키워드: ai, it, 게임, 데이터",
-          "공고 유형: contest",
-          "IT·게임 전문 출처",
-          "제목의 IT·게임 직접 근거 부족"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-10-05T09:59:00+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
-      "sources": [
-        {
-          "source_id": "onoffmix",
-          "source_name": "온오프믹스",
-          "source_url": "https://onoffmix.com/event/346819",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2025-10-17",
-      "recruit_end": "2023-09-22",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": -1111,
-      "eligibility": "",
-      "benefits": "",
-      "location": "서울 관악구 관악로 1 관정도서관 양두석홀 지도보기 무료 선착순 정원 110 명 2026.10.12 (월) 10:00 까지 24 명 신청가능 Tutorial Lecture 이벤트기",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-10-06T19:24:40+09:00",
-      "change_flags": [
-        "location"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "kwonlecture2026prkumar교수초청강연|측가아닙니다이벤트내용과관련한사항은이벤트개설자에게문의바랍니다hoti|2023-09-22"
-    },
-    {
-      "id": "99f8299e613fd38b3cce",
-      "title": "제주 지브리&디즈니 OST 무료 콘서트",
-      "source_name": "온오프믹스",
-      "source_url": "https://onoffmix.com/event/349510",
-      "organizer": "시간 변경안내 (2025.06.16 시행) 광고상품 안내 뉴스레터 구독 회사소개 뉴스룸 서",
-      "summary": "10월 특별 무료 콘서트 오픈 지브리&디즈니 OST 콘서트 한 번 들으면 잊히지 않는 음악이 시작되는 순간 추억도 함께 시작됩니다 모두가 사랑했던 명곡들이 오케스트라 라이브 연주와 아름다운 팝 소프라노의 목소리로 다시 태어나는 시간! 귀로는 아름다운 선율을 눈으로는 감성 가득한 영상을…",
-      "primary_type": "contest",
-      "field_tags": [
-        "게임",
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "창업"
-      ],
-      "audience_tags": [
-        "창업자·기업"
-      ],
-      "status": "upcoming",
-      "relevance": {
-        "score": 69,
-        "reasons": [
-          "본문·분류 키워드: ai, it, 게임, 스타트업",
-          "공고 유형: contest",
-          "IT·게임 전문 출처",
-          "제목의 IT·게임 직접 근거 부족"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-10-06T19:24:40+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
-      "sources": [
-        {
-          "source_id": "onoffmix",
-          "source_name": "온오프믹스",
-          "source_url": "https://onoffmix.com/event/349510",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-11-07",
-      "recruit_end": "2026-11-07",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 31,
-      "eligibility": "",
-      "benefits": "",
-      "location": "제주특별자치도 제주시 청사로1길 18-4 제주상공회의소 지도보기 지브리&디즈니 제주 무료콘서트 무료 개설자선정 정원 100 명 2026.10.28 (수) 23:59 까지 100 명",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
-      "dedupe_key": "제주지브리디즈니ost무료콘서트|시간변경안내20250616시행광고상품안내뉴스레터구독회사소개뉴스룸서|2026-11-07"
+      "dedupe_key": "2026년2차산업혁신기반구축사업첨단방위산업용고성능고신뢰성시스템반도체부품실증기반구축기술지원설계성능검증기술지도사업공고|한국전자기술연구원|2026-10-16"
     },
     {
-      "id": "acb5e6f2a6be651b5b52",
-      "title": "대전 지브리&디즈니 OST 무료 콘서트",
-      "source_name": "온오프믹스",
-      "source_url": "https://onoffmix.com/event/349239",
-      "organizer": "시간 변경안내 (2025.06.16 시행) 광고상품 안내 뉴스레터 구독 회사소개 뉴스룸 서",
-      "summary": "10월 특별 무료 콘서트 오픈 지브리&디즈니 OST 콘서트 한 번 들으면 잊히지 않는 음악이 시작되는 순간 추억도 함께 시작됩니다 모두가 사랑했던 명곡들이 오케스트라 라이브 연주와 아름다운 팝 소프라노의 목소리로 다시 태어나는 시간! 귀로는 아름다운 선율을 눈으로는 감성 가득한 영상을…",
-      "primary_type": "contest",
+      "id": "3e8b0986044ad02e0685",
+      "title": "2026년 의료기기 반도체 실증플랫폼 구축사업 실증지원 통합 공고",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%B0%98%EB%8F%84%EC%B2%B4&condition=searchPblancNm&condition1=AND&keyword=%EB%B0%98%EB%8F%84%EC%B2%B4&pblancId=PBLN_000000000126213",
+      "organizer": "강원테크노파크",
+      "summary": "기업마당 공개 지원사업 · 기술 · 검색어 반도체. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
       "field_tags": [
-        "게임",
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "창업"
-      ],
-      "audience_tags": [
-        "창업자·기업"
-      ],
-      "status": "upcoming",
-      "relevance": {
-        "score": 69,
-        "reasons": [
-          "본문·분류 키워드: ai, it, 게임, 스타트업",
-          "공고 유형: contest",
-          "IT·게임 전문 출처",
-          "제목의 IT·게임 직접 근거 부족"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-10-06T19:24:40+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
-      "sources": [
-        {
-          "source_id": "onoffmix",
-          "source_name": "온오프믹스",
-          "source_url": "https://onoffmix.com/event/349239",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-11-07",
-      "recruit_end": "2026-11-07",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 31,
-      "eligibility": "",
-      "benefits": "",
-      "location": "대전 유성구 대학로 99 충남대학교 대덕캠퍼스 정심화국제문화회관 지도보기 지브리&디즈니 대전 무료콘서트 무료 개설자선정 정원 100 명 2026.10.8 (목) 23:59 까지 1",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "대전지브리디즈니ost무료콘서트|시간변경안내20250616시행광고상품안내뉴스레터구독회사소개뉴스룸서|2026-11-07"
-    },
-    {
-      "id": "6e5d852d9a1fdf997838",
-      "title": "K-Fundraising 아카데미: 우리만의, 우리답게",
-      "source_name": "온오프믹스",
-      "source_url": "https://onoffmix.com/event/346433",
-      "organizer": "이벤트기간 2026.12.17 (목) 13:30 ~ 17:30 구글 캘린더 저장 이벤트장소",
-      "summary": "체계적인 모금활동을 위해 모금 가치 확립 및 활동 기획, 기부품 관리, 기부자 프로그램 및 예우, 정보공개 등 모금절차에 따른 실무역량강화교육 2026년 K-Fundraising 아카데미: 우리만의, 우리답게 모금을 잘하는 법은 가르치지 않습니다. 신뢰받는 모금이 시작되는 법을 알려드…",
-      "primary_type": "education",
-      "field_tags": [
-        "게임",
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "창업"
-      ],
-      "audience_tags": [
-        "창업자·기업"
-      ],
-      "status": "closed",
-      "relevance": {
-        "score": 69,
-        "reasons": [
-          "본문·분류 키워드: ai, it, 게임, 스타트업",
-          "공고 유형: education",
-          "IT·게임 전문 출처",
-          "제목의 IT·게임 직접 근거 부족"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-10-01T22:25:03+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
-      "sources": [
-        {
-          "source_id": "onoffmix",
-          "source_name": "온오프믹스",
-          "source_url": "https://onoffmix.com/event/346433",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-09-14",
-      "recruit_end": "2026-09-01",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": -36,
-      "eligibility": "",
-      "benefits": "",
-      "location": "서울 마포구 잔다리로7안길 6 3층, 스페이스공 class1 지도보기 380,000 원 선착순 정원 30 명 2026.8.7 (금) 23:59 까지 30 명 신청가능 1차.모금윤리",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "kfundraising아카데미우리만의우리답게|이벤트기간20261217목13301730구글캘린더저장이벤트장소|2026-09-01"
-    },
-    {
-      "id": "7f7adb22ae60a050a270",
-      "title": "[한국출판문화산업진흥원] 2026 하반기 수출아카데미 수강생 모집 공고(재직자 심화)",
-      "source_name": "온오프믹스",
-      "source_url": "https://onoffmix.com/event/347653",
-      "organizer": "측)가 아닙니다. 이벤트 내용과 관련한 사항은 이벤트 개설자에게 문의 바랍니다. HOT I",
-      "summary": "2026년 하반기 수출아카데미 수강생을 모집 합니다. 출판 관계자 여러분의 많은 관심과 참여 부탁드립니다.. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "education",
-      "field_tags": [
-        "게임",
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "창업",
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [
-        "창업자·기업"
-      ],
-      "status": "closed",
-      "relevance": {
-        "score": 69,
-        "reasons": [
-          "본문·분류 키워드: ai, it, 게임, 스타트업",
-          "공고 유형: education",
-          "IT·게임 전문 출처",
-          "제목의 IT·게임 직접 근거 부족"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-10-02T21:42:31+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
-      "sources": [
-        {
-          "source_id": "onoffmix",
-          "source_name": "온오프믹스",
-          "source_url": "https://onoffmix.com/event/347653",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-08-06",
-      "recruit_end": "2026-04-28",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": -162,
-      "eligibility": "",
-      "benefits": "",
-      "location": "서울 마포구 월드컵북로 400 9층 903호 강의교육장 지도보기 무료 개설자선정 정원 30 명 2026.8.24 (월) 09:00 까지 9 명 신청가능 재직자 기본과정 마감 이벤트",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-10-06T12:02:30+09:00",
-      "change_flags": [
-        "organizer"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "한국출판문화산업진흥원2026하반기수출아카데미수강생모집공고재직자심화|측가아닙니다이벤트내용과관련한사항은이벤트개설자에게문의바랍니다hoti|2026-04-28"
-    },
-    {
-      "id": "ef9cbdf717884723bcfb",
-      "title": "트렌드 코리아 2027: 대한민국 소비 트렌드 전망",
-      "source_name": "이벤터스",
-      "source_url": "https://event-us.kr/wiseapp/event/136306",
-      "organizer": "와이즈앱∙리테일",
-      "summary": "우리가 지금 어떤 변화의 흐름 속에 있는지, 그리고 다가오는 2027년에는 어떤 새로운 모습이 나타날지 <트렌드 코리아 2027> 저자의 해설을 통해 만나보세요.",
-      "primary_type": "event",
-      "field_tags": [
-        "데이터"
+        "웹·앱"
       ],
       "audience_tags": [],
-      "status": "open",
+      "status": "unknown",
       "relevance": {
-        "score": 68,
+        "score": 69,
         "reasons": [
-          "본문·분류 키워드: 데이터, 빅데이터",
-          "공고 유형: event",
-          "IT·게임 전문 출처"
+          "제목 핵심 키워드: 플랫폼",
+          "본문·분류 키워드: 플랫폼",
+          "공고 유형: support",
+          "제목 키워드가 일반 단어뿐: 플랫폼"
         ],
         "decision": "review"
       },
-      "first_seen_at": "2026-10-01T15:02:01+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
+      "first_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
-          "source_id": "eventus",
-          "source_name": "이벤터스",
-          "source_url": "https://event-us.kr/wiseapp/event/136306",
-          "source_post_id": "136306",
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
-        }
-      ],
-      "application_url": "https://event-us.kr/wiseapp/event/136306",
-      "document_url": null,
-      "recruit_start": "2026-09-29",
-      "recruit_end": "2026-10-21",
-      "event_start": "2026-10-22",
-      "event_end": "2026-10-22",
-      "date_kind": "exact",
-      "d_day": 14,
-      "eligibility": "",
-      "benefits": "",
-      "location": "None",
-      "mode": "online",
-      "fee": "free",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "트렌드코리아2027대한민국소비트렌드전망|와이즈앱리테일|2026-10-21"
-    },
-    {
-      "id": "9656f0ca56786cf6f7b9",
-      "title": "FUTURING 26 : The Next Wave of Marketing",
-      "source_name": "이벤터스",
-      "source_url": "https://event-us.kr/ft/event/133659",
-      "organizer": "Featuring",
-      "summary": "AI·데이터·소셜·인플루언서가 하나로 연결되는 국내 최초 All-in-One 소셜 마케팅 컨퍼런스. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "event",
-      "field_tags": [
-        "AI",
-        "데이터"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 68,
-        "reasons": [
-          "본문·분류 키워드: ai, 데이터",
-          "공고 유형: event",
-          "IT·게임 전문 출처"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-09-10T15:01:09+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
-      "sources": [
-        {
-          "source_id": "eventus",
-          "source_name": "이벤터스",
-          "source_url": "https://event-us.kr/ft/event/133659",
-          "source_post_id": "133659",
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
-        }
-      ],
-      "application_url": "https://event-us.kr/ft/event/133659",
-      "document_url": null,
-      "recruit_start": "2026-08-26",
-      "recruit_end": "2026-10-23",
-      "event_start": "2026-10-28",
-      "event_end": "2026-10-28",
-      "date_kind": "exact",
-      "d_day": 16,
-      "eligibility": "",
-      "benefits": "",
-      "location": "서울 강남구",
-      "mode": "offline",
-      "fee": "paid",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "futuring26thenextwaveofmarketing|featuring|2026-10-23"
-    },
-    {
-      "id": "0625dbc3375c86c75ca4",
-      "title": "서울디자인런 2026 - 실패하지 않는 브랜딩 A to Z",
-      "source_name": "이벤터스",
-      "source_url": "https://event-us.kr/openknowl2/event/135389",
-      "organizer": "(주)오픈놀",
-      "summary": "2주마다 성장하는 디자인창업 역량 강화 교육. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "event",
-      "field_tags": [
-        "창업"
-      ],
-      "audience_tags": [
-        "창업자·기업"
-      ],
-      "status": "today",
-      "relevance": {
-        "score": 68,
-        "reasons": [
-          "본문·분류 키워드: 스타트업, 창업",
-          "공고 유형: event",
-          "IT·게임 전문 출처"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-09-26T03:40:06+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
-      "sources": [
-        {
-          "source_id": "eventus",
-          "source_name": "이벤터스",
-          "source_url": "https://event-us.kr/openknowl2/event/135389",
-          "source_post_id": "135389",
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
-        }
-      ],
-      "application_url": "https://event-us.kr/openknowl2/event/135389",
-      "document_url": null,
-      "recruit_start": "2026-09-22",
-      "recruit_end": "2026-10-07",
-      "event_start": "2026-10-08",
-      "event_end": "2026-10-08",
-      "date_kind": "exact",
-      "d_day": 0,
-      "eligibility": "",
-      "benefits": "",
-      "location": "서울 마포구",
-      "mode": "offline",
-      "fee": "paid",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "서울디자인런2026실패하지않는브랜딩atoz|주오픈놀|2026-10-07"
-    },
-    {
-      "id": "4e06de045227ec81a7a3",
-      "title": "Chat With Your Data in a Day: 하루만에 끝내는 Microsoft 통합 분석 환경",
-      "source_name": "Dev-Event GitHub",
-      "source_url": "https://event-us.kr/hso/event/132381",
-      "organizer": "HSO Korea",
-      "summary": "- 분류: 온라인, 무료, 세미나, AI, 클라우드 - 주최: HSO Korea - 접수: 08. 10(월) ~ 10. 13(화) 00:00",
-      "primary_type": "event",
-      "field_tags": [
-        "AI",
-        "클라우드·보안"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 68,
-        "reasons": [
-          "본문·분류 키워드: ai, 클라우드",
-          "공고 유형: event",
-          "IT·게임 전문 출처"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
-      "sources": [
-        {
-          "source_id": "dev_event",
-          "source_name": "Dev-Event GitHub",
-          "source_url": "https://event-us.kr/hso/event/132381",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%B0%98%EB%8F%84%EC%B2%B4&condition=searchPblancNm&condition1=AND&keyword=%EB%B0%98%EB%8F%84%EC%B2%B4&pblancId=PBLN_000000000126213",
+          "source_post_id": "PBLN_000000000126213",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
-      "recruit_start": "2026-08-10",
-      "recruit_end": "2026-10-13",
+      "recruit_start": null,
+      "recruit_end": null,
       "event_start": null,
       "event_end": null,
-      "date_kind": "exact",
-      "d_day": 6,
+      "date_kind": "unknown",
+      "d_day": null,
       "eligibility": "",
       "benefits": "",
       "location": "",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
-      "dedupe_key": "chatwithyourdatainaday하루만에끝내는microsoft통합분석환경|hsokorea|2026-10-13"
+      "dedupe_key": "2026년의료기기반도체실증플랫폼구축사업실증지원통합공고|강원테크노파크|"
+    },
+    {
+      "id": "915b4ac1c6840ba3c7a6",
+      "title": "물류영역 서비스로봇 공통플랫폼구축 사업 기업 지원 모집 공고",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%A1%9C%EB%B4%87&condition=searchPblancNm&condition1=AND&keyword=%EB%A1%9C%EB%B4%87&pblancId=PBLN_000000000125008",
+      "organizer": "한국산업기술시험원",
+      "summary": "기업마당 공개 지원사업 · 기술 · 검색어 로봇. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "웹·앱"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 69,
+        "reasons": [
+          "제목 핵심 키워드: 플랫폼",
+          "본문·분류 키워드: 플랫폼",
+          "공고 유형: support",
+          "제목 키워드가 일반 단어뿐: 플랫폼"
+        ],
+        "decision": "review"
+      },
+      "first_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%A1%9C%EB%B4%87&condition=searchPblancNm&condition1=AND&keyword=%EB%A1%9C%EB%B4%87&pblancId=PBLN_000000000125008",
+          "source_post_id": "PBLN_000000000125008",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-10-07T03:44:26+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-07-31",
+      "recruit_end": "2026-12-18",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 72,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "it",
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "물류영역서비스로봇공통플랫폼구축사업기업지원모집공고|한국산업기술시험원|2026-12-18"
+    },
+    {
+      "id": "c7f8554e2b4cd9bba01e",
+      "title": "[전국] 2026년 부산콘텐츠아카데미 퍼스널 트레이닝 교육생 모집 공고",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=%EC%BD%98%ED%85%90%EC%B8%A0&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000068698",
+      "organizer": "부산정보산업진흥원",
+      "summary": "기업마당 공개 행사 · 행사정보 · 검색어 콘텐츠. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "education",
+      "field_tags": [
+        "디지털 콘텐츠"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 69,
+        "reasons": [
+          "제목 핵심 키워드: 콘텐츠",
+          "본문·분류 키워드: 콘텐츠",
+          "공고 유형: education",
+          "제목 키워드가 일반 단어뿐: 콘텐츠"
+        ],
+        "decision": "review"
+      },
+      "first_seen_at": "2026-09-18T02:15:03+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=%EC%BD%98%ED%85%90%EC%B8%A0&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000068698",
+          "source_post_id": "EVEN_000000000068698",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-10-07T03:44:26+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-06-01",
+      "recruit_end": "2026-11-30",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 54,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "it",
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "전국2026년부산콘텐츠아카데미퍼스널트레이닝교육생모집공고|부산정보산업진흥원|2026-11-30"
+    },
+    {
+      "id": "ceee43d287ae3cf89312",
+      "title": "2026년 성남시 장애인 권리증진 콘텐츠 공모전",
+      "source_name": "링커리어",
+      "source_url": "https://linkareer.com/activity/353503",
+      "organizer": "성남시장애인권리증진센터",
+      "summary": "링커리어 공개 공모전 목록. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "디지털 콘텐츠"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 69,
+        "reasons": [
+          "제목 핵심 키워드: 콘텐츠",
+          "본문·분류 키워드: 콘텐츠",
+          "공고 유형: contest",
+          "제목 키워드가 일반 단어뿐: 콘텐츠"
+        ],
+        "decision": "review"
+      },
+      "first_seen_at": "2026-09-29T17:36:15+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "sources": [
+        {
+          "source_id": "linkareer",
+          "source_name": "링커리어",
+          "source_url": "https://linkareer.com/activity/353503",
+          "source_post_id": "353503",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-10-07T03:44:26+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-10-30",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 23,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "it",
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026년성남시장애인권리증진콘텐츠공모전|성남시장애인권리증진센터|2026-10-30"
+    },
+    {
+      "id": "fa5507f12fa37d4e310e",
+      "title": "2026 한국관광 콘텐츠랩 활용 우수사례 어워즈",
+      "source_name": "링커리어",
+      "source_url": "https://linkareer.com/activity/353201",
+      "organizer": "한국관광콘텐츠랩",
+      "summary": "링커리어 공개 공모전 목록. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "디지털 콘텐츠"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 69,
+        "reasons": [
+          "제목 핵심 키워드: 콘텐츠",
+          "본문·분류 키워드: 콘텐츠",
+          "공고 유형: contest",
+          "제목 키워드가 일반 단어뿐: 콘텐츠"
+        ],
+        "decision": "review"
+      },
+      "first_seen_at": "2026-10-07T03:44:26+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "sources": [
+        {
+          "source_id": "linkareer",
+          "source_name": "링커리어",
+          "source_url": "https://linkareer.com/activity/353201",
+          "source_post_id": "353201",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-10-07T03:44:26+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": "2026-11-06",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 30,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "it",
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026한국관광콘텐츠랩활용우수사례어워즈|한국관광콘텐츠랩|2026-11-06"
     },
     {
       "id": "21a6d0e54023d4e5810c",
@@ -807,7 +474,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-01T22:25:03+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -816,7 +483,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -833,6 +500,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -862,7 +530,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-06T01:05:39+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -871,7 +539,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -888,6 +556,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -915,7 +584,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-09T20:49:14+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -924,7 +593,7 @@
           "source_post_id": "EVEN_000000000069405",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -934,13 +603,14 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 2,
+      "d_day": 1,
       "eligibility": "",
       "benefits": "",
       "location": "",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -969,7 +639,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -978,7 +648,7 @@
           "source_post_id": "EVEN_000000000069516",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -988,125 +658,18 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 8,
+      "d_day": 7,
       "eligibility": "",
       "benefits": "",
       "location": "",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "전국2026년saas전환지원센터xaws클라우드기반saas현대화기술특강및실습4회차참가자모집|정보통신산업진흥원|2026-10-14"
-    },
-    {
-      "id": "387e1eb4e0e9b156aa81",
-      "title": "숙박왕 권대표 숙박업 운영 10월 세미나",
-      "source_name": "이벤터스",
-      "source_url": "https://event-us.kr/hsoperation/event/136681",
-      "organizer": "권아카데미",
-      "summary": "놓치면 100% 손해! 리모델링 없이 매출 개할 수 있는 숙박왕 권대표의 운영 솔루션을 놓치지 마세요. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "event",
-      "field_tags": [
-        "창업"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 65,
-        "reasons": [
-          "본문·분류 키워드: 창업",
-          "공고 유형: event",
-          "IT·게임 전문 출처"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-10-02T21:42:31+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
-      "sources": [
-        {
-          "source_id": "eventus",
-          "source_name": "이벤터스",
-          "source_url": "https://event-us.kr/hsoperation/event/136681",
-          "source_post_id": "136681",
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
-        }
-      ],
-      "application_url": "https://event-us.kr/hsoperation/event/136681",
-      "document_url": null,
-      "recruit_start": "2026-10-02",
-      "recruit_end": "2026-10-28",
-      "event_start": "2026-10-28",
-      "event_end": "2026-10-28",
-      "date_kind": "exact",
-      "d_day": 21,
-      "eligibility": "",
-      "benefits": "",
-      "location": "서울 강남구",
-      "mode": "offline",
-      "fee": "paid",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "숙박왕권대표숙박업운영10월세미나|권아카데미|2026-10-28"
-    },
-    {
-      "id": "fcb4c7f7b578446552ae",
-      "title": "[마케팅 컨퍼런스] A-DAY 2026: MARKETING X 20",
-      "source_name": "이벤터스",
-      "source_url": "https://event-us.kr/adriel/event/132459",
-      "organizer": "아드리엘",
-      "summary": "AI로 실행이 20배 빨라진 시대, 성과를 만드는 마케터의 판단. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "event",
-      "field_tags": [
-        "AI"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 65,
-        "reasons": [
-          "본문·분류 키워드: ai",
-          "공고 유형: event",
-          "IT·게임 전문 출처"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-09-16T20:41:58+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
-      "sources": [
-        {
-          "source_id": "eventus",
-          "source_name": "이벤터스",
-          "source_url": "https://event-us.kr/adriel/event/132459",
-          "source_post_id": "132459",
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
-        }
-      ],
-      "application_url": "https://event-us.kr/adriel/event/132459",
-      "document_url": null,
-      "recruit_start": "2026-09-07",
-      "recruit_end": "2026-10-13",
-      "event_start": "2026-10-14",
-      "event_end": "2026-10-14",
-      "date_kind": "exact",
-      "d_day": 6,
-      "eligibility": "",
-      "benefits": "",
-      "location": "서울 강남구",
-      "mode": "offline",
-      "fee": "paid",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "마케팅컨퍼런스aday2026marketingx20|아드리엘|2026-10-13"
     },
     {
       "id": "a0571e8b992c56f93d20",
@@ -1131,7 +694,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-23T15:01:53+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1140,7 +703,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -1157,6 +720,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": "2026-10-06T01:05:39+09:00",
       "change_flags": [
         "recruit_start",
@@ -1188,7 +752,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-06T01:05:39+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1197,7 +761,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -1214,6 +778,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1242,7 +807,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-06T01:05:39+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1251,7 +816,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -1268,6 +833,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1296,7 +862,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1305,7 +871,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -1322,6 +888,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1350,7 +917,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1359,7 +926,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -1376,6 +943,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1404,7 +972,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-29T00:33:00+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1413,7 +981,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         },
         {
           "source_id": "dev_event",
@@ -1422,7 +990,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -1439,6 +1007,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1467,7 +1036,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1476,7 +1045,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -1493,6 +1062,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1521,7 +1091,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-24T13:57:15+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1530,7 +1100,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -1547,6 +1117,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1575,7 +1146,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-06T01:05:39+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1584,7 +1155,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -1601,6 +1172,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1629,7 +1201,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1638,7 +1210,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -1655,75 +1227,11 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "githubcopilotdevdaysjeju|microsoft커뮤니티이벤트|2026-10-31"
-    },
-    {
-      "id": "e70b0b05033456713333",
-      "title": "나라장터 자체입찰 공고 법령 위반사항 모니터링 AI 경진대회",
-      "source_name": "DACON",
-      "source_url": "https://dacon.io/competitions/official/236754/overview/description",
-      "organizer": "이 직접 발주하는 자체입찰 공고가 상시 게시되고 있으며, 모든 입찰공고는 국가계약법령 등",
-      "summary": "알고리즘 | 코드 제출 평가 | 자연어처리 | 법령 위반사항 모니터링. 의 부당한 제한 등 공정한 경쟁을 저해하는 형태로 나타날 수 있어, 위반 소지가 있는 공고를 신속하게 선별하고 판단 근거를 함께 제시하는 자동화된 검토 체계의 필요성이 높아지고 있",
-      "primary_type": "contest",
-      "field_tags": [
-        "AI",
-        "소프트웨어",
-        "웹·앱",
-        "데이터"
-      ],
-      "audience_tags": [
-        "창업자·기업"
-      ],
-      "status": "closed",
-      "relevance": {
-        "score": 62,
-        "reasons": [
-          "제목 핵심 키워드: ai",
-          "본문·분류 키워드: ai, it, 데이터, 소프트웨어",
-          "공고 유형: contest",
-          "IT·게임 전문 출처",
-          "제외 문맥: 입찰"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
-      "sources": [
-        {
-          "source_id": "dacon",
-          "source_name": "DACON",
-          "source_url": "https://dacon.io/competitions/official/236754/overview/description",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-08-24",
-      "recruit_end": "2026-08-24",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": -44,
-      "eligibility": "의 부당한 제한 등 공정한 경쟁을 저해하는 형태로 나타날 수 있어, 위반 소지가 있는 공고를 신속하게 선별하고 판단 근거를 함께 제시하는 자동화된 검토 체계의 필요성이 높아지고 있",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": "2026-10-01T22:25:03+09:00",
-      "change_flags": [
-        "organizer",
-        "recruit_start",
-        "recruit_end"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "나라장터자체입찰공고법령위반사항모니터링ai경진대회|이직접발주하는자체입찰공고가상시게시되고있으며모든입찰공고는국가계약법령등|2026-08-24"
     },
     {
       "id": "89d58c72c32912d917bd",
@@ -1747,7 +1255,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-03T07:10:09+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1756,7 +1264,7 @@
           "source_post_id": "EVEN_000000000069554",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -1766,13 +1274,14 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 2,
+      "d_day": 1,
       "eligibility": "",
       "benefits": "",
       "location": "",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1800,7 +1309,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1809,7 +1318,7 @@
           "source_post_id": "EVEN_000000000069000",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -1819,13 +1328,14 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 7,
+      "d_day": 6,
       "eligibility": "",
       "benefits": "",
       "location": "",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1853,7 +1363,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1862,7 +1372,7 @@
           "source_post_id": "EVEN_000000000067915",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -1872,127 +1382,18 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 25,
+      "d_day": 24,
       "eligibility": "",
       "benefits": "",
       "location": "",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "전국2026년과학기술정보통신부ict한이음드림업신규멘토모집|한국정보산업연합회|2026-10-31"
-    },
-    {
-      "id": "69f0f750a93084d9f9b0",
-      "title": "[제주] 2026년 INVESTOR DAY: DEEP TECH GATEWAY TO JEJU 2 바이오 및 라이프테크 스타트업 모집 안내",
-      "source_name": "기업마당",
-      "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069408",
-      "organizer": "제주창조경제혁신센터",
-      "summary": "기업마당 공개 행사 · 행사정보 · 검색어 스타트업. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "other",
-      "field_tags": [
-        "창업"
-      ],
-      "audience_tags": [
-        "창업자·기업"
-      ],
-      "status": "upcoming",
-      "relevance": {
-        "score": 58,
-        "reasons": [
-          "제목 핵심 키워드: 스타트업",
-          "본문·분류 키워드: 스타트업"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-10-01T07:11:43+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
-      "sources": [
-        {
-          "source_id": "bizinfo",
-          "source_name": "기업마당",
-          "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069408",
-          "source_post_id": "EVEN_000000000069408",
-          "kind": "government",
-          "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-10-22",
-      "recruit_end": "2026-10-22",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 16,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "제주2026년investordaydeeptechgatewaytojeju2바이오및라이프테크스타트업모집안내|제주창조경제혁신센터|2026-10-22"
-    },
-    {
-      "id": "32f1562ca8b6f9b5f054",
-      "title": "[경기] 성남시 하반기 스타트업 점프업 스쿨 참여기업 모집 안내",
-      "source_name": "기업마당",
-      "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069153",
-      "organizer": "성남산업진흥원",
-      "summary": "기업마당 공개 행사 · 행사정보 · 검색어 스타트업. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "other",
-      "field_tags": [
-        "창업"
-      ],
-      "audience_tags": [
-        "창업자·기업"
-      ],
-      "status": "open",
-      "relevance": {
-        "score": 58,
-        "reasons": [
-          "제목 핵심 키워드: 스타트업",
-          "본문·분류 키워드: 스타트업"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-10-01T07:11:43+09:00",
-      "last_seen_at": "2026-10-06T09:18:50+09:00",
-      "sources": [
-        {
-          "source_id": "bizinfo",
-          "source_name": "기업마당",
-          "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069153",
-          "source_post_id": "EVEN_000000000069153",
-          "kind": "government",
-          "priority": 80,
-          "fetched_at": "2026-10-06T09:18:50+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-08-19",
-      "recruit_end": "2026-10-28",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 22,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "경기성남시하반기스타트업점프업스쿨참여기업모집안내|성남산업진흥원|2026-10-28"
     },
     {
       "id": "a896e267d5c40090f568",
@@ -2017,7 +1418,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-01T22:25:03+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2026,7 +1427,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -2043,6 +1444,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -2071,7 +1473,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-06T01:05:39+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2080,7 +1482,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -2097,6 +1499,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -2124,7 +1527,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-29T00:33:00+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2133,7 +1536,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -2150,6 +1553,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -2177,7 +1581,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-24T13:57:15+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2186,7 +1590,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -2203,6 +1607,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -2230,7 +1635,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-23T15:01:53+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2239,7 +1644,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -2256,6 +1661,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -2283,7 +1689,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-06T01:05:39+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2292,7 +1698,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -2309,6 +1715,7 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -2336,7 +1743,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-24T13:57:15+09:00",
-      "last_seen_at": "2026-10-07T02:14:05+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2345,7 +1752,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-07T02:14:05+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -2362,10 +1769,76 @@
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "mongodbusergroupseoulmeetup6oct2026|seoulmongodbusergroup|2026-10-29"
+    },
+    {
+      "id": "e70b0b05033456713333",
+      "title": "나라장터 자체입찰 공고 법령 위반사항 모니터링 AI 경진대회",
+      "source_name": "DACON",
+      "source_url": "https://dacon.io/competitions/official/236754/overview/description",
+      "organizer": "DACON",
+      "summary": "DACON AI 경진대회: 알고리즘 | 코드 제출 평가 | 자연어처리 | 법령 위반사항 모니터링 · 상금 4,200만 원",
+      "primary_type": "contest",
+      "field_tags": [
+        "AI",
+        "소프트웨어"
+      ],
+      "audience_tags": [],
+      "status": "closed",
+      "relevance": {
+        "score": 53,
+        "reasons": [
+          "제목 핵심 키워드: ai",
+          "본문·분류 키워드: ai, 알고리즘",
+          "공고 유형: contest",
+          "IT·게임 전문 출처",
+          "제외 문맥: 입찰"
+        ],
+        "decision": "review"
+      },
+      "first_seen_at": "2026-09-08T14:40:59+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
+      "sources": [
+        {
+          "source_id": "dacon",
+          "source_name": "DACON",
+          "source_url": "https://dacon.io/competitions/official/236754/overview/description",
+          "source_post_id": "236754",
+          "kind": "specialist",
+          "priority": 60,
+          "fetched_at": "2026-10-07T03:44:26+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-08-26",
+      "recruit_end": "2026-09-30",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -7,
+      "eligibility": "",
+      "benefits": "상금 4,200만 원",
+      "location": "",
+      "mode": "online",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "it",
+      "last_changed_at": "2026-10-07T03:44:26+09:00",
+      "change_flags": [
+        "organizer",
+        "recruit_start",
+        "recruit_end",
+        "eligibility",
+        "benefits",
+        "mode"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "나라장터자체입찰공고법령위반사항모니터링ai경진대회|dacon|2026-09-30"
     },
     {
       "id": "b7b62074065dc620d9ca",
@@ -2392,14 +1865,14 @@
       "relevance": {
         "score": 52,
         "reasons": [
-          "본문·분류 키워드: ai, e스포츠, xr, 게임",
+          "본문·분류 키워드: ai, e스포츠, xr, 가상융합",
           "공고 유형: contest",
           "공식 전문기관 출처"
         ],
         "decision": "review"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-06T15:50:07+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "gcon",
@@ -2408,7 +1881,7 @@
           "source_post_id": "11233",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-10-06T15:50:07+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -2418,13 +1891,14 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 12,
+      "d_day": 11,
       "eligibility": "",
       "benefits": "지원항목 마케팅지원 지원내용 우수 마을미디어 콘텐츠 선정 및 시상 모집개요 모집기간 2026년 09월 29일 19시 50분 ~ 2026년 10월 18일 20시 00분 모집조건 사업",
       "location": "",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -2443,6 +1917,7 @@
         "AI",
         "웹·앱",
         "데이터",
+        "XR·메타버스",
         "창업",
         "디지털 콘텐츠"
       ],
@@ -2454,14 +1929,14 @@
       "relevance": {
         "score": 52,
         "reasons": [
-          "본문·분류 키워드: ai, e스포츠, 게임, 데이터",
+          "본문·분류 키워드: ai, e스포츠, 가상융합, 게임",
           "공고 유형: support",
           "공식 전문기관 출처"
         ],
         "decision": "review"
       },
       "first_seen_at": "2026-09-18T20:47:12+09:00",
-      "last_seen_at": "2026-10-06T15:50:07+09:00",
+      "last_seen_at": "2026-10-07T03:44:26+09:00",
       "sources": [
         {
           "source_id": "gcon",
@@ -2470,7 +1945,7 @@
           "source_post_id": "11224",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-10-06T15:50:07+09:00"
+          "fetched_at": "2026-10-07T03:44:26+09:00"
         }
       ],
       "application_url": null,
@@ -2480,13 +1955,14 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 3,
+      "d_day": 2,
       "eligibility": "간담회(네트워킹데이) 운영 - 기타 진흥원 사업 연계 지원 모집개요 모집기간 2026년 09월 18일 14시 00분 ~ 2026년 10월 09일 14시 00분 모집조건 사업(행사)",
       "benefits": "지원항목 교육프로그램 네트워킹 프로그램 전문가 컨설팅&멘토링 스타트업 오피스 지원 지원내용 ㅇ 사무공간 지원 - 개방형 지정석 사무공간 24시간 개방 - 부대시설 이용(회의실, 탕",
       "location": "",
       "mode": "",
       "fee": "unknown",
       "is_adjacent": false,
+      "domain": "it",
       "last_changed_at": "2026-09-21T14:26:24+09:00",
       "change_flags": [
         "recruit_start",
@@ -2494,68 +1970,6 @@
       ],
       "is_manual_reviewed": false,
       "dedupe_key": "공고연장2026년서부경기문화창조허브공간입주17기3차입주기업모집|사업소개2026년지원사업안내주력사업주력사업개요g유니콘패스ai패키지크라우|2026-10-09"
-    },
-    {
-      "id": "7acad973f4cd3d65d955",
-      "title": "2026 지커넥션 비즈니스 데이 참가기업 모집",
-      "source_name": "경기콘텐츠진흥원",
-      "source_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11228&menuNo=200061&pageIndex=1",
-      "organizer": "사업소개 2026년 지원사업 안내 주력사업 주력사업 개요 G-유니콘패스 AI 패키지 크라우",
-      "summary": "사업공고 | 사업공고 | 알림마당 | 경기콘텐츠진흥원. 사전 콘텐츠 소개 및 비대면 상담 진행 - 통역 지원 : 상담 테이블별 해외바이어 전담 통역사 1인 배치 - 상담공간 지원 : 1:1 상담 테이블 및 휴게존 제공 - 네트워킹 프로",
-      "primary_type": "support",
-      "field_tags": [
-        "게임",
-        "AI",
-        "웹·앱",
-        "데이터",
-        "XR·메타버스",
-        "창업",
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [
-        "청년"
-      ],
-      "status": "today",
-      "relevance": {
-        "score": 52,
-        "reasons": [
-          "본문·분류 키워드: ai, e스포츠, xr, 게임",
-          "공고 유형: support",
-          "공식 전문기관 출처"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-09-10T14:13:29+09:00",
-      "last_seen_at": "2026-10-06T15:50:07+09:00",
-      "sources": [
-        {
-          "source_id": "gcon",
-          "source_name": "경기콘텐츠진흥원",
-          "source_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11228&menuNo=200061&pageIndex=1",
-          "source_post_id": "11228",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-10-06T15:50:07+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-09-10",
-      "recruit_end": "2026-10-06",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 0,
-      "eligibility": "사전 콘텐츠 소개 및 비대면 상담 진행 - 통역 지원 : 상담 테이블별 해외바이어 전담 통역사 1인 배치 - 상담공간 지원 : 1:1 상담 테이블 및 휴게존 제공 - 네트워킹 프로",
-      "benefits": "지원항목 해외 진출 지원 유통지원 네트워킹 프로그램 B2B상담 지원 지원내용 - 수출 상담 : 국내기업/해외바이어 간 1:1 비즈니스 상담 기회 제공 - 사전 온라인 상담회 : 초",
-      "location": "경기창조경제혁신센터 국제회의장 지원내용 지원항목 해외 진출 지원 유통지원 네트워킹 프로그램 B2B상담 지원 지원내용 - 수출 상담 : 국내기업/해외바이어 간 1:1 비즈니스 상담",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026지커넥션비즈니스데이참가기업모집|사업소개2026년지원사업안내주력사업주력사업개요g유니콘패스ai패키지크라우|2026-10-06"
     }
   ]
 }
