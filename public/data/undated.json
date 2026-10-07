@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-07T07:37:45+09:00",
+  "generated_at": "2026-10-08T08:02:27+09:00",
   "items": [
     {
       "id": "679238eaf29512dd0573",
@@ -26,7 +26,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -35,7 +35,7 @@
           "source_post_id": "PBLN_000000000123841",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -53,6 +53,10 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "it",
+      "regions": [
+        "부산"
+      ],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -84,7 +88,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -93,7 +97,7 @@
           "source_post_id": "PBLN_000000000123662",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -111,6 +115,10 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "it",
+      "regions": [
+        "전북"
+      ],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -139,7 +147,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -148,7 +156,7 @@
           "source_post_id": "PBLN_000000000123170",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -166,6 +174,10 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "it",
+      "regions": [
+        "경북"
+      ],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -194,7 +206,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -203,7 +215,7 @@
           "source_post_id": "PBLN_000000000119967",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -221,6 +233,10 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "it",
+      "regions": [
+        "전북"
+      ],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -251,7 +267,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -260,7 +276,7 @@
           "source_post_id": "PBLN_000000000123844",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -278,6 +294,10 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "business",
+      "regions": [
+        "서울"
+      ],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -308,7 +328,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -317,7 +337,7 @@
           "source_post_id": "PBLN_000000000119255",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -335,6 +355,10 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "business",
+      "regions": [
+        "전남"
+      ],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -367,7 +391,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -376,7 +400,7 @@
           "source_post_id": "PBLN_000000000122497",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -394,6 +418,8 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "it",
+      "regions": [],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -423,7 +449,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-03T07:10:09+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -432,7 +458,7 @@
           "source_post_id": "PBLN_000000000126963",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -450,6 +476,8 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "it",
+      "regions": [],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -480,7 +508,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-30T21:59:01+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -489,7 +517,7 @@
           "source_post_id": "PBLN_000000000126878",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -507,6 +535,8 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "it",
+      "regions": [],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -536,7 +566,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-30T21:59:01+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -545,7 +575,7 @@
           "source_post_id": "PBLN_000000000126877",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -563,6 +593,10 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "it",
+      "regions": [
+        "경남"
+      ],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -591,7 +625,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-28T23:26:13+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -600,7 +634,7 @@
           "source_post_id": "PBLN_000000000126776",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -618,6 +652,10 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "it",
+      "regions": [
+        "전북"
+      ],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -646,7 +684,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-23T21:05:55+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -655,7 +693,7 @@
           "source_post_id": "PBLN_000000000126739",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -673,6 +711,10 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "it",
+      "regions": [
+        "경북"
+      ],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -702,7 +744,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-22T07:11:22+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -711,7 +753,7 @@
           "source_post_id": "PBLN_000000000126667",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -729,6 +771,8 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "it",
+      "regions": [],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -757,7 +801,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -766,7 +810,7 @@
           "source_post_id": "PBLN_000000000126109",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -784,6 +828,10 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "it",
+      "regions": [
+        "전북"
+      ],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -812,7 +860,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -821,7 +869,7 @@
           "source_post_id": "PBLN_000000000125888",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -839,6 +887,11 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "it",
+      "regions": [
+        "전남",
+        "광주"
+      ],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -868,7 +921,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -877,7 +930,7 @@
           "source_post_id": "PBLN_000000000125775",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -895,6 +948,10 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "it",
+      "regions": [
+        "전북"
+      ],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -923,7 +980,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -932,7 +989,7 @@
           "source_post_id": "PBLN_000000000124433",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -950,6 +1007,11 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "it",
+      "regions": [
+        "전남",
+        "광주"
+      ],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -978,7 +1040,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -987,7 +1049,7 @@
           "source_post_id": "PBLN_000000000117371",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -1005,6 +1067,10 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "it",
+      "regions": [
+        "광주"
+      ],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1033,7 +1099,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1042,7 +1108,7 @@
           "source_post_id": "PBLN_000000000120620",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -1060,6 +1126,8 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "it",
+      "regions": [],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1090,7 +1158,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1099,7 +1167,7 @@
           "source_post_id": "PBLN_000000000123682",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -1117,6 +1185,8 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "it",
+      "regions": [],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1147,7 +1217,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1156,7 +1226,7 @@
           "source_post_id": "PBLN_000000000125089",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -1174,6 +1244,10 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "business",
+      "regions": [
+        "울산"
+      ],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1204,7 +1278,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1213,7 +1287,7 @@
           "source_post_id": "PBLN_000000000122428",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -1231,6 +1305,8 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "business",
+      "regions": [],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1259,7 +1335,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1268,7 +1344,7 @@
           "source_post_id": "PBLN_000000000121231",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -1286,6 +1362,10 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "it",
+      "regions": [
+        "광주"
+      ],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1313,7 +1393,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-07T03:44:26+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1322,7 +1402,7 @@
           "source_post_id": "PBLN_000000000126535",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -1340,6 +1420,8 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "planning_ideas",
+      "regions": [],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1369,7 +1451,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-19T01:42:16+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1378,7 +1460,7 @@
           "source_post_id": "PBLN_000000000124975",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -1396,6 +1478,8 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "it",
+      "regions": [],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1423,7 +1507,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-07T03:44:26+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1432,7 +1516,7 @@
           "source_post_id": "PBLN_000000000124890",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -1450,67 +1534,14 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "business",
+      "regions": [
+        "대구"
+      ],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "대구유성구2026년하반기디지털골목상점참여업소모집공고|기초자치단체|"
-    },
-    {
-      "id": "f77a76d6d5effef008cd",
-      "title": "[대구] 북구 먹거리골목 외식업소 디지털 주문시스템 설치 지원사업 참여업소 모집 재공고",
-      "source_name": "기업마당",
-      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%94%94%EC%A7%80%ED%84%B8&condition=searchPblancNm&condition1=AND&keyword=%EB%94%94%EC%A7%80%ED%84%B8&pblancId=PBLN_000000000123513",
-      "organizer": "기초자치단체",
-      "summary": "기업마당 공개 지원사업 · 경영 · 검색어 디지털. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "경영·지원"
-      ],
-      "audience_tags": [],
-      "status": "unknown",
-      "relevance": {
-        "score": 69,
-        "reasons": [
-          "제목 핵심 키워드: 시스템",
-          "본문·분류 키워드: 시스템",
-          "공고 유형: support",
-          "제목 키워드가 일반 단어뿐: 시스템",
-          "분야 탭: 창업·비즈니스 (경영·지원)"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-10-07T03:44:26+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
-      "sources": [
-        {
-          "source_id": "bizinfo",
-          "source_name": "기업마당",
-          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%94%94%EC%A7%80%ED%84%B8&condition=searchPblancNm&condition1=AND&keyword=%EB%94%94%EC%A7%80%ED%84%B8&pblancId=PBLN_000000000123513",
-          "source_post_id": "PBLN_000000000123513",
-          "kind": "government",
-          "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": null,
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "unknown",
-      "d_day": null,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "domain": "business",
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "대구북구먹거리골목외식업소디지털주문시스템설치지원사업참여업소모집재공고|기초자치단체|"
     },
     {
       "id": "7ff8e601f7286d75c586",
@@ -1535,7 +1566,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1544,7 +1575,7 @@
           "source_post_id": "PBLN_000000000123093",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -1562,6 +1593,10 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "it",
+      "regions": [
+        "제주"
+      ],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1591,7 +1626,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1600,7 +1635,7 @@
           "source_post_id": "PBLN_000000000122609",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -1618,6 +1653,8 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "it",
+      "regions": [],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1646,7 +1683,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1655,7 +1692,7 @@
           "source_post_id": "PBLN_000000000121480",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -1673,10 +1710,69 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "it",
+      "regions": [],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "2026년tv홈쇼핑및데이터홈쇼핑입점지원사업소상공인모집공고|한국중소벤처기업유통원|"
+    },
+    {
+      "id": "ac07cd0f632a8058e071",
+      "title": "2026년 데이터 품질인증 지원사업 공고",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%8D%B0%EC%9D%B4%ED%84%B0&condition=searchPblancNm&condition1=AND&keyword=%EB%8D%B0%EC%9D%B4%ED%84%B0&pblancId=PBLN_000000000120097",
+      "organizer": "한국데이터산업진흥원",
+      "summary": "기업마당 공개 지원사업 · 기술 · 검색어 데이터. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "데이터"
+      ],
+      "audience_tags": [],
+      "status": "unknown",
+      "relevance": {
+        "score": 70,
+        "reasons": [
+          "제목 핵심 키워드: 데이터",
+          "본문·분류 키워드: 데이터",
+          "공고 유형: support"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-10-08T08:02:27+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%8D%B0%EC%9D%B4%ED%84%B0&condition=searchPblancNm&condition1=AND&keyword=%EB%8D%B0%EC%9D%B4%ED%84%B0&pblancId=PBLN_000000000120097",
+          "source_post_id": "PBLN_000000000120097",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-10-08T08:02:27+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": null,
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "unknown",
+      "d_day": null,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "it",
+      "regions": [],
+      "prize_manwon": null,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026년데이터품질인증지원사업공고|한국데이터산업진흥원|"
     },
     {
       "id": "dbd68af8a92ce1f12c56",
@@ -1703,7 +1799,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1712,7 +1808,7 @@
           "source_post_id": "PBLN_000000000119791",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -1730,6 +1826,10 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "planning_ideas",
+      "regions": [
+        "경기"
+      ],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1760,7 +1860,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1769,7 +1869,7 @@
           "source_post_id": "PBLN_000000000120957",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -1787,6 +1887,10 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "planning_ideas",
+      "regions": [
+        "강원"
+      ],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1816,7 +1920,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1825,7 +1929,7 @@
           "source_post_id": "PBLN_000000000120871",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -1843,6 +1947,10 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "it",
+      "regions": [
+        "경북"
+      ],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1871,7 +1979,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1880,7 +1988,7 @@
           "source_post_id": "PBLN_000000000125898",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -1898,6 +2006,10 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "it",
+      "regions": [
+        "경기"
+      ],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1926,7 +2038,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1935,7 +2047,7 @@
           "source_post_id": "PBLN_000000000123023",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -1953,6 +2065,10 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "it",
+      "regions": [
+        "경남"
+      ],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -1981,7 +2097,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1990,7 +2106,7 @@
           "source_post_id": "PBLN_000000000122333",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -2008,6 +2124,8 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "it",
+      "regions": [],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -2036,7 +2154,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-07T03:44:26+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2045,7 +2163,7 @@
           "source_post_id": "PBLN_000000000122104",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -2063,6 +2181,8 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "business",
+      "regions": [],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -2093,7 +2213,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2102,7 +2222,7 @@
           "source_post_id": "PBLN_000000000126686",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -2120,6 +2240,8 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "it",
+      "regions": [],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -2150,7 +2272,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-30T21:59:01+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2159,7 +2281,7 @@
           "source_post_id": "PBLN_000000000121175",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -2177,6 +2299,8 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "it",
+      "regions": [],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
@@ -2207,7 +2331,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-01T07:11:43+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
+      "last_seen_at": "2026-10-08T08:02:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2216,7 +2340,7 @@
           "source_post_id": "PBLN_000000000120707",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
+          "fetched_at": "2026-10-08T08:02:27+09:00"
         }
       ],
       "application_url": null,
@@ -2234,67 +2358,12 @@
       "fee": "unknown",
       "is_adjacent": false,
       "domain": "it",
+      "regions": [],
+      "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "2026년구미시스타트업제작센터참여기업모집공고|구미전자정보기술원|"
-    },
-    {
-      "id": "74c39ccd5dacdf48e622",
-      "title": "[경기] 평택시 청년창업 특례보증 및 이차보전 지원 수정 공고",
-      "source_name": "기업마당",
-      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EC%B0%BD%EC%97%85&condition=searchPblancNm&condition1=AND&keyword=%EC%B0%BD%EC%97%85&pblancId=PBLN_000000000126943",
-      "organizer": "경기신용보증재단",
-      "summary": "기업마당 공개 지원사업 · 금융 · 검색어 창업. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "창업"
-      ],
-      "audience_tags": [
-        "청년"
-      ],
-      "status": "unknown",
-      "relevance": {
-        "score": 70,
-        "reasons": [
-          "제목 핵심 키워드: 창업",
-          "본문·분류 키워드: 창업",
-          "공고 유형: support"
-        ],
-        "decision": "publish"
-      },
-      "first_seen_at": "2026-10-01T15:30:44+09:00",
-      "last_seen_at": "2026-10-07T07:37:45+09:00",
-      "sources": [
-        {
-          "source_id": "bizinfo",
-          "source_name": "기업마당",
-          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EC%B0%BD%EC%97%85&condition=searchPblancNm&condition1=AND&keyword=%EC%B0%BD%EC%97%85&pblancId=PBLN_000000000126943",
-          "source_post_id": "PBLN_000000000126943",
-          "kind": "government",
-          "priority": 80,
-          "fetched_at": "2026-10-07T07:37:45+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": null,
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "unknown",
-      "d_day": null,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "domain": "it",
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "경기평택시청년창업특례보증및이차보전지원수정공고|경기신용보증재단|"
     }
   ]
 }
