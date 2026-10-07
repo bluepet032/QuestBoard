@@ -3,7 +3,9 @@ import { useSearchParams } from 'react-router-dom'
 import { Filters } from '../components/Filters'
 import { OpportunityRow } from '../components/OpportunityRow'
 import { AUTO_REFRESH_LABEL, DEFAULT_DOMAIN, DOMAIN_LABELS, PAGE_SIZE, domainOf } from '../constants'
+import { advancedVerdict, EMPTY_ADVANCED, readAdvanced } from '../advancedFilters'
 import { clearDataCache, loadOpportunities } from '../data'
+import { currentHashParams } from '../urlState'
 import { matchesOpportunity } from '../filtering'
 import { usePersonalState } from '../personal'
 import type { Domain, Opportunity } from '../types'
@@ -38,16 +40,20 @@ export function OpportunityPage({ dataset, title, description }: Props) {
   const reload = () => { clearDataCache(); setReloadKey(key => key + 1) }
 
   const value = (key: string, fallback = '') => params.get(key) || fallback
-  const update = (key: string, next: string) => {
-    const copy = new URLSearchParams(params)
-    if (next) copy.set(key, next); else copy.delete(key)
-    if (key !== 'page') copy.delete('page')
-    // Detail tags belong to one field tab, so a tag picked in another tab would hide everything.
-    if (key === 'domain') copy.delete('field')
+  const updateMany = (changes: Record<string, string>) => {
+    // Start from the live URL, not this render's params (see urlState.ts).
+    const copy = currentHashParams()
+    for (const [key, next] of Object.entries(changes)) {
+      if (next) copy.set(key, next); else copy.delete(key)
+      if (key !== 'page') copy.delete('page')
+      // Detail tags belong to one field tab, so a tag picked in another tab would hide everything.
+      if (key === 'domain') copy.delete('field')
+    }
     setParams(copy, { replace: true })
   }
+  const update = (key: string, next: string) => updateMany({ [key]: next })
   const filters = {
-    domain: value('domain', DEFAULT_DOMAIN), type: value('type', 'all'), quick: value('quick'), search: value('q'), field: value('field'), status: value('status'),
+    domain: value('domain', DEFAULT_DOMAIN), type: value('type', 'all'), advanced: readAdvanced(params), quick: value('quick'), search: value('q'), field: value('field'), status: value('status'),
     sort: value('sort', 'deadline') as Sort, page: Math.max(1, Number(value('page', '1')) || 1),
   }
 
@@ -65,6 +71,11 @@ export function OpportunityPage({ dataset, title, description }: Props) {
     })
   })()
 
+  // Items that pass every other condition but lack the information a detail filter asks for.
+  const unknownHidden = filters.advanced.includeUnknown ? 0 : payload.items.filter(item =>
+    !hidden.has(item.id)
+    && matchesOpportunity(item, { ...filters, advanced: EMPTY_ADVANCED }, { fuzzy })
+    && advancedVerdict(item, filters.advanced) === 'unknown').length
   const totalPages = Math.max(1, Math.ceil(visible.length / PAGE_SIZE))
   const page = Math.min(filters.page, totalPages)
   const pageItems = visible.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE)
@@ -80,7 +91,8 @@ export function OpportunityPage({ dataset, title, description }: Props) {
         <div><p className="eyebrow">{filters.domain === 'all' ? '모든 분야' : DOMAIN_LABELS[filters.domain as Domain] ?? DOMAIN_LABELS.it} · OPPORTUNITIES</p><h1>{title}</h1><p>{description}</p></div>
         <div className="summary-cards" aria-label="공고 요약"><span><strong>{freshness.new}</strong> 신규</span><span><strong>{freshness.updated}</strong> 변경</span><span><strong>{freshness.urgent}</strong> 마감임박</span></div>
       </div>
-      <Filters items={filterItems} {...filters} onChange={update} />
+      <Filters items={filterItems} {...filters} onChange={update} onChangeMany={updateMany} />
+      {unknownHidden > 0 && <p className="search-hint" role="status">선택한 상세 조건의 정보가 없는 공고 {unknownHidden}건은 목록에서 빠져 있습니다. <button type="button" className="text-button" onClick={() => update('unknown', '1')}>함께 보기</button></p>}
       <div className="result-toolbar">
         <p><strong>{visible.length}개</strong> 공고 · {payload.generated ? `${new Date(payload.generated).toLocaleString('ko-KR')} 갱신` : '갱신 정보 없음'} · 자동 갱신 {AUTO_REFRESH_LABEL}<button type="button" className="text-button" onClick={reload} disabled={loading}>다시 불러오기</button></p>
         <label>정렬 <select value={filters.sort} onChange={event => update('sort', event.target.value)}><option value="deadline">마감임박순</option><option value="newest">신규등록순</option><option value="updated">최근갱신순</option><option value="relevance">관련도순</option></select></label>

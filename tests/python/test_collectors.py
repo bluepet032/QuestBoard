@@ -197,9 +197,36 @@ def test_linkareer_server_state_contract():
     cfg = config("linkareer")
     url = "https://example.com/list?page=1"
     markup = '''<script id="__NEXT_DATA__" type="application/json">{"props":{"pageProps":{"__APOLLO_STATE__":{"Activity:42":{"id":"42","title":"AI 게임 해커톤","organizationName":"NHN","recruitCloseAt":1788102000000}}}}}</script>'''
-    item = LinkareerCollector(cfg, FakeClient({url: markup})).collect(NOW, 1)[0]
+    detail = """<script id="__NEXT_DATA__" type="application/json">{"props":{"pageProps":{"__APOLLO_STATE__":{
+      "Activity:42":{"id":"42","title":"AI 게임 해커톤","targets":[{"__ref":"ActivityTarget:2"},{"__ref":"ActivityTarget:4"}],
+        "categories":[{"__ref":"Category:30"}],"regions":[],"tenThousandUnitOfReward":1000,"recruitStartAt":1786806000000,
+        "recruitCloseAt":1788102000000,"managerEmail":"manager@example.com","managerPhoneNumber":"010-0000-0000"},
+      "ActivityTarget:2":{"name":"대학생"},"ActivityTarget:4":{"name":"대상 제한 없음"},"Category:30":{"name":"사진/영상/UCC"}}}}}</script>"""
+    item = LinkareerCollector(cfg, FakeClient({url: markup, "https://linkareer.com/activity/42": detail})).collect(NOW, 1)[0]
     assert item.source_post_id == "42"
     assert item.organizer == "NHN"
+    assert item.eligibility == "대학생, 대상 제한 없음"
+    assert item.original_category == "사진/영상/UCC"
+    assert item.benefits == "상금 1000만원"
+    assert item.recruit_start == "2026-08-16"
+    assert "manager@example.com" not in str(item) and "010-0000-0000" not in str(item)
+
+
+def test_linkareer_keeps_list_data_when_a_detail_page_fails():
+    from pipeline.http import FetchError
+
+    cfg = config("linkareer")
+    url = "https://example.com/list?page=1"
+    markup = '''<script id="__NEXT_DATA__" type="application/json">{"props":{"pageProps":{"__APOLLO_STATE__":{"Activity:42":{"id":"42","title":"AI 게임 해커톤","organizationName":"NHN","recruitCloseAt":1788102000000}}}}}</script>'''
+
+    class DetailDown(FakeClient):
+        def get(self, url, headers=None):
+            if "/activity/" in url:
+                raise FetchError("요청 실패: timed out")
+            return super().get(url, headers)
+
+    item = LinkareerCollector(cfg, DetailDown({url: markup})).collect(NOW, 1)[0]
+    assert (item.title, item.recruit_end, item.eligibility, item.benefits) == ("AI 게임 해커톤", "2026-08-31", "", "")
 
 
 def test_detail_dates_prefer_recruitment_label_over_first_page_date():

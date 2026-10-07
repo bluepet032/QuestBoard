@@ -75,7 +75,8 @@ class ThinkContestCollector(Collector):
                 source_priority=self.config.priority, recruit_start=start, recruit_end=end,
                 date_kind="exact" if end else "unknown",
                 eligibility=clean_text(str(item.get("enter_qualified_nm") or item.get("enter_qualified_limit") or "")),
-                benefits=clean_text(str(item.get("perks") or item.get("prize_money") or "")),
+                # `perks` holds internal codes such as "PERK004"; only the prize money is meaningful.
+                benefits=f"상금 {clean_text(str(item['prize_money']))}" if item.get("prize_money") else "",
                 original_category=category, collected_at=now.isoformat(timespec="seconds"),
             ))
         return results

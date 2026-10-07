@@ -1,7 +1,9 @@
 import { useEffect, useRef, useState } from 'react'
+import { EMPTY_ADVANCED, type AdvancedFilters, type AdvancedKey } from '../advancedFilters'
 import { DOMAIN_LABELS, DOMAINS, QUICK_TAGS, TYPE_LABELS, TYPES } from '../constants'
 import { matchesOpportunity, type OpportunityFilters } from '../filtering'
 import type { Domain, Opportunity, OpportunityType } from '../types'
+import { AdvancedFilterPanel } from './AdvancedFilterPanel'
 
 interface Props extends OpportunityFilters {
   items: Opportunity[]
@@ -11,7 +13,9 @@ interface Props extends OpportunityFilters {
   search: string
   field: string
   status: string
+  advanced?: AdvancedFilters
   onChange: (key: string, value: string) => void
+  onChangeMany?: (changes: Record<string, string>) => void
 }
 
 export function Filters(props: Props) {
@@ -24,12 +28,16 @@ export function Filters(props: Props) {
 
   const filterValues: OpportunityFilters = {
     domain: props.domain, type: props.type, quick: props.quick, search: props.search, field: props.field, status: props.status,
+    advanced: props.advanced,
   }
+  const advanced = props.advanced ?? EMPTY_ADVANCED
+  const countWith = (key: AdvancedKey, value: string) =>
+    props.items.filter(item => matchesOpportunity(item, { ...filterValues, advanced: { ...advanced, [key]: value } })).length
   const domainCount = (domain: Domain | 'all') => props.items.filter(item => matchesOpportunity(item, { ...filterValues, domain })).length
   const counts = (type: OpportunityType | 'all') => props.items.filter(item => matchesOpportunity(item, { ...filterValues, type })).length
   const tagCount = (quick: string) => props.items.filter(item => matchesOpportunity(item, { ...filterValues, quick })).length
   // Detail tags differ by field tab, so only offer the ones present in the selected tab.
-  const fields = [...new Set(props.items.filter(item => matchesOpportunity(item, { ...filterValues, type: 'all', quick: '', search: '', field: '', status: '' })).flatMap(item => item.field_tags))].sort()
+  const fields = [...new Set(props.items.filter(item => matchesOpportunity(item, { ...filterValues, type: 'all', quick: '', search: '', field: '', status: '', advanced: undefined })).flatMap(item => item.field_tags))].sort()
   return (
     <section className="filter-panel" aria-label="공고 검색과 필터">
       <div className="domain-tabs" role="group" aria-label="분야">
@@ -61,6 +69,8 @@ export function Filters(props: Props) {
         <select value={props.field} onChange={event => props.onChange('field', event.target.value)} aria-label="세부 분야"><option value="">모든 세부 분야</option>{fields.map(field => <option key={field}>{field}</option>)}</select>
         <select value={props.status} onChange={event => props.onChange('status', event.target.value)} aria-label="접수 상태"><option value="">모든 상태</option><option value="upcoming">접수예정</option><option value="open">접수중</option><option value="urgent">긴급</option><option value="today">오늘마감</option><option value="ongoing">상시모집</option><option value="closed">마감</option><option value="unknown">날짜 미상</option></select>
       </div>
+      <AdvancedFilterPanel advanced={advanced} countWith={countWith} onChange={props.onChange}
+        onChangeMany={props.onChangeMany ?? (changes => Object.entries(changes).forEach(([key, value]) => props.onChange(key, value)))} />
     </section>
   )
 }

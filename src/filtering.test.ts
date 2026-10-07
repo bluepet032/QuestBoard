@@ -46,4 +46,15 @@ describe('matchesOpportunity', () => {
     expect(matchesOpportunity(item, { ...filters, search: '공모젼' })).toBe(false)
     expect(matchesOpportunity(item, { ...filters, search: '공모젼' }, { fuzzy: true })).toBe(true)
   })
+
+  it('applies detail conditions together with search, tabs and typo tolerance', () => {
+    const seoul = { ...item, id: 'seoul', regions: ['서울'] } satisfies Opportunity
+    const noRegion = { ...item, id: 'none', regions: [] } satisfies Opportunity
+    const advanced = { region: '서울', mode: '', fee: '', audience: '', prize: '', includeUnknown: false }
+    expect(matchesOpportunity(seoul, { ...filters, search: '인디', advanced })).toBe(true)
+    expect(matchesOpportunity(noRegion, { ...filters, search: '인디', advanced })).toBe(false)
+    expect(matchesOpportunity(noRegion, { ...filters, search: '인디', advanced: { ...advanced, includeUnknown: true } })).toBe(true)
+    expect(matchesOpportunity(seoul, { ...filters, search: '인디개임', advanced }, { fuzzy: true })).toBe(true)
+    expect(matchesOpportunity(seoul, { ...filters, domain: 'design_media', advanced })).toBe(false)
+  })
 })

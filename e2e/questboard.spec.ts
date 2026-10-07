@@ -112,3 +112,43 @@ test('weekly digest lists deadlines this week', async ({ page }) => {
   await expect(thisWeek).toContainText('오늘 마감 게임 공모전')
   await expect(thisWeek.locator('.section-heading strong')).toHaveText('1건')
 })
+
+test('advanced filters: unknown items, nationwide notices, reload and reset', async ({ page }) => {
+  const source = (id: string) => ({ source_url: `https://example.com/${id}`, sources: [{ source_id: 'test', source_name: '테스트 출처', source_url: `https://example.com/${id}`, kind: 'official', priority: 100 }] })
+  await routeActive(page, [
+    opportunity({ id: 'seoul', title: '서울 무료 게임 행사', ...source('seoul'), regions: ['서울'], fee: 'free', mode: 'offline' }),
+    opportunity({ id: 'nation', title: '전국 게임 공모전', ...source('nation'), regions: ['전국'], fee: 'free', mode: 'online' }),
+    opportunity({ id: 'busan', title: '부산 게임 행사', ...source('busan'), regions: ['부산'], fee: 'paid', mode: 'offline' }),
+    opportunity({ id: 'nodata', title: '정보 없는 게임 공모전', ...source('nodata'), regions: [], fee: 'unknown', mode: '' }),
+  ])
+  await page.goto('/#/')
+  await expect(page.locator('.result-toolbar strong')).toHaveText('4개')
+
+  await page.getByRole('button', { name: /^상세 조건\s*\d*$/ }).click()
+  await page.getByLabel('지역').selectOption('서울')
+  await expect(page).toHaveURL(/region=%EC%84%9C%EC%9A%B8/)
+  await expect(page.locator('.result-toolbar strong')).toHaveText('2개')
+  await expect(page.locator('.opportunity')).toContainText(['서울 무료 게임 행사', '전국 게임 공모전'])
+  await expect(page.getByText('정보가 없는 공고 1건은 목록에서 빠져 있습니다')).toBeVisible()
+
+  await page.getByLabel('참가비').selectOption('free')
+  await expect(page.locator('.result-toolbar strong')).toHaveText('2개')
+  await page.getByLabel('진행 방식').selectOption('online')
+  await expect(page.locator('.result-toolbar strong')).toHaveText('1개')
+  await expect(page.getByRole('button', { name: /^상세 조건\s*\d*$/ })).toContainText('3')
+
+  await page.getByRole('button', { name: '함께 보기' }).click()
+  await expect(page).toHaveURL(/unknown=1/)
+  await expect(page.locator('.result-toolbar strong')).toHaveText('2개')
+  await expect(page.locator('.opportunity')).toContainText(['전국 게임 공모전', '정보 없는 게임 공모전'])
+
+  await page.reload()
+  await expect(page.getByLabel('지역')).toHaveValue('서울')
+  await expect(page.getByLabel('진행 방식')).toHaveValue('online')
+  await expect(page.getByRole('checkbox', { name: '정보가 없는 공고도 함께 보기' })).toBeChecked()
+  await expect(page.locator('.result-toolbar strong')).toHaveText('2개')
+
+  await page.getByRole('button', { name: '상세 조건 초기화' }).click()
+  await expect(page.locator('.result-toolbar strong')).toHaveText('4개')
+  await expect(page).not.toHaveURL(/region=|mode=|fee=|unknown=/)
+})

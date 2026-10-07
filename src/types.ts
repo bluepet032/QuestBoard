@@ -50,6 +50,10 @@ export interface Opportunity {
   is_adjacent?: boolean
   /** Field tab; data generated before tabs existed has no value and counts as 'it'. */
   domain?: Domain
+  /** Region names from pipeline/facets.py; empty when the source does not say. */
+  regions?: string[]
+  /** Prize in 10,000 won; 0 = prize mentioned without amount, null = no information. */
+  prize_manwon?: number | null
   last_changed_at?: string | null
   change_flags?: string[]
   is_manual_reviewed?: boolean

@@ -7,6 +7,7 @@ from urllib.parse import urlsplit, urlunsplit
 
 from pipeline.classification import assign_domain, classify
 from pipeline.dates import status_for
+from pipeline.facets import extract_facets
 from pipeline.models import Opportunity, RawOpportunity, SourceRecord
 
 
@@ -48,6 +49,7 @@ def summarize(raw: RawOpportunity) -> str:
 def normalize(raw: RawOpportunity, taxonomy: dict, now: datetime) -> Opportunity:
     primary_type, fields, audiences, relevance, adjacent = classify(raw, taxonomy)
     domain, topics, relevance = assign_domain(raw, taxonomy, relevance)
+    facets = extract_facets(raw)
     if domain != "it":
         # IT sub-field tags are noise outside the IT tab; show the field's own topics instead.
         fields = topics
@@ -93,9 +95,11 @@ def normalize(raw: RawOpportunity, taxonomy: dict, now: datetime) -> Opportunity
         eligibility=raw.eligibility[:240],
         benefits=raw.benefits[:240],
         location=raw.location[:120],
-        mode=raw.mode,
-        fee=raw.fee,
+        mode=facets.mode,
+        fee=facets.fee,
         is_adjacent=adjacent,
         domain=domain,  # type: ignore[arg-type]
+        regions=facets.regions,
+        prize_manwon=facets.prize_manwon,
         dedupe_key=dedupe_key,
     )

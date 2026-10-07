@@ -3,6 +3,7 @@ import { Link, useSearchParams } from 'react-router-dom'
 import { OpportunityRow } from '../components/OpportunityRow'
 import { DEFAULT_DOMAIN, DOMAIN_LABELS, DOMAINS } from '../constants'
 import { loadOpportunities } from '../data'
+import { currentHashParams } from '../urlState'
 import { usePersonalState } from '../personal'
 import type { Domain, Opportunity } from '../types'
 import { weeklyDigest, type WeekRange } from '../weekly'
@@ -34,7 +35,7 @@ export function WeeklyPage() {
   const hidden = new Set(personal.hidden)
   const digest = weeklyDigest(items.filter(item => !hidden.has(item.id)), domain)
   const selectDomain = (next: string) => {
-    const copy = new URLSearchParams(params)
+    const copy = currentHashParams()
     copy.set('domain', next)
     setParams(copy, { replace: true })
   }

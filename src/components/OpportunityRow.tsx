@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { STATUS_LABELS, TYPE_LABELS } from '../constants'
 import type { Opportunity, PersonalState } from '../types'
+import { FEE_OPTIONS, MODE_OPTIONS, prizeLabel } from '../advancedFilters'
 import { kindOf, SOURCE_KINDS, sourceTrust } from '../sourceTrust'
 import { dDayLabel, formatDate, isNew, isUpdated } from '../utils'
 
@@ -40,7 +41,10 @@ export function OpportunityRow({ item, personal, onToggle }: Props) {
             <dl>
               <div><dt>참가 대상</dt><dd>{item.eligibility || '원문 확인 필요'}</dd></div>
               <div><dt>혜택·지원</dt><dd>{item.benefits || '원문 확인 필요'}</dd></div>
-              <div><dt>장소·방식</dt><dd>{[item.location, item.mode].filter(Boolean).join(' · ') || '원문 확인 필요'}</dd></div>
+              <div><dt>지역·장소</dt><dd>{item.location || item.regions?.join(', ') || '원문 확인 필요'}</dd></div>
+              <div><dt>진행 방식</dt><dd>{item.mode === 'hybrid' ? '온·오프라인 병행' : MODE_OPTIONS[item.mode ?? ''] ?? '원문 확인 필요'}</dd></div>
+              <div><dt>참가비</dt><dd>{FEE_OPTIONS[item.fee ?? ''] ?? '원문 확인 필요'}</dd></div>
+              <div><dt>상금</dt><dd>{item.prize_manwon === null || item.prize_manwon === undefined ? '원문 확인 필요' : prizeLabel(item.prize_manwon)}</dd></div>
               <div><dt>출처</dt><dd>{item.sources.map(source => `${source.source_name}(${SOURCE_KINDS[kindOf(source)].label})`).join(', ')}</dd></div>
             </dl>
             {trust.kind === 'aggregate' && <p className="trust-note">{trust.description}</p>}

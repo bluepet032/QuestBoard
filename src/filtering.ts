@@ -1,3 +1,4 @@
+import { matchesAdvanced, type AdvancedFilters } from './advancedFilters'
 import { domainOf } from './constants'
 import { buildIndex, matchesSearch, searchTerms, type SearchIndex } from './search'
 import type { Opportunity } from './types'
@@ -10,6 +11,8 @@ export interface OpportunityFilters {
   search: string
   field: string
   status: string
+  /** Optional detail conditions (region, mode, fee, audience, prize). */
+  advanced?: AdvancedFilters
 }
 
 // Items are immutable once loaded, so their search index is built once and reused.
@@ -30,6 +33,7 @@ export function matchesOpportunity(item: Opportunity, filters: OpportunityFilter
   if (filters.quick && !matchesQuickTag(item, filters.quick)) return false
   if (filters.field && !item.field_tags.includes(filters.field)) return false
   if (filters.status && item.status !== filters.status) return false
+  if (filters.advanced && !matchesAdvanced(item, filters.advanced)) return false
 
   const terms = searchTerms(filters.search)
   return !terms.length || matchesSearch(indexOf(item), terms, options.fuzzy)

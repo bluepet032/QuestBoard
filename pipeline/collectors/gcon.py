@@ -49,6 +49,10 @@ class GconCollector(StructuredHtmlCollector):
                     if end and (not start or start <= end):
                         item.recruit_start, item.recruit_end, item.date_kind = start, end, "exact"
                 item.source_post_id = post_id
+                # GCON programs are for Gyeonggi; the generic "대상" label match picks up
+                # unrelated sentences (e.g. exclusion rules), so it is not used as eligibility.
+                item.location = "경기"
+                item.eligibility = ""
                 results.append(item)
                 if len(results) >= limit:
                     return results

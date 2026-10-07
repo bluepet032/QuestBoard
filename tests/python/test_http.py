@@ -5,7 +5,7 @@ from email.message import Message
 import pytest
 
 from pipeline import http
-from pipeline.http import FetchError, HttpClient, RobotsDisallowed
+from pipeline.http import FetchError, HttpClient, RobotsDisallowed, RobotsUnavailable
 
 
 class FakeResponse:
@@ -83,12 +83,34 @@ def test_missing_robots_allows_and_is_fetched_once_per_host(server):
     assert calls.count("https://site.example/robots.txt") == 1
 
 
-def test_unreachable_robots_is_treated_as_full_disallow(server):
-    routes, _, _ = server
+def test_unreachable_robots_is_retried_then_treated_as_full_disallow(server):
+    routes, calls, _ = server
     routes["https://site.example/robots.txt"] = http_error("https://site.example/robots.txt", 503)
 
-    with pytest.raises(RobotsDisallowed):
+    with pytest.raises(RobotsUnavailable, match="확인하지 못해"):
         HttpClient().get("https://site.example/list")
+
+    assert calls.count("https://site.example/robots.txt") == 3
+    assert "https://site.example/list" not in calls
+
+
+def test_robots_timeout_recovers_on_retry(server):
+    routes, calls, _ = server
+    robots = "https://site.example/robots.txt"
+    routes[robots] = [urllib.error.URLError(TimeoutError("timed out")), "User-agent: *\nAllow: /\n"]
+    routes["https://site.example/list"] = "ok"
+
+    assert HttpClient().get("https://site.example/list").text == "ok"
+    assert calls.count(robots) == 2
+
+
+def test_real_disallow_keeps_its_own_message(server):
+    routes, _, _ = server
+    routes["https://site.example/robots.txt"] = "User-agent: *\nDisallow: /\n"
+
+    with pytest.raises(RobotsDisallowed, match="허용하지 않습니다") as raised:
+        HttpClient().get("https://site.example/list")
+    assert not isinstance(raised.value, RobotsUnavailable)
 
 
 def test_requests_to_one_host_are_spaced_by_crawl_delay(server):

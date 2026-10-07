@@ -71,7 +71,7 @@ class EventusCollector(Collector):
                 event_start=parse_date(str(raw_value(record, "start_date", ""))),
                 event_end=parse_date(str(raw_value(record, "close_date", ""))),
                 date_kind="exact" if raw_value(record, "register_due_date") else "unknown",
-                location=clean_text(str(raw_value(record, "area_detail", "") or raw_value(record, "full_address", ""))),
+                location=clean_text(str(raw_value(record, "area_detail", "") or raw_value(record, "full_address", "") or "")),
                 mode=mode,
                 fee="paid" if paid else "free",
                 original_category=category,

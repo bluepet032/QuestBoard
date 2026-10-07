@@ -23,6 +23,9 @@ AUDIENCE_LABELS = {
     "youth": "청년",
     "developer": "개발자",
     "startup": "창업자·기업",
+    "teen": "청소년",
+    "general": "일반인",
+    "anyone": "누구나",
 }
 
 
@@ -74,9 +77,12 @@ def classify(raw: RawOpportunity, taxonomy: dict[str, Any]) -> tuple[str, list[s
         if title_hits:
             title_field_hits.extend(title_hits)
 
+    # Audiences drive the "참가 대상" filter, so they are read only from what the source states
+    # about the notice, not from page body text that may include menus or other notices.
+    stated = normalized(" ".join([raw.title, raw.summary, raw.eligibility, raw.original_category]))
     audience_tags: list[str] = []
     for audience_id, keywords in taxonomy.get("audiences", {}).items():
-        if keyword_matches(combined, keywords):
+        if keyword_matches(stated, keywords):
             audience_tags.append(AUDIENCE_LABELS.get(audience_id, audience_id))
 
     score = 0

@@ -24,6 +24,10 @@ class RobotsDisallowed(FetchError):
     pass
 
 
+class RobotsUnavailable(RobotsDisallowed):
+    """robots.txt could not be read (timeout or 5xx), so the host is treated as off limits."""
+
+
 @dataclass(slots=True)
 class Response:
     url: str
@@ -35,11 +39,14 @@ class Response:
 # Shared across collectors in one pipeline run: robots.txt is read once per host and
 # requests to the same host are spaced out even when several collectors use it.
 _robots: dict[str, RobotFileParser] = {}
+# Hosts whose robots.txt could not be read, with the reason, for a clear error message.
+_robots_unavailable: dict[str, str] = {}
 _last_request: dict[str, float] = {}
 
 
 def reset_host_state() -> None:
     _robots.clear()
+    _robots_unavailable.clear()
     _last_request.clear()
 
 
@@ -74,17 +81,28 @@ class HttpClient:
         if host in _robots:
             return _robots[host]
         parser = RobotFileParser()
-        try:
-            response = self._send(f"{host}/robots.txt", {"User-Agent": USER_AGENT})
-            parser.parse(response.text.splitlines())
-        except urllib.error.HTTPError as error:
-            # RFC 9309: a 4xx robots.txt means no restrictions; 5xx means assume full disallow.
-            if error.code >= 500:
-                parser.disallow_all = True
-            else:
-                parser.allow_all = True
-        except (urllib.error.URLError, TimeoutError):
+        reason = "응답 없음"
+        # Retried like any request: one slow answer from overseas CI runners should not
+        # switch a whole source off for the day.
+        for attempt in range(self.retries):
+            try:
+                self._wait_for_host(f"{host}/robots.txt", 0)
+                response = self._send(f"{host}/robots.txt", {"User-Agent": USER_AGENT})
+                parser.parse(response.text.splitlines())
+                break
+            except urllib.error.HTTPError as error:
+                # RFC 9309: a 4xx robots.txt means no restrictions; 5xx means assume full disallow.
+                if error.code < 500:
+                    parser.allow_all = True
+                    break
+                reason = f"HTTP {error.code}"
+            except (urllib.error.URLError, TimeoutError) as error:
+                reason = str(getattr(error, "reason", error))
+            if attempt + 1 < self.retries:
+                time.sleep(self.delay * (2**attempt))
+        else:
             parser.disallow_all = True
+            _robots_unavailable[host] = reason
         _robots[host] = parser
         return parser
 
@@ -127,6 +145,10 @@ class HttpClient:
         if self.respect_robots:
             robots = self._robots_for(url)
             if not robots.can_fetch(ROBOTS_AGENT, url):
+                parts = urlsplit(url)
+                reason = _robots_unavailable.get(f"{parts.scheme}://{parts.netloc}")
+                if reason:
+                    raise RobotsUnavailable(f"robots.txt를 확인하지 못해 수집하지 않았습니다 ({reason}, {url})")
                 raise RobotsDisallowed(f"robots.txt가 수집을 허용하지 않습니다 ({url})")
             crawl_delay = float(robots.crawl_delay(ROBOTS_AGENT) or 0)
 

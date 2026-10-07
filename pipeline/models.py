@@ -93,6 +93,9 @@ class Opportunity:
     fee: str = "unknown"
     is_adjacent: bool = False
     domain: Domain = "it"
+    # Advanced-filter facts (see pipeline/facets.py). Empty / None means the source did not say.
+    regions: list[str] = field(default_factory=list)
+    prize_manwon: int | None = None
     last_changed_at: str | None = None
     change_flags: list[str] = field(default_factory=list)
     is_manual_reviewed: bool = False
