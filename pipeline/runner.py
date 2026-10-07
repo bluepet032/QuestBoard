@@ -8,6 +8,7 @@ from zoneinfo import ZoneInfo
 from pipeline.collectors.registry import create_collector
 from pipeline.config import ROOT, SourceConfig, load_local_env, load_sources, load_taxonomy
 from pipeline.dedupe import deduplicate
+from pipeline.facets import facet_coverage
 from pipeline.history import clone_opportunity, reconcile_history
 from pipeline.models import CrawlStatus, Opportunity
 from pipeline.normalize import normalize
@@ -69,6 +70,10 @@ def run_pipeline(
             previous.get("collected_count") if previous.get("status") == "success"
             else previous.get("previous_collected_count")
         )
+        coverage_baseline = (
+            previous.get("facet_coverage") if previous.get("status") == "success"
+            else previous.get("previous_facet_coverage")
+        )
         try:
             raw_items = create_collector(source).collect(current, limit=limit)
             normalized_items = [normalize(item, taxonomy, current) for item in raw_items]
@@ -87,6 +92,8 @@ def run_pipeline(
                 consecutive_failures=0,
                 last_success_at=current.isoformat(timespec="seconds"),
                 previous_collected_count=baseline,
+                facet_coverage=facet_coverage(normalized_items),
+                previous_facet_coverage=coverage_baseline,
             ))
         except Exception as error:
             statuses.append(CrawlStatus(
@@ -99,6 +106,7 @@ def run_pipeline(
                 last_success_at=previous.get("last_success_at"),
                 error=str(error)[:500],
                 previous_collected_count=baseline,
+                previous_facet_coverage=coverage_baseline,
             ))
 
     # Preserve untouched data, and keep the last good copy when a selected source fails.

@@ -39,3 +39,17 @@ def test_previous_collected_count_tracks_the_last_successful_run(monkeypatch, tm
     assert second["previous_collected_count"] == 12
     assert failed["previous_collected_count"] == 5
     assert recovered["previous_collected_count"] == 5
+
+
+def test_facet_coverage_is_recorded_and_kept_as_baseline_through_failures(monkeypatch, tmp_path: Path):
+    output = tmp_path / "data"
+
+    first = run_once(monkeypatch, output, 4, 1)
+    failed = run_once(monkeypatch, output, None, 2)
+    recovered = run_once(monkeypatch, output, 4, 3)
+
+    assert set(first["facet_coverage"]) == {"region", "mode", "fee", "audience", "prize"}
+    assert first["previous_facet_coverage"] is None
+    assert failed["facet_coverage"] is None
+    assert failed["previous_facet_coverage"] == first["facet_coverage"]
+    assert recovered["previous_facet_coverage"] == first["facet_coverage"]

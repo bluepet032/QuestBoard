@@ -80,6 +80,9 @@ export interface CrawlStatus {
   last_success_at?: string | null
   error?: string | null
   previous_collected_count?: number | null
+  /** Share (0–1) of collected items carrying each advanced-filter fact; absent before it was recorded. */
+  facet_coverage?: Partial<Record<'region' | 'mode' | 'fee' | 'audience' | 'prize', number>> | null
+  previous_facet_coverage?: Partial<Record<'region' | 'mode' | 'fee' | 'audience' | 'prize', number>> | null
 }
 
 export interface PersonalState {

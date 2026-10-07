@@ -51,3 +51,21 @@ def test_field_tab_items_may_publish_below_the_it_threshold_but_need_a_known_dom
 
     assert not any("[0]: 공개 점수" in error for error in errors)
     assert any("[1]: 분야(domain)" in error for error in errors)
+
+
+def test_source_facet_coverage_must_be_known_shares(tmp_path: Path):
+    data_dir = tmp_path / "data"
+    copytree(Path("public/data"), data_dir)
+    path = data_dir / "sources.json"
+    payload = json.loads(path.read_text(encoding="utf-8"))
+    payload["items"][0]["facet_coverage"] = {"region": 0.5, "prize": 1.0}
+    payload["items"][1]["facet_coverage"] = {"region": 1.5}
+    payload["items"][2]["previous_facet_coverage"] = {"weather": 0.5}
+    path.write_text(json.dumps(payload, ensure_ascii=False), encoding="utf-8")
+
+    errors = [error for error in validate_payloads(data_dir) if "coverage" in error]
+
+    assert errors == [
+        "sources.json[1]: facet_coverage는 필터별 0~1 비율이어야 합니다",
+        "sources.json[2]: previous_facet_coverage는 필터별 0~1 비율이어야 합니다",
+    ]

@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react'
-import { EMPTY_ADVANCED, type AdvancedFilters, type AdvancedKey } from '../advancedFilters'
+import { advancedCoverage, EMPTY_ADVANCED, type AdvancedFilters, type AdvancedKey } from '../advancedFilters'
 import { DOMAIN_LABELS, DOMAINS, QUICK_TAGS, TYPE_LABELS, TYPES } from '../constants'
 import { matchesOpportunity, type OpportunityFilters } from '../filtering'
 import type { Domain, Opportunity, OpportunityType } from '../types'
@@ -33,6 +33,8 @@ export function Filters(props: Props) {
   const advanced = props.advanced ?? EMPTY_ADVANCED
   const countWith = (key: AdvancedKey, value: string) =>
     props.items.filter(item => matchesOpportunity(item, { ...filterValues, advanced: { ...advanced, [key]: value } })).length
+  // Coverage is measured on what the other (non-detail) filters leave, so it describes the current view.
+  const coverage = advancedCoverage(props.items.filter(item => matchesOpportunity(item, { ...filterValues, advanced: undefined })))
   const domainCount = (domain: Domain | 'all') => props.items.filter(item => matchesOpportunity(item, { ...filterValues, domain })).length
   const counts = (type: OpportunityType | 'all') => props.items.filter(item => matchesOpportunity(item, { ...filterValues, type })).length
   const tagCount = (quick: string) => props.items.filter(item => matchesOpportunity(item, { ...filterValues, quick })).length
@@ -69,7 +71,7 @@ export function Filters(props: Props) {
         <select value={props.field} onChange={event => props.onChange('field', event.target.value)} aria-label="세부 분야"><option value="">모든 세부 분야</option>{fields.map(field => <option key={field}>{field}</option>)}</select>
         <select value={props.status} onChange={event => props.onChange('status', event.target.value)} aria-label="접수 상태"><option value="">모든 상태</option><option value="upcoming">접수예정</option><option value="open">접수중</option><option value="urgent">긴급</option><option value="today">오늘마감</option><option value="ongoing">상시모집</option><option value="closed">마감</option><option value="unknown">날짜 미상</option></select>
       </div>
-      <AdvancedFilterPanel advanced={advanced} countWith={countWith} onChange={props.onChange}
+      <AdvancedFilterPanel advanced={advanced} countWith={countWith} coverage={coverage} onChange={props.onChange}
         onChangeMany={props.onChangeMany ?? (changes => Object.entries(changes).forEach(([key, value]) => props.onChange(key, value)))} />
     </section>
   )

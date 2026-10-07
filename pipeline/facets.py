@@ -12,7 +12,8 @@ from __future__ import annotations
 import re
 from dataclasses import dataclass, field
 
-from pipeline.models import RawOpportunity
+from pipeline.classification import AUDIENCE_LABELS
+from pipeline.models import Opportunity, RawOpportunity
 
 
 NATIONWIDE = "전국"
@@ -172,3 +173,32 @@ def extract_facets(raw: RawOpportunity) -> Facets:
             fee = "paid"
 
     return Facets(regions=regions, mode=mode, fee=fee, prize_manwon=prize_from(raw))
+
+
+# Keys match the site's advanced filters (src/advancedFilters.ts).
+FACET_KEYS = ("region", "mode", "fee", "audience", "prize")
+AUDIENCE_NAMES = frozenset(AUDIENCE_LABELS.values())
+
+
+def has_facet(item: Opportunity, key: str) -> bool:
+    """Whether ``item`` states the fact behind one advanced filter."""
+
+    if key == "region":
+        return bool(item.regions)
+    if key == "mode":
+        return item.mode in {"online", "offline", "hybrid"}
+    if key == "fee":
+        return item.fee in {"free", "paid"}
+    if key == "audience":
+        return not AUDIENCE_NAMES.isdisjoint(item.audience_tags)
+    if key == "prize":
+        return item.prize_manwon is not None
+    raise ValueError(f"unknown facet: {key}")
+
+
+def facet_coverage(items: list[Opportunity]) -> dict[str, float] | None:
+    """Share of ``items`` that carry each advanced-filter fact, or None without items."""
+
+    if not items:
+        return None
+    return {key: round(sum(has_facet(item, key) for item in items) / len(items), 3) for key in FACET_KEYS}

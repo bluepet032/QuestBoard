@@ -132,6 +132,10 @@ class CrawlStatus:
     error: str | None = None
     # Item count of the previous successful run, used to detect sudden collection drops.
     previous_collected_count: int | None = None
+    # Share of collected items carrying each advanced-filter fact (pipeline/facets.py), and
+    # the same for the previous successful run, used to detect a collector losing a field.
+    facet_coverage: dict[str, float] | None = None
+    previous_facet_coverage: dict[str, float] | None = None
 
     def to_dict(self) -> dict[str, Any]:
         return asdict(self)

@@ -18,6 +18,7 @@ export const EMPTY_ADVANCED: AdvancedFilters = { region: '', mode: '', fee: '', 
 /** URL parameter for each filter; `unknown=1` includes items without the information. */
 export const ADVANCED_PARAMS = { region: 'region', mode: 'mode', fee: 'fee', audience: 'aud', prize: 'prize' } as const
 export type AdvancedKey = keyof typeof ADVANCED_PARAMS
+export const ADVANCED_LABELS: Record<AdvancedKey, string> = { region: '지역', mode: '진행 방식', fee: '참가비', audience: '참가 대상', prize: '상금' }
 
 export const NATIONWIDE = '전국'
 export const REGION_OPTIONS = ['서울', '부산', '대구', '인천', '광주', '대전', '울산', '세종', '경기', '강원', '충북', '충남', '전북', '전남', '경북', '경남', '제주']
@@ -62,6 +63,35 @@ function prizeVerdict(item: Opportunity, prize: string): Verdict {
   if (amount === 0) return 'unknown'
   return amount >= Number(prize) ? 'match' : 'mismatch'
 }
+
+/** Whether the item carries the fact behind a filter at all, whatever value is chosen. */
+export function hasAdvancedInfo(item: Opportunity, key: AdvancedKey): boolean {
+  switch (key) {
+    case 'region': return Boolean(item.regions?.length)
+    case 'mode': return item.mode === 'online' || item.mode === 'offline' || item.mode === 'hybrid'
+    case 'fee': return item.fee === 'free' || item.fee === 'paid'
+    case 'audience': return item.audience_tags.some(tag => tag === OPEN_TO_ALL || AUDIENCE_OPTIONS.includes(tag))
+    case 'prize': return item.prize_manwon !== undefined && item.prize_manwon !== null
+  }
+}
+
+/** Below this share of items with the information, a filter is folded away as unreliable. */
+export const SPARSE_COVERAGE = 0.2
+
+/** Share (0–1) of ``items`` carrying each filter's fact; null when there are no items. */
+export function advancedCoverage(items: Opportunity[]): Record<AdvancedKey, number> | null {
+  if (!items.length) return null
+  const keys = Object.keys(ADVANCED_PARAMS) as AdvancedKey[]
+  return Object.fromEntries(keys.map(key => [key, items.filter(item => hasAdvancedInfo(item, key)).length / items.length])) as Record<AdvancedKey, number>
+}
+
+export function coveragePercent(share: number): string {
+  // A handful of items should not read as 0% (or a near-complete set as 100%).
+  if (share > 0 && share < 0.01) return '1% 미만'
+  return `${share < 1 ? Math.min(99, Math.round(share * 100)) : 100}%`
+}
+
+export const coverageLabel = (share: number) => `정보 있는 공고 ${coveragePercent(share)}`
 
 const CHECKS: Record<AdvancedKey, (item: Opportunity, value: string) => Verdict> = {
   region: regionVerdict, mode: modeVerdict, fee: feeVerdict, audience: audienceVerdict, prize: prizeVerdict,

@@ -18,8 +18,8 @@ const items: Opportunity[] = [
   { ...base, id: 'unknown' },
 ]
 
-const renderFilters = (advanced = EMPTY_ADVANCED, handlers = { onChange: vi.fn(), onChangeMany: vi.fn() }) => {
-  render(<Filters items={items} domain="all" type="all" quick="" search="" field="" status="" advanced={advanced} {...handlers} />)
+const renderFilters = (advanced = EMPTY_ADVANCED, handlers = { onChange: vi.fn(), onChangeMany: vi.fn() }, list = items) => {
+  render(<Filters items={list} domain="all" type="all" quick="" search="" field="" status="" advanced={advanced} {...handlers} />)
   return handlers
 }
 
@@ -48,6 +48,36 @@ describe('advanced filter panel', () => {
     const prize = within(screen.getByLabelText('상금'))
     expect(prize.getByRole('option', { name: '상금 있음 (2)' })).toBeInTheDocument()
     expect(prize.getByRole('option', { name: '500만원 이상 (1)' })).toBeInTheDocument()
+  })
+
+  it('shows the share of items in view that carry each fact', () => {
+    renderFilters()
+    fireEvent.click(screen.getByRole('button', { name: /^상세 조건\s*\d*$/ }))
+    const coverageOf = (label: string) => screen.getByLabelText(label).closest('label')?.querySelector('.advanced-coverage')
+    expect(coverageOf('지역')).toHaveTextContent('정보 있는 공고 75%')
+    expect(coverageOf('진행 방식')).toHaveTextContent('정보 있는 공고 25%')
+    expect(coverageOf('상금')).toHaveTextContent('정보 있는 공고 50%')
+    expect(screen.queryByText(/정보가 적은 조건/)).toBeNull()
+  })
+
+  it('folds filters few items can answer, but keeps an active one in place', () => {
+    const sparseItems: Opportunity[] = [
+      { ...base, id: 'a', regions: ['서울'], audience_tags: ['대학생'], prize_manwon: 100 },
+      ...Array.from({ length: 9 }, (_, index) => ({ ...base, id: `b${index}`, regions: ['부산'], audience_tags: ['대학생'], prize_manwon: 50 })),
+      { ...base, id: 'c', regions: ['경기'], audience_tags: ['청년'], prize_manwon: 10, mode: 'online', fee: 'free' },
+    ]
+    renderFilters(EMPTY_ADVANCED, undefined, sparseItems)
+    fireEvent.click(screen.getByRole('button', { name: /^상세 조건\s*\d*$/ }))
+    const fold = screen.getByText('정보가 적은 조건 2개 (진행 방식, 참가비)').closest('details')
+    expect(fold).not.toHaveAttribute('open')
+    expect(fold).toContainElement(screen.getByLabelText('진행 방식'))
+    expect(fold).toContainElement(screen.getByLabelText('참가비'))
+    expect(fold).not.toContainElement(screen.getByLabelText('지역'))
+    cleanup()
+
+    renderFilters({ ...EMPTY_ADVANCED, fee: 'free' }, undefined, sparseItems)
+    expect(screen.getByText('정보가 적은 조건 1개 (진행 방식)')).toBeInTheDocument()
+    expect(screen.getByLabelText('참가비').closest('details')).toBeNull()
   })
 
   it('reports changes with the URL parameter names', () => {

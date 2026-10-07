@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { advancedVerdict, EMPTY_ADVANCED, matchesAdvanced, prizeLabel, readAdvanced, type AdvancedFilters } from './advancedFilters'
+import { advancedCoverage, advancedVerdict, coverageLabel, EMPTY_ADVANCED, hasAdvancedInfo, matchesAdvanced, prizeLabel, readAdvanced, type AdvancedFilters } from './advancedFilters'
 import type { Opportunity } from './types'
 
 const item = (overrides: Partial<Opportunity> = {}) => ({
@@ -82,6 +82,32 @@ describe('advanced filters', () => {
     expect(parsed).toEqual({ region: '서울', mode: 'online', fee: 'free', audience: '청소년', prize: '500', includeUnknown: true })
     const junk = readAdvanced(new URLSearchParams('region=화성&mode=both&fee=0&aud=x&prize=7&unknown=yes'))
     expect(junk).toEqual(EMPTY_ADVANCED)
+  })
+
+  it('knows which items carry each filter fact, whatever value would be chosen', () => {
+    expect(hasAdvancedInfo(item({ regions: ['전국'] }), 'region')).toBe(true)
+    expect(hasAdvancedInfo(item({ regions: undefined }), 'region')).toBe(false)
+    expect(hasAdvancedInfo(item({ mode: 'hybrid' }), 'mode')).toBe(true)
+    expect(hasAdvancedInfo(item({ fee: 'unknown' }), 'fee')).toBe(false)
+    expect(hasAdvancedInfo(item({ audience_tags: ['누구나'] }), 'audience')).toBe(true)
+    // Other audience tags (e.g. 공무원) are not filter options and say nothing the filter can use.
+    expect(hasAdvancedInfo(item({ audience_tags: ['공무원'] }), 'audience')).toBe(false)
+    expect(hasAdvancedInfo(item({ prize_manwon: 0 }), 'prize')).toBe(true)
+    expect(hasAdvancedInfo(item({ prize_manwon: undefined }), 'prize')).toBe(false)
+  })
+
+  it('measures the share of items with each fact', () => {
+    const coverage = advancedCoverage([item({ regions: ['서울'], fee: 'free' }), item({ regions: ['부산'] }), item(), item()])
+    expect(coverage).toEqual({ region: 0.5, mode: 0, fee: 0.25, audience: 0, prize: 0 })
+    expect(advancedCoverage([])).toBeNull()
+  })
+
+  it('labels coverage without rounding a few items to 0% or most items to 100%', () => {
+    expect(coverageLabel(0.04)).toBe('정보 있는 공고 4%')
+    expect(coverageLabel(0.004)).toBe('정보 있는 공고 1% 미만')
+    expect(coverageLabel(0)).toBe('정보 있는 공고 0%')
+    expect(coverageLabel(0.998)).toBe('정보 있는 공고 99%')
+    expect(coverageLabel(1)).toBe('정보 있는 공고 100%')
   })
 
   it('labels prize amounts', () => {

@@ -125,6 +125,14 @@ test('advanced filters: unknown items, nationwide notices, reload and reset', as
   await expect(page.locator('.result-toolbar strong')).toHaveText('4개')
 
   await page.getByRole('button', { name: /^상세 조건\s*\d*$/ }).click()
+  const field = (label: string) => page.locator('.advanced-field').filter({ has: page.getByLabel(label) })
+  await expect(field('지역').locator('.advanced-coverage')).toHaveText('정보 있는 공고 75%')
+  // No test item states a prize, so that filter is folded away until opened.
+  await expect(page.locator('.advanced-sparse summary')).toHaveText('정보가 적은 조건 1개 (상금)')
+  await expect(page.getByLabel('상금')).toBeHidden()
+  await page.locator('.advanced-sparse summary').click()
+  await expect(page.getByLabel('상금')).toBeVisible()
+
   await page.getByLabel('지역').selectOption('서울')
   await expect(page).toHaveURL(/region=%EC%84%9C%EC%9A%B8/)
   await expect(page.locator('.result-toolbar strong')).toHaveText('2개')

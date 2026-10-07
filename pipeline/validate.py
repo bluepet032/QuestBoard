@@ -7,6 +7,7 @@ from urllib.parse import urlsplit
 
 from pipeline import SCHEMA_VERSION
 from pipeline.config import ROOT
+from pipeline.facets import FACET_KEYS
 from pipeline.models import Opportunity
 from pipeline.storage import read_payload
 
@@ -25,6 +26,15 @@ def valid_http_url(value: str | None) -> bool:
         return True
     parts = urlsplit(value)
     return parts.scheme in {"http", "https"} and bool(parts.netloc)
+
+
+def valid_coverage(value: object) -> bool:
+    if value is None:
+        return True
+    return isinstance(value, dict) and all(
+        key in FACET_KEYS and isinstance(share, (int, float)) and not isinstance(share, bool) and 0 <= share <= 1
+        for key, share in value.items()
+    )
 
 
 def validate_payloads(data_dir: Path) -> list[str]:
@@ -53,6 +63,9 @@ def validate_payloads(data_dir: Path) -> list[str]:
             for index, item in enumerate(payload["items"]):
                 if not item.get("source_id") or item.get("status") not in {"success", "failed", "skipped"}:
                     errors.append(f"{filename}[{index}]: 출처 상태 필드가 올바르지 않습니다")
+                for key in ("facet_coverage", "previous_facet_coverage"):
+                    if not valid_coverage(item.get(key)):
+                        errors.append(f"{filename}[{index}]: {key}는 필터별 0~1 비율이어야 합니다")
             continue
         for index, data in enumerate(payload["items"]):
             leaked = [key for key in FORBIDDEN_ITEM_KEYS if key in data]

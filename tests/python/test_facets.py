@@ -1,11 +1,15 @@
 """Facet extraction cases taken from real collected titles and fields (2026-10)."""
 
+from datetime import datetime
+from zoneinfo import ZoneInfo
+
 import pytest
 
 from pipeline.classification import classify
 from pipeline.config import load_taxonomy
-from pipeline.facets import extract_facets, parse_manwon, regions_from_location, regions_from_title
+from pipeline.facets import extract_facets, facet_coverage, parse_manwon, regions_from_location, regions_from_title
 from pipeline.models import RawOpportunity
+from pipeline.normalize import normalize
 
 
 def raw(**values) -> RawOpportunity:
@@ -136,3 +140,17 @@ def test_audiences_are_not_read_from_page_body_text():
     # GCON pages mention 청년·개발자 in menus and other notices; a company matching event got both.
     tags = audiences(title="2026년 경기게임커넥트 비즈매칭 참가사 모집", body_text="사이트 메뉴 누구나 청소년 일반인 청년 개발자 대학생")
     assert tags == []
+
+
+def test_facet_coverage_counts_items_that_state_each_fact():
+    taxonomy = load_taxonomy()
+    now = datetime(2026, 10, 7, tzinfo=ZoneInfo("Asia/Seoul"))
+    items = [
+        normalize(raw(source_url="https://example.com/1", title="[서울] AI 해커톤 (온라인 진행)", benefits="상금 300만원", eligibility="대학생"), taxonomy, now),
+        normalize(raw(source_url="https://example.com/2", title="게임 공모전", fee="free"), taxonomy, now),
+        normalize(raw(source_url="https://example.com/3", title="데이터 경진대회"), taxonomy, now),
+        normalize(raw(source_url="https://example.com/4", title="개발 행사"), taxonomy, now),
+    ]
+
+    assert facet_coverage(items) == {"region": 0.25, "mode": 0.25, "fee": 0.25, "audience": 0.25, "prize": 0.25}
+    assert facet_coverage([]) is None
