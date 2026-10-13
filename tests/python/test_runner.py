@@ -53,3 +53,67 @@ def test_facet_coverage_is_recorded_and_kept_as_baseline_through_failures(monkey
     assert failed["facet_coverage"] is None
     assert failed["previous_facet_coverage"] == first["facet_coverage"]
     assert recovered["previous_facet_coverage"] == first["facet_coverage"]
+
+
+def test_recent_deadlines_survive_missing_posts_and_newer_copies_win(monkeypatch, tmp_path: Path):
+    records = [RawOpportunity(
+        source_id="wevity", source_name="위비티", source_post_id="archive-case",
+        source_url="https://example.com/archive-case", title="AI 게임 공모전",
+        recruit_end="2026-10-13", date_kind="exact",
+    )]
+
+    class Collector:
+        def collect(self, now, limit=150):
+            return records
+
+    monkeypatch.setattr(runner, "create_collector", lambda source: Collector())
+    monkeypatch.setattr(runner, "manual_items", lambda taxonomy, now: [])
+    output = tmp_path / "data"
+    kst = ZoneInfo("Asia/Seoul")
+    first, _ = runner.run_pipeline(output_dir=output, names={"wevity"}, now=datetime(2026, 10, 13, 3, tzinfo=kst))
+    old_id, first_seen, last_seen = first[0].id, first[0].first_seen_at, first[0].last_seen_at
+
+    records.clear()
+    runner.run_pipeline(output_dir=output, names={"wevity"}, now=datetime(2026, 10, 14, 3, tzinfo=kst))
+    closed = json.loads((output / "closed.json").read_text(encoding="utf-8"))["items"]
+    assert len(closed) == 1
+    assert (closed[0]["id"], closed[0]["status"], closed[0]["d_day"]) == (old_id, "closed", -1)
+    assert (closed[0]["first_seen_at"], closed[0]["last_seen_at"]) == (first_seen, last_seen)
+
+    records.append(RawOpportunity(
+        source_id="wevity", source_name="위비티", source_post_id="archive-case",
+        source_url="https://example.com/archive-case", title="AI 게임 공모전",
+        recruit_end="2026-10-30", date_kind="exact",
+    ))
+    reopened, _ = runner.run_pipeline(output_dir=output, names={"wevity"}, now=datetime(2026, 10, 15, 3, tzinfo=kst))
+    assert len(reopened) == 1
+    assert reopened[0].id == old_id and reopened[0].recruit_end == "2026-10-30"
+    assert json.loads((output / "closed.json").read_text(encoding="utf-8"))["items"] == []
+
+    records.clear()
+    expired, _ = runner.run_pipeline(output_dir=output, names={"wevity"}, now=datetime(2027, 2, 1, 3, tzinfo=kst))
+    assert expired == []
+
+
+def test_archived_notices_still_obey_manual_exclusions(monkeypatch, tmp_path: Path):
+    run_once(monkeypatch, tmp_path / "data", 1, 1)
+    manual = tmp_path / "manual"
+    manual.mkdir()
+    (manual / "exclusions.yml").write_text("source_urls: ['https://example.com/0']\n", encoding="utf-8")
+    (manual / "overrides.yml").write_text("items: []\n", encoding="utf-8")
+    from pipeline.overrides import apply_overrides
+
+    monkeypatch.setattr(runner, "apply_overrides", lambda items, now: apply_overrides(items, manual_dir=manual, now=now))
+    monkeypatch.setattr(runner, "create_collector", lambda source: FakeCollector(0))
+    items, _ = runner.run_pipeline(output_dir=tmp_path / "data", names={"wevity"}, now=datetime(2027, 1, 1, tzinfo=ZoneInfo("Asia/Seoul")))
+    assert items == []
+
+
+def test_partial_run_keeps_untouched_source_status(monkeypatch, tmp_path: Path):
+    output = tmp_path / "data"
+    previous = run_once(monkeypatch, output, 4, 1)
+    assert previous["new_count"] == 4
+    monkeypatch.setattr(runner, "create_collector", lambda source: FakeCollector(0))
+    _, statuses = runner.run_pipeline(output_dir=output, names={"dev_event"}, now=datetime(2026, 10, 2, tzinfo=ZoneInfo("Asia/Seoul")))
+    current = next(status for status in statuses if status.source_id == "wevity")
+    assert current.to_dict() == previous

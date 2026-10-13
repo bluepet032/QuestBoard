@@ -83,6 +83,19 @@ const routeActive = (page: import('@playwright/test').Page, items: unknown[]) =>
   body: JSON.stringify({ schema_version: 1, generated_at: '2026-07-30T12:00:00+09:00', items }),
 }))
 
+test('opening the same notice twice keeps the read state after reload', async ({ page }) => {
+  await routeActive(page, [opportunity({})])
+  await page.context().route('https://example.com/contest', route => route.fulfill({ body: '공고 원문' }))
+  await page.goto('/#/')
+  const link = page.getByRole('link', { name: 'AI 인디게임 공모전', exact: true })
+  await link.click()
+  await expect(page.locator('.opportunity')).toHaveClass(/is-read/)
+  await link.click()
+  await expect(page.locator('.opportunity')).toHaveClass(/is-read/)
+  await page.reload()
+  await expect(page.locator('.opportunity')).toHaveClass(/is-read/)
+})
+
 test('field tabs, typo-tolerant search and source badges', async ({ page }) => {
   await routeActive(page, [
     opportunity({}),

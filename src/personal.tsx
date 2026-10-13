@@ -196,7 +196,26 @@ export function PersonalProvider({ children }: { children: ReactNode }) {
   }, [userId])
 
   const currentUserData = userId !== '' && dataUserId === userId
-  const currentFavorites = useMemo(() => currentUserData ? favorites : [], [currentUserData, favorites])
+  const currentFavorites = useMemo(() => {
+    if (!currentUserData) return []
+    const latestItems = new Map(publishedItems.map(item => [item.id, item]))
+    const latestByUrl = new Map<string, Opportunity>()
+    for (const item of publishedItems) {
+      latestByUrl.set(item.source_url, item)
+      for (const source of item.sources) latestByUrl.set(source.source_url, item)
+    }
+    return favorites.map(saved => {
+      let latest = latestItems.get(saved.item.id) || latestByUrl.get(saved.item.source_url)
+      if (!latest) {
+        for (const source of saved.item.sources ?? []) {
+          latest = latestByUrl.get(source.source_url)
+          if (latest) break
+        }
+      }
+      if (latest) return { ...saved, item: latest }
+      return saved
+    })
+  }, [currentUserData, favorites, publishedItems])
   const currentKeywords = useMemo(() => currentUserData ? keywords : [], [currentUserData, keywords])
   const currentNotifications = useMemo(() => currentUserData ? notifications : [], [currentUserData, notifications])
 
@@ -207,24 +226,33 @@ export function PersonalProvider({ children }: { children: ReactNode }) {
       return
     }
     let active = true
-    setPublishedReady(false)
-    Promise.all([
-      loadOpportunities('active'),
-      loadOpportunities('undated'),
-      loadOpportunities('closed'),
-    ]).then(payloads => {
-      if (!active) return
-      const unique = new Map<string, Opportunity>()
-      for (const payload of payloads) for (const item of payload.items) unique.set(item.id, item)
-      setPublishedItems([...unique.values()])
-      setPublishedReady(true)
-    }).catch(reason => {
-      if (active) {
-        setError(reason instanceof Error ? reason.message : '맞춤 공고를 불러오지 못했습니다.')
+    let request = 0
+    const load = () => {
+      const currentRequest = ++request
+      setPublishedReady(false)
+      Promise.all([
+        loadOpportunities('active'),
+        loadOpportunities('undated'),
+        loadOpportunities('closed'),
+      ]).then(payloads => {
+        if (!active || currentRequest !== request) return
+        const unique = new Map<string, Opportunity>()
+        for (const payload of payloads) for (const item of payload.items) unique.set(item.id, item)
+        setPublishedItems([...unique.values()])
         setPublishedReady(true)
-      }
-    })
-    return () => { active = false }
+      }).catch(reason => {
+        if (active && currentRequest === request) {
+          setError(reason instanceof Error ? reason.message : '맞춤 공고를 불러오지 못했습니다.')
+          setPublishedReady(true)
+        }
+      })
+    }
+    load()
+    window.addEventListener('questboard-data-refresh', load)
+    return () => {
+      active = false
+      window.removeEventListener('questboard-data-refresh', load)
+    }
   }, [userId, dataUserId, storeReady])
 
   useEffect(() => {
@@ -304,14 +332,14 @@ export function PersonalProvider({ children }: { children: ReactNode }) {
 
   const state = useMemo(() => ({
     ...local,
-    favorites: userId ? currentFavorites.map(value => value.id) : local.favorites,
+    favorites: userId ? currentFavorites.map(value => value.item.id) : local.favorites,
   }), [local, userId, currentFavorites])
 
   const toggle = useCallback((bucket: 'favorites' | 'read' | 'hidden', id: string, item?: Opportunity) => {
     if (bucket !== 'favorites') {
       setLocal(current => {
         const values = new Set(current[bucket])
-        if (values.has(id)) values.delete(id)
+        if (bucket === 'hidden' && values.has(id)) values.delete(id)
         else values.add(id)
         return { ...current, [bucket]: [...values] }
       })
@@ -321,9 +349,9 @@ export function PersonalProvider({ children }: { children: ReactNode }) {
       openLogin()
       return
     }
-    const existing = currentFavorites.some(value => value.id === id)
+    const existing = currentFavorites.find(value => value.id === id || value.item.id === id)
     if (existing) {
-      void deleteDoc(doc(db, 'users', userId, 'favorites', documentId(id))).catch(reason => setError(reason.message || '찜을 해제하지 못했습니다.'))
+      void deleteDoc(doc(db, 'users', userId, 'favorites', existing.id)).catch(reason => setError(reason.message || '찜을 해제하지 못했습니다.'))
       return
     }
     if (!item) return

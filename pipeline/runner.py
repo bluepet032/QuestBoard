@@ -8,8 +8,9 @@ from zoneinfo import ZoneInfo
 from pipeline.collectors.registry import create_collector
 from pipeline.config import ROOT, SourceConfig, load_local_env, load_sources, load_taxonomy
 from pipeline.dedupe import deduplicate
+from pipeline.dates import months_ago, parse_iso_date, status_for
 from pipeline.facets import facet_coverage
-from pipeline.history import clone_opportunity, reconcile_history
+from pipeline.history import clone_opportunity, identity_keys, reconcile_history
 from pipeline.models import CrawlStatus, Opportunity
 from pipeline.normalize import normalize
 from pipeline.overrides import apply_overrides, manual_items
@@ -109,13 +110,22 @@ def run_pipeline(
                 previous_facet_coverage=coverage_baseline,
             ))
 
-    # Preserve untouched data, and keep the last good copy when a selected source fails.
+    # Keep recent closed notices as history without replacing freshly collected copies.
     selected_ids = {source.id for source in selected_sources(sources, schedule, effective_names)}
     failed_ids = {status.source_id for status in statuses if status.status == "failed"}
+    fresh_keys = {key for item in opportunities for key in identity_keys(item)}
+    cutoff = months_ago(current, 3)
     for item in old_opportunities:
         source_ids = {record.source_id for record in item.sources}
         active_source_ids = source_ids & enabled_ids
-        if active_source_ids and (active_source_ids.isdisjoint(selected_ids) or active_source_ids & failed_ids):
+        status, d_day = status_for(item.recruit_start, item.recruit_end, item.date_kind, current)
+        end = parse_iso_date(item.recruit_end)
+        recent_closed = status == "closed" and end is not None and end >= cutoff
+        if active_source_ids and (
+            active_source_ids.isdisjoint(selected_ids) or active_source_ids & failed_ids
+            or (recent_closed and identity_keys(item).isdisjoint(fresh_keys))
+        ):
+            item.status, item.d_day = status, d_day
             opportunities.append(item)
     for source_id, item in old_statuses.items():
         if source_id in enabled_ids and source_id not in selected_ids:
@@ -125,7 +135,7 @@ def run_pipeline(
     items = reconcile_history(apply_overrides(deduplicate(opportunities), now=current), old_opportunities, current)
     current_stamp = current.isoformat(timespec="seconds")
     for status in statuses:
-        if status.status != "success":
+        if status.status != "success" or status.source_id not in selected_ids:
             continue
         source_items = [item for item in items if status.source_id in {source.source_id for source in item.sources}]
         status.new_count = sum(item.first_seen_at == current_stamp for item in source_items)

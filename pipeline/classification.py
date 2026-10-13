@@ -109,6 +109,26 @@ def classify(raw: RawOpportunity, taxonomy: dict[str, Any]) -> tuple[str, list[s
         any(phrase in combined for phrase in ("게임 출품", "게임 형태", "인터랙티브 콘텐츠", "디지털 콘텐츠"))
         or (primary_type == "hackathon" and type_score == 20)
     )
+    weak = {normalized(word) for word in taxonomy.get("weak_title_keywords", [])}
+    clear_title = any(normalized(hit) not in weak for hit in title_field_hits)
+    mixed_category = False
+    other_title = False
+    for config in taxonomy.get("domains", {}).values():
+        for words in config.get("topics", {}).values():
+            if keyword_matches(raw.original_category, words):
+                mixed_category = True
+            if keyword_matches(title, words):
+                other_title = True
+    explicit_format = (
+        any(phrase in combined for phrase in ("게임 출품", "게임 형태", "인터랙티브 콘텐츠"))
+        or (primary_type == "hackathon" and type_score == 20)
+    )
+    category_conflict = category_format and mixed_category and other_title and not clear_title and not explicit_format
+    if category_conflict:
+        # A broad category list is not evidence that a photo, film or slogan requires IT.
+        category_format = False
+        strong_format = False
+        reasons.append("제목 분야 우선: 혼합된 원본 IT 분류는 보조 근거")
     if category_format:
         score += 55
         reasons.append("원본 분류상 게임·IT·디지털 콘텐츠로 참가 가능")
@@ -124,11 +144,12 @@ def classify(raw: RawOpportunity, taxonomy: dict[str, Any]) -> tuple[str, list[s
     if not title_field_hits and not strong_format and not category_format and score >= 70:
         score = 69
         reasons.append("제목의 IT·게임 직접 근거 부족")
-    weak = {normalized(word) for word in taxonomy.get("weak_title_keywords", [])}
     only_weak_title_hits = bool(title_field_hits) and {normalized(hit) for hit in title_field_hits} <= weak
     if only_weak_title_hits and raw.source_kind != "specialist" and not strong_format and not category_format and score >= 70:
         score = 69
         reasons.append(f"제목 키워드가 일반 단어뿐: {', '.join(sorted(set(title_field_hits)))}")
+    if category_conflict and score >= 70:
+        score = 69
     score = max(0, min(100, score))
     decision = "publish" if score >= 70 else "review" if score >= 50 else "exclude"
     adjacent = primary_type == "employment" or (primary_type == "education" and raw.fee == "paid")
@@ -139,8 +160,8 @@ def assign_domain(raw: RawOpportunity, taxonomy: dict[str, Any], relevance: Rele
     """Place an item that is not published as IT·게임 into another field tab.
 
     IT·게임 always wins when the item already qualifies for it. Otherwise the title and the
-    source's own category are matched against ``taxonomy["domains"]`` topics; the domain with
-    the most matching topics is chosen. Excluded phrases (procurement, giveaways) never
+    source's own category are matched against ``taxonomy["domains"]`` topics. Title topics
+    take precedence; the category is a fallback when the title has none. Excluded phrases never
     qualify. Returns the domain, the matched topic labels and the possibly updated relevance.
     """
 
@@ -148,12 +169,14 @@ def assign_domain(raw: RawOpportunity, taxonomy: dict[str, Any], relevance: Rele
         return "it", [], relevance
     if keyword_matches(normalized(raw.title), taxonomy.get("exclude_phrases", [])):
         return "it", [], relevance
-    text = normalized(f"{raw.title} {raw.original_category}")
     best: tuple[str, str, list[str]] | None = None
-    for domain_id, config in taxonomy.get("domains", {}).items():
-        topics = [topic for topic, words in config.get("topics", {}).items() if keyword_matches(text, words)]
-        if topics and (best is None or len(topics) > len(best[2])):
-            best = (domain_id, config.get("label", domain_id), topics)
+    for text in (normalized(raw.title), normalized(raw.original_category)):
+        for domain_id, config in taxonomy.get("domains", {}).items():
+            topics = [topic for topic, words in config.get("topics", {}).items() if keyword_matches(text, words)]
+            if topics and (best is None or len(topics) > len(best[2])):
+                best = (domain_id, config.get("label", domain_id), topics)
+        if best:
+            break
     if not best:
         return "it", [], relevance
     domain_id, label, topics = best

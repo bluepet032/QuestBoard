@@ -1,22 +1,52 @@
 from __future__ import annotations
 
 import re
-from datetime import datetime
+from datetime import date, datetime
 from urllib.parse import urljoin
 
 from pipeline.collectors.base import Collector, CollectorStructureError
-from pipeline.collectors.html import clean_text, dates_from_text
+from pipeline.collectors.html import clean_text
 from pipeline.models import RawOpportunity
 
 
 LINK_RE = re.compile(r"^\s*[-*]\s*\[([^]]+)]\(([^)]+)\)")
-META_RE = re.compile(r"^\s*[-*]\s*(?:분류|주최|접수|일시)\s*[:：]\s*(.+)")
+META_RE = re.compile(r"^\s*[-*]\s*(분류|주최|접수|일시)\s*[:：]\s*(.+)")
+INLINE_META_RE = re.compile(
+    r"(?:^(?:[-*]\s+)?|\s+[-*]\s+)(분류|주최|접수|일시)\s*[:：]\s*(.*?)"
+    r"(?=\s+[-*]\s+(?:분류|주최|접수|일시)\s*[:：]|$)"
+)
 INLINE_ITEM_RE = re.compile(
     r"-\s*__?\[([^]]+)]\((https?://[^)]+)\)__?\s*(.*?)"
     r"(?=\s+-\s+__?\[|\s+##\s+`|\n##\s+|\n-{3,}|\Z)",
     re.DOTALL,
 )
-SHORT_DATE_RE = re.compile(r"(?<!\d)(\d{1,2})[.\-/월\s]+(\d{1,2})(?:일)?")
+DATE_RE = re.compile(
+    r"(?<!\d)(?:(\d{4}|\d{2})[.\-/년\s]+)?(\d{1,2})[.\-/월\s]+(\d{1,2})(?:일)?(?!\d)"
+)
+
+
+def dates_from_text(value: str, year: int) -> tuple[str | None, str | None]:
+    dates: list[date] = []
+    for match in list(DATE_RE.finditer(value))[:2]:
+        explicit_year, month, day = match.groups()
+        if explicit_year:
+            year = int(explicit_year)
+            if year < 100:
+                year += 2000
+        elif dates and int(month) < dates[-1].month:
+            year += 1
+        try:
+            parsed = date(year, int(month), int(day))
+        except ValueError:
+            return None, None
+        if dates and parsed < dates[-1]:
+            return None, None
+        dates.append(parsed)
+    if not dates:
+        return None, None
+    if len(dates) == 1:
+        return None, dates[0].isoformat()
+    return dates[0].isoformat(), dates[1].isoformat()
 
 
 class DevEventCollector(Collector):
@@ -35,16 +65,31 @@ class DevEventCollector(Collector):
                 continue
             title, url = clean_text(match.group(1)), match.group(2).strip()
             metadata: list[str] = []
+            date_text = {"접수": "", "일시": ""}
+            heading = "\n".join(lines[:index]).rsplit("##", 1)[-1]
+            year_match = re.search(r"(\d{2,4})년", heading)
+            year = now.year
+            if year_match:
+                year = int(year_match.group(1))
+                if year < 100:
+                    year += 2000
             cursor = index + 1
             while cursor < len(lines) and cursor <= index + 5:
                 if LINK_RE.match(lines[cursor]) or lines[cursor].startswith("## "):
                     break
                 meta = META_RE.match(lines[cursor])
                 if meta:
-                    metadata.append(clean_text(meta.group(1)).replace("`", ""))
+                    label, value = meta.groups()
+                    value = clean_text(value).replace("`", "")
+                    metadata.append(value)
+                    if label in date_text:
+                        date_text[label] = value
                 cursor += 1
             combined = " · ".join(metadata)
-            start, end = dates_from_text(combined)
+            start, end = dates_from_text(date_text["접수"], year)
+            event_start, event_end = dates_from_text(date_text["일시"], year)
+            if event_end and not event_start:
+                event_start = event_end
             organizer = self.config.name
             for line in lines[index + 1:cursor]:
                 if "주최" in line:
@@ -61,6 +106,8 @@ class DevEventCollector(Collector):
                 source_priority=self.config.priority,
                 recruit_start=start,
                 recruit_end=end,
+                event_start=event_start,
+                event_end=event_end,
                 date_kind="exact" if end else "unknown",
                 original_category=combined,
                 collected_at=now.isoformat(timespec="seconds"),
@@ -78,15 +125,18 @@ class DevEventCollector(Collector):
             year_match = re.search(r"(\d{2,4})년", heading)
             year = now.year
             if year_match:
-                parsed = int(year_match.group(1))
-                year = parsed if parsed >= 2000 else 2000 + parsed
-            short_dates = SHORT_DATE_RE.findall(segment)
-            dates: list[str] = []
-            for month, day in short_dates[:2]:
-                try:
-                    dates.append(f"{year:04d}-{int(month):02d}-{int(day):02d}")
-                except ValueError:
-                    continue
+                year = int(year_match.group(1))
+                if year < 100:
+                    year += 2000
+            date_text = {"접수": "", "일시": ""}
+            for metadata in INLINE_META_RE.finditer(segment):
+                label, value = metadata.groups()
+                if label in date_text:
+                    date_text[label] = value
+            start, end = dates_from_text(date_text["접수"], year)
+            event_start, event_end = dates_from_text(date_text["일시"], year)
+            if event_end and not event_start:
+                event_start = event_end
             organizer_match = re.search(r"주최\s*[:：]\s*(.*?)(?=\s+-\s+(?:접수|일시|분류)\s*[:：]|$)", segment)
             organizer = clean_text(organizer_match.group(1)) if organizer_match else self.config.name
             results.append(RawOpportunity(
@@ -99,9 +149,11 @@ class DevEventCollector(Collector):
                 body_text=f"{title} {segment}",
                 source_kind=self.config.kind,
                 source_priority=self.config.priority,
-                recruit_start=dates[0] if len(dates) > 1 else None,
-                recruit_end=dates[-1] if dates else None,
-                date_kind="exact" if dates else "unknown",
+                recruit_start=start,
+                recruit_end=end,
+                event_start=event_start,
+                event_end=event_end,
+                date_kind="exact" if end else "unknown",
                 original_category=segment,
                 collected_at=now.isoformat(timespec="seconds"),
             ))

@@ -1,6 +1,7 @@
 from pipeline.classification import classify
 from pipeline.config import load_taxonomy
 from pipeline.models import RawOpportunity
+import pytest
 
 
 def raw(**values):
@@ -182,3 +183,51 @@ def test_substring_traps_do_not_pick_the_wrong_field():
 def test_source_category_can_place_an_item():
     domain, topics, _ = domain_of("2026년 업사이클 공모전", source_kind="aggregate", original_category="과학, 디자인, 미술")
     assert domain == "design_media" and topics == ["디자인", "미술"]
+
+
+@pytest.mark.parametrize("title,category,expected_domain,expected_topics", [
+    ("LG 대국민 미소 사진 공모전 - 스마일 모먼트 SPECIAL IDEA", "광고/마케팅, 영상/UCC/사진, 웹/모바일/IT, 예체능/미술/음악, 대외활동/서포터즈", "design_media", ["사진"]),
+    ("2026 0924영상제 영상 공모전 SPECIAL IDEA", "광고/마케팅, 영상/UCC/사진, 웹/모바일/IT, 예체능/미술/음악, 기타", "design_media", ["영상"]),
+    ("우리 동네 병원과 가까워지는 한마디 슬로건 공모전", "기획/아이디어, 광고/마케팅, 웹/모바일/IT, 네이밍/슬로건, 기타", "planning_ideas", ["마케팅"]),
+    ("7th Da-Ho Award 단편영화 공모전", "광고/마케팅, 영상/UCC/사진, 웹/모바일/IT, 예체능/미술/음악", "design_media", ["영상"]),
+    ("2026 성평등 영상 콘텐츠 공모전", "광고/마케팅, 영상/UCC/사진, 디자인/캐릭터/웹툰, 웹/모바일/IT, 예체능/미술/음악", "design_media", ["영상"]),
+    ("2026 대한민국 SF판타지 웹소설 공모전", "영상/UCC/사진, 웹/모바일/IT, 문학/소설, 예체능/미술/음악", "literature_arts", ["문학"]),
+])
+def test_mixed_it_categories_do_not_override_clear_non_it_titles(title, category, expected_domain, expected_topics):
+    from datetime import datetime
+    from pipeline.normalize import normalize
+
+    item = normalize(raw(title=title, original_category=category, body_text=category), load_taxonomy(), datetime(2026, 10, 13))
+    assert item.domain == expected_domain
+    assert item.field_tags == expected_topics
+    assert item.relevance.decision == "publish"
+    assert item.relevance.score < 70
+
+
+@pytest.mark.parametrize("title,category", [
+    ("2026 추계학술대회 대학생 ERP 아이디어 공모전", "웹/모바일/IT"),
+    ("2026 서든어택 무기 스킨 아이디어 공모전", "게임/소프트웨어"),
+    ("2026 HACKSIUM BUSAN (동남권 특화산업 시나리오 기반 해킹방어대회)", "웹/모바일/IT"),
+    ("대학생 AI 영상 공모전", "영상/UCC/사진, 웹/모바일/IT"),
+    ("언리얼 XR 영상 제작 공모전", "영상/UCC/사진, 게임/소프트웨어"),
+])
+@pytest.mark.parametrize("mixed", [False, True])
+def test_real_it_opportunities_stay_published_with_category_evidence(title, category, mixed):
+    if mixed:
+        category += ", 기획/아이디어, 영상/UCC/사진"
+    domain, _, relevance = domain_of(title, original_category=category, body_text=category)
+    assert domain == "it"
+    assert relevance.decision == "publish"
+    assert relevance.score >= 70
+
+
+def test_explicit_game_submission_format_keeps_a_mixed_category_notice_in_it():
+    domain, _, relevance = domain_of(
+        "자유주제 영상 공모전", original_category="영상/UCC/사진, 게임/소프트웨어",
+        summary="게임 형태로 출품하는 인터랙티브 콘텐츠도 참가할 수 있습니다.",
+    )
+    assert domain == "it" and relevance.decision == "publish"
+
+
+def test_mixed_category_procurement_stays_excluded():
+    assert domain_of("홍보 영상 제작 용역 입찰 공고", original_category="영상/UCC/사진, 웹/모바일/IT")[2].decision == "exclude"

@@ -1,7 +1,97 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-13T09:35:11+09:00",
+  "generated_at": "2026-10-13T14:23:35+09:00",
   "items": [
+    {
+      "source_id": "wevity",
+      "source_name": "위비티",
+      "status": "success",
+      "started_at": "2026-10-13T14:23:35+09:00",
+      "finished_at": "2026-10-13T14:24:00+09:00",
+      "collected_count": 150,
+      "published_count": 150,
+      "review_count": 0,
+      "new_count": 50,
+      "changed_count": 95,
+      "consecutive_failures": 0,
+      "last_success_at": "2026-10-13T14:23:35+09:00",
+      "error": null,
+      "previous_collected_count": 150,
+      "facet_coverage": {
+        "region": 0.0,
+        "mode": 0.0,
+        "fee": 0.007,
+        "audience": 0.147,
+        "prize": 0.0
+      },
+      "previous_facet_coverage": {
+        "region": 0.0,
+        "mode": 0.0,
+        "fee": 0.007,
+        "audience": 0.147,
+        "prize": 0.0
+      }
+    },
+    {
+      "source_id": "dev_event",
+      "source_name": "Dev-Event GitHub",
+      "status": "success",
+      "started_at": "2026-10-13T13:56:06+09:00",
+      "finished_at": "2026-10-13T13:56:07+09:00",
+      "collected_count": 81,
+      "published_count": 42,
+      "review_count": 21,
+      "new_count": 17,
+      "changed_count": 21,
+      "consecutive_failures": 0,
+      "last_success_at": "2026-10-13T13:56:06+09:00",
+      "error": null,
+      "previous_collected_count": 81,
+      "facet_coverage": {
+        "region": 0.741,
+        "mode": 1.0,
+        "fee": 1.0,
+        "audience": 0.074,
+        "prize": 0.0
+      },
+      "previous_facet_coverage": {
+        "region": 0.741,
+        "mode": 1.0,
+        "fee": 1.0,
+        "audience": 0.074,
+        "prize": 0.0
+      }
+    },
+    {
+      "source_id": "gcon",
+      "source_name": "경기콘텐츠진흥원",
+      "status": "success",
+      "started_at": "2026-10-13T13:56:07+09:00",
+      "finished_at": "2026-10-13T13:56:18+09:00",
+      "collected_count": 8,
+      "published_count": 5,
+      "review_count": 1,
+      "new_count": 0,
+      "changed_count": 8,
+      "consecutive_failures": 0,
+      "last_success_at": "2026-10-13T13:56:06+09:00",
+      "error": null,
+      "previous_collected_count": 8,
+      "facet_coverage": {
+        "region": 1.0,
+        "mode": 0.0,
+        "fee": 0.0,
+        "audience": 0.25,
+        "prize": 0.0
+      },
+      "previous_facet_coverage": {
+        "region": 1.0,
+        "mode": 0.0,
+        "fee": 0.0,
+        "audience": 0.125,
+        "prize": 0.0
+      }
+    },
     {
       "source_id": "bizinfo",
       "source_name": "기업마당",
@@ -111,36 +201,6 @@
       }
     },
     {
-      "source_id": "wevity",
-      "source_name": "위비티",
-      "status": "success",
-      "started_at": "2026-10-13T09:40:19+09:00",
-      "finished_at": "2026-10-13T09:40:52+09:00",
-      "collected_count": 150,
-      "published_count": 150,
-      "review_count": 0,
-      "new_count": 53,
-      "changed_count": 2,
-      "consecutive_failures": 0,
-      "last_success_at": "2026-10-13T09:35:11+09:00",
-      "error": null,
-      "previous_collected_count": 150,
-      "facet_coverage": {
-        "region": 0.0,
-        "mode": 0.0,
-        "fee": 0.007,
-        "audience": 0.147,
-        "prize": 0.0
-      },
-      "previous_facet_coverage": {
-        "region": 0.0,
-        "mode": 0.0,
-        "fee": 0.007,
-        "audience": 0.153,
-        "prize": 0.0
-      }
-    },
-    {
       "source_id": "thinkcontest",
       "source_name": "씽굿",
       "status": "success",
@@ -231,36 +291,6 @@
       }
     },
     {
-      "source_id": "dev_event",
-      "source_name": "Dev-Event GitHub",
-      "status": "success",
-      "started_at": "2026-10-13T09:45:13+09:00",
-      "finished_at": "2026-10-13T09:45:15+09:00",
-      "collected_count": 81,
-      "published_count": 42,
-      "review_count": 21,
-      "new_count": 25,
-      "changed_count": 1,
-      "consecutive_failures": 0,
-      "last_success_at": "2026-10-13T09:35:11+09:00",
-      "error": null,
-      "previous_collected_count": 83,
-      "facet_coverage": {
-        "region": 0.741,
-        "mode": 1.0,
-        "fee": 1.0,
-        "audience": 0.074,
-        "prize": 0.0
-      },
-      "previous_facet_coverage": {
-        "region": 0.747,
-        "mode": 1.0,
-        "fee": 1.0,
-        "audience": 0.072,
-        "prize": 0.0
-      }
-    },
-    {
       "source_id": "dacon",
       "source_name": "DACON",
       "status": "success",
@@ -288,36 +318,6 @@
         "fee": 0.0,
         "audience": 0.0,
         "prize": 0.933
-      }
-    },
-    {
-      "source_id": "gcon",
-      "source_name": "경기콘텐츠진흥원",
-      "status": "success",
-      "started_at": "2026-10-13T09:45:18+09:00",
-      "finished_at": "2026-10-13T09:45:41+09:00",
-      "collected_count": 8,
-      "published_count": 5,
-      "review_count": 3,
-      "new_count": 1,
-      "changed_count": 1,
-      "consecutive_failures": 0,
-      "last_success_at": "2026-10-13T09:35:11+09:00",
-      "error": null,
-      "previous_collected_count": 7,
-      "facet_coverage": {
-        "region": 1.0,
-        "mode": 0.0,
-        "fee": 0.0,
-        "audience": 0.125,
-        "prize": 0.0
-      },
-      "previous_facet_coverage": {
-        "region": 1.0,
-        "mode": 0.0,
-        "fee": 0.0,
-        "audience": 0.143,
-        "prize": 0.0
       }
     },
     {
