@@ -1,75 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-13T14:23:35+09:00",
+  "generated_at": "2026-10-14T07:39:55+09:00",
   "items": [
-    {
-      "id": "e68b7a1494ae059d63fc",
-      "title": "2026년 서부 경기문화창조허브 콘텐츠IP 집중지원",
-      "source_name": "경기콘텐츠진흥원",
-      "source_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11237&menuNo=200061&pageIndex=1",
-      "organizer": "경기콘텐츠진흥원",
-      "summary": "기업의 사업 단계에 따라 하반기 IP사업화 맞춤형 지원. - IP개발 및 제작 - 유통/판로 지원 - 실증검증 - 마케팅/해외진출 지원 등",
-      "primary_type": "support",
-      "field_tags": [
-        "게임",
-        "소프트웨어",
-        "XR·메타버스",
-        "창업",
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 69,
-        "reasons": [
-          "제목 핵심 키워드: 콘텐츠",
-          "본문·분류 키워드: ar, ict, it, mvp",
-          "공고 유형: support",
-          "공식 전문기관 출처",
-          "제목 키워드가 일반 단어뿐: 콘텐츠"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-10-13T09:35:11+09:00",
-      "last_seen_at": "2026-10-13T13:56:06+09:00",
-      "sources": [
-        {
-          "source_id": "gcon",
-          "source_name": "경기콘텐츠진흥원",
-          "source_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11237&menuNo=200061&pageIndex=1",
-          "source_post_id": "11237",
-          "kind": "official",
-          "priority": 100,
-          "fetched_at": "2026-10-13T13:56:06+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-10-12",
-      "recruit_end": "2026-10-20",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 7,
-      "eligibility": "",
-      "benefits": "- IP개발 및 제작 - 유통/판로 지원 - 실증검증 - 마케팅/해외진출 지원 등",
-      "location": "경기",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "domain": "it",
-      "regions": [
-        "경기"
-      ],
-      "prize_manwon": null,
-      "last_changed_at": "2026-10-13T13:56:06+09:00",
-      "change_flags": [
-        "organizer",
-        "benefits"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026년서부경기문화창조허브콘텐츠ip집중지원|경기콘텐츠진흥원|2026-10-20"
-    },
     {
       "id": "4807c631d787a11b92ba",
       "title": "[충북] 2026년 2차 대표자원 연계 콘텐츠제작 지원사업 모집 공고",
@@ -94,7 +26,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-08T08:02:27+09:00",
-      "last_seen_at": "2026-10-13T09:35:11+09:00",
+      "last_seen_at": "2026-10-14T07:39:55+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -103,7 +35,7 @@
           "source_post_id": "PBLN_000000000127037",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-13T09:35:11+09:00"
+          "fetched_at": "2026-10-14T07:39:55+09:00"
         }
       ],
       "application_url": null,
@@ -113,7 +45,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 2,
+      "d_day": 1,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -154,7 +86,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-09T08:18:08+09:00",
-      "last_seen_at": "2026-10-13T09:35:11+09:00",
+      "last_seen_at": "2026-10-14T07:39:55+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -163,7 +95,7 @@
           "source_post_id": "PBLN_000000000127084",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-13T09:35:11+09:00"
+          "fetched_at": "2026-10-14T07:39:55+09:00"
         }
       ],
       "application_url": null,
@@ -173,7 +105,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 8,
+      "d_day": 7,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -214,7 +146,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-13T09:35:11+09:00",
+      "last_seen_at": "2026-10-14T07:39:55+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -223,7 +155,7 @@
           "source_post_id": "PBLN_000000000124402",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-13T09:35:11+09:00"
+          "fetched_at": "2026-10-14T07:39:55+09:00"
         }
       ],
       "application_url": null,
@@ -274,7 +206,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-18T02:15:03+09:00",
-      "last_seen_at": "2026-10-13T09:35:11+09:00",
+      "last_seen_at": "2026-10-14T07:39:55+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -283,7 +215,7 @@
           "source_post_id": "EVEN_000000000068698",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-13T09:35:11+09:00"
+          "fetched_at": "2026-10-14T07:39:55+09:00"
         }
       ],
       "application_url": null,
@@ -293,7 +225,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 48,
+      "d_day": 47,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -309,6 +241,144 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "전국2026년부산콘텐츠아카데미퍼스널트레이닝교육생모집공고|부산정보산업진흥원|2026-11-30"
+    },
+    {
+      "id": "ed9ffbb6b29f14e8f02e",
+      "title": "[전국] 의료기기 산업 스마트 제조 및 디지털 전환 교육 모집 안내",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=%EB%94%94%EC%A7%80%ED%84%B8&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069604",
+      "organizer": "전남대학교 생체재료개발센터",
+      "summary": "기업마당 공개 행사 · 행사정보 · 검색어 디지털. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "education",
+      "field_tags": [
+        "소프트웨어"
+      ],
+      "audience_tags": [],
+      "status": "upcoming",
+      "relevance": {
+        "score": 69,
+        "reasons": [
+          "제목 핵심 키워드: 디지털 전환",
+          "본문·분류 키워드: 디지털 전환",
+          "공고 유형: education",
+          "제목 키워드가 일반 단어뿐: 디지털 전환"
+        ],
+        "decision": "review"
+      },
+      "first_seen_at": "2026-10-14T07:39:55+09:00",
+      "last_seen_at": "2026-10-14T07:39:55+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=%EB%94%94%EC%A7%80%ED%84%B8&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069604",
+          "source_post_id": "EVEN_000000000069604",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-10-14T07:39:55+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-10-22",
+      "recruit_end": "2026-10-22",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 8,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "it",
+      "regions": [
+        "전국"
+      ],
+      "prize_manwon": null,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "전국의료기기산업스마트제조및디지털전환교육모집안내|전남대학교생체재료개발센터|2026-10-22"
+    },
+    {
+      "id": "e68b7a1494ae059d63fc",
+      "title": "2026년 서부 경기문화창조허브 콘텐츠IP 집중지원",
+      "source_name": "경기콘텐츠진흥원",
+      "source_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11237&menuNo=200061&pageIndex=1",
+      "organizer": "경기콘텐츠진흥원",
+      "summary": "기업의 사업 단계에 따라 하반기 IP사업화 맞춤형 지원. - IP개발 및 제작 - 유통/판로 지원 - 실증검증 - 마케팅/해외진출 지원 등",
+      "primary_type": "support",
+      "field_tags": [
+        "XR·메타버스",
+        "게임",
+        "디지털 콘텐츠",
+        "소프트웨어",
+        "창업"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 69,
+        "reasons": [
+          "제목 핵심 키워드: 콘텐츠",
+          "본문·분류 키워드: ar, ict, it, mvp",
+          "공고 유형: support",
+          "공식 전문기관 출처",
+          "제목 키워드가 일반 단어뿐: 콘텐츠",
+          "본문·분류 키워드: 콘텐츠"
+        ],
+        "decision": "review"
+      },
+      "first_seen_at": "2026-10-13T09:35:11+09:00",
+      "last_seen_at": "2026-10-14T07:39:55+09:00",
+      "sources": [
+        {
+          "source_id": "gcon",
+          "source_name": "경기콘텐츠진흥원",
+          "source_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11237&menuNo=200061&pageIndex=1",
+          "source_post_id": "11237",
+          "kind": "official",
+          "priority": 100,
+          "fetched_at": "2026-10-14T07:39:55+09:00"
+        },
+        {
+          "source_id": "momo365",
+          "source_name": "모모365",
+          "source_url": "https://www.momo365.net/Support?cd=support&ViewType=detail&seq=178242",
+          "source_post_id": "178242",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-10-14T07:39:55+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-10-12",
+      "recruit_end": "2026-10-20",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 6,
+      "eligibility": "",
+      "benefits": "- IP개발 및 제작 - 유통/판로 지원 - 실증검증 - 마케팅/해외진출 지원 등",
+      "location": "경기",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "it",
+      "regions": [
+        "경기"
+      ],
+      "prize_manwon": null,
+      "last_changed_at": "2026-10-13T13:56:06+09:00",
+      "change_flags": [
+        "organizer",
+        "benefits"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026년서부경기문화창조허브콘텐츠ip집중지원|경기콘텐츠진흥원|2026-10-20"
     },
     {
       "id": "21a6d0e54023d4e5810c",
@@ -334,7 +404,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-01T22:25:03+09:00",
-      "last_seen_at": "2026-10-13T13:56:06+09:00",
+      "last_seen_at": "2026-10-14T07:39:55+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -343,7 +413,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-13T13:56:06+09:00"
+          "fetched_at": "2026-10-14T07:39:55+09:00"
         }
       ],
       "application_url": null,
@@ -389,7 +459,7 @@
         "웹·앱"
       ],
       "audience_tags": [],
-      "status": "urgent",
+      "status": "today",
       "relevance": {
         "score": 68,
         "reasons": [
@@ -400,7 +470,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-06T01:05:39+09:00",
-      "last_seen_at": "2026-10-13T13:56:06+09:00",
+      "last_seen_at": "2026-10-14T07:39:55+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -409,7 +479,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-13T13:56:06+09:00"
+          "fetched_at": "2026-10-14T07:39:55+09:00"
         }
       ],
       "application_url": null,
@@ -419,7 +489,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 1,
+      "d_day": 0,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -439,6 +509,66 @@
       "dedupe_key": "githubcopilotdevdaysseoul|파워플랫폼한국유저그룹|2026-10-14"
     },
     {
+      "id": "7611fe64475ba14f5d88",
+      "title": "[전남광주] 데이터ㆍAI 실무역량 강화 훈련과정 모집 안내",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=AI&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069605",
+      "organizer": "전남대학교 생체재료개발센터",
+      "summary": "기업마당 공개 행사 · 행사정보 · 검색어 AI. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "other",
+      "field_tags": [
+        "AI",
+        "데이터"
+      ],
+      "audience_tags": [],
+      "status": "upcoming",
+      "relevance": {
+        "score": 66,
+        "reasons": [
+          "제목 핵심 키워드: ai, 데이터",
+          "본문·분류 키워드: ai, 데이터"
+        ],
+        "decision": "review"
+      },
+      "first_seen_at": "2026-10-14T07:39:55+09:00",
+      "last_seen_at": "2026-10-14T07:39:55+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=AI&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069605",
+          "source_post_id": "EVEN_000000000069605",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-10-14T07:39:55+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-10-15",
+      "recruit_end": "2026-10-31",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 17,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "it",
+      "regions": [
+        "전남",
+        "광주"
+      ],
+      "prize_manwon": null,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "전남광주데이터ai실무역량강화훈련과정모집안내|전남대학교생체재료개발센터|2026-10-31"
+    },
+    {
       "id": "c1dea92efd5995f71bee",
       "title": "[전국] 2026년 SaaS 전환지원센터 x AWS 클라우드 기반 SaaS 현대화 기술 특강 및 실습 4회차 참가자 모집",
       "source_name": "기업마당",
@@ -451,7 +581,7 @@
         "클라우드·보안"
       ],
       "audience_tags": [],
-      "status": "upcoming",
+      "status": "today",
       "relevance": {
         "score": 66,
         "reasons": [
@@ -461,7 +591,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-13T09:35:11+09:00",
+      "last_seen_at": "2026-10-14T07:39:55+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -470,7 +600,7 @@
           "source_post_id": "EVEN_000000000069516",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-13T09:35:11+09:00"
+          "fetched_at": "2026-10-14T07:39:55+09:00"
         }
       ],
       "application_url": null,
@@ -480,7 +610,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 1,
+      "d_day": 0,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -520,7 +650,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-06T01:05:39+09:00",
-      "last_seen_at": "2026-10-13T13:56:06+09:00",
+      "last_seen_at": "2026-10-14T07:39:55+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -529,7 +659,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-13T13:56:06+09:00"
+          "fetched_at": "2026-10-14T07:39:55+09:00"
         }
       ],
       "application_url": null,
@@ -574,7 +704,7 @@
         "게임"
       ],
       "audience_tags": [],
-      "status": "urgent",
+      "status": "today",
       "relevance": {
         "score": 65,
         "reasons": [
@@ -585,7 +715,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-09T08:18:08+09:00",
-      "last_seen_at": "2026-10-13T13:56:06+09:00",
+      "last_seen_at": "2026-10-14T07:39:55+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -594,7 +724,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-13T13:56:06+09:00"
+          "fetched_at": "2026-10-14T07:39:55+09:00"
         }
       ],
       "application_url": null,
@@ -604,7 +734,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 1,
+      "d_day": 0,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -644,7 +774,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-13T13:56:06+09:00",
+      "last_seen_at": "2026-10-14T07:39:55+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -653,7 +783,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-13T13:56:06+09:00"
+          "fetched_at": "2026-10-14T07:39:55+09:00"
         }
       ],
       "application_url": null,
@@ -663,7 +793,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 3,
+      "d_day": 2,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -705,7 +835,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-13T13:56:06+09:00",
+      "last_seen_at": "2026-10-14T07:39:55+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -714,7 +844,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-13T13:56:06+09:00"
+          "fetched_at": "2026-10-14T07:39:55+09:00"
         }
       ],
       "application_url": null,
@@ -770,7 +900,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-13T09:35:11+09:00",
-      "last_seen_at": "2026-10-13T13:56:06+09:00",
+      "last_seen_at": "2026-10-14T07:39:55+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -779,7 +909,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-13T13:56:06+09:00"
+          "fetched_at": "2026-10-14T07:39:55+09:00"
         }
       ],
       "application_url": null,
@@ -834,7 +964,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-29T00:33:00+09:00",
-      "last_seen_at": "2026-10-13T13:56:06+09:00",
+      "last_seen_at": "2026-10-14T07:39:55+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -843,7 +973,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-13T13:56:06+09:00"
+          "fetched_at": "2026-10-14T07:39:55+09:00"
         },
         {
           "source_id": "dev_event",
@@ -852,7 +982,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-13T13:56:06+09:00"
+          "fetched_at": "2026-10-14T07:39:55+09:00"
         }
       ],
       "application_url": null,
@@ -862,7 +992,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 10,
+      "d_day": 9,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -904,7 +1034,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-13T13:56:06+09:00",
+      "last_seen_at": "2026-10-14T07:39:55+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -913,7 +1043,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-13T13:56:06+09:00"
+          "fetched_at": "2026-10-14T07:39:55+09:00"
         }
       ],
       "application_url": null,
@@ -969,7 +1099,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-24T13:57:15+09:00",
-      "last_seen_at": "2026-10-13T13:56:06+09:00",
+      "last_seen_at": "2026-10-14T07:39:55+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -978,7 +1108,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-13T13:56:06+09:00"
+          "fetched_at": "2026-10-14T07:39:55+09:00"
         }
       ],
       "application_url": null,
@@ -1034,7 +1164,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-06T01:05:39+09:00",
-      "last_seen_at": "2026-10-13T13:56:06+09:00",
+      "last_seen_at": "2026-10-14T07:39:55+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1043,7 +1173,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-13T13:56:06+09:00"
+          "fetched_at": "2026-10-14T07:39:55+09:00"
         }
       ],
       "application_url": null,
@@ -1053,7 +1183,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 16,
+      "d_day": 15,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1093,7 +1223,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-09T08:18:08+09:00",
-      "last_seen_at": "2026-10-13T13:56:06+09:00",
+      "last_seen_at": "2026-10-14T07:39:55+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1102,7 +1232,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-13T13:56:06+09:00"
+          "fetched_at": "2026-10-14T07:39:55+09:00"
         }
       ],
       "application_url": null,
@@ -1112,7 +1242,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 17,
+      "d_day": 16,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1152,7 +1282,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-13T13:56:06+09:00",
+      "last_seen_at": "2026-10-14T07:39:55+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1161,7 +1291,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-13T13:56:06+09:00"
+          "fetched_at": "2026-10-14T07:39:55+09:00"
         }
       ],
       "application_url": null,
@@ -1171,7 +1301,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 18,
+      "d_day": 17,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1213,7 +1343,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-13T09:35:11+09:00",
-      "last_seen_at": "2026-10-13T13:56:06+09:00",
+      "last_seen_at": "2026-10-14T07:39:55+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1222,7 +1352,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-13T13:56:06+09:00"
+          "fetched_at": "2026-10-14T07:39:55+09:00"
         }
       ],
       "application_url": null,
@@ -1232,7 +1362,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 18,
+      "d_day": 17,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1250,6 +1380,122 @@
       "dedupe_key": "devfestincheon2026|gdgincheon|2026-10-31"
     },
     {
+      "id": "157aa313a3b881ecb283",
+      "title": "[경기] 2026년 ICT 혁신성과 교류회 : ICT INNOVATION BRIDGE",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=ICT&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069603",
+      "organizer": "차세대융합기술연구원",
+      "summary": "기업마당 공개 행사 · 행사정보 · 검색어 ICT. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "other",
+      "field_tags": [
+        "소프트웨어"
+      ],
+      "audience_tags": [],
+      "status": "upcoming",
+      "relevance": {
+        "score": 58,
+        "reasons": [
+          "제목 핵심 키워드: ict",
+          "본문·분류 키워드: ict"
+        ],
+        "decision": "review"
+      },
+      "first_seen_at": "2026-10-14T07:39:55+09:00",
+      "last_seen_at": "2026-10-14T07:39:55+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=ICT&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069603",
+          "source_post_id": "EVEN_000000000069603",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-10-14T07:39:55+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-10-29",
+      "recruit_end": "2026-10-29",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 15,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "it",
+      "regions": [
+        "경기"
+      ],
+      "prize_manwon": null,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "경기2026년ict혁신성과교류회ictinnovationbridge|차세대융합기술연구원|2026-10-29"
+    },
+    {
+      "id": "3bdde3577e9c58f026e0",
+      "title": "[전국] 2026년 과학기술정보통신부 ICT 한이음 드림업 신규 멘토 모집",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=ICT&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000067915",
+      "organizer": "한국정보산업연합회",
+      "summary": "기업마당 공개 행사 · 행사정보 · 검색어 ICT. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "other",
+      "field_tags": [
+        "소프트웨어"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 58,
+        "reasons": [
+          "제목 핵심 키워드: ict",
+          "본문·분류 키워드: ict"
+        ],
+        "decision": "review"
+      },
+      "first_seen_at": "2026-09-08T14:40:59+09:00",
+      "last_seen_at": "2026-10-14T07:39:55+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=ICT&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000067915",
+          "source_post_id": "EVEN_000000000067915",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-10-14T07:39:55+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-04-01",
+      "recruit_end": "2026-10-31",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 17,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "it",
+      "regions": [
+        "전국"
+      ],
+      "prize_manwon": null,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "전국2026년과학기술정보통신부ict한이음드림업신규멘토모집|한국정보산업연합회|2026-10-31"
+    },
+    {
       "id": "a6819bf051b831b7603e",
       "title": "[대전ㆍ세종ㆍ충북ㆍ충남] 인공지능 최고위과정 CAIO In DAEJEON 모집 안내",
       "source_name": "기업마당",
@@ -1261,7 +1507,7 @@
         "AI"
       ],
       "audience_tags": [],
-      "status": "today",
+      "status": "closed",
       "relevance": {
         "score": 58,
         "reasons": [
@@ -1290,7 +1536,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 0,
+      "d_day": -1,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1309,64 +1555,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "대전세종충북충남인공지능최고위과정caioindaejeon모집안내|이노폴리스벤처협회|2026-10-13"
-    },
-    {
-      "id": "3bdde3577e9c58f026e0",
-      "title": "[전국] 2026년 과학기술정보통신부 ICT 한이음 드림업 신규 멘토 모집",
-      "source_name": "기업마당",
-      "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=ICT&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000067915",
-      "organizer": "한국정보산업연합회",
-      "summary": "기업마당 공개 행사 · 행사정보 · 검색어 ICT. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "other",
-      "field_tags": [
-        "소프트웨어"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 58,
-        "reasons": [
-          "제목 핵심 키워드: ict",
-          "본문·분류 키워드: ict"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-13T09:35:11+09:00",
-      "sources": [
-        {
-          "source_id": "bizinfo",
-          "source_name": "기업마당",
-          "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=ICT&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000067915",
-          "source_post_id": "EVEN_000000000067915",
-          "kind": "government",
-          "priority": 80,
-          "fetched_at": "2026-10-13T09:35:11+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-04-01",
-      "recruit_end": "2026-10-31",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 18,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "domain": "it",
-      "regions": [
-        "전국"
-      ],
-      "prize_manwon": null,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "전국2026년과학기술정보통신부ict한이음드림업신규멘토모집|한국정보산업연합회|2026-10-31"
     },
     {
       "id": "d9a0f1ff8902c13e5e9f",
@@ -1391,7 +1579,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-09T08:18:08+09:00",
-      "last_seen_at": "2026-10-13T13:56:06+09:00",
+      "last_seen_at": "2026-10-14T07:39:55+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1400,7 +1588,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-13T13:56:06+09:00"
+          "fetched_at": "2026-10-14T07:39:55+09:00"
         }
       ],
       "application_url": null,
@@ -1410,7 +1598,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 13,
+      "d_day": 12,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1450,7 +1638,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-06T01:05:39+09:00",
-      "last_seen_at": "2026-10-13T13:56:06+09:00",
+      "last_seen_at": "2026-10-14T07:39:55+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1459,7 +1647,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-13T13:56:06+09:00"
+          "fetched_at": "2026-10-14T07:39:55+09:00"
         }
       ],
       "application_url": null,
@@ -1469,7 +1657,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 15,
+      "d_day": 14,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1510,7 +1698,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-24T13:57:15+09:00",
-      "last_seen_at": "2026-10-13T13:56:06+09:00",
+      "last_seen_at": "2026-10-14T07:39:55+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1519,7 +1707,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-13T13:56:06+09:00"
+          "fetched_at": "2026-10-14T07:39:55+09:00"
         }
       ],
       "application_url": null,
@@ -1574,7 +1762,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-23T15:01:53+09:00",
-      "last_seen_at": "2026-10-13T13:56:06+09:00",
+      "last_seen_at": "2026-10-14T07:39:55+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1583,7 +1771,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-13T13:56:06+09:00"
+          "fetched_at": "2026-10-14T07:39:55+09:00"
         }
       ],
       "application_url": null,
@@ -1593,7 +1781,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 2,
+      "d_day": 1,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1634,7 +1822,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-06T01:05:39+09:00",
-      "last_seen_at": "2026-10-13T13:56:06+09:00",
+      "last_seen_at": "2026-10-14T07:39:55+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1643,7 +1831,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-13T13:56:06+09:00"
+          "fetched_at": "2026-10-14T07:39:55+09:00"
         }
       ],
       "application_url": null,
@@ -1653,7 +1841,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 5,
+      "d_day": 4,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1694,7 +1882,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-13T09:35:11+09:00",
-      "last_seen_at": "2026-10-13T13:56:06+09:00",
+      "last_seen_at": "2026-10-14T07:39:55+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1703,7 +1891,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-13T13:56:06+09:00"
+          "fetched_at": "2026-10-14T07:39:55+09:00"
         }
       ],
       "application_url": null,
@@ -1758,7 +1946,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-24T13:57:15+09:00",
-      "last_seen_at": "2026-10-13T13:56:06+09:00",
+      "last_seen_at": "2026-10-14T07:39:55+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1767,7 +1955,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-13T13:56:06+09:00"
+          "fetched_at": "2026-10-14T07:39:55+09:00"
         }
       ],
       "application_url": null,
@@ -1826,7 +2014,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-13T09:35:11+09:00",
+      "last_seen_at": "2026-10-14T07:39:55+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -1835,7 +2023,7 @@
           "source_post_id": "236754",
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-13T09:35:11+09:00"
+          "fetched_at": "2026-10-14T07:39:55+09:00"
         }
       ],
       "application_url": null,
@@ -1845,7 +2033,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -13,
+      "d_day": -14,
       "eligibility": "",
       "benefits": "상금 4,200만 원",
       "location": "",
