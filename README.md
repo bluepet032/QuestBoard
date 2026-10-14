@@ -16,7 +16,7 @@ IT·게임을 중심으로 디자인·영상, 문학·예술, 기획·아이디�
 - 출처별 수집 상태와 50~69점 수동 검토 큐
 - 마감·행사·합격 발표 일정 알림과 제목·기관·요약·태그 기반 맞춤 공고 목록
 - 밝게/어둡게/시스템 테마와 모바일 카드 레이아웃
-- 한 출처가 실패해도 계속 실행되는 12개 수집처 파이프라인(온오프믹스는 robots.txt 정책으로 비활성화)
+- 한 출처가 실패해도 계속 실행되는 11개 수집처 파이프라인(온오프믹스·한국콘텐츠진흥원은 robots.txt 정책으로 비활성화)
 
 ## 저장소 구조
 
@@ -104,11 +104,11 @@ pnpm test:e2e
 - `manual/overrides.yml`: ID 또는 원문 URL 기준 필드 수정·강제 공개·검토
 - `manual/exclusions.yml`: ID 또는 원문 URL 강제 제외
 
-예시는 [운영 안내서](docs/OPERATIONS.md)에 있습니다. 수정 후 `python -m pipeline.cli --schedule all --limit 1`로 다시 생성하고 `python -m pipeline.validate`로 확인합니다.
+예시는 [운영 안내서](docs/OPERATIONS.md)에 있습니다. 수정 후 `python -m pipeline.cli --schedule all`로 다시 생성하고 `python -m pipeline.validate`로 확인합니다.
 
 ## GitHub Pages 배포
 
-원격 저장소 생성, Secret, Actions 권한과 Pages 설정은 [배포 안내서](docs/DEPLOYMENT.md)를 순서대로 따르세요. 사이트 코드 변경은 `pages.yml`, 데이터 갱신은 `collect.yml`이 매일 한국시간 약 03:11에 수집·빌드·Pages 배포를 담당합니다. 바로 갱신하려면 [배포 안내서의 수동 갱신](docs/DEPLOYMENT.md#수동-갱신)을 따르세요. 자동 데이터 커밋이 다른 워크플로를 다시 발생시키지 않아도 같은 수집 워크플로에서 최신 사이트를 배포합니다.
+원격 저장소 생성, Secret, Actions 권한과 Pages 설정은 [배포 안내서](docs/DEPLOYMENT.md)를 순서대로 따르세요. 사이트 코드 변경은 `pages.yml`, 데이터 갱신은 `collect.yml`이 매일 오전(예약 03:11, 실제 시작은 GitHub 사정으로 보통 오전 6~10시)에 수집·빌드·Pages 배포를 담당합니다. 바로 갱신하려면 [배포 안내서의 수동 갱신](docs/DEPLOYMENT.md#수동-갱신)을 따르세요. 자동 데이터 커밋이 다른 워크플로를 다시 발생시키지 않아도 같은 수집 워크플로에서 최신 사이트를 배포합니다.
 
 ## 운영상 주의
 

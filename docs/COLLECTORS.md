@@ -6,7 +6,7 @@
 |---|---|---:|---|---|
 | `bizinfo` | 기업마당 | slow | 공개 지원사업·행사 HTML 검색 | robots/약관, 목록 구조 |
 | `kstartup` | K-Startup | slow | 공개 HTML | robots/약관, 목록 구조 |
-| `kocca` | 한국콘텐츠진흥원 | slow | 지원사업공고 공개 HTML | robots/약관, 목록 구조 |
+| `kocca` | 한국콘텐츠진흥원 | - | **비활성화** | robots.txt가 목록 페이지(`/kocca/*/list.do`) 금지(2026-10-15 확인) |
 | `nipa` | 정보통신산업진흥원 | slow | 공개 HTML | robots/약관, 목록 구조 |
 | `wevity` | 위비티 | fast | 공개 HTML | robots/약관, 호출 빈도 |
 | `thinkcontest` | 씽굿 | fast | 공식 목록·상세 공개 HTML | robots/약관, 호출 빈도 |

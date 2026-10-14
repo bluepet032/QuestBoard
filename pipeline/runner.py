@@ -113,6 +113,8 @@ def run_pipeline(
     # Keep recent closed notices as history without replacing freshly collected copies.
     selected_ids = {source.id for source in selected_sources(sources, schedule, effective_names)}
     failed_ids = {status.source_id for status in statuses if status.status == "failed"}
+    # A source that returned `limit` items was cut off, so a notice it did not list may still be open.
+    capped_ids = {status.source_id for status in statuses if status.status == "success" and status.collected_count >= limit}
     fresh_keys = {key for item in opportunities for key in identity_keys(item)}
     cutoff = months_ago(current, 3)
     for item in old_opportunities:
@@ -121,9 +123,11 @@ def run_pipeline(
         status, d_day = status_for(item.recruit_start, item.recruit_end, item.date_kind, current)
         end = parse_iso_date(item.recruit_end)
         recent_closed = status == "closed" and end is not None and end >= cutoff
+        # Undated notices are not kept this way: nothing would ever expire them.
+        capped_open = bool(active_source_ids & capped_ids) and end is not None and status != "closed"
         if active_source_ids and (
             active_source_ids.isdisjoint(selected_ids) or active_source_ids & failed_ids
-            or (recent_closed and identity_keys(item).isdisjoint(fresh_keys))
+            or ((recent_closed or capped_open) and identity_keys(item).isdisjoint(fresh_keys))
         ):
             item.status, item.d_day = status, d_day
             opportunities.append(item)

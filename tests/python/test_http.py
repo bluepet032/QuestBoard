@@ -71,6 +71,32 @@ def test_robots_disallow_blocks_the_request(server):
     assert "https://site.example/private/list" not in calls
 
 
+def test_robots_wildcard_rule_blocks_matching_paths_only(server):
+    # Shape of www.kocca.kr/robots.txt, which the standard library parser reads as "allowed".
+    routes, calls, _ = server
+    routes["https://site.example/robots.txt"] = "User-agent:* \nDisallow:/kocca/*/list.do\nDisallow:/*.php$\n"
+    routes["https://site.example/kocca/pims/view.do?id=1"] = "ok"
+    routes["https://site.example/page.php?x=1"] = "ok"
+
+    with pytest.raises(RobotsDisallowed):
+        HttpClient().get("https://site.example/kocca/pims/list.do?menuNo=204104")
+    with pytest.raises(RobotsDisallowed):
+        HttpClient().get("https://site.example/index.php")
+    assert HttpClient().get("https://site.example/kocca/pims/view.do?id=1").text == "ok"
+    assert HttpClient().get("https://site.example/page.php?x=1").text == "ok"
+    assert "https://site.example/kocca/pims/list.do?menuNo=204104" not in calls
+
+
+def test_robots_longest_rule_wins(server):
+    routes, _, _ = server
+    routes["https://site.example/robots.txt"] = "User-agent: *\nDisallow: /\nAllow: /open/\n"
+    routes["https://site.example/open/list"] = "ok"
+
+    assert HttpClient().get("https://site.example/open/list").text == "ok"
+    with pytest.raises(RobotsDisallowed):
+        HttpClient().get("https://site.example/closed")
+
+
 def test_missing_robots_allows_and_is_fetched_once_per_host(server):
     routes, calls, _ = server
     routes["https://site.example/a"] = "a"

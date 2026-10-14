@@ -3,10 +3,10 @@ from __future__ import annotations
 import html
 import re
 from datetime import datetime
-from urllib.parse import parse_qs, urlencode, urljoin, urlsplit, urlunsplit
+from urllib.parse import parse_qs, urljoin, urlsplit
 
 from pipeline.collectors.base import Collector, CollectorStructureError
-from pipeline.collectors.html import clean_text, dates_from_text
+from pipeline.collectors.html import dates_from_text, tag_text, with_query
 from pipeline.http import FetchError, RobotsDisallowed
 from pipeline.models import RawOpportunity
 
@@ -17,20 +17,6 @@ LINK_RE = re.compile(
     r'<a\s+href\s*=\s*["\'](?P<href>[^"\']*(?:selectSIIA200Detail|selectSIEA430Detail)\.do[^"\']*)["\'][^>]*>(?P<title>.*?)</a>',
     re.I | re.S,
 )
-# Only real tags start with a letter; titles such as "<2027 작품 공모>" are kept.
-TAG_RE = re.compile(r"</?[A-Za-z!][^>]*>")
-
-
-def _text(markup: str) -> str:
-    # Strip tags before unescaping, so a literal "&lt;title&gt;" in the text is kept.
-    return clean_text(TAG_RE.sub(" ", markup))
-
-
-def _query_url(url: str, params: dict[str, str | int]) -> str:
-    parts = urlsplit(url)
-    query = {key: values[-1] for key, values in parse_qs(parts.query).items()}
-    query.update({key: str(value) for key, value in params.items()})
-    return urlunsplit((parts.scheme, parts.netloc, parts.path, urlencode(query), ""))
 
 
 class BizinfoCollector(Collector):
@@ -82,7 +68,7 @@ class BizinfoCollector(Collector):
                     params = {"rows": 15, "cpage": page, "condition": "TITLE", "keyword": keyword}
                 self._attempts += 1
                 try:
-                    response = self.client.get(_query_url(base_url, params))
+                    response = self.client.get(with_query(base_url, **params))
                 except RobotsDisallowed:
                     raise
                 except FetchError as error:
@@ -108,7 +94,7 @@ class BizinfoCollector(Collector):
             link = LINK_RE.search(body)
             if not link:
                 continue
-            cells = [_text(cell.group("body")) for cell in CELL_RE.finditer(body)]
+            cells = [tag_text(cell.group("body")) for cell in CELL_RE.finditer(body)]
             if kind == "support" and len(cells) >= 7:
                 category, period, organizer = cells[1], cells[3], cells[5]
                 id_key = "pblancId"
@@ -127,7 +113,7 @@ class BizinfoCollector(Collector):
                 source_name=self.config.name,
                 source_url=source_url,
                 source_post_id=post_id,
-                title=re.sub(r"\s*페이지(?:로)?\s*이동$", "", _text(link.group("title"))),
+                title=re.sub(r"\s*페이지(?:로)?\s*이동$", "", tag_text(link.group("title"))),
                 organizer=organizer or self.config.name,
                 summary=f"기업마당 공개 {type_hint} · {category} · 검색어 {keyword}",
                 body_text=f"{category} {keyword}",

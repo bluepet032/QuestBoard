@@ -22,8 +22,9 @@ export function liveTiming(item: Opportunity, today = kstDate()): Pick<Opportuni
   const dDay = end - now
   const start = dayNumber(item.recruit_start)
   let status: OpportunityStatus
-  if (start !== null && now < start) status = 'upcoming'
-  else if (dDay < 0) status = 'closed'
+  // A passed deadline wins over a later start date, as in pipeline/dates.py.
+  if (dDay < 0) status = 'closed'
+  else if (start !== null && now < start) status = 'upcoming'
   else if (dDay === 0) status = 'today'
   else if (dDay <= 3) status = 'urgent'
   else status = 'open'

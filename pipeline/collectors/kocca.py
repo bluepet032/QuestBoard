@@ -3,24 +3,17 @@ from __future__ import annotations
 import html
 import re
 from datetime import date, datetime
-from urllib.parse import parse_qs, urlencode, urljoin, urlsplit, urlunsplit
+from urllib.parse import parse_qs, urljoin, urlsplit
 
 from pipeline.collectors.base import Collector, CollectorStructureError
-from pipeline.collectors.html import clean_text
+from pipeline.collectors.html import tag_text, with_query
 from pipeline.models import RawOpportunity
 
 
 ROW_RE = re.compile(r"<tr\b[^>]*>(?P<body>.*?)</tr>", re.I | re.S)
 LINK_RE = re.compile(r'<a\s+href=["\'](?P<href>[^"\']*pims/view\.do[^"\']*)["\'][^>]*>(?P<title>.*?)</a>', re.I | re.S)
 CELL_RE = re.compile(r"<td\b[^>]*>(?P<body>.*?)</td>", re.I | re.S)
-# Only real tags start with a letter; titles such as "<2027 작품 공모>" are kept.
-TAG_RE = re.compile(r"</?[A-Za-z!][^>]*>")
 SHORT_DATE_RE = re.compile(r"(?<!\d)(?P<year>\d{2})\.(?P<month>\d{1,2})\.(?P<day>\d{1,2})(?!\d)")
-
-
-def _text(markup: str) -> str:
-    # Strip tags before unescaping, so a literal "&lt;title&gt;" in the text is kept.
-    return clean_text(TAG_RE.sub(" ", markup))
 
 
 def _short_dates(value: str) -> list[str]:
@@ -33,13 +26,6 @@ def _short_dates(value: str) -> list[str]:
     return results
 
 
-def _with_page(url: str, page: int) -> str:
-    parts = urlsplit(url)
-    query = {key: values[-1] for key, values in parse_qs(parts.query).items()}
-    query["pageIndex"] = str(page)
-    return urlunsplit((parts.scheme, parts.netloc, parts.path, urlencode(query), ""))
-
-
 class KoccaCollector(Collector):
     """Parse the current KOCCA support-notice table and its exact application period."""
 
@@ -48,7 +34,7 @@ class KoccaCollector(Collector):
         seen: set[str] = set()
         max_pages = max(2, (limit + 9) // 10 + 1)
         for page in range(1, max_pages + 1):
-            response = self.client.get(_with_page(self.config.list_url, page))
+            response = self.client.get(with_query(self.config.list_url, pageIndex=page))
             page_items = self._parse_page(response.text, response.url, now)
             new_items = [item for item in page_items if item.source_post_id not in seen]
             if not new_items:
@@ -69,7 +55,7 @@ class KoccaCollector(Collector):
             link = LINK_RE.search(body)
             if not link:
                 continue
-            cells = [_text(cell.group("body")) for cell in CELL_RE.finditer(body)]
+            cells = [tag_text(cell.group("body")) for cell in CELL_RE.finditer(body)]
             if len(cells) < 4:
                 continue
             source_url = urljoin(base_url, html.unescape(link.group("href")))
@@ -83,7 +69,7 @@ class KoccaCollector(Collector):
                 source_name=self.config.name,
                 source_url=source_url,
                 source_post_id=post_id,
-                title=_text(link.group("title")),
+                title=tag_text(link.group("title")),
                 organizer=self.config.name,
                 summary=f"한국콘텐츠진흥원 공식 {category or '지원'} 공고",
                 body_text="디지털 콘텐츠 산업 지원",

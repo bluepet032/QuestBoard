@@ -1,13 +1,14 @@
 import { useEffect, useState } from 'react'
+import { readStorage, writeStorage } from '../utils'
 
 type Theme = 'light' | 'dark' | 'system'
 
 export function ThemeControl() {
-  const [theme, setTheme] = useState<Theme>(() => (localStorage.getItem('questboard.theme') as Theme) || 'light')
+  const [theme, setTheme] = useState<Theme>(() => (readStorage('questboard.theme') as Theme) || 'light')
   useEffect(() => {
     const dark = theme === 'dark' || (theme === 'system' && matchMedia('(prefers-color-scheme: dark)').matches)
     document.documentElement.dataset.theme = dark ? 'dark' : 'light'
-    localStorage.setItem('questboard.theme', theme)
+    writeStorage('questboard.theme', theme)
   }, [theme])
   return (
     <label className="theme-control">

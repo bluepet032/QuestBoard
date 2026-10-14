@@ -25,7 +25,8 @@ sources:
     mode: html
     list_url: https://www.kocca.kr/kocca/pims/list.do?menuNo=204104
     homepage: https://www.kocca.kr/
-    enabled: true
+    # robots.txt has "Disallow:/kocca/*/list.do", which covers this list page, checked 2026-10-15.
+    enabled: false
   - id: nipa
     name: 정보통신산업진흥원
     kind: official

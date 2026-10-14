@@ -1,7 +1,7 @@
 import { withLiveTiming } from './timing'
 import type { CrawlStatus, DataPayload, Opportunity } from './types'
 
-// Data is regenerated at most hourly, so a short in-memory cache avoids refetching
+// Data is regenerated once a day, so a short in-memory cache avoids refetching
 // the same JSON on every tab change and from both the list page and personal features.
 const CACHE_TTL_MS = 10 * 60 * 1000
 

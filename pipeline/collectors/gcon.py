@@ -3,29 +3,20 @@ from __future__ import annotations
 import html
 import re
 from datetime import datetime
-from urllib.parse import parse_qs, urlencode, urljoin, urlsplit, urlunsplit
+from urllib.parse import urljoin
 
 from pipeline.collectors.base import CollectorStructureError
-from pipeline.collectors.html import StructuredHtmlCollector, clean_text, dates_from_text
+from pipeline.collectors.html import StructuredHtmlCollector, dates_from_text, tag_text, with_query
 from pipeline.models import RawOpportunity
 
 
 ROW_RE = re.compile(r"<tr\b[^>]*>(?P<body>.*?)</tr>", re.I | re.S)
 LINK_RE = re.compile(r'<a\s+href=["\'](?P<href>[^"\']*view\.do\?pbancSrnm=(?P<id>\d+)[^"\']*)["\'][^>]*>(?P<title>.*?)</a>', re.I | re.S)
-# Only real tags start with a letter; titles such as "<2027 작품 공모>" are kept.
-TAG_RE = re.compile(r"</?[A-Za-z!][^>]*>")
 CONTENT_RE = re.compile(
     r'<div\b[^>]*\bid=["\']content["\'][^>]*>(?P<body>.*?)'
     r'<div\b[^>]*\bclass=["\'][^"\']*\bbd-view-nav\b[^"\']*["\'][^>]*>', re.I | re.S,
 )
 FIELD_RE = re.compile(r"<dt\b[^>]*>(?P<label>.*?)</dt>\s*<dd\b[^>]*>(?P<value>.*?)</dd>", re.I | re.S)
-
-
-def _page_url(url: str, page: int) -> str:
-    parts = urlsplit(url)
-    query = {key: values[-1] for key, values in parse_qs(parts.query).items()}
-    query["pageIndex"] = str(page)
-    return urlunsplit((parts.scheme, parts.netloc, parts.path, urlencode(query), ""))
 
 
 class GconCollector(StructuredHtmlCollector):
@@ -38,8 +29,8 @@ class GconCollector(StructuredHtmlCollector):
         item = super()._detail_item(body, url, list_title, now)
         fields: dict[str, str] = {}
         for field in FIELD_RE.finditer(body):
-            label = clean_text(TAG_RE.sub(" ", field.group("label")))
-            value = clean_text(TAG_RE.sub(" ", field.group("value")))
+            label = tag_text(field.group("label"))
+            value = tag_text(field.group("value"))
             if value:
                 fields.setdefault(label, value)
         item.organizer = self.config.name
@@ -64,15 +55,15 @@ class GconCollector(StructuredHtmlCollector):
         results: list[RawOpportunity] = []
         seen: set[str] = set()
         for page in range(1, max(2, (limit + 14) // 15 + 1)):
-            response = self.client.get(_page_url(self.config.list_url, page))
+            response = self.client.get(with_query(self.config.list_url, pageIndex=page))
             candidates: list[tuple[str, str, str]] = []
             for row in ROW_RE.finditer(response.text):
                 link = LINK_RE.search(row.group("body"))
-                state = clean_text(TAG_RE.sub(" ", row.group("body")))
+                state = tag_text(row.group("body"))
                 if not link or "접수중" not in state or link.group("id") in seen:
                     continue
                 seen.add(link.group("id"))
-                title = clean_text(TAG_RE.sub(" ", link.group("title")))
+                title = tag_text(link.group("title"))
                 candidates.append((urljoin(response.url, html.unescape(link.group("href"))), title, link.group("id")))
             if not candidates:
                 break

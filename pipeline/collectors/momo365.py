@@ -6,20 +6,13 @@ from datetime import datetime
 from urllib.parse import parse_qs, urljoin, urlsplit
 
 from pipeline.collectors.base import Collector, CollectorStructureError
-from pipeline.collectors.html import clean_text, parse_date
+from pipeline.collectors.html import parse_date, tag_text
 from pipeline.models import RawOpportunity
 
 
 ROW_RE = re.compile(r'<tr\s+id="tr_\d+"[^>]*>(?P<body>.*?)</tr>', re.I | re.S)
 CELL_RE = re.compile(r"<td\b[^>]*>(?P<body>.*?)</td>", re.I | re.S)
 LINK_RE = re.compile(r'<a\s+href="(?P<href>[^"]*ViewType=detail[^"]*)"[^>]*>(?P<title>.*?)</a>', re.I | re.S)
-# Only real tags start with a letter; titles such as "<2027 작품 공모>" are kept.
-TAG_RE = re.compile(r"</?[A-Za-z!][^>]*>")
-
-
-def _text(markup: str) -> str:
-    # Strip tags before unescaping, so a literal "&lt;title&gt;" in the text is kept.
-    return clean_text(TAG_RE.sub(" ", markup))
 
 
 class Momo365Collector(Collector):
@@ -36,7 +29,7 @@ class Momo365Collector(Collector):
         for row in ROW_RE.finditer(response.text):
             body = row.group("body")
             link = LINK_RE.search(body)
-            cells = [_text(cell.group("body")) for cell in CELL_RE.finditer(body)]
+            cells = [tag_text(cell.group("body")) for cell in CELL_RE.finditer(body)]
             if not link or len(cells) < 8:
                 continue
             # cells[6] is the posting date, not the start of applications, so it is not used.

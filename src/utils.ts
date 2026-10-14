@@ -3,6 +3,14 @@ import type { Opportunity } from './types'
 
 const HOUR = 60 * 60 * 1000
 
+// Browsers that block site data throw on any localStorage access; the site must work without saving.
+export function readStorage(key: string): string | null {
+  try { return localStorage.getItem(key) } catch { return null }
+}
+export function writeStorage(key: string, value: string) {
+  try { localStorage.setItem(key, value) } catch { /* not saved in this browser */ }
+}
+
 export const isNew = (item: Opportunity, now = Date.now()) => now - new Date(item.first_seen_at).getTime() <= 72 * HOUR
 export const isUpdated = (item: Opportunity, now = Date.now()) => Boolean(item.last_changed_at) && now - new Date(item.last_changed_at!).getTime() <= 48 * HOUR
 export const isDeadlineSoon = (item: Opportunity) => item.d_day != null && item.d_day >= 0 && item.d_day <= 7

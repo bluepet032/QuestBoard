@@ -2,25 +2,15 @@ from __future__ import annotations
 
 import re
 from datetime import datetime, timedelta
-from urllib.parse import parse_qs, urlencode, urlsplit, urlunsplit
 
 from pipeline.collectors.base import Collector, CollectorStructureError
-from pipeline.collectors.html import clean_text
+from pipeline.collectors.html import tag_text, with_query
 from pipeline.models import RawOpportunity
 
 
 ITEM_RE = re.compile(r"<a\s+href=[\"']javascript:go_view\((?P<id>\d+)\);?[\"'][^>]*>(?P<body>.*?)</a>", re.I | re.S)
 TITLE_RE = re.compile(r"<p\s+class=[\"']tit[\"'][^>]*>(?P<title>.*?)</p>", re.I | re.S)
 DDAY_RE = re.compile(r"D-(\d+)", re.I)
-# Only real tags start with a letter; titles such as "<2027 작품 공모>" are kept.
-TAG_RE = re.compile(r"</?[A-Za-z!][^>]*>")
-
-
-def _url(url: str, **updates: str | int) -> str:
-    parts = urlsplit(url)
-    query = {key: values[-1] for key, values in parse_qs(parts.query).items()}
-    query.update({key: str(value) for key, value in updates.items()})
-    return urlunsplit((parts.scheme, parts.netloc, parts.path, urlencode(query), ""))
 
 
 class KStartupCollector(Collector):
@@ -31,7 +21,7 @@ class KStartupCollector(Collector):
         seen: set[str] = set()
         for page in range(1, max(2, (limit + 19) // 20 + 1)):
             for keyword in self.KEYWORDS:
-                response = self.client.get(_url(self.config.list_url, schStr=keyword, page=page))
+                response = self.client.get(with_query(self.config.list_url, schStr=keyword, page=page))
                 page_items = self._parse(response.text, now)
                 for item in page_items:
                     if item.source_post_id in seen:
@@ -50,7 +40,7 @@ class KStartupCollector(Collector):
             title_match = TITLE_RE.search(match.group("body"))
             if not title_match:
                 continue
-            title = clean_text(TAG_RE.sub(" ", title_match.group("title")))
+            title = tag_text(title_match.group("title"))
             dday = DDAY_RE.search(match.group("body"))
             if not dday:
                 continue
@@ -58,7 +48,7 @@ class KStartupCollector(Collector):
             post_id = match.group("id")
             results.append(RawOpportunity(
                 source_id=self.config.id, source_name=self.config.name,
-                source_url=_url(self.config.list_url, schM="view", pbancSn=post_id),
+                source_url=with_query(self.config.list_url, schM="view", pbancSn=post_id),
                 source_post_id=post_id, title=title, organizer=self.config.name,
                 summary="K-Startup 모집중 창업지원 공고", body_text=title,
                 source_kind=self.config.kind, source_priority=self.config.priority,

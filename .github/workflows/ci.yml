@@ -45,3 +45,24 @@ jobs:
       - name: Browser tests
         run: pnpm test:e2e
 
+  firestore-rules:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Test Firestore security rules
+        # Same steps as docs/DEPLOYMENT.md "보안 규칙 검사", outside the project's own dependencies.
+        working-directory: ${{ runner.temp }}
+        run: |
+          echo '{"emulators":{"firestore":{"host":"127.0.0.1","port":8080},"ui":{"enabled":false}}}' > firebase.json
+          npm init -y > /dev/null
+          npm install --legacy-peer-deps firebase-tools @firebase/rules-unit-testing firebase@12
+          cp "$GITHUB_WORKSPACE/tests/firestore/rules.test.mjs" .
+          RULES_PATH="$GITHUB_WORKSPACE/firestore.rules" npx firebase emulators:exec --only firestore --project demo-questboard "node rules.test.mjs"
+

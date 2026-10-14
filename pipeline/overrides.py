@@ -8,7 +8,7 @@ from zoneinfo import ZoneInfo
 from pipeline.config import ROOT, load_yaml
 from pipeline.dates import status_for
 from pipeline.models import Opportunity, RawOpportunity
-from pipeline.normalize import normalize
+from pipeline.normalize import clean_url, normalize
 
 
 ALLOWED_FIELDS = {
@@ -72,14 +72,20 @@ def apply_overrides(
     directory = manual_dir or ROOT / "manual"
     exclusions = load_yaml(directory / "exclusions.yml")
     excluded_ids = set(exclusions.get("ids", []))
-    excluded_urls = set(exclusions.get("source_urls", []))
-    filtered = [item for item in items if item.id not in excluded_ids and item.source_url not in excluded_urls]
+    # Stored URLs went through clean_url, and a merged notice may be pasted from any of its sources.
+    excluded_urls = {clean_url(url) for url in exclusions.get("source_urls", [])}
+    filtered = [
+        item for item in items
+        if item.id not in excluded_ids
+        and excluded_urls.isdisjoint({item.source_url, *(source.source_url for source in item.sources)})
+    ]
 
     by_id = {item.id: item for item in filtered}
     by_url = {source.source_url: item for item in filtered for source in item.sources}
     overrides = load_yaml(directory / "overrides.yml")
     for patch in overrides.get("items", []):
-        target = by_id.get(patch.get("id")) or by_url.get(patch.get("source_url"))
+        url = patch.get("source_url")
+        target = by_id.get(patch.get("id")) or (by_url.get(clean_url(url)) if url else None)
         if not target:
             continue
         for key, value in patch.items():

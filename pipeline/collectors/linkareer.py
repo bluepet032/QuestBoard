@@ -3,9 +3,9 @@ from __future__ import annotations
 import json
 import re
 from datetime import datetime
-from urllib.parse import parse_qs, urlencode, urlsplit, urlunsplit
 
 from pipeline.collectors.base import Collector, CollectorStructureError
+from pipeline.collectors.html import with_query
 from pipeline.http import FetchError, RobotsDisallowed
 from pipeline.models import RawOpportunity
 
@@ -29,13 +29,6 @@ def _ms_to_date(value, now: datetime) -> str | None:
     return datetime.fromtimestamp(value / 1000, tz=now.tzinfo).date().isoformat() if isinstance(value, (int, float)) else None
 
 
-def _page_url(url: str, page: int) -> str:
-    parts = urlsplit(url)
-    query = {key: values[-1] for key, values in parse_qs(parts.query).items()}
-    query["page"] = str(page)
-    return urlunsplit((parts.scheme, parts.netloc, parts.path, urlencode(query), ""))
-
-
 class LinkareerCollector(Collector):
     """Read Linkareer's public server-rendered Apollo state.
 
@@ -50,7 +43,7 @@ class LinkareerCollector(Collector):
         seen: set[str] = set()
         max_pages = max(2, (limit + 19) // 20 + 1)
         for page in range(1, max_pages + 1):
-            response = self.client.get(_page_url(self.config.list_url, page))
+            response = self.client.get(with_query(self.config.list_url, page=page))
             page_items = self._parse_page(response.text, now)
             new_items = [item for item in page_items if item.source_post_id not in seen]
             if not new_items:

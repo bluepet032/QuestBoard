@@ -9,6 +9,7 @@ const mocks = vi.hoisted(() => ({
   records: {} as Record<string, { id: string; data: () => unknown }[]>,
   deleteDoc: vi.fn(),
   setDocument: vi.fn(),
+  transactions: vi.fn(),
   user: { uid: 'test-user' } as { uid: string } | null,
 }))
 
@@ -21,10 +22,13 @@ vi.mock('firebase/firestore', () => ({
     receive({ docs: mocks.records[path.split('/').at(-1) ?? ''] ?? [] })
     return vi.fn()
   },
-  runTransaction: async (_db: unknown, callback: (transaction: unknown) => Promise<void>) => callback({
-    get: async () => ({ exists: () => false }),
-    set: mocks.setDocument,
-  }),
+  runTransaction: async (_db: unknown, callback: (transaction: unknown) => Promise<void>) => {
+    mocks.transactions()
+    return callback({
+      get: async () => ({ exists: () => false }),
+      set: mocks.setDocument,
+    })
+  },
   deleteDoc: mocks.deleteDoc,
   updateDoc: vi.fn(),
   addDoc: vi.fn(),
@@ -60,6 +64,7 @@ describe('personal data connections', () => {
     mocks.user = { uid: 'test-user' }
     mocks.deleteDoc.mockReset().mockResolvedValue(undefined)
     mocks.setDocument.mockReset()
+    mocks.transactions.mockReset()
     mocks.records = {
       favorites: [{ id: 'notice-1', data: () => ({ item: savedItem, remindersEnabled: true, note: '내 메모', resultDate: '2030-11-01' }) }],
       keywords: [], notifications: [],
@@ -107,6 +112,48 @@ describe('personal data connections', () => {
     act(() => clearDataCache())
     await waitFor(() => expect(readState().favorites[0].item.recruit_end).toBe('2026-10-30'))
     await waitFor(() => expect(mocks.deleteDoc).toHaveBeenCalledWith('users/test-user/notifications/' + notificationId))
+  })
+
+  it('does not re-read keyword alerts that are already loaded', async () => {
+    mocks.records.favorites = []
+    mocks.records.keywords = [{ id: 'k1', data: () => ({ word: '게임', createdAt: '2026-09-01T00:00:00+09:00' }) }]
+    mocks.records.notifications = [{ id: encodeURIComponent('keyword:notice-1'), data: () => ({ type: 'keyword', title: '새 맞춤 공고', message: '게임 공모전', opportunityId: 'notice-1', read: true }) }]
+    vi.stubGlobal('fetch', vi.fn().mockResolvedValue({ ok: true, json: async () => ({ schema_version: 1, items: [savedItem] }) }))
+    render(<PersonalProvider><Probe /></PersonalProvider>)
+    await waitFor(() => expect(readState().loading).toBe(false))
+    await act(async () => {})
+    expect(mocks.transactions).not.toHaveBeenCalled()
+    expect(mocks.deleteDoc).not.toHaveBeenCalled()
+  })
+
+  it('removes keyword alerts whose notice left the public data', async () => {
+    const goneId = encodeURIComponent('keyword:gone-notice')
+    mocks.records.notifications = [{ id: goneId, data: () => ({ type: 'keyword', title: '새 맞춤 공고', message: '지난 공고', opportunityId: 'gone-notice', read: true }) }]
+    vi.stubGlobal('fetch', vi.fn().mockResolvedValue({ ok: true, json: async () => ({ schema_version: 1, items: [savedItem] }) }))
+    render(<PersonalProvider><Probe /></PersonalProvider>)
+    await waitFor(() => expect(mocks.deleteDoc).toHaveBeenCalledWith('users/test-user/notifications/' + goneId))
+  })
+
+  it('keeps keyword alerts when public data fails to load', async () => {
+    mocks.records.notifications = [{ id: encodeURIComponent('keyword:notice-1'), data: () => ({ type: 'keyword', title: '새 맞춤 공고', message: '게임 공모전', opportunityId: 'notice-1', read: false }) }]
+    vi.stubGlobal('fetch', vi.fn().mockResolvedValue({ ok: false, status: 503 }))
+    render(<PersonalProvider><Probe /></PersonalProvider>)
+    await waitFor(() => expect(readState().loading).toBe(false))
+    await act(async () => {})
+    expect(mocks.deleteDoc).not.toHaveBeenCalled()
+  })
+
+  it('keeps working when the browser blocks site data', () => {
+    mocks.user = null
+    const original = Object.getOwnPropertyDescriptor(window, 'localStorage')!
+    Object.defineProperty(window, 'localStorage', { configurable: true, get() { throw new DOMException('blocked', 'SecurityError') } })
+    try {
+      render(<PersonalProvider><Probe /></PersonalProvider>)
+      fireEvent.click(screen.getByRole('button', { name: '숨김' }))
+      expect(readState().hidden).toEqual(['notice-1'])
+    } finally {
+      Object.defineProperty(window, 'localStorage', original)
+    }
   })
 
   it('opening a notice twice keeps it read while hide still toggles', () => {

@@ -41,10 +41,11 @@ def status_for(
     if not end_date:
         return "unknown", None
     d_day = (end_date - today).days
-    if start_date and today < start_date:
-        return "upcoming", d_day
+    # A passed deadline wins over a later start date, which only a misread page can produce.
     if d_day < 0:
         return "closed", d_day
+    if start_date and today < start_date:
+        return "upcoming", d_day
     if d_day == 0:
         return "today", 0
     if d_day <= 3:

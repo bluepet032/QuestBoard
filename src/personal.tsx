@@ -14,6 +14,7 @@ import { useAccount } from './account'
 import { loadOpportunities } from './data'
 import { dueReminders, isNewKeywordMatch, kstDate, matchesPersonalKeyword } from './personalLogic'
 import type { Opportunity, PersonalState } from './types'
+import { readStorage, writeStorage } from './utils'
 
 export interface SavedOpportunity {
   id: string
@@ -72,7 +73,7 @@ const PersonalContext = createContext<PersonalContextValue | null>(null)
 
 function loadLocalState(): PersonalState {
   try {
-    const parsed = JSON.parse(localStorage.getItem(KEY) || '') as Partial<PersonalState>
+    const parsed = JSON.parse(readStorage(KEY) || '') as Partial<PersonalState>
     if (parsed.version !== 1) return EMPTY
     return {
       version: 1,
@@ -141,7 +142,7 @@ export function PersonalProvider({ children }: { children: ReactNode }) {
   const [error, setError] = useState('')
 
   useEffect(() => {
-    localStorage.setItem(KEY, JSON.stringify(local))
+    writeStorage(KEY, JSON.stringify(local))
   }, [local])
 
   useEffect(() => {
@@ -258,7 +259,7 @@ export function PersonalProvider({ children }: { children: ReactNode }) {
   useEffect(() => {
     if (!userId || dataUserId !== userId || !storeReady || !publishedReady || local.favorites.length === 0) return
     const key = 'questboard.favorite-import.v1.' + userId
-    const decision = localStorage.getItem(key)
+    const decision = readStorage(key)
     if (decision !== 'done' && decision !== 'skipped') setMigrationOpen(true)
   }, [userId, dataUserId, storeReady, publishedReady, local.favorites.length])
 
@@ -308,9 +309,13 @@ export function PersonalProvider({ children }: { children: ReactNode }) {
       })
     }
 
+    // Every write re-runs this effect, so re-reading known alerts would cost one Firestore read each time.
+    const existingIds = new Set(currentNotifications.map(notification => notification.id))
+    const publishedIds = new Set(publishedItems.map(item => item.id))
     const saveMissing = async () => {
       for (const [id, value] of candidates) {
         if (!active) return
+        if (existingIds.has(id)) continue
         const reference = doc(firestore, 'users', userId, 'notifications', id)
         await runTransaction(firestore, async transaction => {
           const existing = await transaction.get(reference)
@@ -318,10 +323,12 @@ export function PersonalProvider({ children }: { children: ReactNode }) {
         })
       }
       for (const notification of currentNotifications) {
-        if (!active || notification.type !== 'schedule') continue
-        if (!notification.date || notification.date < today || !scheduleIds.has(notification.id)) {
-          await deleteDoc(doc(firestore, 'users', userId, 'notifications', notification.id))
-        }
+        if (!active) continue
+        const outdated = notification.type === 'schedule'
+          ? !notification.date || notification.date < today || !scheduleIds.has(notification.id)
+          // Keyword alerts end with their notice; the size check skips this when public data failed to load.
+          : publishedIds.size > 0 && !publishedIds.has(notification.opportunityId)
+        if (outdated) await deleteDoc(doc(firestore, 'users', userId, 'notifications', notification.id))
       }
     }
     void saveMissing().catch(reason => {
@@ -398,7 +405,7 @@ export function PersonalProvider({ children }: { children: ReactNode }) {
         imported.add(id)
       }
       setLocal(current => ({ ...current, favorites: current.favorites.filter(id => !imported.has(id)) }))
-      localStorage.setItem('questboard.favorite-import.v1.' + userId, 'done')
+      writeStorage('questboard.favorite-import.v1.' + userId, 'done')
       setMigrationOpen(false)
       setMigrationMessage('현재 공개 목록에서 확인되는 기존 찜을 계정 찜에 합쳤습니다. 확인되지 않는 항목의 브라우저 찜은 그대로 보존했습니다.')
     } catch (reason) {
@@ -407,7 +414,7 @@ export function PersonalProvider({ children }: { children: ReactNode }) {
   }, [userId, publishedItems, publishedReady, local.favorites])
 
   const closeMigration = (skip: boolean) => {
-    if (skip && userId) localStorage.setItem('questboard.favorite-import.v1.' + userId, 'skipped')
+    if (skip && userId) writeStorage('questboard.favorite-import.v1.' + userId, 'skipped')
     setMigrationOpen(false)
   }
 

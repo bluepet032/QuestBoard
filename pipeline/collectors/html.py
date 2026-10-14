@@ -5,7 +5,7 @@ import json
 import re
 from datetime import date, datetime
 from html.parser import HTMLParser
-from urllib.parse import urljoin, urlparse
+from urllib.parse import parse_qs, urlencode, urljoin, urlparse, urlsplit, urlunsplit
 
 from pipeline.collectors.base import Collector, CollectorStructureError
 from pipeline.http import RobotsDisallowed
@@ -83,6 +83,24 @@ class DocumentParser(HTMLParser):
 
 def clean_text(value: str) -> str:
     return re.sub(r"\s+", " ", html.unescape(value or "")).strip()
+
+
+# Only real tags start with a letter; titles such as "<2027 작품 공모>" are kept.
+TAG_RE = re.compile(r"</?[A-Za-z!][^>]*>")
+
+
+def tag_text(markup: str) -> str:
+    # Strip tags before unescaping, so a literal "&lt;title&gt;" in the text is kept.
+    return clean_text(TAG_RE.sub(" ", markup))
+
+
+def with_query(url: str, **params: str | int) -> str:
+    """Return ``url`` with the given query parameters set, keeping the others."""
+
+    parts = urlsplit(url)
+    query = {key: values[-1] for key, values in parse_qs(parts.query).items()}
+    query.update({key: str(value) for key, value in params.items()})
+    return urlunsplit((parts.scheme, parts.netloc, parts.path, urlencode(query), ""))
 
 
 def parse_date(value: str) -> str | None:

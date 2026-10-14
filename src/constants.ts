@@ -24,6 +24,7 @@ export const PAGE_SIZE = 50
 
 export const REPOSITORY_URL = 'https://github.com/bluepet032/QuestBoard'
 export const COLLECT_WORKFLOW_URL = `${REPOSITORY_URL}/actions/workflows/collect.yml`
-export const AUTO_REFRESH_LABEL = '매일 새벽 3시(KST)'
+// The cron is 03:11 KST, but GitHub starts scheduled runs hours late (06:37–09:34 KST in Oct 2026).
+export const AUTO_REFRESH_LABEL = '매일 오전(KST)'
 // Collection runs daily, so a source is only stale after missing about two runs.
 export const STALE_AFTER_MS = 48 * 60 * 60 * 1000

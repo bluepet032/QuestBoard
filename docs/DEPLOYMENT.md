@@ -32,7 +32,7 @@ $env:RULES_PATH = 'D:\Projects\QuestBoard\firestore.rules'
 npx firebase emulators:exec --only firestore --project demo-questboard "node rules.test.mjs"
 ```
 
-마지막 줄에 `20/20 passed`가 나오면 사이트의 저장·수정·삭제는 모두 허용되고, 다른 사용자 접근·알 수 없는 필드·길이 초과는 거부되는 것입니다. 확인 후 폴더는 지워도 됩니다.
+마지막 줄에 `20/20 passed`가 나오면 사이트의 저장·수정·삭제는 모두 허용되고, 다른 사용자 접근·알 수 없는 필드·길이 초과는 거부되는 것입니다. 확인 후 폴더는 지워도 됩니다. 같은 검사는 CI(`ci.yml`의 `firestore-rules` job)가 푸시와 PR마다 자동으로 실행합니다.
 
 ### 2. Google 로그인 켜기
 
@@ -85,7 +85,7 @@ Vite의 상대 경로 빌드를 사용하므로 저장소명이 무엇이든 기
 
 ## 자동 수집 일정
 
-`Collect data and deploy` 워크플로는 **하루 한 번, 한국시간 약 03:11**(UTC 18:11)에 모든 출처를 수집하고 배포합니다. GitHub의 부하에 따라 예약 실행이 몇십 분 늦어질 수 있습니다.
+`Collect data and deploy` 워크플로는 **하루 한 번, 한국시간 약 03:11**(UTC 18:11)에 모든 출처를 수집하고 배포합니다. GitHub의 부하에 따라 예약 실행이 몇 시간 늦어질 수 있습니다(2026년 10월 실측: 오전 6:37~9:34 시작).
 
 ### 수동 갱신
 

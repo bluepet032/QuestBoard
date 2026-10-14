@@ -95,6 +95,34 @@ def test_recent_deadlines_survive_missing_posts_and_newer_copies_win(monkeypatch
     assert expired == []
 
 
+def test_capped_source_keeps_open_notices_beyond_the_limit(monkeypatch, tmp_path: Path):
+    # Day 1 and 2 return exactly `limit` items (the list was cut off); day 3 returns fewer (the full list).
+    listed = {1: ["a", "b", "undated"], 2: ["c", "d", "e"], 3: ["e"]}
+
+    class Collector:
+        def collect(self, now, limit=150):
+            return [RawOpportunity(
+                source_id="wevity", source_name="위비티", source_post_id=key,
+                source_url=f"https://example.com/{key}", title=f"AI 게임 공모전 {key}",
+                recruit_end=None if key == "undated" else "2026-12-31",
+                date_kind="unknown" if key == "undated" else "exact",
+            ) for key in listed[now.day]]
+
+    monkeypatch.setattr(runner, "create_collector", lambda source: Collector())
+    monkeypatch.setattr(runner, "manual_items", lambda taxonomy, now: [])
+    output = tmp_path / "data"
+    kst = ZoneInfo("Asia/Seoul")
+    run = lambda day: runner.run_pipeline(output_dir=output, names={"wevity"}, limit=3, now=datetime(2026, 10, day, 3, tzinfo=kst))[0]
+    first = {item.title: item.first_seen_at for item in run(1)}
+
+    capped = {item.title: item.first_seen_at for item in run(2)}
+    assert set(capped) == {f"AI 게임 공모전 {key}" for key in "abcde"}
+    assert capped["AI 게임 공모전 a"] == first["AI 게임 공모전 a"]
+
+    full = run(3)
+    assert [item.title for item in full] == ["AI 게임 공모전 e"]
+
+
 def test_archived_notices_still_obey_manual_exclusions(monkeypatch, tmp_path: Path):
     run_once(monkeypatch, tmp_path / "data", 1, 1)
     manual = tmp_path / "manual"
@@ -104,6 +132,7 @@ def test_archived_notices_still_obey_manual_exclusions(monkeypatch, tmp_path: Pa
     from pipeline.overrides import apply_overrides
 
     monkeypatch.setattr(runner, "apply_overrides", lambda items, now: apply_overrides(items, manual_dir=manual, now=now))
+    monkeypatch.setattr(runner, "manual_items", lambda taxonomy, now: [])
     monkeypatch.setattr(runner, "create_collector", lambda source: FakeCollector(0))
     items, _ = runner.run_pipeline(output_dir=tmp_path / "data", names={"wevity"}, now=datetime(2027, 1, 1, tzinfo=ZoneInfo("Asia/Seoul")))
     assert items == []

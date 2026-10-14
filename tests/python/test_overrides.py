@@ -3,6 +3,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 from pipeline.config import load_taxonomy
+from pipeline.dedupe import deduplicate
 from pipeline.models import RawOpportunity
 from pipeline.normalize import normalize
 from pipeline.overrides import apply_overrides, manual_items
@@ -26,6 +27,35 @@ items:
     items = manual_items(load_taxonomy(), now, tmp_path)
     assert items[0].relevance.decision == "publish"
     assert apply_overrides(items, tmp_path) == items
+
+
+def merged_item(now: datetime):
+    """One notice listed by a high-priority source and a low-priority source, merged into one."""
+
+    raws = [RawOpportunity(
+        source_id=source_id, source_name=source_id, source_url=f"https://{source_id}.example/post/1",
+        source_priority=priority, title="AI 게임 개발 공모전", application_url="https://apply.example/1",
+        recruit_end="2026-08-31", date_kind="exact",
+    ) for source_id, priority in (("official", 100), ("aggregate", 40))]
+    [item] = deduplicate([normalize(raw, load_taxonomy(), now) for raw in raws])
+    assert item.source_url == "https://official.example/post/1"
+    return item
+
+
+def test_exclusion_matches_any_merged_source_url_as_pasted(tmp_path: Path):
+    now = datetime(2026, 7, 30, tzinfo=ZoneInfo("Asia/Seoul"))
+    (tmp_path / "exclusions.yml").write_text("source_urls: ['https://AGGREGATE.example/post/1/']\n", encoding="utf-8")
+
+    assert apply_overrides([merged_item(now)], tmp_path, now) == []
+
+
+def test_override_matches_any_merged_source_url_as_pasted(tmp_path: Path):
+    now = datetime(2026, 7, 30, tzinfo=ZoneInfo("Asia/Seoul"))
+    (tmp_path / "overrides.yml").write_text("items:\n  - source_url: https://aggregate.example/post/1/\n    title: 고친 제목\n", encoding="utf-8")
+
+    [result] = apply_overrides([merged_item(now)], tmp_path, now)
+
+    assert result.title == "고친 제목"
 
 
 def test_override_recalculates_deadline_and_review_score(tmp_path: Path):

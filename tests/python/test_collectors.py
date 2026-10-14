@@ -300,13 +300,10 @@ def test_momo365_list_table_contract():
 
 
 def test_table_collectors_keep_angle_brackets_that_are_part_of_titles():
-    from pipeline.collectors.bizinfo import _text as bizinfo_text
-    from pipeline.collectors.kocca import _text as kocca_text
-    from pipeline.collectors.momo365 import _text as momo_text
-    from pipeline.collectors.wevity import _text as wevity_text
+    # All table collectors share this helper.
+    from pipeline.collectors.html import tag_text
 
     markup = '<a href="#">[공고] 종로아이들극장 &lt;2027년도 어린이·가족공연 작품 공모&gt;</a>'
     unescaped = '<p><a href="#">[한국연극인복지재단] <2026 프로젝트 워크숍 ; 이음과 과정> 배우 공모</a></p>'
-    for text in (bizinfo_text, kocca_text, momo_text, wevity_text):
-        assert text(markup) == "[공고] 종로아이들극장 <2027년도 어린이·가족공연 작품 공모>"
-        assert text(unescaped) == "[한국연극인복지재단] <2026 프로젝트 워크숍 ; 이음과 과정> 배우 공모"
+    assert tag_text(markup) == "[공고] 종로아이들극장 <2027년도 어린이·가족공연 작품 공모>"
+    assert tag_text(unescaped) == "[한국연극인복지재단] <2026 프로젝트 워크숍 ; 이음과 과정> 배우 공모"

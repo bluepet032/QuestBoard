@@ -3,10 +3,10 @@ from __future__ import annotations
 import html
 import re
 from datetime import datetime, timedelta
-from urllib.parse import parse_qs, urlencode, urljoin, urlsplit, urlunsplit
+from urllib.parse import parse_qs, urljoin, urlsplit
 
 from pipeline.collectors.base import Collector, CollectorStructureError
-from pipeline.collectors.html import clean_text
+from pipeline.collectors.html import tag_text, with_query
 from pipeline.models import RawOpportunity
 
 
@@ -15,27 +15,13 @@ LINK_RE = re.compile(
     r'<div\s+class=["\']tit["\'][^>]*>.*?<a\s+href=["\'](?P<href>[^"\']*gbn=view[^"\']*)["\'][^>]*>(?P<title>.*?)</a>',
     re.I | re.S,
 )
-# Only real tags start with a letter; titles such as "<2027 작품 공모>" are kept.
-TAG_RE = re.compile(r"</?[A-Za-z!][^>]*>")
 DDAY_RE = re.compile(r"D-(\d+)", re.I)
 DPLUS_RE = re.compile(r"D\+(\d+)", re.I)
 
 
-def _text(markup: str) -> str:
-    # Strip tags before unescaping, so a literal "&lt;title&gt;" in the text is kept.
-    return clean_text(TAG_RE.sub(" ", markup))
-
-
 def _div_text(markup: str, class_name: str) -> str:
     match = re.search(rf'<div\s+class=["\'][^"\']*\b{re.escape(class_name)}\b[^"\']*["\'][^>]*>(?P<body>.*?)</div>', markup, re.I | re.S)
-    return _text(match.group("body")) if match else ""
-
-
-def _with_query(url: str, **updates: str | int) -> str:
-    parts = urlsplit(url)
-    query = {key: values[-1] for key, values in parse_qs(parts.query).items()}
-    query.update({key: str(value) for key, value in updates.items()})
-    return urlunsplit((parts.scheme, parts.netloc, parts.path, urlencode(query), ""))
+    return tag_text(match.group("body")) if match else ""
 
 
 class WevityCollector(Collector):
@@ -56,7 +42,7 @@ class WevityCollector(Collector):
                     key = (category_id, mode)
                     if key in exhausted:
                         continue
-                    url = _with_query(self.config.list_url, cidx=category_id, gbn="list", mode=mode, gp=page)
+                    url = with_query(self.config.list_url, cidx=category_id, gbn="list", mode=mode, gp=page)
                     response = self.client.get(url)
                     page_items = self._parse_page(response.text, response.url, now)
                     new_items = [item for item in page_items if item.source_post_id not in seen]
@@ -83,7 +69,7 @@ class WevityCollector(Collector):
             if not link or "sub-tit" not in body or "organ" not in body:
                 continue
             fields = {name: _div_text(body, name) for name in ("sub-tit", "organ", "day")}
-            title = _text(link.group("title"))
+            title = tag_text(link.group("title"))
             href = html.unescape(link.group("href"))
             source_url = urljoin(base_url, href)
             query = parse_qs(urlsplit(source_url).query)

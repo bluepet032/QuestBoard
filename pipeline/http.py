@@ -2,11 +2,12 @@ from __future__ import annotations
 
 import gzip
 import json
+import re
 import time
 import urllib.error
 import urllib.request
 from dataclasses import dataclass
-from urllib.parse import urlsplit
+from urllib.parse import quote, unquote, urlsplit, urlunsplit
 from urllib.robotparser import RobotFileParser
 
 
@@ -48,6 +49,33 @@ def reset_host_state() -> None:
     _robots.clear()
     _robots_unavailable.clear()
     _last_request.clear()
+
+
+def robots_allows(robots: RobotFileParser, url: str) -> bool:
+    """RFC 9309 matching: ``*`` and ``$`` wildcards, the longest rule wins, Allow wins ties.
+
+    ``RobotFileParser.can_fetch`` only compares literal prefixes and takes the first rule, so
+    ``Disallow: /kocca/*/list.do`` never matched. Its parsed groups and rules are reused here.
+    """
+
+    if robots.disallow_all:
+        return False
+    if robots.allow_all:
+        return True
+    entry = next((entry for entry in robots.entries if entry.applies_to(ROBOTS_AGENT)), robots.default_entry)
+    if entry is None:
+        return True
+    parts = urlsplit(url)
+    # Quoted the same way RuleLine stores its path, so "*" and "$" arrive as %2A and %24.
+    target = quote(unquote(urlunsplit(("", "", parts.path or "/", parts.query, ""))))
+    best = (-1, True)
+    for rule in entry.rulelines:
+        pattern = re.escape(rule.path).replace("%2A", ".*")
+        if pattern.endswith("%24"):
+            pattern = pattern[:-3] + "$"
+        if re.match(pattern, target):
+            best = max(best, (len(rule.path), rule.allowance))
+    return best[1]
 
 
 def retry_after_seconds(value: str | None) -> float | None:
@@ -144,7 +172,7 @@ class HttpClient:
         crawl_delay = 0.0
         if self.respect_robots:
             robots = self._robots_for(url)
-            if not robots.can_fetch(ROBOTS_AGENT, url):
+            if not robots_allows(robots, url):
                 parts = urlsplit(url)
                 reason = _robots_unavailable.get(f"{parts.scheme}://{parts.netloc}")
                 if reason:

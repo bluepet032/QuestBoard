@@ -24,6 +24,10 @@ describe('liveTiming', () => {
     expect(liveTiming(item({ date_kind: 'unknown', recruit_end: null }), '2026-10-06')).toEqual({ status: 'unknown', d_day: null })
   })
 
+  it('marks a passed deadline closed even when the start date is later', () => {
+    expect(liveTiming(item({ recruit_start: '2026-10-06', recruit_end: '2026-06-20' }), '2026-09-07')).toEqual({ status: 'closed', d_day: -79 })
+  })
+
   it('counts calendar days across month and year boundaries', () => {
     expect(liveTiming(item({ recruit_start: null, recruit_end: '2027-01-02' }), '2026-12-30').d_day).toBe(3)
   })
