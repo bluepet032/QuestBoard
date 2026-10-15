@@ -1,5 +1,6 @@
 import { act, cleanup, fireEvent, render, screen, waitFor } from '@testing-library/react'
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest'
+import * as firestore from 'firebase/firestore'
 import { clearDataCache } from './data'
 import { PersonalProvider, usePersonalState } from './personal'
 import * as personalLogic from './personalLogic'
@@ -13,8 +14,10 @@ const mocks = vi.hoisted(() => ({
   user: { uid: 'test-user' } as { uid: string } | null,
 }))
 
-vi.mock('./firebase', () => ({ db: {} }))
-vi.mock('./account', () => ({ useAccount: () => ({ user: mocks.user, ready: true, openLogin: vi.fn() }) }))
+// Firebase arrives through the account context once loaded; here it is the mocked Firestore below.
+// One stable object, like the provider's state, so effects that depend on it do not re-run every render.
+const services = { db: {}, firestore }
+vi.mock('./account', () => ({ useAccount: () => ({ user: mocks.user, ready: true, openLogin: vi.fn(), firebase: services }) }))
 vi.mock('firebase/firestore', () => ({
   collection: (_db: unknown, ...path: string[]) => path.join('/'),
   doc: (_db: unknown, ...path: string[]) => path.join('/'),

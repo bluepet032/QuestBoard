@@ -97,6 +97,16 @@ def test_robots_longest_rule_wins(server):
         HttpClient().get("https://site.example/closed")
 
 
+def test_robots_group_naming_our_agent_replaces_the_catch_all_group(server):
+    routes, _, _ = server
+    routes["https://site.example/robots.txt"] = "User-agent: *\nDisallow: /\n\nUser-agent: questboard\nDisallow: /private\n"
+    routes["https://site.example/list"] = "ok"
+
+    assert HttpClient().get("https://site.example/list").text == "ok"
+    with pytest.raises(RobotsDisallowed):
+        HttpClient().get("https://site.example/private/1")
+
+
 def test_missing_robots_allows_and_is_fetched_once_per_host(server):
     routes, calls, _ = server
     routes["https://site.example/a"] = "a"

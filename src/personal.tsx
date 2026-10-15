@@ -1,15 +1,5 @@
 import { createContext, useCallback, useContext, useEffect, useMemo, useState, type ReactNode } from 'react'
-import {
-  addDoc,
-  collection,
-  deleteDoc,
-  doc,
-  onSnapshot,
-  runTransaction,
-  updateDoc,
-  type DocumentData,
-} from 'firebase/firestore'
-import { db } from './firebase'
+import type { DocumentData } from 'firebase/firestore'
 import { useAccount } from './account'
 import { loadOpportunities } from './data'
 import { dueReminders, isNewKeywordMatch, kstDate, matchesPersonalKeyword } from './personalLogic'
@@ -127,7 +117,7 @@ function noticeId(value: string) {
 }
 
 export function PersonalProvider({ children }: { children: ReactNode }) {
-  const { user, ready: accountReady, openLogin } = useAccount()
+  const { user, ready: accountReady, openLogin, firebase } = useAccount()
   const userId = user?.uid || ''
   const [local, setLocal] = useState<PersonalState>(loadLocalState)
   const [favorites, setFavorites] = useState<SavedOpportunity[]>([])
@@ -146,7 +136,7 @@ export function PersonalProvider({ children }: { children: ReactNode }) {
   }, [local])
 
   useEffect(() => {
-    if (!userId || !db) {
+    if (!userId || !firebase) {
       setFavorites([])
       setKeywords([])
       setNotifications([])
@@ -162,6 +152,7 @@ export function PersonalProvider({ children }: { children: ReactNode }) {
     setNotifications([])
     setDataUserId(userId)
     setError('')
+    const { db, firestore: fs } = firebase
     let active = true
     const loaded = new Set<string>()
     const markLoaded = (name: string) => {
@@ -173,17 +164,17 @@ export function PersonalProvider({ children }: { children: ReactNode }) {
       setError(reason.message || '계정 데이터를 불러오지 못했습니다.')
       markLoaded(name)
     }
-    const stopFavorites = onSnapshot(collection(db, 'users', userId, 'favorites'), snapshot => {
+    const stopFavorites = fs.onSnapshot(fs.collection(db, 'users', userId, 'favorites'), snapshot => {
       if (!active) return
       setFavorites(snapshot.docs.map(record => favoriteFromDocument(record.id, record.data())).filter((value): value is SavedOpportunity => value !== null))
       markLoaded('favorites')
     }, onError('favorites'))
-    const stopKeywords = onSnapshot(collection(db, 'users', userId, 'keywords'), snapshot => {
+    const stopKeywords = fs.onSnapshot(fs.collection(db, 'users', userId, 'keywords'), snapshot => {
       if (!active) return
       setKeywords(snapshot.docs.map(record => keywordFromDocument(record.id, record.data())).filter((value): value is PersonalKeyword => value !== null))
       markLoaded('keywords')
     }, onError('keywords'))
-    const stopNotifications = onSnapshot(collection(db, 'users', userId, 'notifications'), snapshot => {
+    const stopNotifications = fs.onSnapshot(fs.collection(db, 'users', userId, 'notifications'), snapshot => {
       if (!active) return
       setNotifications(snapshot.docs.map(record => notificationFromDocument(record.id, record.data())).filter((value): value is PersonalNotification => value !== null))
       markLoaded('notifications')
@@ -194,7 +185,7 @@ export function PersonalProvider({ children }: { children: ReactNode }) {
       stopKeywords()
       stopNotifications()
     }
-  }, [userId])
+  }, [userId, firebase])
 
   const currentUserData = userId !== '' && dataUserId === userId
   const currentFavorites = useMemo(() => {
@@ -264,9 +255,9 @@ export function PersonalProvider({ children }: { children: ReactNode }) {
   }, [userId, dataUserId, storeReady, publishedReady, local.favorites.length])
 
   useEffect(() => {
-    if (!userId || dataUserId !== userId || !db || !storeReady || !publishedReady) return
+    if (!userId || dataUserId !== userId || !firebase || !storeReady || !publishedReady) return
     let active = true
-    const firestore = db
+    const { db: firestore, firestore: fs } = firebase
     const today = kstDate()
     const candidates = new Map<string, Omit<PersonalNotification, 'id'>>()
     const scheduleIds = new Set<string>()
@@ -316,8 +307,8 @@ export function PersonalProvider({ children }: { children: ReactNode }) {
       for (const [id, value] of candidates) {
         if (!active) return
         if (existingIds.has(id)) continue
-        const reference = doc(firestore, 'users', userId, 'notifications', id)
-        await runTransaction(firestore, async transaction => {
+        const reference = fs.doc(firestore, 'users', userId, 'notifications', id)
+        await fs.runTransaction(firestore, async transaction => {
           const existing = await transaction.get(reference)
           if (!existing.exists()) transaction.set(reference, value)
         })
@@ -328,14 +319,14 @@ export function PersonalProvider({ children }: { children: ReactNode }) {
           ? !notification.date || notification.date < today || !scheduleIds.has(notification.id)
           // Keyword alerts end with their notice; the size check skips this when public data failed to load.
           : publishedIds.size > 0 && !publishedIds.has(notification.opportunityId)
-        if (outdated) await deleteDoc(doc(firestore, 'users', userId, 'notifications', notification.id))
+        if (outdated) await fs.deleteDoc(fs.doc(firestore, 'users', userId, 'notifications', notification.id))
       }
     }
     void saveMissing().catch(reason => {
       if (active) setError(reason instanceof Error ? reason.message : '알림을 갱신하지 못했습니다.')
     })
     return () => { active = false }
-  }, [userId, dataUserId, storeReady, publishedReady, currentFavorites, currentKeywords, currentNotifications, publishedItems])
+  }, [userId, dataUserId, firebase, storeReady, publishedReady, currentFavorites, currentKeywords, currentNotifications, publishedItems])
 
   const state = useMemo(() => ({
     ...local,
@@ -352,28 +343,30 @@ export function PersonalProvider({ children }: { children: ReactNode }) {
       })
       return
     }
-    if (!userId || !db) {
+    if (!userId || !firebase) {
       openLogin()
       return
     }
+    const { db, firestore: fs } = firebase
     const existing = currentFavorites.find(value => value.id === id || value.item.id === id)
     if (existing) {
-      void deleteDoc(doc(db, 'users', userId, 'favorites', existing.id)).catch(reason => setError(reason.message || '찜을 해제하지 못했습니다.'))
+      void fs.deleteDoc(fs.doc(db, 'users', userId, 'favorites', existing.id)).catch(reason => setError(reason.message || '찜을 해제하지 못했습니다.'))
       return
     }
     if (!item) return
-    const reference = doc(db, 'users', userId, 'favorites', documentId(id))
+    const reference = fs.doc(db, 'users', userId, 'favorites', documentId(id))
     const value = { item, remindersEnabled: true, resultDate: '', note: '', updatedAt: new Date().toISOString() }
-    void runTransaction(db, async transaction => {
+    void fs.runTransaction(db, async transaction => {
       const saved = await transaction.get(reference)
       if (!saved.exists()) transaction.set(reference, value)
     }).catch(reason => setError(reason.message || '찜을 저장하지 못했습니다.'))
-  }, [userId, currentFavorites, openLogin])
+  }, [userId, firebase, currentFavorites, openLogin])
 
   const restoreHidden = useCallback(() => setLocal(current => ({ ...current, hidden: [] })), [])
 
   const importLocalFavorites = useCallback(async () => {
-    if (!userId || !db) return
+    if (!userId || !firebase) return
+    const { db, firestore: fs } = firebase
     const firestore = db
     setError('')
     try {
@@ -391,8 +384,8 @@ export function PersonalProvider({ children }: { children: ReactNode }) {
       for (const id of local.favorites) {
         const item = byId.get(id)
         if (!item) continue
-        const reference = doc(db, 'users', userId, 'favorites', documentId(id))
-        await runTransaction(firestore, async transaction => {
+        const reference = fs.doc(db, 'users', userId, 'favorites', documentId(id))
+        await fs.runTransaction(firestore, async transaction => {
           const saved = await transaction.get(reference)
           if (!saved.exists()) transaction.set(reference, {
             item,
@@ -411,7 +404,7 @@ export function PersonalProvider({ children }: { children: ReactNode }) {
     } catch (reason) {
       setError(reason instanceof Error ? reason.message : '기존 찜을 가져오지 못했습니다.')
     }
-  }, [userId, publishedItems, publishedReady, local.favorites])
+  }, [userId, firebase, publishedItems, publishedReady, local.favorites])
 
   const closeMigration = (skip: boolean) => {
     if (skip && userId) writeStorage('questboard.favorite-import.v1.' + userId, 'skipped')
@@ -419,13 +412,15 @@ export function PersonalProvider({ children }: { children: ReactNode }) {
   }
 
   const setRemindersEnabled = (id: string, enabled: boolean) => {
-    if (!userId || !db) return
-    void updateDoc(doc(db, 'users', userId, 'favorites', documentId(id)), { remindersEnabled: enabled })
+    if (!userId || !firebase) return
+    const { db, firestore: fs } = firebase
+    void fs.updateDoc(fs.doc(db, 'users', userId, 'favorites', documentId(id)), { remindersEnabled: enabled })
       .catch(reason => setError(reason.message || '알림 설정을 저장하지 못했습니다.'))
   }
 
   const saveFavoriteDetails = (id: string, details: { resultDate?: string; note?: string }) => {
-    if (!userId || !db) return
+    if (!userId || !firebase) return
+    const { db, firestore: fs } = firebase
     if (details.resultDate && !/^\d{4}-\d{2}-\d{2}$/.test(details.resultDate)) {
       setError('합격 발표일은 날짜를 선택해 입력해 주세요.')
       return
@@ -434,14 +429,15 @@ export function PersonalProvider({ children }: { children: ReactNode }) {
       setError('메모는 500자 이내로 입력해 주세요.')
       return
     }
-    void updateDoc(doc(db, 'users', userId, 'favorites', documentId(id)), {
+    void fs.updateDoc(fs.doc(db, 'users', userId, 'favorites', documentId(id)), {
       ...details,
       updatedAt: new Date().toISOString(),
     }).catch(reason => setError(reason.message || '일정 메모를 저장하지 못했습니다.'))
   }
 
   const addKeyword = async (value: string) => {
-    if (!userId || !db) return
+    if (!userId || !firebase) return
+    const { db, firestore: fs } = firebase
     const word = value.trim()
     if (!word || word.length > 60) {
       setError('키워드는 1~60자로 입력해 주세요.')
@@ -449,7 +445,7 @@ export function PersonalProvider({ children }: { children: ReactNode }) {
     }
     if (keywords.some(keyword => keyword.word.toLocaleLowerCase('ko-KR') === word.toLocaleLowerCase('ko-KR'))) return
     try {
-      await addDoc(collection(db, 'users', userId, 'keywords'), { word, createdAt: new Date().toISOString() })
+      await fs.addDoc(fs.collection(db, 'users', userId, 'keywords'), { word, createdAt: new Date().toISOString() })
       setError('')
     } catch (reason) {
       setError(reason instanceof Error ? reason.message : '키워드를 저장하지 못했습니다.')
@@ -457,13 +453,15 @@ export function PersonalProvider({ children }: { children: ReactNode }) {
   }
 
   const removeKeyword = (id: string) => {
-    if (!userId || !db) return
-    void deleteDoc(doc(db, 'users', userId, 'keywords', id)).catch(reason => setError(reason.message || '키워드를 삭제하지 못했습니다.'))
+    if (!userId || !firebase) return
+    const { db, firestore: fs } = firebase
+    void fs.deleteDoc(fs.doc(db, 'users', userId, 'keywords', id)).catch(reason => setError(reason.message || '키워드를 삭제하지 못했습니다.'))
   }
 
   const markNotificationRead = (id: string) => {
-    if (!userId || !db) return
-    void updateDoc(doc(db, 'users', userId, 'notifications', id), { read: true })
+    if (!userId || !firebase) return
+    const { db, firestore: fs } = firebase
+    void fs.updateDoc(fs.doc(db, 'users', userId, 'notifications', id), { read: true })
       .catch(reason => setError(reason.message || '알림을 확인 처리하지 못했습니다.'))
   }
 

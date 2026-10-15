@@ -9,10 +9,11 @@ interface Props {
   item: Opportunity
   personal: PersonalState
   onToggle: (bucket: 'favorites' | 'read' | 'hidden', id: string, item?: Opportunity) => void
+  defaultExpanded?: boolean
 }
 
-export function OpportunityRow({ item, personal, onToggle }: Props) {
-  const [expanded, setExpanded] = useState(false)
+export function OpportunityRow({ item, personal, onToggle, defaultExpanded = false }: Props) {
+  const [expanded, setExpanded] = useState(defaultExpanded)
   const favorite = personal.favorites.includes(item.id)
   const read = personal.read.includes(item.id)
   const trust = sourceTrust(item)
@@ -52,6 +53,7 @@ export function OpportunityRow({ item, personal, onToggle }: Props) {
               <a className="button-link" href={item.source_url} target="_blank" rel="noopener noreferrer">원문 보기</a>
               {item.application_url && <a href={item.application_url} target="_blank" rel="noopener noreferrer">신청하기</a>}
               {item.document_url && <a href={item.document_url} target="_blank" rel="noopener noreferrer">첨부파일</a>}
+              <a href={`#/notice/${item.id}`}>공유용 링크</a>
             </div>
           </div>
         )}

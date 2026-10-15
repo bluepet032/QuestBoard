@@ -1,6 +1,19 @@
 import { useEffect, useRef, useState, type FormEvent } from 'react'
 import { useAccount } from '../account'
-import { usePersonalState } from '../personal'
+import { favoritesCalendar } from '../calendar'
+import { usePersonalState, type SavedOpportunity } from '../personal'
+
+function downloadCalendar(favorites: SavedOpportunity[]) {
+  const url = URL.createObjectURL(new Blob([favoritesCalendar(favorites)], { type: 'text/calendar;charset=utf-8' }))
+  const link = document.createElement('a')
+  link.href = url
+  link.download = 'questboard-favorites.ics'
+  document.body.append(link)
+  link.click()
+  link.remove()
+  // Revoked on the next tick so the browser has started the download first.
+  setTimeout(() => URL.revokeObjectURL(url), 0)
+}
 
 export function PersonalPage() {
   const account = useAccount()
@@ -102,6 +115,7 @@ export function PersonalPage() {
                   {notification.date && <small>일정: {notification.date}</small>}
                 </div>
                 <div className="notification-actions">
+                  {notification.opportunityId && <a href={`#/notice/${notification.opportunityId}`}>공고 보기</a>}
                   {notification.sourceUrl && <a href={notification.sourceUrl} target="_blank" rel="noopener noreferrer">원문 보기</a>}
                   {!notification.read && <button type="button" className="text-button" onClick={() => personal.markNotificationRead(notification.id)}>읽음</button>}
                 </div>
@@ -112,7 +126,9 @@ export function PersonalPage() {
       </section>
 
       <section className="personal-section" aria-labelledby="favorites-title">
-        <div className="section-heading"><div><h2 id="favorites-title">찜한 공고와 일정</h2><p>정확한 모집 마감·행사 날짜와 직접 입력한 합격 발표일을 기준으로 알림을 만듭니다.</p></div></div>
+        <div className="section-heading"><div><h2 id="favorites-title">찜한 공고와 일정</h2><p>정확한 모집 마감·행사 날짜와 직접 입력한 합격 발표일을 기준으로 알림을 만듭니다.</p></div>
+          {personal.favorites.length > 0 && <button type="button" className="text-button" onClick={() => downloadCalendar(personal.favorites)}>캘린더로 내보내기(.ics)</button>}
+        </div>
         {personal.favorites.length === 0 ? <p className="empty-personal">아직 찜한 공고가 없습니다.</p> : (
           <div className="saved-list">
             {personal.favorites.map(favorite => (

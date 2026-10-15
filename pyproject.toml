@@ -13,6 +13,7 @@ dependencies = [
 dev = [
   "pytest>=8.3,<9",
   "pytest-cov>=6,<7",
+  "ruff>=0.13,<1",
 ]
 
 [project.scripts]
@@ -24,6 +25,10 @@ build-backend = "setuptools.build_meta"
 
 [tool.setuptools.packages.find]
 include = ["pipeline*"]
+
+[tool.ruff.lint]
+# Only rules that catch real mistakes: unused or undefined names and syntax errors.
+select = ["F", "E9"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests/python"]

@@ -2,6 +2,7 @@ import { HashRouter, NavLink, Route, Routes } from 'react-router-dom'
 import { AccountProvider } from './account'
 import { AccountDialogs, AccountToolbar } from './AccountControls'
 import { ThemeControl } from './components/ThemeControl'
+import { NoticePage } from './pages/NoticePage'
 import { OpportunityPage } from './pages/OpportunityPage'
 import { PersonalPage } from './pages/PersonalPage'
 import { StatusPage } from './pages/StatusPage'
@@ -45,6 +46,7 @@ function AppContent() {
         <Route path="/undated" element={<OpportunityPage dataset="undated" title="날짜 미상 공고" description="상시·선착순·예산 소진·일정 미정 공고를 따로 모았습니다." />} />
         <Route path="/closed" element={<OpportunityPage dataset="closed" title="최근 마감 공고" description="최근 3개월 내 마감된 공고를 참고용으로 검색할 수 있습니다." />} />
         <Route path="/weekly" element={<WeeklyPage />} />
+        <Route path="/notice/:id" element={<NoticePage />} />
         <Route path="/status" element={<StatusPage />} />
         <Route path="/my" element={<PersonalPage />} />
       </Routes>

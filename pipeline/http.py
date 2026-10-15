@@ -7,7 +7,7 @@ import time
 import urllib.error
 import urllib.request
 from dataclasses import dataclass
-from urllib.parse import quote, unquote, urlsplit, urlunsplit
+from urllib.parse import unquote, urlsplit
 from urllib.robotparser import RobotFileParser
 
 
@@ -42,39 +42,61 @@ class Response:
 _robots: dict[str, RobotFileParser] = {}
 # Hosts whose robots.txt could not be read, with the reason, for a clear error message.
 _robots_unavailable: dict[str, str] = {}
+# Allow/Disallow rules that apply to us, per host (see robots_rules).
+_robots_rules: dict[str, list[tuple[str, bool]]] = {}
 _last_request: dict[str, float] = {}
 
 
 def reset_host_state() -> None:
     _robots.clear()
     _robots_unavailable.clear()
+    _robots_rules.clear()
     _last_request.clear()
 
 
-def robots_allows(robots: RobotFileParser, url: str) -> bool:
-    """RFC 9309 matching: ``*`` and ``$`` wildcards, the longest rule wins, Allow wins ties.
+def robots_rules(lines: list[str]) -> list[tuple[str, bool]]:
+    """RFC 9309 groups: the rules of groups naming our agent, else of the ``*`` groups.
 
-    ``RobotFileParser.can_fetch`` only compares literal prefixes and takes the first rule, so
-    ``Disallow: /kocca/*/list.do`` never matched. Its parsed groups and rules are reused here.
+    Rules are read here instead of through ``RobotFileParser``: before Python 3.14.8 it ignores
+    ``*`` and ``$`` (so ``Disallow: /kocca/*/list.do`` never matched), and 3.14.8 rewrote its
+    internals. Only its public ``crawl_delay`` is still used.
     """
+
+    groups: list[tuple[set[str], list[tuple[str, bool]]]] = []
+    reading_agents = False
+    for line in lines:
+        key, _, value = line.split("#", 1)[0].partition(":")
+        key, value = key.strip().lower(), value.strip()
+        if key == "user-agent":
+            if not reading_agents:
+                groups.append((set(), []))
+                reading_agents = True
+            groups[-1][0].add(value.lower())
+        elif key:
+            reading_agents = False
+            if key in {"allow", "disallow"} and value and groups:
+                groups[-1][1].append((value, key == "allow"))
+    agent = ROBOTS_AGENT.lower()
+    chosen = [rules for agents, rules in groups if agent in agents] or [rules for agents, rules in groups if "*" in agents]
+    return [rule for rules in chosen for rule in rules]
+
+
+def robots_allows(robots: RobotFileParser, url: str) -> bool:
+    """RFC 9309 matching: ``*`` and ``$`` wildcards, the longest rule wins, Allow wins ties."""
 
     if robots.disallow_all:
         return False
     if robots.allow_all:
         return True
-    entry = next((entry for entry in robots.entries if entry.applies_to(ROBOTS_AGENT)), robots.default_entry)
-    if entry is None:
-        return True
     parts = urlsplit(url)
-    # Quoted the same way RuleLine stores its path, so "*" and "$" arrive as %2A and %24.
-    target = quote(unquote(urlunsplit(("", "", parts.path or "/", parts.query, ""))))
+    target = unquote(parts.path or "/") + (f"?{unquote(parts.query)}" if parts.query else "")
     best = (-1, True)
-    for rule in entry.rulelines:
-        pattern = re.escape(rule.path).replace("%2A", ".*")
-        if pattern.endswith("%24"):
-            pattern = pattern[:-3] + "$"
-        if re.match(pattern, target):
-            best = max(best, (len(rule.path), rule.allowance))
+    for path, allowed in _robots_rules.get(f"{parts.scheme}://{parts.netloc}", []):
+        pattern = re.escape(unquote(path)).replace(r"\*", ".*")
+        if pattern.endswith(r"\$"):
+            pattern = pattern[:-2] + "$"
+        if re.match(pattern, target, re.DOTALL):
+            best = max(best, (len(path), allowed))
     return best[1]
 
 
@@ -116,7 +138,9 @@ class HttpClient:
             try:
                 self._wait_for_host(f"{host}/robots.txt", 0)
                 response = self._send(f"{host}/robots.txt", {"User-Agent": USER_AGENT})
-                parser.parse(response.text.splitlines())
+                lines = response.text.splitlines()
+                parser.parse(lines)
+                _robots_rules[host] = robots_rules(lines)
                 break
             except urllib.error.HTTPError as error:
                 # RFC 9309: a 4xx robots.txt means no restrictions; 5xx means assume full disallow.

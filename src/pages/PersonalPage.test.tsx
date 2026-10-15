@@ -61,4 +61,30 @@ describe('PersonalPage favorite details', () => {
     fireEvent.blur(note)
     expect(mocks.personal.saveFavoriteDetails).toHaveBeenCalledWith('opportunity-1', { note: '내가 바꾼 메모' })
   })
+
+  it('exports saved deadlines as a calendar file', async () => {
+    // jsdom has no object URLs, so the download is observed through these stand-ins.
+    const original = { create: URL.createObjectURL, revoke: URL.revokeObjectURL }
+    const createObjectURL = vi.fn((blob: Blob) => (blob ? 'blob:calendar' : ''))
+    URL.createObjectURL = createObjectURL
+    URL.revokeObjectURL = vi.fn()
+    const click = vi.spyOn(HTMLAnchorElement.prototype, 'click').mockImplementation(() => {})
+    try {
+      render(<PersonalPage />)
+      fireEvent.click(screen.getByRole('button', { name: '캘린더로 내보내기(.ics)' }))
+      const blob = createObjectURL.mock.calls[0][0]
+      expect(blob.type).toBe('text/calendar;charset=utf-8')
+      const text = await new Promise<string>(resolve => {
+        const reader = new FileReader()
+        reader.onload = () => resolve(String(reader.result))
+        reader.readAsText(blob)
+      })
+      expect(text).toContain('SUMMARY:[마감] 게임 공고')
+      expect(click).toHaveBeenCalled()
+    } finally {
+      URL.createObjectURL = original.create
+      URL.revokeObjectURL = original.revoke
+      click.mockRestore()
+    }
+  })
 })

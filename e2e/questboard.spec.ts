@@ -173,3 +173,27 @@ test('advanced filters: unknown items, nationwide notices, reload and reset', as
   await expect(page.locator('.result-toolbar strong')).toHaveText('4개')
   await expect(page).not.toHaveURL(/region=|mode=|fee=|unknown=/)
 })
+
+test('each notice has its own shareable page', async ({ page }) => {
+  const payload = (items: unknown[]) => ({ contentType: 'application/json', body: JSON.stringify({ schema_version: 1, generated_at: '2026-07-30T12:00:00+09:00', items }) })
+  await page.route('**/data/active.json', route => route.fulfill(payload([opportunity({})])))
+  await page.route('**/data/undated.json', route => route.fulfill(payload([])))
+  await page.route('**/data/closed.json', route => route.fulfill(payload([])))
+  await page.goto('/#/')
+  await page.getByRole('button', { name: '펼치기' }).click()
+  await page.getByRole('link', { name: '공유용 링크' }).click()
+
+  await expect(page).toHaveURL(/#\/notice\/contest-1$/)
+  await expect(page.getByRole('heading', { level: 1, name: 'AI 인디게임 공모전' })).toBeVisible()
+  await expect(page.getByRole('link', { name: '원문 보기' })).toHaveAttribute('href', 'https://example.com/contest')
+
+  await page.goto('/#/notice/no-such-notice')
+  await expect(page.getByText('공고를 찾을 수 없습니다')).toBeVisible()
+})
+
+test('the list links to the RSS feed of the selected field', async ({ page }) => {
+  await page.goto('/#/')
+  await expect(page.getByRole('link', { name: 'RSS' })).toHaveAttribute('href', /data\/feed-it\.xml$/)
+  await page.goto('/#/?domain=all')
+  await expect(page.getByRole('link', { name: 'RSS' })).toHaveAttribute('href', /data\/feed\.xml$/)
+})

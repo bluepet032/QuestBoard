@@ -6,7 +6,8 @@ from pathlib import Path
 from typing import Any
 
 from pipeline import SCHEMA_VERSION
-from pipeline.dates import KST, months_ago, parse_iso_date
+from pipeline.dates import months_ago, parse_iso_date
+from pipeline.feeds import write_feeds
 from pipeline.models import CrawlStatus, Opportunity
 
 
@@ -63,3 +64,4 @@ def write_all(output_dir: Path, items: list[Opportunity], statuses: list[CrawlSt
     write_payload(output_dir / "closed.json", [item.to_dict() for item in sorted(closed, key=sort_key, reverse=True)], now)
     write_payload(output_dir / "review.json", [item.to_dict() for item in sorted(review, key=lambda item: -item.relevance.score)], now)
     write_payload(output_dir / "sources.json", [status.to_dict() for status in statuses], now)
+    write_feeds(output_dir, active + undated, now)
