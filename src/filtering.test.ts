@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { matchesOpportunity, type OpportunityFilters } from './filtering'
+import { compareOpportunities, matchesOpportunity, type OpportunityFilters } from './filtering'
 import type { Opportunity } from './types'
 
 const filters: OpportunityFilters = {
@@ -56,5 +56,19 @@ describe('matchesOpportunity', () => {
     expect(matchesOpportunity(noRegion, { ...filters, search: '인디', advanced: { ...advanced, includeUnknown: true } })).toBe(true)
     expect(matchesOpportunity(seoul, { ...filters, search: '인디개임', advanced }, { fuzzy: true })).toBe(true)
     expect(matchesOpportunity(seoul, { ...filters, domain: 'design_media', advanced })).toBe(false)
+  })
+})
+
+describe('compareOpportunities', () => {
+  const make = (id: string, prize: number | null, dDay: number | null) => ({ ...item, id, prize_manwon: prize, d_day: dDay })
+
+  it('sorts by prize, largest first, with unknown prizes last and the sooner deadline breaking ties', () => {
+    const items = [make('none', null, 1), make('small', 50, 5), make('big-late', 1000, 20), make('big-soon', 1000, 3)]
+    expect(items.sort(compareOpportunities('prize')).map(value => value.id)).toEqual(['big-soon', 'big-late', 'small', 'none'])
+  })
+
+  it('keeps the deadline order with undated items last', () => {
+    const items = [make('undated', 100, null), make('later', 0, 9), make('sooner', 0, 2)]
+    expect(items.sort(compareOpportunities('deadline')).map(value => value.id)).toEqual(['sooner', 'later', 'undated'])
   })
 })

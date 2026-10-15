@@ -92,13 +92,13 @@ Vite의 상대 경로 빌드를 사용하므로 저장소명이 무엇이든 기
 바로 갱신하고 싶을 때는 저장소 관리자가 직접 실행합니다.
 
 1. 사이트의 **수집 상태** 화면에서 **GitHub에서 지금 수집 실행**을 누르거나, [수집 워크플로](https://github.com/bluepet032/QuestBoard/actions/workflows/collect.yml)를 엽니다.
-2. **Run workflow**를 누릅니다. 기본값(`all`, 150건)이면 전체 출처를 수집합니다. 특정 출처만 다시 받으려면 출처 ID를, 빠르게 확인하려면 더 작은 건수를 넣습니다.
+2. **Run workflow**를 누릅니다. 기본값(`all`, 건수 비움)이면 전체 출처를 `sources.yml`의 출처별 건수로 수집합니다. 특정 출처만 다시 받으려면 출처 ID를 넣습니다. 건수 칸은 비워 두세요. 작은 건수를 넣으면 그 결과가 그대로 배포되어, 날짜 미상 공고 일부가 다음 수집 때까지 빠집니다.
 3. 수집과 배포에 보통 5~10분이 걸립니다. 끝나면 사이트에서 **다시 불러오기**(목록 화면) 또는 **최신 데이터 다시 불러오기**(수집 상태 화면)를 누릅니다.
 
 터미널에서는 GitHub CLI로도 실행할 수 있습니다.
 
 ```powershell
-gh workflow run collect.yml -f schedule=all -f limit=150
+gh workflow run collect.yml -f schedule=all
 ```
 
 사이트에는 실행 버튼 대신 GitHub 링크만 둡니다. 정적 사이트에 워크플로 실행 토큰을 넣으면 누구나 토큰을 꺼내 쓸 수 있기 때문입니다.

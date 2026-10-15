@@ -4,6 +4,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 from pipeline import runner
+from pipeline.config import SourceConfig
 from pipeline.models import RawOpportunity
 
 
@@ -121,6 +122,33 @@ def test_capped_source_keeps_open_notices_beyond_the_limit(monkeypatch, tmp_path
 
     full = run(3)
     assert [item.title for item in full] == ["AI 게임 공모전 e"]
+
+
+def test_source_limit_comes_from_config_unless_the_run_overrides_it(monkeypatch, tmp_path: Path):
+    received = []
+
+    class Collector:
+        def collect(self, now, limit=150):
+            received.append(limit)
+            return [RawOpportunity(
+                source_id="wevity", source_name="위비티", source_post_id=f"{now.day}-{index}",
+                source_url=f"https://example.com/{now.day}-{index}", title=f"AI 게임 공모전 {now.day}-{index}",
+                recruit_end="2026-12-31", date_kind="exact",
+            ) for index in range(limit)]
+
+    source = SourceConfig("wevity", "위비티", "aggregate", 40, "fast", "html", "https://example.com", "https://example.com", limit=2)
+    monkeypatch.setattr(runner, "load_sources", lambda: ([source], []))
+    monkeypatch.setattr(runner, "create_collector", lambda source: Collector())
+    monkeypatch.setattr(runner, "manual_items", lambda taxonomy, now: [])
+    output = tmp_path / "data"
+    kst = ZoneInfo("Asia/Seoul")
+    runner.run_pipeline(output_dir=output, now=datetime(2026, 10, 1, 3, tzinfo=kst))
+    second, _ = runner.run_pipeline(output_dir=output, now=datetime(2026, 10, 2, 3, tzinfo=kst))
+    runner.run_pipeline(output_dir=output, limit=1, now=datetime(2026, 10, 3, 3, tzinfo=kst))
+
+    assert received == [2, 2, 1]
+    # Day 2 filled the source's own limit, so day 1's unseen open notices were kept.
+    assert len(second) == 4
 
 
 def test_archived_notices_still_obey_manual_exclusions(monkeypatch, tmp_path: Path):

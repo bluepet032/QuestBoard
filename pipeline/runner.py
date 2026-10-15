@@ -18,6 +18,7 @@ from pipeline.storage import read_payload, write_all
 
 
 KST = ZoneInfo("Asia/Seoul")
+DEFAULT_LIMIT = 150
 
 
 def selected_sources(sources: list[SourceConfig], schedule: str, names: set[str] | None) -> list[SourceConfig]:
@@ -48,7 +49,7 @@ def run_pipeline(
     output_dir: Path | None = None,
     schedule: str = "all",
     names: set[str] | None = None,
-    limit: int = 150,
+    limit: int | None = None,
     now: datetime | None = None,
 ) -> tuple[list[Opportunity], list[CrawlStatus]]:
     current = now or datetime.now(KST)
@@ -61,11 +62,14 @@ def run_pipeline(
     old_opportunities = previous_opportunities(output)
     opportunities: list[Opportunity] = []
     statuses: list[CrawlStatus] = []
+    limits: dict[str, int] = {}
 
     env_names = {name.strip() for name in os.environ.get("QUESTBOARD_SOURCES", "").split(",") if name.strip()}
     effective_names = names or env_names or None
     for source in selected_sources(sources, schedule, effective_names):
         started = datetime.now(KST)
+        # A run-wide limit (diagnostic runs) wins over the per-source limit in sources.yml.
+        limits[source.id] = limit or source.limit or DEFAULT_LIMIT
         previous = old_statuses.get(source.id, {})
         baseline = (
             previous.get("collected_count") if previous.get("status") == "success"
@@ -76,7 +80,7 @@ def run_pipeline(
             else previous.get("previous_facet_coverage")
         )
         try:
-            raw_items = create_collector(source).collect(current, limit=limit)
+            raw_items = create_collector(source).collect(current, limit=limits[source.id])
             normalized_items = [normalize(item, taxonomy, current) for item in raw_items]
             opportunities.extend(normalized_items)
             published = sum(item.relevance.decision == "publish" for item in normalized_items)
@@ -114,7 +118,7 @@ def run_pipeline(
     selected_ids = {source.id for source in selected_sources(sources, schedule, effective_names)}
     failed_ids = {status.source_id for status in statuses if status.status == "failed"}
     # A source that returned `limit` items was cut off, so a notice it did not list may still be open.
-    capped_ids = {status.source_id for status in statuses if status.status == "success" and status.collected_count >= limit}
+    capped_ids = {status.source_id for status in statuses if status.status == "success" and status.collected_count >= limits[status.source_id]}
     fresh_keys = {key for item in opportunities for key in identity_keys(item)}
     cutoff = months_ago(current, 3)
     for item in old_opportunities:

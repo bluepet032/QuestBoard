@@ -25,6 +25,8 @@ class SourceConfig:
     enabled: bool = True
     requires_secret: str | None = None
     collector: str | None = None
+    # Maximum items per run for this source; None uses the pipeline default.
+    limit: int | None = None
 
 
 def load_yaml(path: Path) -> dict[str, Any]:

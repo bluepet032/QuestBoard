@@ -105,6 +105,24 @@ def test_wevity_category_row_contract():
     assert item.recruit_end == "2026-08-09"
 
 
+def test_wevity_reads_open_lists_before_closed_ones():
+    cfg = config("wevity")
+    row = lambda ix, day: f'<li><div class="tit"><a href="?gbn=view&ix={ix}">게임 공모전 {ix}</a><div class="sub-tit">분야 : 게임/소프트웨어</div></div><div class="organ">게임재단</div><div class="day">{day}</div></li>'
+    pages = {
+        "https://example.com/list?cidx=21&gbn=list&mode=ing&gp=1": row("open-1", "D-10"),
+        "https://example.com/list?cidx=21&gbn=list&mode=ing&gp=2": row("open-2", "D-20"),
+        "https://example.com/list?cidx=21&gbn=list&mode=end&gp=1": row("closed-1", "D+3"),
+    }
+
+    class Client:
+        def get(self, url, headers=None):
+            return Response(url, 200, pages.get(url, ""), "text/html")
+
+    ids = lambda limit: [item.source_post_id for item in WevityCollector(cfg, Client()).collect(NOW, limit)]
+    assert ids(2) == ["open-1", "open-2"]
+    assert ids(3) == ["open-1", "open-2", "closed-1"]
+
+
 def test_wevity_closed_row_uses_d_plus_deadline():
     cfg = config("wevity")
     markup = '''<li><div class="tit"><a href="?gbn=view&ix=43">지난 게임 공모전</a><div class="sub-tit">분야 : 게임/소프트웨어</div></div><div class="organ">게임재단</div><div class="day">D+10 <span>마감</span></div></li>'''

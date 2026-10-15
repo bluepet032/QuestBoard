@@ -7,6 +7,8 @@ sources:
     mode: html
     list_url: https://www.bizinfo.go.kr/sii/siia/selectSIIA200View.do
     homepage: https://www.bizinfo.go.kr/
+    # The whole list was 310 items on 2026-10-15, so 350 reads all of it.
+    limit: 350
     enabled: true
   - id: kstartup
     name: K-Startup
@@ -62,6 +64,8 @@ sources:
     mode: html
     list_url: https://linkareer.com/list/contest
     homepage: https://linkareer.com/
+    # The list is longer than 400 (2026-10-15); each item also opens a detail page, ~1s each.
+    limit: 300
     enabled: true
   - id: eventus
     name: 이벤터스

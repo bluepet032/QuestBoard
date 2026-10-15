@@ -55,15 +55,15 @@ pnpm dev
 ### 데이터 수집
 
 ```powershell
-# 자동화 가능한 모든 출처, 출처별 최대 150건
-python -m pipeline.cli --schedule all --limit 150
+# 자동화 가능한 모든 출처(출처별 최대 건수는 sources.yml의 limit, 없으면 150건)
+python -m pipeline.cli --schedule all
 
 # 출처 일부 그룹만(sources.yml의 schedule 값 기준)
 python -m pipeline.cli --schedule fast
 python -m pipeline.cli --schedule slow
 
-# 특정 출처만 진단
-python -m pipeline.cli --schedule all --source dev_event --limit 10
+# 특정 출처만 진단: 공개 데이터(public/data)를 덮어쓰지 않도록 임시 폴더에 씁니다
+python -m pipeline.cli --schedule all --source dev_event --limit 10 --output "$env:TEMP\questboard-check"
 
 # 생성 데이터 계약 검사
 python -m pipeline.validate

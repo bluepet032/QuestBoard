@@ -38,3 +38,18 @@ export function matchesOpportunity(item: Opportunity, filters: OpportunityFilter
   const terms = searchTerms(filters.search)
   return !terms.length || matchesSearch(indexOf(item), terms, options.fuzzy)
 }
+
+export type Sort = 'deadline' | 'newest' | 'updated' | 'relevance' | 'prize'
+
+const byDeadline = (left: Opportunity, right: Opportunity) => (left.d_day ?? 99999) - (right.d_day ?? 99999)
+
+export function compareOpportunities(sort: Sort) {
+  return (left: Opportunity, right: Opportunity) => {
+    if (sort === 'newest') return Date.parse(right.first_seen_at) - Date.parse(left.first_seen_at)
+    if (sort === 'updated') return Date.parse(right.last_changed_at || right.last_seen_at) - Date.parse(left.last_changed_at || left.last_seen_at)
+    if (sort === 'relevance') return right.relevance.score - left.relevance.score
+    // Notices without a known prize go last; equal prizes show the sooner deadline first.
+    if (sort === 'prize') return (right.prize_manwon ?? -1) - (left.prize_manwon ?? -1) || byDeadline(left, right)
+    return byDeadline(left, right)
+  }
+}

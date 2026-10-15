@@ -17,9 +17,9 @@ on:
         required: false
         type: string
       limit:
-        description: 출처별 최대 수집 건수
-        required: true
-        default: '150'
+        description: 모든 출처의 최대 수집 건수(비우면 sources.yml의 출처별 기본값)
+        required: false
+        default: ''
         type: string
 
 permissions:
@@ -59,13 +59,13 @@ jobs:
         run: |
           # The daily schedule always refreshes every source; manual runs may pick a group.
           mode="${MANUAL_SCHEDULE:-all}"
-          limit="${MANUAL_LIMIT:-150}"
           echo "mode=$mode" >> "$GITHUB_OUTPUT"
-          echo "limit=$limit" >> "$GITHUB_OUTPUT"
       - name: Collect opportunities
         shell: bash
         run: |
-          args=(--schedule "${{ steps.mode.outputs.mode }}" --limit "${{ steps.mode.outputs.limit }}")
+          args=(--schedule "${{ steps.mode.outputs.mode }}")
+          # Without --limit each source uses its own limit from sources.yml.
+          if [[ -n "$MANUAL_LIMIT" ]]; then args+=(--limit "$MANUAL_LIMIT"); fi
           if [[ -n "$MANUAL_SOURCE" ]]; then args+=(--source "$MANUAL_SOURCE"); fi
           python -m pipeline.cli "${args[@]}"
       - name: Validate generated data
@@ -79,7 +79,7 @@ jobs:
         run: |
           alert_args=()
           # Partial manual runs collect fewer items on purpose; only check drops on full runs.
-          if [[ -n "$MANUAL_SOURCE" || "${{ steps.mode.outputs.mode }}" != "all" || "${{ steps.mode.outputs.limit }}" != "150" ]]; then
+          if [[ -n "$MANUAL_SOURCE" || "${{ steps.mode.outputs.mode }}" != "all" || -n "$MANUAL_LIMIT" ]]; then
             alert_args+=(--skip-drops)
           fi
           alerts="$(python -m pipeline.alerts "${alert_args[@]}")"
