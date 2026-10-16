@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-16T06:19:02+09:00",
+  "generated_at": "2026-10-17T06:02:41+09:00",
   "items": [
     {
       "id": "e045a72a07b8af0d2bd1",
@@ -26,7 +26,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-09T08:18:08+09:00",
-      "last_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-17T06:02:41+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -35,7 +35,7 @@
           "source_post_id": "PBLN_000000000127084",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-16T06:19:02+09:00"
+          "fetched_at": "2026-10-17T06:02:41+09:00"
         }
       ],
       "application_url": null,
@@ -45,7 +45,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 5,
+      "d_day": 4,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -86,7 +86,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-17T06:02:41+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -95,7 +95,7 @@
           "source_post_id": "PBLN_000000000124402",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-16T06:19:02+09:00"
+          "fetched_at": "2026-10-17T06:02:41+09:00"
         }
       ],
       "application_url": null,
@@ -123,64 +123,6 @@
       "dedupe_key": "충북2026년한방바이오제천몰웹상세페이지제작지원사업공고|제천한방천연물산업진흥재단|"
     },
     {
-      "id": "6d7357391037781756f9",
-      "title": "2026년 2차 산업혁신기반구축사업(첨단 방위산업용 고성능ㆍ고신뢰성 시스템반도체 부품 실증 기반구축) 기술지원(설계ㆍ성능 검증, 기술지도) 사업 공고",
-      "source_name": "기업마당",
-      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%B0%98%EB%8F%84%EC%B2%B4&condition=searchPblancNm&condition1=AND&keyword=%EB%B0%98%EB%8F%84%EC%B2%B4&pblancId=PBLN_000000000126931",
-      "organizer": "한국전자기술연구원",
-      "summary": "기업마당 공개 지원사업 · 기술 · 검색어 반도체. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "소프트웨어"
-      ],
-      "audience_tags": [],
-      "status": "today",
-      "relevance": {
-        "score": 69,
-        "reasons": [
-          "제목 핵심 키워드: 시스템",
-          "본문·분류 키워드: 시스템",
-          "공고 유형: support",
-          "제목 키워드가 일반 단어뿐: 시스템"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-10-16T06:19:02+09:00",
-      "last_seen_at": "2026-10-16T06:19:02+09:00",
-      "sources": [
-        {
-          "source_id": "bizinfo",
-          "source_name": "기업마당",
-          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%B0%98%EB%8F%84%EC%B2%B4&condition=searchPblancNm&condition1=AND&keyword=%EB%B0%98%EB%8F%84%EC%B2%B4&pblancId=PBLN_000000000126931",
-          "source_post_id": "PBLN_000000000126931",
-          "kind": "government",
-          "priority": 80,
-          "fetched_at": "2026-10-16T06:19:02+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-10-01",
-      "recruit_end": "2026-10-16",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 0,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "domain": "it",
-      "regions": [],
-      "prize_manwon": null,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026년2차산업혁신기반구축사업첨단방위산업용고성능고신뢰성시스템반도체부품실증기반구축기술지원설계성능검증기술지도사업공고|한국전자기술연구원|2026-10-16"
-    },
-    {
       "id": "3e8b0986044ad02e0685",
       "title": "2026년 의료기기 반도체 실증플랫폼 구축사업 실증지원 통합 공고",
       "source_name": "기업마당",
@@ -204,7 +146,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-16T06:19:02+09:00",
-      "last_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-17T06:02:41+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -213,7 +155,7 @@
           "source_post_id": "PBLN_000000000126213",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-16T06:19:02+09:00"
+          "fetched_at": "2026-10-17T06:02:41+09:00"
         }
       ],
       "application_url": null,
@@ -262,7 +204,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-16T06:19:02+09:00",
-      "last_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-17T06:02:41+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -271,7 +213,7 @@
           "source_post_id": "PBLN_000000000125008",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-16T06:19:02+09:00"
+          "fetched_at": "2026-10-17T06:02:41+09:00"
         }
       ],
       "application_url": null,
@@ -281,7 +223,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 63,
+      "d_day": 62,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -321,7 +263,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-16T06:19:02+09:00",
-      "last_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-17T06:02:41+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -330,7 +272,7 @@
           "source_post_id": "PBLN_000000000124300",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-16T06:19:02+09:00"
+          "fetched_at": "2026-10-17T06:02:41+09:00"
         }
       ],
       "application_url": null,
@@ -379,7 +321,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-18T02:15:03+09:00",
-      "last_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-17T06:02:41+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -388,7 +330,7 @@
           "source_post_id": "EVEN_000000000068698",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-16T06:19:02+09:00"
+          "fetched_at": "2026-10-17T06:02:41+09:00"
         }
       ],
       "application_url": null,
@@ -398,7 +340,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 45,
+      "d_day": 44,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -439,7 +381,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-14T07:39:55+09:00",
-      "last_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-17T06:02:41+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -448,7 +390,7 @@
           "source_post_id": "EVEN_000000000069604",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-16T06:19:02+09:00"
+          "fetched_at": "2026-10-17T06:02:41+09:00"
         }
       ],
       "application_url": null,
@@ -458,7 +400,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 6,
+      "d_day": 5,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -476,6 +418,64 @@
       "dedupe_key": "전국의료기기산업스마트제조및디지털전환교육모집안내|전남대학교생체재료개발센터|2026-10-22"
     },
     {
+      "id": "6d7357391037781756f9",
+      "title": "2026년 2차 산업혁신기반구축사업(첨단 방위산업용 고성능ㆍ고신뢰성 시스템반도체 부품 실증 기반구축) 기술지원(설계ㆍ성능 검증, 기술지도) 사업 공고",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%B0%98%EB%8F%84%EC%B2%B4&condition=searchPblancNm&condition1=AND&keyword=%EB%B0%98%EB%8F%84%EC%B2%B4&pblancId=PBLN_000000000126931",
+      "organizer": "한국전자기술연구원",
+      "summary": "기업마당 공개 지원사업 · 기술 · 검색어 반도체. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "소프트웨어"
+      ],
+      "audience_tags": [],
+      "status": "closed",
+      "relevance": {
+        "score": 69,
+        "reasons": [
+          "제목 핵심 키워드: 시스템",
+          "본문·분류 키워드: 시스템",
+          "공고 유형: support",
+          "제목 키워드가 일반 단어뿐: 시스템"
+        ],
+        "decision": "review"
+      },
+      "first_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-16T06:19:02+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%B0%98%EB%8F%84%EC%B2%B4&condition=searchPblancNm&condition1=AND&keyword=%EB%B0%98%EB%8F%84%EC%B2%B4&pblancId=PBLN_000000000126931",
+          "source_post_id": "PBLN_000000000126931",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-10-16T06:19:02+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-10-01",
+      "recruit_end": "2026-10-16",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -1,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "it",
+      "regions": [],
+      "prize_manwon": null,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026년2차산업혁신기반구축사업첨단방위산업용고성능고신뢰성시스템반도체부품실증기반구축기술지원설계성능검증기술지도사업공고|한국전자기술연구원|2026-10-16"
+    },
+    {
       "id": "e68b7a1494ae059d63fc",
       "title": "2026년 서부 경기문화창조허브 콘텐츠IP 집중지원",
       "source_name": "경기콘텐츠진흥원",
@@ -491,7 +491,7 @@
         "창업"
       ],
       "audience_tags": [],
-      "status": "open",
+      "status": "urgent",
       "relevance": {
         "score": 69,
         "reasons": [
@@ -533,7 +533,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 4,
+      "d_day": 3,
       "eligibility": "",
       "benefits": "- IP개발 및 제작 - 유통/판로 지원 - 실증검증 - 마케팅/해외진출 지원 등",
       "location": "경기",
@@ -596,7 +596,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -1,
+      "d_day": -2,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -637,7 +637,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-01T22:25:03+09:00",
-      "last_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-17T06:02:41+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -646,7 +646,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-16T06:19:02+09:00"
+          "fetched_at": "2026-10-17T06:02:41+09:00"
         }
       ],
       "application_url": null,
@@ -722,7 +722,7 @@
       "event_start": "2026-10-16",
       "event_end": "2026-10-16",
       "date_kind": "exact",
-      "d_day": -1,
+      "d_day": -2,
       "eligibility": "",
       "benefits": "",
       "location": "서울 서초구",
@@ -782,7 +782,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -2,
+      "d_day": -3,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -824,7 +824,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-14T07:39:55+09:00",
-      "last_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-17T06:02:41+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -833,7 +833,7 @@
           "source_post_id": "EVEN_000000000069605",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-16T06:19:02+09:00"
+          "fetched_at": "2026-10-17T06:02:41+09:00"
         }
       ],
       "application_url": null,
@@ -843,7 +843,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 15,
+      "d_day": 14,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -883,7 +883,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-16T06:19:02+09:00",
-      "last_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-17T06:02:41+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -892,7 +892,7 @@
           "source_post_id": "EVEN_000000000068889",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-16T06:19:02+09:00"
+          "fetched_at": "2026-10-17T06:02:41+09:00"
         }
       ],
       "application_url": null,
@@ -902,7 +902,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 33,
+      "d_day": 32,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -964,7 +964,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -2,
+      "d_day": -3,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1004,7 +1004,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-06T01:05:39+09:00",
-      "last_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-17T06:02:41+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1013,7 +1013,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-16T06:19:02+09:00"
+          "fetched_at": "2026-10-17T06:02:41+09:00"
         }
       ],
       "application_url": null,
@@ -1069,7 +1069,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-09T08:18:08+09:00",
-      "last_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-17T06:02:41+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1078,7 +1078,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-16T06:19:02+09:00"
+          "fetched_at": "2026-10-17T06:02:41+09:00"
         }
       ],
       "application_url": null,
@@ -1088,7 +1088,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -2,
+      "d_day": -3,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1117,7 +1117,7 @@
         "AI"
       ],
       "audience_tags": [],
-      "status": "today",
+      "status": "closed",
       "relevance": {
         "score": 65,
         "reasons": [
@@ -1128,7 +1128,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-17T06:02:41+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1137,7 +1137,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-16T06:19:02+09:00"
+          "fetched_at": "2026-10-17T06:02:41+09:00"
         }
       ],
       "application_url": null,
@@ -1147,7 +1147,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 0,
+      "d_day": -1,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1189,7 +1189,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-17T06:02:41+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1198,7 +1198,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-16T06:19:02+09:00"
+          "fetched_at": "2026-10-17T06:02:41+09:00"
         }
       ],
       "application_url": null,
@@ -1254,7 +1254,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-13T09:35:11+09:00",
-      "last_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-17T06:02:41+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1263,7 +1263,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-16T06:19:02+09:00"
+          "fetched_at": "2026-10-17T06:02:41+09:00"
         }
       ],
       "application_url": null,
@@ -1318,7 +1318,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-29T00:33:00+09:00",
-      "last_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-17T06:02:41+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1327,7 +1327,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-16T06:19:02+09:00"
+          "fetched_at": "2026-10-17T06:02:41+09:00"
         },
         {
           "source_id": "dev_event",
@@ -1336,7 +1336,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-16T06:19:02+09:00"
+          "fetched_at": "2026-10-17T06:02:41+09:00"
         }
       ],
       "application_url": null,
@@ -1346,7 +1346,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 7,
+      "d_day": 6,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1388,7 +1388,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-17T06:02:41+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1397,7 +1397,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-16T06:19:02+09:00"
+          "fetched_at": "2026-10-17T06:02:41+09:00"
         }
       ],
       "application_url": null,
@@ -1453,7 +1453,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-24T13:57:15+09:00",
-      "last_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-17T06:02:41+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1462,7 +1462,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-16T06:19:02+09:00"
+          "fetched_at": "2026-10-17T06:02:41+09:00"
         }
       ],
       "application_url": null,
@@ -1518,7 +1518,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-06T01:05:39+09:00",
-      "last_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-17T06:02:41+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1527,7 +1527,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-16T06:19:02+09:00"
+          "fetched_at": "2026-10-17T06:02:41+09:00"
         }
       ],
       "application_url": null,
@@ -1537,7 +1537,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 13,
+      "d_day": 12,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1577,7 +1577,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-09T08:18:08+09:00",
-      "last_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-17T06:02:41+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1586,7 +1586,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-16T06:19:02+09:00"
+          "fetched_at": "2026-10-17T06:02:41+09:00"
         }
       ],
       "application_url": null,
@@ -1596,7 +1596,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 14,
+      "d_day": 13,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1636,7 +1636,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-16T06:19:02+09:00",
-      "last_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-17T06:02:41+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1645,7 +1645,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-16T06:19:02+09:00"
+          "fetched_at": "2026-10-17T06:02:41+09:00"
         }
       ],
       "application_url": null,
@@ -1655,7 +1655,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 14,
+      "d_day": 13,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1695,7 +1695,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-17T06:02:41+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1704,7 +1704,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-16T06:19:02+09:00"
+          "fetched_at": "2026-10-17T06:02:41+09:00"
         }
       ],
       "application_url": null,
@@ -1714,7 +1714,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 15,
+      "d_day": 14,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1756,7 +1756,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-13T09:35:11+09:00",
-      "last_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-17T06:02:41+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1765,7 +1765,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-16T06:19:02+09:00"
+          "fetched_at": "2026-10-17T06:02:41+09:00"
         }
       ],
       "application_url": null,
@@ -1775,7 +1775,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 15,
+      "d_day": 14,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1814,7 +1814,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-14T07:39:55+09:00",
-      "last_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-17T06:02:41+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1823,7 +1823,7 @@
           "source_post_id": "EVEN_000000000069603",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-16T06:19:02+09:00"
+          "fetched_at": "2026-10-17T06:02:41+09:00"
         }
       ],
       "application_url": null,
@@ -1833,7 +1833,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 13,
+      "d_day": 12,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1872,7 +1872,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-17T06:02:41+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1881,7 +1881,7 @@
           "source_post_id": "EVEN_000000000067915",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-16T06:19:02+09:00"
+          "fetched_at": "2026-10-17T06:02:41+09:00"
         }
       ],
       "application_url": null,
@@ -1891,7 +1891,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 15,
+      "d_day": 14,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1949,7 +1949,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -3,
+      "d_day": -4,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1992,7 +1992,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-09T08:18:08+09:00",
-      "last_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-17T06:02:41+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2001,7 +2001,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-16T06:19:02+09:00"
+          "fetched_at": "2026-10-17T06:02:41+09:00"
         }
       ],
       "application_url": null,
@@ -2011,7 +2011,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 10,
+      "d_day": 9,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2051,7 +2051,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-06T01:05:39+09:00",
-      "last_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-17T06:02:41+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2060,7 +2060,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-16T06:19:02+09:00"
+          "fetched_at": "2026-10-17T06:02:41+09:00"
         }
       ],
       "application_url": null,
@@ -2070,7 +2070,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 12,
+      "d_day": 11,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2111,7 +2111,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-23T15:01:53+09:00",
-      "last_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-17T06:02:41+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2120,7 +2120,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-16T06:19:02+09:00"
+          "fetched_at": "2026-10-17T06:02:41+09:00"
         }
       ],
       "application_url": null,
@@ -2130,7 +2130,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -1,
+      "d_day": -2,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2161,7 +2161,7 @@
         "AI"
       ],
       "audience_tags": [],
-      "status": "urgent",
+      "status": "today",
       "relevance": {
         "score": 53,
         "reasons": [
@@ -2171,7 +2171,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-16T06:19:02+09:00",
-      "last_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-17T06:02:41+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2180,7 +2180,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-16T06:19:02+09:00"
+          "fetched_at": "2026-10-17T06:02:41+09:00"
         }
       ],
       "application_url": null,
@@ -2190,7 +2190,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 1,
+      "d_day": 0,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2229,7 +2229,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-06T01:05:39+09:00",
-      "last_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-17T06:02:41+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2238,7 +2238,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-16T06:19:02+09:00"
+          "fetched_at": "2026-10-17T06:02:41+09:00"
         }
       ],
       "application_url": null,
@@ -2248,7 +2248,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 2,
+      "d_day": 1,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2289,7 +2289,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-16T06:19:02+09:00",
-      "last_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-17T06:02:41+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2298,7 +2298,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-16T06:19:02+09:00"
+          "fetched_at": "2026-10-17T06:02:41+09:00"
         }
       ],
       "application_url": null,
@@ -2308,7 +2308,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 6,
+      "d_day": 5,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2347,7 +2347,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-13T09:35:11+09:00",
-      "last_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-17T06:02:41+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2356,7 +2356,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-16T06:19:02+09:00"
+          "fetched_at": "2026-10-17T06:02:41+09:00"
         }
       ],
       "application_url": null,
@@ -2411,7 +2411,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-24T13:57:15+09:00",
-      "last_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-17T06:02:41+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2420,7 +2420,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-16T06:19:02+09:00"
+          "fetched_at": "2026-10-17T06:02:41+09:00"
         }
       ],
       "application_url": null,
@@ -2479,7 +2479,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-17T06:02:41+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -2488,7 +2488,7 @@
           "source_post_id": "236754",
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-16T06:19:02+09:00"
+          "fetched_at": "2026-10-17T06:02:41+09:00"
         }
       ],
       "application_url": null,
@@ -2498,7 +2498,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -16,
+      "d_day": -17,
       "eligibility": "",
       "benefits": "상금 4,200만 원",
       "location": "",
