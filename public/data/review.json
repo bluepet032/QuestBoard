@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-22T06:37:28+09:00",
+  "generated_at": "2026-10-23T06:31:19+09:00",
   "items": [
     {
       "id": "f9d9ea4adef4c48ac9df",
@@ -14,7 +14,7 @@
         "디지털 콘텐츠"
       ],
       "audience_tags": [],
-      "status": "urgent",
+      "status": "today",
       "relevance": {
         "score": 69,
         "reasons": [
@@ -26,7 +26,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-21T06:34:00+09:00",
-      "last_seen_at": "2026-10-22T06:37:28+09:00",
+      "last_seen_at": "2026-10-23T06:31:19+09:00",
       "sources": [
         {
           "source_id": "momo365",
@@ -35,7 +35,7 @@
           "source_post_id": "178548",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-22T06:37:28+09:00"
+          "fetched_at": "2026-10-23T06:31:19+09:00"
         }
       ],
       "application_url": null,
@@ -45,7 +45,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 1,
+      "d_day": 0,
       "eligibility": "",
       "benefits": "",
       "location": "충북",
@@ -105,7 +105,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -1,
+      "d_day": -2,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -283,7 +283,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 57,
+      "d_day": 56,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -400,7 +400,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 39,
+      "d_day": 38,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -429,7 +429,7 @@
         "소프트웨어"
       ],
       "audience_tags": [],
-      "status": "today",
+      "status": "closed",
       "relevance": {
         "score": 69,
         "reasons": [
@@ -460,7 +460,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 0,
+      "d_day": -1,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -525,7 +525,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -2,
+      "d_day": -3,
       "eligibility": "",
       "benefits": "- IP개발 및 제작 - 유통/판로 지원 - 실증검증 - 마케팅/해외진출 지원 등",
       "location": "경기",
@@ -588,7 +588,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -646,7 +646,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -7,
+      "d_day": -8,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -687,7 +687,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-22T06:37:28+09:00",
-      "last_seen_at": "2026-10-22T06:37:28+09:00",
+      "last_seen_at": "2026-10-23T06:31:19+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -696,7 +696,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-22T06:37:28+09:00"
+          "fetched_at": "2026-10-23T06:31:19+09:00"
         }
       ],
       "application_url": null,
@@ -706,7 +706,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 15,
+      "d_day": 14,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -766,7 +766,7 @@
       "event_start": "2026-10-16",
       "event_end": "2026-10-16",
       "date_kind": "exact",
-      "d_day": -7,
+      "d_day": -8,
       "eligibility": "",
       "benefits": "",
       "location": "서울 서초구",
@@ -826,7 +826,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -8,
+      "d_day": -9,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -887,7 +887,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 9,
+      "d_day": 8,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -946,7 +946,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 27,
+      "d_day": 26,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1008,7 +1008,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -8,
+      "d_day": -9,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1048,7 +1048,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-13T09:35:11+09:00",
-      "last_seen_at": "2026-10-22T06:37:28+09:00",
+      "last_seen_at": "2026-10-23T06:31:19+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1057,7 +1057,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-22T06:37:28+09:00"
+          "fetched_at": "2026-10-23T06:31:19+09:00"
         }
       ],
       "application_url": null,
@@ -1101,7 +1101,7 @@
         "AI"
       ],
       "audience_tags": [],
-      "status": "urgent",
+      "status": "today",
       "relevance": {
         "score": 65,
         "reasons": [
@@ -1112,7 +1112,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-29T00:33:00+09:00",
-      "last_seen_at": "2026-10-22T06:37:28+09:00",
+      "last_seen_at": "2026-10-23T06:31:19+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1121,7 +1121,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-22T06:37:28+09:00"
+          "fetched_at": "2026-10-23T06:31:19+09:00"
         },
         {
           "source_id": "dev_event",
@@ -1130,7 +1130,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-22T06:37:28+09:00"
+          "fetched_at": "2026-10-23T06:31:19+09:00"
         }
       ],
       "application_url": null,
@@ -1140,7 +1140,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 1,
+      "d_day": 0,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1182,7 +1182,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-22T06:37:28+09:00",
+      "last_seen_at": "2026-10-23T06:31:19+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1191,7 +1191,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-22T06:37:28+09:00"
+          "fetched_at": "2026-10-23T06:31:19+09:00"
         }
       ],
       "application_url": null,
@@ -1247,7 +1247,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-24T13:57:15+09:00",
-      "last_seen_at": "2026-10-22T06:37:28+09:00",
+      "last_seen_at": "2026-10-23T06:31:19+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1256,7 +1256,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-22T06:37:28+09:00"
+          "fetched_at": "2026-10-23T06:31:19+09:00"
         }
       ],
       "application_url": null,
@@ -1301,7 +1301,7 @@
         "AI"
       ],
       "audience_tags": [],
-      "status": "open",
+      "status": "urgent",
       "relevance": {
         "score": 65,
         "reasons": [
@@ -1312,7 +1312,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-20T07:18:39+09:00",
-      "last_seen_at": "2026-10-22T06:37:28+09:00",
+      "last_seen_at": "2026-10-23T06:31:19+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1321,7 +1321,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-22T06:37:28+09:00"
+          "fetched_at": "2026-10-23T06:31:19+09:00"
         }
       ],
       "application_url": null,
@@ -1331,7 +1331,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 4,
+      "d_day": 3,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1360,7 +1360,7 @@
         "클라우드·보안"
       ],
       "audience_tags": [],
-      "status": "open",
+      "status": "urgent",
       "relevance": {
         "score": 65,
         "reasons": [
@@ -1371,7 +1371,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-22T06:37:28+09:00",
-      "last_seen_at": "2026-10-22T06:37:28+09:00",
+      "last_seen_at": "2026-10-23T06:31:19+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1380,7 +1380,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-22T06:37:28+09:00"
+          "fetched_at": "2026-10-23T06:31:19+09:00"
         }
       ],
       "application_url": null,
@@ -1390,7 +1390,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 4,
+      "d_day": 3,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1419,7 +1419,7 @@
         "클라우드·보안"
       ],
       "audience_tags": [],
-      "status": "open",
+      "status": "urgent",
       "relevance": {
         "score": 65,
         "reasons": [
@@ -1430,7 +1430,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-20T07:18:39+09:00",
-      "last_seen_at": "2026-10-22T06:37:28+09:00",
+      "last_seen_at": "2026-10-23T06:31:19+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1439,7 +1439,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-22T06:37:28+09:00"
+          "fetched_at": "2026-10-23T06:31:19+09:00"
         }
       ],
       "application_url": null,
@@ -1449,7 +1449,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 4,
+      "d_day": 3,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1487,7 +1487,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-06T01:05:39+09:00",
-      "last_seen_at": "2026-10-22T06:37:28+09:00",
+      "last_seen_at": "2026-10-23T06:31:19+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1496,7 +1496,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-22T06:37:28+09:00"
+          "fetched_at": "2026-10-23T06:31:19+09:00"
         }
       ],
       "application_url": null,
@@ -1506,7 +1506,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 7,
+      "d_day": 6,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1546,7 +1546,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-09T08:18:08+09:00",
-      "last_seen_at": "2026-10-22T06:37:28+09:00",
+      "last_seen_at": "2026-10-23T06:31:19+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1555,7 +1555,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-22T06:37:28+09:00"
+          "fetched_at": "2026-10-23T06:31:19+09:00"
         }
       ],
       "application_url": null,
@@ -1565,7 +1565,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 8,
+      "d_day": 7,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1605,7 +1605,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-16T06:19:02+09:00",
-      "last_seen_at": "2026-10-22T06:37:28+09:00",
+      "last_seen_at": "2026-10-23T06:31:19+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1614,7 +1614,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-22T06:37:28+09:00"
+          "fetched_at": "2026-10-23T06:31:19+09:00"
         }
       ],
       "application_url": null,
@@ -1624,7 +1624,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 8,
+      "d_day": 7,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1664,7 +1664,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-22T06:37:28+09:00",
+      "last_seen_at": "2026-10-23T06:31:19+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1673,7 +1673,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-22T06:37:28+09:00"
+          "fetched_at": "2026-10-23T06:31:19+09:00"
         }
       ],
       "application_url": null,
@@ -1683,7 +1683,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 9,
+      "d_day": 8,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1725,7 +1725,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-13T09:35:11+09:00",
-      "last_seen_at": "2026-10-22T06:37:28+09:00",
+      "last_seen_at": "2026-10-23T06:31:19+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1734,7 +1734,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-22T06:37:28+09:00"
+          "fetched_at": "2026-10-23T06:31:19+09:00"
         }
       ],
       "application_url": null,
@@ -1744,7 +1744,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 9,
+      "d_day": 8,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1784,7 +1784,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-20T07:18:39+09:00",
-      "last_seen_at": "2026-10-22T06:37:28+09:00",
+      "last_seen_at": "2026-10-23T06:31:19+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1793,7 +1793,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-22T06:37:28+09:00"
+          "fetched_at": "2026-10-23T06:31:19+09:00"
         }
       ],
       "application_url": null,
@@ -1803,7 +1803,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 22,
+      "d_day": 21,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1843,7 +1843,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-20T07:18:39+09:00",
-      "last_seen_at": "2026-10-22T06:37:28+09:00",
+      "last_seen_at": "2026-10-23T06:31:19+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1852,7 +1852,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-22T06:37:28+09:00"
+          "fetched_at": "2026-10-23T06:31:19+09:00"
         }
       ],
       "application_url": null,
@@ -1862,7 +1862,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 25,
+      "d_day": 24,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1921,7 +1921,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -8,
+      "d_day": -9,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1980,7 +1980,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2021,7 +2021,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-20T07:18:39+09:00",
-      "last_seen_at": "2026-10-22T06:37:28+09:00",
+      "last_seen_at": "2026-10-23T06:31:19+09:00",
       "sources": [
         {
           "source_id": "momo365",
@@ -2030,7 +2030,7 @@
           "source_post_id": "178550",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-22T06:37:28+09:00"
+          "fetched_at": "2026-10-23T06:31:19+09:00"
         }
       ],
       "application_url": null,
@@ -2040,7 +2040,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 10,
+      "d_day": 9,
       "eligibility": "",
       "benefits": "",
       "location": "전국",
@@ -2098,7 +2098,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 7,
+      "d_day": 6,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2156,7 +2156,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 9,
+      "d_day": 8,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2214,7 +2214,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -9,
+      "d_day": -10,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2247,7 +2247,7 @@
         "클라우드·보안"
       ],
       "audience_tags": [],
-      "status": "open",
+      "status": "urgent",
       "relevance": {
         "score": 56,
         "reasons": [
@@ -2257,7 +2257,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-09T08:18:08+09:00",
-      "last_seen_at": "2026-10-22T06:37:28+09:00",
+      "last_seen_at": "2026-10-23T06:31:19+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2266,7 +2266,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-22T06:37:28+09:00"
+          "fetched_at": "2026-10-23T06:31:19+09:00"
         }
       ],
       "application_url": null,
@@ -2276,7 +2276,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 4,
+      "d_day": 3,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2316,7 +2316,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-06T01:05:39+09:00",
-      "last_seen_at": "2026-10-22T06:37:28+09:00",
+      "last_seen_at": "2026-10-23T06:31:19+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2325,7 +2325,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-22T06:37:28+09:00"
+          "fetched_at": "2026-10-23T06:31:19+09:00"
         }
       ],
       "application_url": null,
@@ -2335,7 +2335,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 6,
+      "d_day": 5,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2366,7 +2366,7 @@
         "AI"
       ],
       "audience_tags": [],
-      "status": "today",
+      "status": "closed",
       "relevance": {
         "score": 53,
         "reasons": [
@@ -2376,7 +2376,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-16T06:19:02+09:00",
-      "last_seen_at": "2026-10-22T06:37:28+09:00",
+      "last_seen_at": "2026-10-23T06:31:19+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2385,7 +2385,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-22T06:37:28+09:00"
+          "fetched_at": "2026-10-23T06:31:19+09:00"
         }
       ],
       "application_url": null,
@@ -2395,7 +2395,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 0,
+      "d_day": -1,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2434,7 +2434,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-13T09:35:11+09:00",
-      "last_seen_at": "2026-10-22T06:37:28+09:00",
+      "last_seen_at": "2026-10-23T06:31:19+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2443,7 +2443,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-22T06:37:28+09:00"
+          "fetched_at": "2026-10-23T06:31:19+09:00"
         }
       ],
       "application_url": null,
@@ -2498,7 +2498,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-24T13:57:15+09:00",
-      "last_seen_at": "2026-10-22T06:37:28+09:00",
+      "last_seen_at": "2026-10-23T06:31:19+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2507,7 +2507,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-22T06:37:28+09:00"
+          "fetched_at": "2026-10-23T06:31:19+09:00"
         }
       ],
       "application_url": null,
@@ -2562,7 +2562,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-22T06:37:28+09:00",
-      "last_seen_at": "2026-10-22T06:37:28+09:00",
+      "last_seen_at": "2026-10-23T06:31:19+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2571,7 +2571,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-22T06:37:28+09:00"
+          "fetched_at": "2026-10-23T06:31:19+09:00"
         }
       ],
       "application_url": null,
@@ -2581,7 +2581,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 7,
+      "d_day": 6,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2620,7 +2620,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-20T07:18:39+09:00",
-      "last_seen_at": "2026-10-22T06:37:28+09:00",
+      "last_seen_at": "2026-10-23T06:31:19+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2629,7 +2629,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-22T06:37:28+09:00"
+          "fetched_at": "2026-10-23T06:31:19+09:00"
         }
       ],
       "application_url": null,
@@ -2639,7 +2639,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 13,
+      "d_day": 12,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2682,7 +2682,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-22T06:37:28+09:00",
+      "last_seen_at": "2026-10-23T06:31:19+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -2691,7 +2691,7 @@
           "source_post_id": "236754",
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-22T06:37:28+09:00"
+          "fetched_at": "2026-10-23T06:31:19+09:00"
         }
       ],
       "application_url": null,
@@ -2701,7 +2701,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -22,
+      "d_day": -23,
       "eligibility": "",
       "benefits": "상금 4,200만 원",
       "location": "",
@@ -2764,7 +2764,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -7,
+      "d_day": -8,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2824,7 +2824,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -5,
+      "d_day": -6,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2882,7 +2882,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -4,
+      "d_day": -5,
       "eligibility": "",
       "benefits": "",
       "location": "",
