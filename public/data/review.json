@@ -1,7 +1,369 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-23T06:31:19+09:00",
+  "generated_at": "2026-10-24T06:21:18+09:00",
   "items": [
+    {
+      "id": "ae88d73be91a20940f43",
+      "title": "2026년 VP 활용 콘텐츠 제작 인프라 지원 추가 공고",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EC%BD%98%ED%85%90%EC%B8%A0&condition=searchPblancNm&condition1=AND&keyword=%EC%BD%98%ED%85%90%EC%B8%A0&pblancId=PBLN_000000000127432",
+      "organizer": "한국콘텐츠진흥원",
+      "summary": "기업마당 공개 지원사업 · 기술 · 검색어 콘텐츠. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "디지털 콘텐츠"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 69,
+        "reasons": [
+          "제목 핵심 키워드: 콘텐츠, 콘텐츠 제작",
+          "본문·분류 키워드: 콘텐츠, 콘텐츠 제작",
+          "공고 유형: support",
+          "제목 키워드가 일반 단어뿐: 콘텐츠, 콘텐츠 제작"
+        ],
+        "decision": "review"
+      },
+      "first_seen_at": "2026-10-24T06:21:18+09:00",
+      "last_seen_at": "2026-10-24T06:21:18+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EC%BD%98%ED%85%90%EC%B8%A0&condition=searchPblancNm&condition1=AND&keyword=%EC%BD%98%ED%85%90%EC%B8%A0&pblancId=PBLN_000000000127432",
+          "source_post_id": "PBLN_000000000127432",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-10-24T06:21:18+09:00"
+        },
+        {
+          "source_id": "momo365",
+          "source_name": "모모365",
+          "source_url": "https://www.momo365.net/Support?cd=support&ViewType=detail&seq=178757",
+          "source_post_id": "178757",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-10-24T06:21:18+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-10-22",
+      "recruit_end": "2026-11-17",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 24,
+      "eligibility": "",
+      "benefits": "",
+      "location": "전국",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "it",
+      "regions": [],
+      "prize_manwon": null,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026년vp활용콘텐츠제작인프라지원추가공고|한국콘텐츠진흥원|2026-11-17"
+    },
+    {
+      "id": "116070c367b636e9f880",
+      "title": "[충북] 2026년 한방바이오제천몰 웹상세페이지 제작 지원사업 공고",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EC%9B%B9&condition=searchPblancNm&condition1=AND&keyword=%EC%9B%B9&pblancId=PBLN_000000000124402",
+      "organizer": "제천한방천연물산업진흥재단",
+      "summary": "기업마당 공개 지원사업 · 내수 · 검색어 웹. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "웹·앱"
+      ],
+      "audience_tags": [],
+      "status": "unknown",
+      "relevance": {
+        "score": 69,
+        "reasons": [
+          "제목 핵심 키워드: 웹",
+          "본문·분류 키워드: 웹",
+          "공고 유형: support",
+          "제목 키워드가 일반 단어뿐: 웹"
+        ],
+        "decision": "review"
+      },
+      "first_seen_at": "2026-09-29T22:18:03+09:00",
+      "last_seen_at": "2026-10-24T06:21:18+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EC%9B%B9&condition=searchPblancNm&condition1=AND&keyword=%EC%9B%B9&pblancId=PBLN_000000000124402",
+          "source_post_id": "PBLN_000000000124402",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-10-24T06:21:18+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": null,
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "unknown",
+      "d_day": null,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "it",
+      "regions": [
+        "충북"
+      ],
+      "prize_manwon": null,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "충북2026년한방바이오제천몰웹상세페이지제작지원사업공고|제천한방천연물산업진흥재단|"
+    },
+    {
+      "id": "3e8b0986044ad02e0685",
+      "title": "2026년 의료기기 반도체 실증플랫폼 구축사업 실증지원 통합 공고",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%B0%98%EB%8F%84%EC%B2%B4&condition=searchPblancNm&condition1=AND&keyword=%EB%B0%98%EB%8F%84%EC%B2%B4&pblancId=PBLN_000000000126213",
+      "organizer": "강원테크노파크",
+      "summary": "기업마당 공개 지원사업 · 기술 · 검색어 반도체. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "웹·앱"
+      ],
+      "audience_tags": [],
+      "status": "unknown",
+      "relevance": {
+        "score": 69,
+        "reasons": [
+          "제목 핵심 키워드: 플랫폼",
+          "본문·분류 키워드: 플랫폼",
+          "공고 유형: support",
+          "제목 키워드가 일반 단어뿐: 플랫폼"
+        ],
+        "decision": "review"
+      },
+      "first_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-24T06:21:18+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%B0%98%EB%8F%84%EC%B2%B4&condition=searchPblancNm&condition1=AND&keyword=%EB%B0%98%EB%8F%84%EC%B2%B4&pblancId=PBLN_000000000126213",
+          "source_post_id": "PBLN_000000000126213",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-10-24T06:21:18+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": null,
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "unknown",
+      "d_day": null,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "it",
+      "regions": [],
+      "prize_manwon": null,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026년의료기기반도체실증플랫폼구축사업실증지원통합공고|강원테크노파크|"
+    },
+    {
+      "id": "915b4ac1c6840ba3c7a6",
+      "title": "물류영역 서비스로봇 공통플랫폼구축 사업 기업 지원 모집 공고",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%A1%9C%EB%B4%87&condition=searchPblancNm&condition1=AND&keyword=%EB%A1%9C%EB%B4%87&pblancId=PBLN_000000000125008",
+      "organizer": "한국산업기술시험원",
+      "summary": "기업마당 공개 지원사업 · 기술 · 검색어 로봇. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "웹·앱"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 69,
+        "reasons": [
+          "제목 핵심 키워드: 플랫폼",
+          "본문·분류 키워드: 플랫폼",
+          "공고 유형: support",
+          "제목 키워드가 일반 단어뿐: 플랫폼"
+        ],
+        "decision": "review"
+      },
+      "first_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-24T06:21:18+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%A1%9C%EB%B4%87&condition=searchPblancNm&condition1=AND&keyword=%EB%A1%9C%EB%B4%87&pblancId=PBLN_000000000125008",
+          "source_post_id": "PBLN_000000000125008",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-10-24T06:21:18+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-07-31",
+      "recruit_end": "2026-12-18",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 55,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "it",
+      "regions": [],
+      "prize_manwon": null,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "물류영역서비스로봇공통플랫폼구축사업기업지원모집공고|한국산업기술시험원|2026-12-18"
+    },
+    {
+      "id": "33453910853c382224b9",
+      "title": "AIoT융합부품 성능검증시스템 고도화사업 수혜기업모집 수시 공고",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=3&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=AI&condition=searchPblancNm&condition1=AND&keyword=AI&pblancId=PBLN_000000000124300",
+      "organizer": "충북테크노파크",
+      "summary": "기업마당 공개 지원사업 · 기술 · 검색어 AI. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "AI",
+        "소프트웨어"
+      ],
+      "audience_tags": [],
+      "status": "unknown",
+      "relevance": {
+        "score": 69,
+        "reasons": [
+          "제목 핵심 키워드: 시스템",
+          "본문·분류 키워드: ai, 시스템",
+          "공고 유형: support",
+          "제목 키워드가 일반 단어뿐: 시스템"
+        ],
+        "decision": "review"
+      },
+      "first_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-24T06:21:18+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=3&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=AI&condition=searchPblancNm&condition1=AND&keyword=AI&pblancId=PBLN_000000000124300",
+          "source_post_id": "PBLN_000000000124300",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-10-24T06:21:18+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": null,
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "unknown",
+      "d_day": null,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "it",
+      "regions": [],
+      "prize_manwon": null,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "aiot융합부품성능검증시스템고도화사업수혜기업모집수시공고|충북테크노파크|"
+    },
+    {
+      "id": "c7f8554e2b4cd9bba01e",
+      "title": "[전국] 2026년 부산콘텐츠아카데미 퍼스널 트레이닝 교육생 모집 공고",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=%EC%BD%98%ED%85%90%EC%B8%A0&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000068698",
+      "organizer": "부산정보산업진흥원",
+      "summary": "기업마당 공개 행사 · 행사정보 · 검색어 콘텐츠. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "education",
+      "field_tags": [
+        "디지털 콘텐츠"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 69,
+        "reasons": [
+          "제목 핵심 키워드: 콘텐츠",
+          "본문·분류 키워드: 콘텐츠",
+          "공고 유형: education",
+          "제목 키워드가 일반 단어뿐: 콘텐츠"
+        ],
+        "decision": "review"
+      },
+      "first_seen_at": "2026-09-18T02:15:03+09:00",
+      "last_seen_at": "2026-10-24T06:21:18+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=%EC%BD%98%ED%85%90%EC%B8%A0&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000068698",
+          "source_post_id": "EVEN_000000000068698",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-10-24T06:21:18+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-06-01",
+      "recruit_end": "2026-11-30",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 37,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "it",
+      "regions": [
+        "전국"
+      ],
+      "prize_manwon": null,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "전국2026년부산콘텐츠아카데미퍼스널트레이닝교육생모집공고|부산정보산업진흥원|2026-11-30"
+    },
     {
       "id": "f9d9ea4adef4c48ac9df",
       "title": "대한민국 문화도시 충주 융복합 문화콘텐츠 창제작 지원사업 C.2차 창작 트…",
@@ -14,7 +376,7 @@
         "디지털 콘텐츠"
       ],
       "audience_tags": [],
-      "status": "today",
+      "status": "closed",
       "relevance": {
         "score": 69,
         "reasons": [
@@ -45,7 +407,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 0,
+      "d_day": -1,
       "eligibility": "",
       "benefits": "",
       "location": "충북",
@@ -105,7 +467,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -2,
+      "d_day": -3,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -121,301 +483,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "전북2026년탄소저감형테스트베드활용지원참여기업모집공고디지털트윈농축산시설탄소배출량통합관리플랫폼개발및실증사업|한국전자기술연구원|2026-10-21"
-    },
-    {
-      "id": "116070c367b636e9f880",
-      "title": "[충북] 2026년 한방바이오제천몰 웹상세페이지 제작 지원사업 공고",
-      "source_name": "기업마당",
-      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EC%9B%B9&condition=searchPblancNm&condition1=AND&keyword=%EC%9B%B9&pblancId=PBLN_000000000124402",
-      "organizer": "제천한방천연물산업진흥재단",
-      "summary": "기업마당 공개 지원사업 · 내수 · 검색어 웹. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "웹·앱"
-      ],
-      "audience_tags": [],
-      "status": "unknown",
-      "relevance": {
-        "score": 69,
-        "reasons": [
-          "제목 핵심 키워드: 웹",
-          "본문·분류 키워드: 웹",
-          "공고 유형: support",
-          "제목 키워드가 일반 단어뿐: 웹"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-10-21T06:34:00+09:00",
-      "sources": [
-        {
-          "source_id": "bizinfo",
-          "source_name": "기업마당",
-          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EC%9B%B9&condition=searchPblancNm&condition1=AND&keyword=%EC%9B%B9&pblancId=PBLN_000000000124402",
-          "source_post_id": "PBLN_000000000124402",
-          "kind": "government",
-          "priority": 80,
-          "fetched_at": "2026-10-21T06:34:00+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": null,
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "unknown",
-      "d_day": null,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "domain": "it",
-      "regions": [
-        "충북"
-      ],
-      "prize_manwon": null,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "충북2026년한방바이오제천몰웹상세페이지제작지원사업공고|제천한방천연물산업진흥재단|"
-    },
-    {
-      "id": "3e8b0986044ad02e0685",
-      "title": "2026년 의료기기 반도체 실증플랫폼 구축사업 실증지원 통합 공고",
-      "source_name": "기업마당",
-      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%B0%98%EB%8F%84%EC%B2%B4&condition=searchPblancNm&condition1=AND&keyword=%EB%B0%98%EB%8F%84%EC%B2%B4&pblancId=PBLN_000000000126213",
-      "organizer": "강원테크노파크",
-      "summary": "기업마당 공개 지원사업 · 기술 · 검색어 반도체. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "웹·앱"
-      ],
-      "audience_tags": [],
-      "status": "unknown",
-      "relevance": {
-        "score": 69,
-        "reasons": [
-          "제목 핵심 키워드: 플랫폼",
-          "본문·분류 키워드: 플랫폼",
-          "공고 유형: support",
-          "제목 키워드가 일반 단어뿐: 플랫폼"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-10-16T06:19:02+09:00",
-      "last_seen_at": "2026-10-21T06:34:00+09:00",
-      "sources": [
-        {
-          "source_id": "bizinfo",
-          "source_name": "기업마당",
-          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%B0%98%EB%8F%84%EC%B2%B4&condition=searchPblancNm&condition1=AND&keyword=%EB%B0%98%EB%8F%84%EC%B2%B4&pblancId=PBLN_000000000126213",
-          "source_post_id": "PBLN_000000000126213",
-          "kind": "government",
-          "priority": 80,
-          "fetched_at": "2026-10-21T06:34:00+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": null,
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "unknown",
-      "d_day": null,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "domain": "it",
-      "regions": [],
-      "prize_manwon": null,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "2026년의료기기반도체실증플랫폼구축사업실증지원통합공고|강원테크노파크|"
-    },
-    {
-      "id": "915b4ac1c6840ba3c7a6",
-      "title": "물류영역 서비스로봇 공통플랫폼구축 사업 기업 지원 모집 공고",
-      "source_name": "기업마당",
-      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%A1%9C%EB%B4%87&condition=searchPblancNm&condition1=AND&keyword=%EB%A1%9C%EB%B4%87&pblancId=PBLN_000000000125008",
-      "organizer": "한국산업기술시험원",
-      "summary": "기업마당 공개 지원사업 · 기술 · 검색어 로봇. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "웹·앱"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 69,
-        "reasons": [
-          "제목 핵심 키워드: 플랫폼",
-          "본문·분류 키워드: 플랫폼",
-          "공고 유형: support",
-          "제목 키워드가 일반 단어뿐: 플랫폼"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-10-16T06:19:02+09:00",
-      "last_seen_at": "2026-10-21T06:34:00+09:00",
-      "sources": [
-        {
-          "source_id": "bizinfo",
-          "source_name": "기업마당",
-          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%A1%9C%EB%B4%87&condition=searchPblancNm&condition1=AND&keyword=%EB%A1%9C%EB%B4%87&pblancId=PBLN_000000000125008",
-          "source_post_id": "PBLN_000000000125008",
-          "kind": "government",
-          "priority": 80,
-          "fetched_at": "2026-10-21T06:34:00+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-07-31",
-      "recruit_end": "2026-12-18",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 56,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "domain": "it",
-      "regions": [],
-      "prize_manwon": null,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "물류영역서비스로봇공통플랫폼구축사업기업지원모집공고|한국산업기술시험원|2026-12-18"
-    },
-    {
-      "id": "33453910853c382224b9",
-      "title": "AIoT융합부품 성능검증시스템 고도화사업 수혜기업모집 수시 공고",
-      "source_name": "기업마당",
-      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=3&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=AI&condition=searchPblancNm&condition1=AND&keyword=AI&pblancId=PBLN_000000000124300",
-      "organizer": "충북테크노파크",
-      "summary": "기업마당 공개 지원사업 · 기술 · 검색어 AI. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "support",
-      "field_tags": [
-        "AI",
-        "소프트웨어"
-      ],
-      "audience_tags": [],
-      "status": "unknown",
-      "relevance": {
-        "score": 69,
-        "reasons": [
-          "제목 핵심 키워드: 시스템",
-          "본문·분류 키워드: ai, 시스템",
-          "공고 유형: support",
-          "제목 키워드가 일반 단어뿐: 시스템"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-10-16T06:19:02+09:00",
-      "last_seen_at": "2026-10-21T06:34:00+09:00",
-      "sources": [
-        {
-          "source_id": "bizinfo",
-          "source_name": "기업마당",
-          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=3&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=AI&condition=searchPblancNm&condition1=AND&keyword=AI&pblancId=PBLN_000000000124300",
-          "source_post_id": "PBLN_000000000124300",
-          "kind": "government",
-          "priority": 80,
-          "fetched_at": "2026-10-21T06:34:00+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": null,
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "unknown",
-      "d_day": null,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "domain": "it",
-      "regions": [],
-      "prize_manwon": null,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "aiot융합부품성능검증시스템고도화사업수혜기업모집수시공고|충북테크노파크|"
-    },
-    {
-      "id": "c7f8554e2b4cd9bba01e",
-      "title": "[전국] 2026년 부산콘텐츠아카데미 퍼스널 트레이닝 교육생 모집 공고",
-      "source_name": "기업마당",
-      "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=%EC%BD%98%ED%85%90%EC%B8%A0&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000068698",
-      "organizer": "부산정보산업진흥원",
-      "summary": "기업마당 공개 행사 · 행사정보 · 검색어 콘텐츠. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "education",
-      "field_tags": [
-        "디지털 콘텐츠"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 69,
-        "reasons": [
-          "제목 핵심 키워드: 콘텐츠",
-          "본문·분류 키워드: 콘텐츠",
-          "공고 유형: education",
-          "제목 키워드가 일반 단어뿐: 콘텐츠"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-09-18T02:15:03+09:00",
-      "last_seen_at": "2026-10-21T06:34:00+09:00",
-      "sources": [
-        {
-          "source_id": "bizinfo",
-          "source_name": "기업마당",
-          "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=%EC%BD%98%ED%85%90%EC%B8%A0&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000068698",
-          "source_post_id": "EVEN_000000000068698",
-          "kind": "government",
-          "priority": 80,
-          "fetched_at": "2026-10-21T06:34:00+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-06-01",
-      "recruit_end": "2026-11-30",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 38,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "domain": "it",
-      "regions": [
-        "전국"
-      ],
-      "prize_manwon": null,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "전국2026년부산콘텐츠아카데미퍼스널트레이닝교육생모집공고|부산정보산업진흥원|2026-11-30"
     },
     {
       "id": "ed9ffbb6b29f14e8f02e",
@@ -460,7 +527,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -1,
+      "d_day": -2,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -525,7 +592,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -3,
+      "d_day": -4,
       "eligibility": "",
       "benefits": "- IP개발 및 제작 - 유통/판로 지원 - 실증검증 - 마케팅/해외진출 지원 등",
       "location": "경기",
@@ -588,7 +655,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -7,
+      "d_day": -8,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -646,7 +713,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -8,
+      "d_day": -9,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -687,7 +754,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-22T06:37:28+09:00",
-      "last_seen_at": "2026-10-23T06:31:19+09:00",
+      "last_seen_at": "2026-10-24T06:21:18+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -696,7 +763,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-23T06:31:19+09:00"
+          "fetched_at": "2026-10-24T06:21:18+09:00"
         }
       ],
       "application_url": null,
@@ -706,7 +773,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 14,
+      "d_day": 13,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -766,7 +833,7 @@
       "event_start": "2026-10-16",
       "event_end": "2026-10-16",
       "date_kind": "exact",
-      "d_day": -8,
+      "d_day": -9,
       "eligibility": "",
       "benefits": "",
       "location": "서울 서초구",
@@ -826,7 +893,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -9,
+      "d_day": -10,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -868,7 +935,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-14T07:39:55+09:00",
-      "last_seen_at": "2026-10-21T06:34:00+09:00",
+      "last_seen_at": "2026-10-24T06:21:18+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -877,7 +944,7 @@
           "source_post_id": "EVEN_000000000069605",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-21T06:34:00+09:00"
+          "fetched_at": "2026-10-24T06:21:18+09:00"
         }
       ],
       "application_url": null,
@@ -887,7 +954,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 8,
+      "d_day": 7,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -927,7 +994,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-16T06:19:02+09:00",
-      "last_seen_at": "2026-10-21T06:34:00+09:00",
+      "last_seen_at": "2026-10-24T06:21:18+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -936,7 +1003,7 @@
           "source_post_id": "EVEN_000000000068889",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-21T06:34:00+09:00"
+          "fetched_at": "2026-10-24T06:21:18+09:00"
         }
       ],
       "application_url": null,
@@ -946,7 +1013,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 26,
+      "d_day": 25,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1008,7 +1075,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -9,
+      "d_day": -10,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1026,70 +1093,6 @@
       "dedupe_key": "전국2026년saas전환지원센터xaws클라우드기반saas현대화기술특강및실습4회차참가자모집|정보통신산업진흥원|2026-10-14"
     },
     {
-      "id": "44cc57aa2ad19e859890",
-      "title": "OpenAI DevDay Exchange 2026 - 서울",
-      "source_name": "Dev-Event GitHub",
-      "source_url": "https://events.openai.com/devdayexchange2026",
-      "organizer": "OpenAI",
-      "summary": "- 분류: 오프라인(서울), 무료, 세미나, AI - 주최: OpenAI - 일시: 10. 22(목) 14:00",
-      "primary_type": "event",
-      "field_tags": [
-        "AI"
-      ],
-      "audience_tags": [],
-      "status": "unknown",
-      "relevance": {
-        "score": 65,
-        "reasons": [
-          "본문·분류 키워드: ai",
-          "공고 유형: event",
-          "IT·게임 전문 출처"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-10-13T09:35:11+09:00",
-      "last_seen_at": "2026-10-23T06:31:19+09:00",
-      "sources": [
-        {
-          "source_id": "dev_event",
-          "source_name": "Dev-Event GitHub",
-          "source_url": "https://events.openai.com/devdayexchange2026",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-10-23T06:31:19+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": null,
-      "event_start": "2026-10-22",
-      "event_end": "2026-10-22",
-      "date_kind": "unknown",
-      "d_day": null,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "offline",
-      "fee": "free",
-      "is_adjacent": false,
-      "domain": "it",
-      "regions": [
-        "서울"
-      ],
-      "prize_manwon": null,
-      "last_changed_at": "2026-10-13T13:56:06+09:00",
-      "change_flags": [
-        "recruit_end",
-        "event_start",
-        "event_end",
-        "date_kind"
-      ],
-      "is_manual_reviewed": false,
-      "dedupe_key": "openaidevdayexchange2026서울|openai|"
-    },
-    {
       "id": "6ad79206806c70f8f746",
       "title": "2026 블록체인 밋업데이 (27회차)",
       "source_name": "Dev-Event GitHub",
@@ -1101,7 +1104,7 @@
         "AI"
       ],
       "audience_tags": [],
-      "status": "today",
+      "status": "closed",
       "relevance": {
         "score": 65,
         "reasons": [
@@ -1112,7 +1115,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-29T00:33:00+09:00",
-      "last_seen_at": "2026-10-23T06:31:19+09:00",
+      "last_seen_at": "2026-10-24T06:21:18+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1121,7 +1124,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-23T06:31:19+09:00"
+          "fetched_at": "2026-10-24T06:21:18+09:00"
         },
         {
           "source_id": "dev_event",
@@ -1130,7 +1133,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-23T06:31:19+09:00"
+          "fetched_at": "2026-10-24T06:21:18+09:00"
         }
       ],
       "application_url": null,
@@ -1140,7 +1143,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 0,
+      "d_day": -1,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1182,7 +1185,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-23T06:31:19+09:00",
+      "last_seen_at": "2026-10-24T06:21:18+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1191,7 +1194,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-23T06:31:19+09:00"
+          "fetched_at": "2026-10-24T06:21:18+09:00"
         }
       ],
       "application_url": null,
@@ -1247,7 +1250,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-24T13:57:15+09:00",
-      "last_seen_at": "2026-10-23T06:31:19+09:00",
+      "last_seen_at": "2026-10-24T06:21:18+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1256,7 +1259,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-23T06:31:19+09:00"
+          "fetched_at": "2026-10-24T06:21:18+09:00"
         }
       ],
       "application_url": null,
@@ -1312,7 +1315,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-20T07:18:39+09:00",
-      "last_seen_at": "2026-10-23T06:31:19+09:00",
+      "last_seen_at": "2026-10-24T06:21:18+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1321,7 +1324,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-23T06:31:19+09:00"
+          "fetched_at": "2026-10-24T06:21:18+09:00"
         }
       ],
       "application_url": null,
@@ -1331,7 +1334,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 3,
+      "d_day": 2,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1371,7 +1374,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-22T06:37:28+09:00",
-      "last_seen_at": "2026-10-23T06:31:19+09:00",
+      "last_seen_at": "2026-10-24T06:21:18+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1380,7 +1383,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-23T06:31:19+09:00"
+          "fetched_at": "2026-10-24T06:21:18+09:00"
         }
       ],
       "application_url": null,
@@ -1390,7 +1393,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 3,
+      "d_day": 2,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1430,7 +1433,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-20T07:18:39+09:00",
-      "last_seen_at": "2026-10-23T06:31:19+09:00",
+      "last_seen_at": "2026-10-24T06:21:18+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1439,7 +1442,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-23T06:31:19+09:00"
+          "fetched_at": "2026-10-24T06:21:18+09:00"
         }
       ],
       "application_url": null,
@@ -1449,7 +1452,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 3,
+      "d_day": 2,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1487,7 +1490,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-06T01:05:39+09:00",
-      "last_seen_at": "2026-10-23T06:31:19+09:00",
+      "last_seen_at": "2026-10-24T06:21:18+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1496,7 +1499,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-23T06:31:19+09:00"
+          "fetched_at": "2026-10-24T06:21:18+09:00"
         }
       ],
       "application_url": null,
@@ -1506,7 +1509,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 6,
+      "d_day": 5,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1546,7 +1549,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-09T08:18:08+09:00",
-      "last_seen_at": "2026-10-23T06:31:19+09:00",
+      "last_seen_at": "2026-10-24T06:21:18+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1555,7 +1558,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-23T06:31:19+09:00"
+          "fetched_at": "2026-10-24T06:21:18+09:00"
         }
       ],
       "application_url": null,
@@ -1565,7 +1568,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 7,
+      "d_day": 6,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1605,7 +1608,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-16T06:19:02+09:00",
-      "last_seen_at": "2026-10-23T06:31:19+09:00",
+      "last_seen_at": "2026-10-24T06:21:18+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1614,7 +1617,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-23T06:31:19+09:00"
+          "fetched_at": "2026-10-24T06:21:18+09:00"
         }
       ],
       "application_url": null,
@@ -1624,7 +1627,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 7,
+      "d_day": 6,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1664,7 +1667,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-23T06:31:19+09:00",
+      "last_seen_at": "2026-10-24T06:21:18+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1673,7 +1676,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-23T06:31:19+09:00"
+          "fetched_at": "2026-10-24T06:21:18+09:00"
         }
       ],
       "application_url": null,
@@ -1683,7 +1686,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 8,
+      "d_day": 7,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1725,7 +1728,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-13T09:35:11+09:00",
-      "last_seen_at": "2026-10-23T06:31:19+09:00",
+      "last_seen_at": "2026-10-24T06:21:18+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1734,7 +1737,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-23T06:31:19+09:00"
+          "fetched_at": "2026-10-24T06:21:18+09:00"
         }
       ],
       "application_url": null,
@@ -1744,7 +1747,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 8,
+      "d_day": 7,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1760,6 +1763,67 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "devfestincheon2026|gdgincheon|2026-10-31"
+    },
+    {
+      "id": "50d604b845522be8c6b7",
+      "title": "MAWD 대학생 START-UP HACKATHON",
+      "source_name": "Dev-Event GitHub",
+      "source_url": "https://event-us.kr/teammawd/event/138375",
+      "organizer": "MAWD",
+      "summary": "- 분류: 오프라인(서울 성동구), 무료, 대회, AI - 주최: MAWD - 접수: 10. 23(금) ~ 11. 07(토) 23:59",
+      "primary_type": "contest",
+      "field_tags": [
+        "AI"
+      ],
+      "audience_tags": [
+        "대학생"
+      ],
+      "status": "open",
+      "relevance": {
+        "score": 65,
+        "reasons": [
+          "본문·분류 키워드: ai",
+          "공고 유형: contest",
+          "IT·게임 전문 출처"
+        ],
+        "decision": "review"
+      },
+      "first_seen_at": "2026-10-24T06:21:18+09:00",
+      "last_seen_at": "2026-10-24T06:21:18+09:00",
+      "sources": [
+        {
+          "source_id": "dev_event",
+          "source_name": "Dev-Event GitHub",
+          "source_url": "https://event-us.kr/teammawd/event/138375",
+          "source_post_id": null,
+          "kind": "specialist",
+          "priority": 60,
+          "fetched_at": "2026-10-24T06:21:18+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-10-23",
+      "recruit_end": "2026-11-07",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 14,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "offline",
+      "fee": "free",
+      "is_adjacent": false,
+      "domain": "it",
+      "regions": [
+        "서울"
+      ],
+      "prize_manwon": null,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "mawd대학생startuphackathon|mawd|2026-11-07"
     },
     {
       "id": "85365cbad0f358e37eac",
@@ -1784,7 +1848,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-20T07:18:39+09:00",
-      "last_seen_at": "2026-10-23T06:31:19+09:00",
+      "last_seen_at": "2026-10-24T06:21:18+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1793,7 +1857,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-23T06:31:19+09:00"
+          "fetched_at": "2026-10-24T06:21:18+09:00"
         }
       ],
       "application_url": null,
@@ -1803,7 +1867,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 21,
+      "d_day": 20,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1843,7 +1907,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-20T07:18:39+09:00",
-      "last_seen_at": "2026-10-23T06:31:19+09:00",
+      "last_seen_at": "2026-10-24T06:21:18+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1852,7 +1916,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-23T06:31:19+09:00"
+          "fetched_at": "2026-10-24T06:21:18+09:00"
         }
       ],
       "application_url": null,
@@ -1862,7 +1926,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 24,
+      "d_day": 23,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1921,7 +1985,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -9,
+      "d_day": -10,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1980,7 +2044,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -7,
+      "d_day": -8,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1998,64 +2062,6 @@
       ],
       "is_manual_reviewed": false,
       "dedupe_key": "githubcopilotdevdaysbusan|맞다ai가|2026-10-16"
-    },
-    {
-      "id": "ac104d137170f19fb3b6",
-      "title": "[회원등록공고] 플랫폼 미묘(mimio) <인천아트쇼2026> 참여 작가 공모",
-      "source_name": "모모365",
-      "source_url": "https://www.momo365.net/Support?cd=support&ViewType=detail&seq=178550",
-      "organizer": "인천아트쇼조직위원회/아티클21 주식회사",
-      "summary": "모모365 공모사업 공고 · 인천아트쇼조직위원회/아티클21 주식회사 · 전국. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
-      "primary_type": "other",
-      "field_tags": [
-        "웹·앱"
-      ],
-      "audience_tags": [],
-      "status": "open",
-      "relevance": {
-        "score": 58,
-        "reasons": [
-          "제목 핵심 키워드: 플랫폼",
-          "본문·분류 키워드: 플랫폼"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-10-20T07:18:39+09:00",
-      "last_seen_at": "2026-10-23T06:31:19+09:00",
-      "sources": [
-        {
-          "source_id": "momo365",
-          "source_name": "모모365",
-          "source_url": "https://www.momo365.net/Support?cd=support&ViewType=detail&seq=178550",
-          "source_post_id": "178550",
-          "kind": "aggregate",
-          "priority": 40,
-          "fetched_at": "2026-10-23T06:31:19+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": "2026-11-01",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 9,
-      "eligibility": "",
-      "benefits": "",
-      "location": "전국",
-      "mode": "",
-      "fee": "unknown",
-      "is_adjacent": false,
-      "domain": "it",
-      "regions": [
-        "전국"
-      ],
-      "prize_manwon": null,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "회원등록공고플랫폼미묘mimio인천아트쇼2026참여작가공모|인천아트쇼조직위원회아티클21주식회사|2026-11-01"
     },
     {
       "id": "157aa313a3b881ecb283",
@@ -2079,7 +2085,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-14T07:39:55+09:00",
-      "last_seen_at": "2026-10-21T06:34:00+09:00",
+      "last_seen_at": "2026-10-24T06:21:18+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2088,7 +2094,7 @@
           "source_post_id": "EVEN_000000000069603",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-21T06:34:00+09:00"
+          "fetched_at": "2026-10-24T06:21:18+09:00"
         }
       ],
       "application_url": null,
@@ -2098,7 +2104,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 6,
+      "d_day": 5,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2137,7 +2143,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-21T06:34:00+09:00",
+      "last_seen_at": "2026-10-24T06:21:18+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -2146,7 +2152,7 @@
           "source_post_id": "EVEN_000000000067915",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-10-21T06:34:00+09:00"
+          "fetched_at": "2026-10-24T06:21:18+09:00"
         }
       ],
       "application_url": null,
@@ -2156,7 +2162,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 8,
+      "d_day": 7,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2214,7 +2220,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -10,
+      "d_day": -11,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2257,7 +2263,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-09T08:18:08+09:00",
-      "last_seen_at": "2026-10-23T06:31:19+09:00",
+      "last_seen_at": "2026-10-24T06:21:18+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2266,7 +2272,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-23T06:31:19+09:00"
+          "fetched_at": "2026-10-24T06:21:18+09:00"
         }
       ],
       "application_url": null,
@@ -2276,7 +2282,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 3,
+      "d_day": 2,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2316,7 +2322,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-06T01:05:39+09:00",
-      "last_seen_at": "2026-10-23T06:31:19+09:00",
+      "last_seen_at": "2026-10-24T06:21:18+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2325,7 +2331,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-23T06:31:19+09:00"
+          "fetched_at": "2026-10-24T06:21:18+09:00"
         }
       ],
       "application_url": null,
@@ -2335,7 +2341,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 5,
+      "d_day": 4,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2355,18 +2361,18 @@
       "dedupe_key": "awskrug성수seongsuenglishfriendlykiroawsabusetrends1028수|awskrug|2026-10-28"
     },
     {
-      "id": "bc1cbb5c96eecc5c1ed0",
-      "title": "AutoRAG Meetup",
+      "id": "c8f8b2b7590bae707495",
+      "title": "Inference Korea meetup",
       "source_name": "Dev-Event GitHub",
-      "source_url": "https://luma.com/wlmnk9mo",
-      "organizer": "Markr · 브레인크루",
-      "summary": "- 분류: 오프라인(서울 강남구), 무료, 모임, AI - 주최: Markr · 브레인크루 - 접수: 10. 14(수) ~ 10. 22(목) 23:59",
+      "source_url": "https://event-us.kr/langcon/event/138372",
+      "organizer": "Inference Korea",
+      "summary": "- 분류: 온라인, 무료, 모임, AI - 주최: Inference Korea - 접수: 10. 22(목) ~ 10. 26(월) 20:00",
       "primary_type": "other",
       "field_tags": [
         "AI"
       ],
       "audience_tags": [],
-      "status": "closed",
+      "status": "urgent",
       "relevance": {
         "score": 53,
         "reasons": [
@@ -2375,42 +2381,40 @@
         ],
         "decision": "review"
       },
-      "first_seen_at": "2026-10-16T06:19:02+09:00",
-      "last_seen_at": "2026-10-23T06:31:19+09:00",
+      "first_seen_at": "2026-10-24T06:21:18+09:00",
+      "last_seen_at": "2026-10-24T06:21:18+09:00",
       "sources": [
         {
           "source_id": "dev_event",
           "source_name": "Dev-Event GitHub",
-          "source_url": "https://luma.com/wlmnk9mo",
+          "source_url": "https://event-us.kr/langcon/event/138372",
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-23T06:31:19+09:00"
+          "fetched_at": "2026-10-24T06:21:18+09:00"
         }
       ],
       "application_url": null,
       "document_url": null,
-      "recruit_start": "2026-10-14",
-      "recruit_end": "2026-10-22",
+      "recruit_start": "2026-10-22",
+      "recruit_end": "2026-10-26",
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -1,
+      "d_day": 2,
       "eligibility": "",
       "benefits": "",
       "location": "",
-      "mode": "offline",
+      "mode": "online",
       "fee": "free",
       "is_adjacent": false,
       "domain": "it",
-      "regions": [
-        "서울"
-      ],
+      "regions": [],
       "prize_manwon": null,
       "last_changed_at": null,
       "change_flags": [],
       "is_manual_reviewed": false,
-      "dedupe_key": "autoragmeetup|markr브레인크루|2026-10-22"
+      "dedupe_key": "inferencekoreameetup|inferencekorea|2026-10-26"
     },
     {
       "id": "00bc36a7ef01e2e6fdd1",
@@ -2434,7 +2438,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-13T09:35:11+09:00",
-      "last_seen_at": "2026-10-23T06:31:19+09:00",
+      "last_seen_at": "2026-10-24T06:21:18+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2443,7 +2447,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-23T06:31:19+09:00"
+          "fetched_at": "2026-10-24T06:21:18+09:00"
         }
       ],
       "application_url": null,
@@ -2498,7 +2502,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-24T13:57:15+09:00",
-      "last_seen_at": "2026-10-23T06:31:19+09:00",
+      "last_seen_at": "2026-10-24T06:21:18+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2507,7 +2511,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-23T06:31:19+09:00"
+          "fetched_at": "2026-10-24T06:21:18+09:00"
         }
       ],
       "application_url": null,
@@ -2562,7 +2566,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-22T06:37:28+09:00",
-      "last_seen_at": "2026-10-23T06:31:19+09:00",
+      "last_seen_at": "2026-10-24T06:21:18+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2571,7 +2575,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-23T06:31:19+09:00"
+          "fetched_at": "2026-10-24T06:21:18+09:00"
         }
       ],
       "application_url": null,
@@ -2581,7 +2585,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 6,
+      "d_day": 5,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2620,7 +2624,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-20T07:18:39+09:00",
-      "last_seen_at": "2026-10-23T06:31:19+09:00",
+      "last_seen_at": "2026-10-24T06:21:18+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2629,7 +2633,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-23T06:31:19+09:00"
+          "fetched_at": "2026-10-24T06:21:18+09:00"
         }
       ],
       "application_url": null,
@@ -2639,7 +2643,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 12,
+      "d_day": 11,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2682,7 +2686,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-23T06:31:19+09:00",
+      "last_seen_at": "2026-10-24T06:21:18+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -2691,7 +2695,7 @@
           "source_post_id": "236754",
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-23T06:31:19+09:00"
+          "fetched_at": "2026-10-24T06:21:18+09:00"
         }
       ],
       "application_url": null,
@@ -2701,7 +2705,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -23,
+      "d_day": -24,
       "eligibility": "",
       "benefits": "상금 4,200만 원",
       "location": "",
@@ -2722,6 +2726,64 @@
       ],
       "is_manual_reviewed": false,
       "dedupe_key": "나라장터자체입찰공고법령위반사항모니터링ai경진대회|dacon|2026-09-30"
+    },
+    {
+      "id": "bc1cbb5c96eecc5c1ed0",
+      "title": "AutoRAG Meetup",
+      "source_name": "Dev-Event GitHub",
+      "source_url": "https://luma.com/wlmnk9mo",
+      "organizer": "Markr · 브레인크루",
+      "summary": "- 분류: 오프라인(서울 강남구), 무료, 모임, AI - 주최: Markr · 브레인크루 - 접수: 10. 14(수) ~ 10. 22(목) 23:59",
+      "primary_type": "other",
+      "field_tags": [
+        "AI"
+      ],
+      "audience_tags": [],
+      "status": "closed",
+      "relevance": {
+        "score": 53,
+        "reasons": [
+          "본문·분류 키워드: ai",
+          "IT·게임 전문 출처"
+        ],
+        "decision": "review"
+      },
+      "first_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-23T06:31:19+09:00",
+      "sources": [
+        {
+          "source_id": "dev_event",
+          "source_name": "Dev-Event GitHub",
+          "source_url": "https://luma.com/wlmnk9mo",
+          "source_post_id": null,
+          "kind": "specialist",
+          "priority": 60,
+          "fetched_at": "2026-10-23T06:31:19+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-10-14",
+      "recruit_end": "2026-10-22",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -2,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "offline",
+      "fee": "free",
+      "is_adjacent": false,
+      "domain": "it",
+      "regions": [
+        "서울"
+      ],
+      "prize_manwon": null,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "autoragmeetup|markr브레인크루|2026-10-22"
     },
     {
       "id": "fe9ece584516f449d8a6",
@@ -2764,7 +2826,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -8,
+      "d_day": -9,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2824,7 +2886,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2882,7 +2944,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -5,
+      "d_day": -6,
       "eligibility": "",
       "benefits": "",
       "location": "",
