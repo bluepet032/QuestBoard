@@ -1,7 +1,1027 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-29T07:31:12+09:00",
+  "generated_at": "2026-10-30T07:42:07+09:00",
   "items": [
+    {
+      "id": "832c6944f36c1767d865",
+      "title": "한국노동연구원 캐릭터 이름 공모전",
+      "source_name": "링커리어",
+      "source_url": "https://linkareer.com/activity/360523",
+      "organizer": "한국노동연구원",
+      "summary": "링커리어 공개 공모전 목록. 대상 제한 없음. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "일러스트·웹툰"
+      ],
+      "audience_tags": [
+        "누구나"
+      ],
+      "status": "closed",
+      "relevance": {
+        "score": 69,
+        "reasons": [
+          "제목 핵심 키워드: 캐릭터",
+          "본문·분류 키워드: 캐릭터",
+          "공고 유형: contest",
+          "제목 키워드가 일반 단어뿐: 캐릭터",
+          "분야 탭: 디자인·영상 (일러스트·웹툰)"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "sources": [
+        {
+          "source_id": "linkareer",
+          "source_name": "링커리어",
+          "source_url": "https://linkareer.com/activity/360523",
+          "source_post_id": "360523",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-10-29T07:31:12+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-10-29",
+      "recruit_end": "2026-10-29",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -1,
+      "eligibility": "대상 제한 없음",
+      "benefits": "상금 60만원",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "design_media",
+      "regions": [],
+      "prize_manwon": 60,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "한국노동연구원캐릭터이름공모전|한국노동연구원|2026-10-29"
+    },
+    {
+      "id": "6803faa0cf1ea9485cd2",
+      "title": "창작물 연극 <나 여기 있을게> 전 배역 공모",
+      "source_name": "링커리어",
+      "source_url": "https://linkareer.com/activity/357643",
+      "organizer": "극단 CID",
+      "summary": "링커리어 공개 공모전 목록. 직장인/일반인. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "음악·공연"
+      ],
+      "audience_tags": [
+        "일반인"
+      ],
+      "status": "closed",
+      "relevance": {
+        "score": 12,
+        "reasons": [
+          "공고 유형: contest",
+          "분야 탭: 문학·예술 (음악·공연)"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-10-20T07:18:39+09:00",
+      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "sources": [
+        {
+          "source_id": "linkareer",
+          "source_name": "링커리어",
+          "source_url": "https://linkareer.com/activity/357643",
+          "source_post_id": "357643",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-10-29T07:31:12+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-10-17",
+      "recruit_end": "2026-10-29",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -1,
+      "eligibility": "직장인/일반인",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "literature_arts",
+      "regions": [],
+      "prize_manwon": null,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "창작물연극나여기있을게전배역공모|극단cid|2026-10-29"
+    },
+    {
+      "id": "8d8775f116d0aed7986b",
+      "title": "무료 개발자 세미나 - 인프라지스틱스 데이 2026",
+      "source_name": "Dev-Event GitHub",
+      "source_url": "https://ticketa.co/event/sk8bvff0",
+      "organizer": "인프라지스틱스 / Dot4",
+      "summary": "- 분류: 오프라인(서울 강남구), 무료, 세미나, AI - 주최: 인프라지스틱스 / Dot4 - 접수: 09. 29(화) 17:45 ~ 10. 29(목) 12:00",
+      "primary_type": "event",
+      "field_tags": [
+        "AI",
+        "소프트웨어"
+      ],
+      "audience_tags": [
+        "개발자"
+      ],
+      "status": "closed",
+      "relevance": {
+        "score": 100,
+        "reasons": [
+          "제목 핵심 키워드: 개발자",
+          "본문·분류 키워드: ai, 개발자",
+          "공고 유형: event",
+          "IT·게임 전문 출처"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-10-01T22:25:03+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
+      "sources": [
+        {
+          "source_id": "dev_event",
+          "source_name": "Dev-Event GitHub",
+          "source_url": "https://ticketa.co/event/sk8bvff0",
+          "source_post_id": null,
+          "kind": "specialist",
+          "priority": 60,
+          "fetched_at": "2026-10-30T07:42:07+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-09-29",
+      "recruit_end": "2026-10-29",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -1,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "offline",
+      "fee": "free",
+      "is_adjacent": false,
+      "domain": "it",
+      "regions": [
+        "서울"
+      ],
+      "prize_manwon": null,
+      "last_changed_at": "2026-10-08T08:02:27+09:00",
+      "change_flags": [
+        "mode"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "무료개발자세미나인프라지스틱스데이2026|인프라지스틱스dot4|2026-10-29"
+    },
+    {
+      "id": "bebf1fe308ab49402e3e",
+      "title": "「AI 新과거제」- 초시 (온라인 예선전) 모집",
+      "source_name": "씽굿",
+      "source_url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112012",
+      "organizer": "과학기술정보통신부 국립과천과학관",
+      "summary": "씽굿 공모 분야: 과학, 대회 · 상금 100만원. 초등학생. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "AI"
+      ],
+      "audience_tags": [
+        "청소년"
+      ],
+      "status": "closed",
+      "relevance": {
+        "score": 70,
+        "reasons": [
+          "제목 핵심 키워드: ai",
+          "본문·분류 키워드: ai",
+          "공고 유형: contest"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-10-21T06:34:00+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
+      "sources": [
+        {
+          "source_id": "thinkcontest",
+          "source_name": "씽굿",
+          "source_url": "https://www.thinkcontest.com/thinkgood/user/contest/view.do?contest_pk=112012",
+          "source_post_id": "112012",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-10-30T07:42:07+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-10-16",
+      "recruit_end": "2026-10-29",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -1,
+      "eligibility": "초등학생",
+      "benefits": "상금 100만원",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "it",
+      "regions": [],
+      "prize_manwon": 100,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "ai과거제초시온라인예선전모집|과학기술정보통신부국립과천과학관|2026-10-29"
+    },
+    {
+      "id": "0cafaab83ec8903ef7e2",
+      "title": "[충북] 2026년 AI 활용 제조창업 올인원 사전교육 개최 안내",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=AI&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069679",
+      "organizer": "충북창조경제혁신센터",
+      "summary": "기업마당 공개 행사 · 행사정보 · 검색어 AI. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "education",
+      "field_tags": [
+        "AI",
+        "창업"
+      ],
+      "audience_tags": [],
+      "status": "closed",
+      "relevance": {
+        "score": 78,
+        "reasons": [
+          "제목 핵심 키워드: ai, 창업",
+          "본문·분류 키워드: ai, 창업",
+          "공고 유형: education"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-10-27T07:37:02+09:00",
+      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=AI&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069679",
+          "source_post_id": "EVEN_000000000069679",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-10-29T07:31:12+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-10-29",
+      "recruit_end": "2026-10-29",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -1,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "it",
+      "regions": [
+        "충북"
+      ],
+      "prize_manwon": null,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "충북2026년ai활용제조창업올인원사전교육개최안내|충북창조경제혁신센터|2026-10-29"
+    },
+    {
+      "id": "d595f1a0d6b3d6fa0474",
+      "title": "[전남광주] 2026년 아태 AI 특화지구(AHAP) 조성 올인원 AI 허브 AX 실증 (제조 AX) 사업 수행기업 모집 공고",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=AI&condition=searchPblancNm&condition1=AND&keyword=AI&pblancId=PBLN_000000000127448",
+      "organizer": "광주정보문화산업진흥원",
+      "summary": "기업마당 공개 지원사업 · 기술 · 검색어 AI. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "AI",
+        "소프트웨어"
+      ],
+      "audience_tags": [],
+      "status": "closed",
+      "relevance": {
+        "score": 78,
+        "reasons": [
+          "제목 핵심 키워드: ai, ax",
+          "본문·분류 키워드: ai, ax",
+          "공고 유형: support"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-10-27T07:37:02+09:00",
+      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=AI&condition=searchPblancNm&condition1=AND&keyword=AI&pblancId=PBLN_000000000127448",
+          "source_post_id": "PBLN_000000000127448",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-10-29T07:31:12+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-10-22",
+      "recruit_end": "2026-10-29",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -1,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "it",
+      "regions": [
+        "전남",
+        "광주"
+      ],
+      "prize_manwon": null,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "전남광주2026년아태ai특화지구ahap조성올인원ai허브ax실증제조ax사업수행기업모집공고|광주정보문화산업진흥원|2026-10-29"
+    },
+    {
+      "id": "c5bbd29bff19d565a736",
+      "title": "[전국] 언리얼엔진5 시퀀서를 활용한 산업현장 교육 콘텐츠 제작 과정",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=%EC%BD%98%ED%85%90%EC%B8%A0&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069555",
+      "organizer": "한국가상융합디지털산업협회",
+      "summary": "기업마당 공개 행사 · 행사정보 · 검색어 콘텐츠. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "education",
+      "field_tags": [
+        "게임",
+        "디지털 콘텐츠"
+      ],
+      "audience_tags": [],
+      "status": "closed",
+      "relevance": {
+        "score": 86,
+        "reasons": [
+          "제목 핵심 키워드: 언리얼, 콘텐츠, 콘텐츠 제작",
+          "본문·분류 키워드: 언리얼, 콘텐츠, 콘텐츠 제작",
+          "공고 유형: education"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-10-03T07:10:09+09:00",
+      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=%EC%BD%98%ED%85%90%EC%B8%A0&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069555",
+          "source_post_id": "EVEN_000000000069555",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-10-29T07:31:12+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-10-27",
+      "recruit_end": "2026-10-29",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -1,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "it",
+      "regions": [
+        "전국"
+      ],
+      "prize_manwon": null,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "전국언리얼엔진5시퀀서를활용한산업현장교육콘텐츠제작과정|한국가상융합디지털산업협회|2026-10-29"
+    },
+    {
+      "id": "9dface7e71db8ed00ca9",
+      "title": "[수원특례시] 제9회 수원화성관광 전국사진공모전",
+      "source_name": "링커리어",
+      "source_url": "https://linkareer.com/activity/358267",
+      "organizer": "수원특례시",
+      "summary": "링커리어 공개 공모전 목록. 대상 제한 없음. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "사진"
+      ],
+      "audience_tags": [
+        "누구나"
+      ],
+      "status": "closed",
+      "relevance": {
+        "score": 12,
+        "reasons": [
+          "공고 유형: contest",
+          "분야 탭: 디자인·영상 (사진)"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-10-21T06:34:00+09:00",
+      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "sources": [
+        {
+          "source_id": "linkareer",
+          "source_name": "링커리어",
+          "source_url": "https://linkareer.com/activity/358267",
+          "source_post_id": "358267",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-10-29T07:31:12+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-10-01",
+      "recruit_end": "2026-10-29",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -1,
+      "eligibility": "대상 제한 없음",
+      "benefits": "상금 840만원",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "design_media",
+      "regions": [],
+      "prize_manwon": 840,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "수원특례시제9회수원화성관광전국사진공모전|수원특례시|2026-10-29"
+    },
+    {
+      "id": "7606008e7a1ae0bda850",
+      "title": "[서울] 서초창업스테이션 10월 1:1 전문 분야 컨설팅 프로그램",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=%EC%B0%BD%EC%97%85&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069568",
+      "organizer": "서초창업스테이션",
+      "summary": "기업마당 공개 행사 · 행사정보 · 검색어 창업. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "education",
+      "field_tags": [
+        "창업"
+      ],
+      "audience_tags": [],
+      "status": "closed",
+      "relevance": {
+        "score": 70,
+        "reasons": [
+          "제목 핵심 키워드: 창업",
+          "본문·분류 키워드: 창업",
+          "공고 유형: education"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=%EC%B0%BD%EC%97%85&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069568",
+          "source_post_id": "EVEN_000000000069568",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-10-29T07:31:12+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-10-28",
+      "recruit_end": "2026-10-29",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -1,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "it",
+      "regions": [
+        "서울"
+      ],
+      "prize_manwon": null,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "서울서초창업스테이션10월11전문분야컨설팅프로그램|서초창업스테이션|2026-10-29"
+    },
+    {
+      "id": "9833cb2bf7994e1137f8",
+      "title": "[서울] 2026년 영등포 청년 창업 도약 아카데미 교육생 모집 안내",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=%EC%B0%BD%EC%97%85&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069450",
+      "organizer": "서울창조경제혁신센터",
+      "summary": "기업마당 공개 행사 · 행사정보 · 검색어 창업. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "education",
+      "field_tags": [
+        "창업"
+      ],
+      "audience_tags": [
+        "청년"
+      ],
+      "status": "closed",
+      "relevance": {
+        "score": 70,
+        "reasons": [
+          "제목 핵심 키워드: 창업",
+          "본문·분류 키워드: 창업",
+          "공고 유형: education"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-10-16T06:19:02+09:00",
+      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=%EC%B0%BD%EC%97%85&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069450",
+          "source_post_id": "EVEN_000000000069450",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-10-29T07:31:12+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-10-15",
+      "recruit_end": "2026-10-29",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -1,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "it",
+      "regions": [
+        "서울"
+      ],
+      "prize_manwon": null,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "서울2026년영등포청년창업도약아카데미교육생모집안내|서울창조경제혁신센터|2026-10-29"
+    },
+    {
+      "id": "b4e72bfd2da71ee61756",
+      "title": "[대구] 2026년 2차 컨설팅 지원 사업 참여기업 모집 공고(지역특화 제조데이터 활성화 사업)",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%8D%B0%EC%9D%B4%ED%84%B0&condition=searchPblancNm&condition1=AND&keyword=%EB%8D%B0%EC%9D%B4%ED%84%B0&pblancId=PBLN_000000000127178",
+      "organizer": "대구테크노파크",
+      "summary": "기업마당 공개 지원사업 · 경영 · 검색어 데이터. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "데이터"
+      ],
+      "audience_tags": [],
+      "status": "closed",
+      "relevance": {
+        "score": 70,
+        "reasons": [
+          "제목 핵심 키워드: 데이터",
+          "본문·분류 키워드: 데이터",
+          "공고 유형: support"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-10-15T06:37:40+09:00",
+      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EB%8D%B0%EC%9D%B4%ED%84%B0&condition=searchPblancNm&condition1=AND&keyword=%EB%8D%B0%EC%9D%B4%ED%84%B0&pblancId=PBLN_000000000127178",
+          "source_post_id": "PBLN_000000000127178",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-10-29T07:31:12+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-10-15",
+      "recruit_end": "2026-10-29",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -1,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "it",
+      "regions": [
+        "대구"
+      ],
+      "prize_manwon": null,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "대구2026년2차컨설팅지원사업참여기업모집공고지역특화제조데이터활성화사업|대구테크노파크|2026-10-29"
+    },
+    {
+      "id": "49847b3477f0a358aca9",
+      "title": "[경기] 용인시 2026년 하반기 창업 역량강화 프로그램(ESG) 교육생 모집 안내",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=%EC%B0%BD%EC%97%85&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069641",
+      "organizer": "용인시산업진흥원",
+      "summary": "기업마당 공개 행사 · 행사정보 · 검색어 창업. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "education",
+      "field_tags": [
+        "창업"
+      ],
+      "audience_tags": [],
+      "status": "closed",
+      "relevance": {
+        "score": 70,
+        "reasons": [
+          "제목 핵심 키워드: 창업",
+          "본문·분류 키워드: 창업",
+          "공고 유형: education"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-10-20T07:18:39+09:00",
+      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?condition=TITLE&schJrsdCodeTy=&schEndAt=&orderGb=&sort=&keyword=%EC%B0%BD%EC%97%85&area=all&rows=15&cpage=1&eventInfoId=EVEN_000000000069641",
+          "source_post_id": "EVEN_000000000069641",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-10-29T07:31:12+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-10-27",
+      "recruit_end": "2026-10-29",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -1,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "it",
+      "regions": [
+        "경기"
+      ],
+      "prize_manwon": null,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "경기용인시2026년하반기창업역량강화프로그램esg교육생모집안내|용인시산업진흥원|2026-10-29"
+    },
+    {
+      "id": "739ccebbb7e036d8fb20",
+      "title": "[HRㆍ리더를 위한 웨비나] 짧고 강력한 면접, 우리 회사에 맞게!",
+      "source_name": "이벤터스",
+      "source_url": "https://event-us.kr/bschr/event/136429",
+      "organizer": "비에스씨HR",
+      "summary": "반복되는 면접 오류 패턴부터 K-Fit Interview 활용 사례까지. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "event",
+      "field_tags": [
+        "경영·지원"
+      ],
+      "audience_tags": [],
+      "status": "closed",
+      "relevance": {
+        "score": 47,
+        "reasons": [
+          "공고 유형: event",
+          "IT·게임 전문 출처",
+          "분야 탭: 창업·비즈니스 (경영·지원)"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-10-15T06:37:40+09:00",
+      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "sources": [
+        {
+          "source_id": "eventus",
+          "source_name": "이벤터스",
+          "source_url": "https://event-us.kr/bschr/event/136429",
+          "source_post_id": "136429",
+          "kind": "specialist",
+          "priority": 60,
+          "fetched_at": "2026-10-29T07:31:12+09:00"
+        }
+      ],
+      "application_url": "https://event-us.kr/bschr/event/136429",
+      "document_url": null,
+      "recruit_start": "2026-09-30",
+      "recruit_end": "2026-10-29",
+      "event_start": "2026-10-29",
+      "event_end": "2026-10-29",
+      "date_kind": "exact",
+      "d_day": -1,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "online",
+      "fee": "free",
+      "is_adjacent": false,
+      "domain": "business",
+      "regions": [],
+      "prize_manwon": null,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "hr리더를위한웨비나짧고강력한면접우리회사에맞게|비에스씨hr|2026-10-29"
+    },
+    {
+      "id": "31e39599f95fc2bdfc4f",
+      "title": "2027년 초격차 스타트업 프로젝트 정부 첫 실증ㆍ구매 주관기관 모집 공고",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85&condition=searchPblancNm&condition1=AND&keyword=%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85&pblancId=PBLN_000000000127096",
+      "organizer": "창업진흥원",
+      "summary": "기업마당 공개 지원사업 · 경영 · 검색어 스타트업. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "창업"
+      ],
+      "audience_tags": [
+        "창업자·기업"
+      ],
+      "status": "closed",
+      "relevance": {
+        "score": 70,
+        "reasons": [
+          "제목 핵심 키워드: 스타트업",
+          "본문·분류 키워드: 스타트업",
+          "공고 유형: support"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-10-09T08:18:08+09:00",
+      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85&condition=searchPblancNm&condition1=AND&keyword=%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85&pblancId=PBLN_000000000127096",
+          "source_post_id": "PBLN_000000000127096",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-10-29T07:31:12+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-10-08",
+      "recruit_end": "2026-10-29",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -1,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "it",
+      "regions": [],
+      "prize_manwon": null,
+      "last_changed_at": "2026-10-24T06:21:18+09:00",
+      "change_flags": [
+        "title",
+        "organizer",
+        "recruit_start"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2027년초격차스타트업프로젝트정부첫실증구매주관기관모집공고|창업진흥원|2026-10-29"
+    },
+    {
+      "id": "568eb5fab4ecc8841951",
+      "title": "2026년 방송영상콘텐츠 후반작업지원 사업 추가 공고",
+      "source_name": "기업마당",
+      "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EC%BD%98%ED%85%90%EC%B8%A0&condition=searchPblancNm&condition1=AND&keyword=%EC%BD%98%ED%85%90%EC%B8%A0&pblancId=PBLN_000000000127198",
+      "organizer": "한국콘텐츠진흥원",
+      "summary": "기업마당 공개 지원사업 · 경영 · 검색어 콘텐츠. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "support",
+      "field_tags": [
+        "영상"
+      ],
+      "audience_tags": [],
+      "status": "closed",
+      "relevance": {
+        "score": 69,
+        "reasons": [
+          "제목 핵심 키워드: 콘텐츠",
+          "본문·분류 키워드: 콘텐츠",
+          "공고 유형: support",
+          "제목 키워드가 일반 단어뿐: 콘텐츠",
+          "분야 탭: 디자인·영상 (영상)"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-10-14T07:39:55+09:00",
+      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "sources": [
+        {
+          "source_id": "bizinfo",
+          "source_name": "기업마당",
+          "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=6&rows=15&cpage=1&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=%EC%BD%98%ED%85%90%EC%B8%A0&condition=searchPblancNm&condition1=AND&keyword=%EC%BD%98%ED%85%90%EC%B8%A0&pblancId=PBLN_000000000127198",
+          "source_post_id": "PBLN_000000000127198",
+          "kind": "government",
+          "priority": 80,
+          "fetched_at": "2026-10-29T07:31:12+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-10-19",
+      "recruit_end": "2026-10-29",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -1,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "design_media",
+      "regions": [],
+      "prize_manwon": null,
+      "last_changed_at": "2026-10-21T06:34:00+09:00",
+      "change_flags": [
+        "location"
+      ],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026년방송영상콘텐츠후반작업지원사업추가공고|한국콘텐츠진흥원|2026-10-29"
+    },
+    {
+      "id": "2691fbda1451ffe2b342",
+      "title": "2026 제 2회 데이터로 미래를 그리는 AI 아이디어 공모전",
+      "source_name": "링커리어",
+      "source_url": "https://linkareer.com/activity/357812",
+      "organizer": "한국능률협회 / AI캠퍼스",
+      "summary": "링커리어 공개 공모전 목록. 대상 제한 없음. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "AI",
+        "데이터"
+      ],
+      "audience_tags": [
+        "누구나"
+      ],
+      "status": "closed",
+      "relevance": {
+        "score": 78,
+        "reasons": [
+          "제목 핵심 키워드: ai, 데이터",
+          "본문·분류 키워드: ai, 데이터",
+          "공고 유형: contest"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-10-20T07:18:39+09:00",
+      "last_seen_at": "2026-10-28T07:08:58+09:00",
+      "sources": [
+        {
+          "source_id": "linkareer",
+          "source_name": "링커리어",
+          "source_url": "https://linkareer.com/activity/357812",
+          "source_post_id": "357812",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-10-28T07:08:58+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-10-01",
+      "recruit_end": "2026-10-29",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -1,
+      "eligibility": "대상 제한 없음",
+      "benefits": "상금 180만원",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "it",
+      "regions": [],
+      "prize_manwon": 180,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026제2회데이터로미래를그리는ai아이디어공모전|한국능률협회ai캠퍼스|2026-10-29"
+    },
+    {
+      "id": "ba9608907a0a55294a5f",
+      "title": "2026 AI 신(新) 과거제 온라인 예선(초시) 모집 안내",
+      "source_name": "링커리어",
+      "source_url": "https://linkareer.com/activity/357885",
+      "organizer": "(주)엘비즈코리아",
+      "summary": "링커리어 공개 공모전 목록. 청소년. 참가 조건, 세부 일정, 제출 항목과 신청 방법은 주최기관의 최신 원문 공고에서 반드시 확인하세요.",
+      "primary_type": "contest",
+      "field_tags": [
+        "AI"
+      ],
+      "audience_tags": [
+        "청소년"
+      ],
+      "status": "closed",
+      "relevance": {
+        "score": 70,
+        "reasons": [
+          "제목 핵심 키워드: ai",
+          "본문·분류 키워드: ai",
+          "공고 유형: contest"
+        ],
+        "decision": "publish"
+      },
+      "first_seen_at": "2026-10-20T07:18:39+09:00",
+      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "sources": [
+        {
+          "source_id": "linkareer",
+          "source_name": "링커리어",
+          "source_url": "https://linkareer.com/activity/357885",
+          "source_post_id": "357885",
+          "kind": "aggregate",
+          "priority": 40,
+          "fetched_at": "2026-10-29T07:31:12+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-10-16",
+      "recruit_end": "2026-10-29",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -1,
+      "eligibility": "청소년",
+      "benefits": "상금 260만원",
+      "location": "",
+      "mode": "",
+      "fee": "unknown",
+      "is_adjacent": false,
+      "domain": "it",
+      "regions": [],
+      "prize_manwon": 260,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "2026ai신과거제온라인예선초시모집안내|주엘비즈코리아|2026-10-29"
+    },
     {
       "id": "e6a07049a658d16bf897",
       "title": "부산경남 경마공원 숏폼 공모전",
@@ -45,7 +1065,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -1,
+      "d_day": -2,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 130만원",
       "location": "",
@@ -104,7 +1124,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -1,
+      "d_day": -2,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -163,7 +1183,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -1,
+      "d_day": -2,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -224,7 +1244,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -1,
+      "d_day": -2,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -285,7 +1305,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -1,
+      "d_day": -2,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -344,7 +1364,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -1,
+      "d_day": -2,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -405,7 +1425,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -1,
+      "d_day": -2,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -467,7 +1487,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -1,
+      "d_day": -2,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 60만원",
       "location": "",
@@ -525,7 +1545,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -1,
+      "d_day": -2,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 30만원",
       "location": "",
@@ -568,7 +1588,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-24T06:21:18+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -577,7 +1597,7 @@
           "source_post_id": "16976",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -587,7 +1607,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -1,
+      "d_day": -2,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -645,7 +1665,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -1,
+      "d_day": -2,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 230만원",
       "location": "",
@@ -704,7 +1724,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -1,
+      "d_day": -2,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -764,7 +1784,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -1,
+      "d_day": -2,
       "eligibility": "대상 제한 없음",
       "benefits": "",
       "location": "",
@@ -824,7 +1844,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -1,
+      "d_day": -2,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -885,7 +1905,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -1,
+      "d_day": -2,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -944,7 +1964,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -1,
+      "d_day": -2,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1007,7 +2027,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -1,
+      "d_day": -2,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 320만원",
       "location": "",
@@ -1067,7 +2087,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -1,
+      "d_day": -2,
       "eligibility": "대학생, 직장인/일반인",
       "benefits": "",
       "location": "",
@@ -1128,7 +2148,7 @@
       "event_start": "2026-10-28",
       "event_end": "2026-10-28",
       "date_kind": "exact",
-      "d_day": -1,
+      "d_day": -2,
       "eligibility": "",
       "benefits": "",
       "location": "서울 강남구",
@@ -1170,7 +2190,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-20T07:18:39+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1179,7 +2199,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -1189,7 +2209,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -1,
+      "d_day": -2,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1227,7 +2247,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-28T07:08:58+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1236,7 +2256,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -1246,7 +2266,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -1,
+      "d_day": -2,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1305,7 +2325,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -1,
+      "d_day": -2,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1364,7 +2384,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -1,
+      "d_day": -2,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1424,7 +2444,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -1,
+      "d_day": -2,
       "eligibility": "청소년, 대학생",
       "benefits": "상금 500만원",
       "location": "",
@@ -1484,7 +2504,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -1,
+      "d_day": -2,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 400만원",
       "location": "",
@@ -1542,7 +2562,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -1,
+      "d_day": -2,
       "eligibility": "대상 제한 없음",
       "benefits": "",
       "location": "",
@@ -1600,7 +2620,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -1,
+      "d_day": -2,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 150만원",
       "location": "",
@@ -1657,7 +2677,7 @@
       "event_start": "2026-11-07",
       "event_end": "2026-11-07",
       "date_kind": "exact",
-      "d_day": -1,
+      "d_day": -2,
       "eligibility": "",
       "benefits": "",
       "location": "서울 중구",
@@ -1699,7 +2719,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-23T15:01:53+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1708,7 +2728,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -1718,7 +2738,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -2,
+      "d_day": -3,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1786,7 +2806,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -2,
+      "d_day": -3,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 1000만원",
       "location": "",
@@ -1845,7 +2865,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -2,
+      "d_day": -3,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 100만원",
       "location": "",
@@ -1905,7 +2925,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -2,
+      "d_day": -3,
       "eligibility": "대학생, 직장인/일반인",
       "benefits": "상금 5000만원",
       "location": "",
@@ -1964,7 +2984,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -2,
+      "d_day": -3,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 1000만원",
       "location": "",
@@ -2022,7 +3042,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -2,
+      "d_day": -3,
       "eligibility": "대상 제한 없음",
       "benefits": "",
       "location": "",
@@ -2082,7 +3102,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -2,
+      "d_day": -3,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2143,7 +3163,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -2,
+      "d_day": -3,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2202,7 +3222,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -2,
+      "d_day": -3,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2261,7 +3281,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -2,
+      "d_day": -3,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2321,7 +3341,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -2,
+      "d_day": -3,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2380,7 +3400,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -2,
+      "d_day": -3,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2442,7 +3462,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -2,
+      "d_day": -3,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2502,7 +3522,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -2,
+      "d_day": -3,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2563,7 +3583,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -2,
+      "d_day": -3,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 2600만원",
       "location": "",
@@ -2624,7 +3644,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -2,
+      "d_day": -3,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2685,7 +3705,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -2,
+      "d_day": -3,
       "eligibility": "",
       "benefits": "",
       "location": "경기",
@@ -2731,7 +3751,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-22T06:37:28+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -2740,7 +3760,7 @@
           "source_post_id": "111843",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -2750,7 +3770,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -2,
+      "d_day": -3,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2813,7 +3833,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -2,
+      "d_day": -3,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 800만원",
       "location": "",
@@ -2855,7 +3875,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-22T06:37:28+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -2864,7 +3884,7 @@
           "source_post_id": "111752",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -2874,7 +3894,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -2,
+      "d_day": -3,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2932,7 +3952,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -3,
+      "d_day": -4,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 75만원",
       "location": "",
@@ -2994,7 +4014,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -3,
+      "d_day": -4,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -3035,7 +4055,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-13T09:35:11+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3044,7 +4064,7 @@
           "source_post_id": "111588",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -3054,7 +4074,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -3,
+      "d_day": -4,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -3119,7 +4139,7 @@
       "event_start": "2026-10-27",
       "event_end": "2026-10-27",
       "date_kind": "exact",
-      "d_day": -3,
+      "d_day": -4,
       "eligibility": "",
       "benefits": "",
       "location": "경기 성남시 분당구",
@@ -3178,7 +4198,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -3,
+      "d_day": -4,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -3240,7 +4260,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -3,
+      "d_day": -4,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -3301,7 +4321,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -3,
+      "d_day": -4,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -3362,7 +4382,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -3,
+      "d_day": -4,
       "eligibility": "대학생, 직장인/일반인",
       "benefits": "상금 1770만원",
       "location": "",
@@ -3424,7 +4444,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -3,
+      "d_day": -4,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -3486,7 +4506,7 @@
       "event_start": "2026-10-26",
       "event_end": "2026-10-26",
       "date_kind": "exact",
-      "d_day": -3,
+      "d_day": -4,
       "eligibility": "",
       "benefits": "",
       "location": "서울 서초구",
@@ -3548,7 +4568,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -3,
+      "d_day": -4,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -3614,7 +4634,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -3,
+      "d_day": -4,
       "eligibility": "대학생, 직장인/일반인",
       "benefits": "상금 7600만원",
       "location": "",
@@ -3676,7 +4696,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -3,
+      "d_day": -4,
       "eligibility": "대학생, 직장인/일반인",
       "benefits": "상금 350만원",
       "location": "",
@@ -3734,7 +4754,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -3,
+      "d_day": -4,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -3794,7 +4814,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -3,
+      "d_day": -4,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 7000만원",
       "location": "",
@@ -3857,7 +4877,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -3,
+      "d_day": -4,
       "eligibility": "대학생, 직장인/일반인",
       "benefits": "상금 100만원",
       "location": "",
@@ -3915,7 +4935,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -3,
+      "d_day": -4,
       "eligibility": "직장인/일반인",
       "benefits": "",
       "location": "",
@@ -3956,7 +4976,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-15T06:37:40+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -3965,7 +4985,7 @@
           "source_post_id": "111674",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -3975,7 +4995,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -3,
+      "d_day": -4,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -4036,7 +5056,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -3,
+      "d_day": -4,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -4099,7 +5119,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -3,
+      "d_day": -4,
       "eligibility": "대학생, 직장인/일반인",
       "benefits": "상금 300만원",
       "location": "",
@@ -4160,7 +5180,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -3,
+      "d_day": -4,
       "eligibility": "대학생, 직장인/일반인",
       "benefits": "상금 1500만원",
       "location": "",
@@ -4219,7 +5239,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -3,
+      "d_day": -4,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 2000만원",
       "location": "",
@@ -4277,7 +5297,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -3,
+      "d_day": -4,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 1000만원",
       "location": "",
@@ -4341,7 +5361,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -3,
+      "d_day": -4,
       "eligibility": "직장인/일반인",
       "benefits": "",
       "location": "",
@@ -4400,7 +5420,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -3,
+      "d_day": -4,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -4461,7 +5481,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -3,
+      "d_day": -4,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -4523,7 +5543,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -4,
+      "d_day": -5,
       "eligibility": "대학생, 대학원생, 일반인, 기업, 기타",
       "benefits": "상금 200만원",
       "location": "",
@@ -4583,7 +5603,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -4,
+      "d_day": -5,
       "eligibility": "대학생",
       "benefits": "상금 830만원",
       "location": "",
@@ -4641,7 +5661,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -4,
+      "d_day": -5,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 3만원",
       "location": "",
@@ -4699,7 +5719,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -4,
+      "d_day": -5,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 20만원",
       "location": "",
@@ -4757,7 +5777,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -4,
+      "d_day": -5,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 10만원",
       "location": "",
@@ -4815,7 +5835,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -4,
+      "d_day": -5,
       "eligibility": "대상 제한 없음",
       "benefits": "",
       "location": "",
@@ -4875,7 +5895,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -4,
+      "d_day": -5,
       "eligibility": "대학생",
       "benefits": "상금 200만원",
       "location": "",
@@ -4939,7 +5959,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -4,
+      "d_day": -5,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 6000만원",
       "location": "",
@@ -5001,7 +6021,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -4,
+      "d_day": -5,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 2050만원",
       "location": "",
@@ -5061,7 +6081,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -4,
+      "d_day": -5,
       "eligibility": "대상 제한 없음",
       "benefits": "",
       "location": "",
@@ -5122,7 +6142,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -4,
+      "d_day": -5,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 180만원",
       "location": "",
@@ -5182,7 +6202,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -4,
+      "d_day": -5,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 100만원",
       "location": "",
@@ -5241,7 +6261,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -4,
+      "d_day": -5,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 500만원",
       "location": "",
@@ -5299,7 +6319,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -4,
+      "d_day": -5,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 1460만원",
       "location": "",
@@ -5357,7 +6377,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -4,
+      "d_day": -5,
       "eligibility": "대학생",
       "benefits": "상금 1300만원",
       "location": "",
@@ -5418,7 +6438,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -4,
+      "d_day": -5,
       "eligibility": "청소년, 직장인/일반인",
       "benefits": "",
       "location": "",
@@ -5478,7 +6498,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -4,
+      "d_day": -5,
       "eligibility": "대학생, 직장인/일반인",
       "benefits": "",
       "location": "",
@@ -5537,7 +6557,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -4,
+      "d_day": -5,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -5601,7 +6621,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -4,
+      "d_day": -5,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -5663,7 +6683,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -4,
+      "d_day": -5,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 1150만원",
       "location": "",
@@ -5730,7 +6750,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -4,
+      "d_day": -5,
       "eligibility": "초등학생, 중학생, 고등학생, 동 연령대 청소년",
       "benefits": "",
       "location": "",
@@ -5789,7 +6809,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -4,
+      "d_day": -5,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -5852,7 +6872,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -4,
+      "d_day": -5,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 1970만원",
       "location": "",
@@ -5910,7 +6930,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -4,
+      "d_day": -5,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 550만원",
       "location": "",
@@ -5973,7 +6993,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -4,
+      "d_day": -5,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 100만원",
       "location": "",
@@ -6033,7 +7053,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -4,
+      "d_day": -5,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 235만원",
       "location": "",
@@ -6099,7 +7119,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -4,
+      "d_day": -5,
       "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
       "benefits": "",
       "location": "",
@@ -6160,7 +7180,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -4,
+      "d_day": -5,
       "eligibility": "대학생, 직장인/일반인",
       "benefits": "상금 1470만원",
       "location": "",
@@ -6218,7 +7238,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -5,
+      "d_day": -6,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 464만원",
       "location": "",
@@ -6276,7 +7296,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -5,
+      "d_day": -6,
       "eligibility": "대상 제한 없음",
       "benefits": "",
       "location": "",
@@ -6316,7 +7336,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-14T23:08:24+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -6325,7 +7345,7 @@
           "source_post_id": "110998",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -6335,7 +7355,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -5,
+      "d_day": -6,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -6398,7 +7418,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -5,
+      "d_day": -6,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -6459,7 +7479,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -5,
+      "d_day": -6,
       "eligibility": "대학생, 직장인/일반인",
       "benefits": "",
       "location": "",
@@ -6519,7 +7539,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -5,
+      "d_day": -6,
       "eligibility": "대학생, 직장인/일반인",
       "benefits": "상금 200만원",
       "location": "",
@@ -6562,7 +7582,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-30T00:55:58+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -6571,7 +7591,7 @@
           "source_post_id": "111346",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -6581,7 +7601,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -5,
+      "d_day": -6,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -6641,7 +7661,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 900만원",
       "location": "",
@@ -6699,7 +7719,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 990만원",
       "location": "",
@@ -6757,7 +7777,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "대상 제한 없음",
       "benefits": "",
       "location": "",
@@ -6815,7 +7835,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 180만원",
       "location": "",
@@ -6873,7 +7893,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "대상 제한 없음",
       "benefits": "",
       "location": "",
@@ -6931,7 +7951,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "청소년",
       "benefits": "",
       "location": "",
@@ -6992,7 +8012,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "청소년",
       "benefits": "",
       "location": "",
@@ -7050,7 +8070,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 1150만원",
       "location": "",
@@ -7108,7 +8128,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "대상 제한 없음",
       "benefits": "",
       "location": "",
@@ -7166,7 +8186,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 200만원",
       "location": "",
@@ -7226,7 +8246,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "대학생, 직장인/일반인",
       "benefits": "",
       "location": "",
@@ -7284,7 +8304,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 200만원",
       "location": "",
@@ -7342,7 +8362,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "직장인/일반인",
       "benefits": "상금 760만원",
       "location": "",
@@ -7404,7 +8424,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "대학생, 직장인/일반인",
       "benefits": "상금 160만원",
       "location": "",
@@ -7466,7 +8486,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 100만원",
       "location": "",
@@ -7524,7 +8544,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "대학생",
       "benefits": "",
       "location": "",
@@ -7581,7 +8601,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -7638,7 +8658,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -7697,7 +8717,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -7760,7 +8780,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -7822,7 +8842,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "대학생, 직장인/일반인",
       "benefits": "",
       "location": "",
@@ -7879,7 +8899,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -7943,7 +8963,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 700만원",
       "location": "",
@@ -8002,7 +9022,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "대상 제한 없음",
       "benefits": "",
       "location": "",
@@ -8059,7 +9079,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -8119,7 +9139,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "대상 제한 없음",
       "benefits": "",
       "location": "",
@@ -8177,7 +9197,7 @@
       "event_start": "2026-10-28",
       "event_end": "2026-10-28",
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "",
       "benefits": "",
       "location": "서울 강남구",
@@ -8237,7 +9257,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 100만원",
       "location": "",
@@ -8298,7 +9318,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "",
       "benefits": "1. 입주기간 : 최초 1년 및 연장 심사를 통해 추가 연장 가능(기본 1년, 최대 2년) 2. 지원내용 가. 임대관리보증금 및 임차료 무상 지원(연간 사용료 제외) 나. 공용지원",
       "location": "경기",
@@ -8361,7 +9381,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "직장인/일반인",
       "benefits": "",
       "location": "",
@@ -8419,7 +9439,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 200만원",
       "location": "",
@@ -8478,7 +9498,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "직장인/일반인",
       "benefits": "",
       "location": "",
@@ -8539,7 +9559,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "대상 제한 없음",
       "benefits": "",
       "location": "",
@@ -8596,7 +9616,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -8653,7 +9673,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -8712,7 +9732,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -8771,7 +9791,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 320만원",
       "location": "",
@@ -8829,7 +9849,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "청소년",
       "benefits": "상금 100만원",
       "location": "",
@@ -8887,7 +9907,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 340만원",
       "location": "",
@@ -8928,7 +9948,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-20T07:18:39+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -8937,7 +9957,7 @@
           "source_post_id": "111734",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -8947,7 +9967,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -8998,7 +10018,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -9007,7 +10027,7 @@
           "source_post_id": "110788",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         },
         {
           "source_id": "wevity",
@@ -9016,7 +10036,7 @@
           "source_post_id": "110659",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -9026,7 +10046,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "제한 없음",
       "benefits": "상금 3000000",
       "location": "",
@@ -9089,7 +10109,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 500만원",
       "location": "",
@@ -9153,7 +10173,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "대학원생, 일반인",
       "benefits": "상금 200만원",
       "location": "",
@@ -9211,7 +10231,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -9275,7 +10295,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -7,
+      "d_day": -8,
       "eligibility": "대상 제한 없음",
       "benefits": "",
       "location": "",
@@ -9333,7 +10353,7 @@
       "event_start": "2026-10-22",
       "event_end": "2026-10-22",
       "date_kind": "exact",
-      "d_day": -7,
+      "d_day": -8,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -9392,7 +10412,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -7,
+      "d_day": -8,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -9451,7 +10471,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -7,
+      "d_day": -8,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -9512,7 +10532,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -7,
+      "d_day": -8,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -9573,7 +10593,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -7,
+      "d_day": -8,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -9634,7 +10654,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -7,
+      "d_day": -8,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -9693,7 +10713,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -7,
+      "d_day": -8,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -9752,7 +10772,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -7,
+      "d_day": -8,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -9813,7 +10833,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -7,
+      "d_day": -8,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -9858,7 +10878,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-09T08:18:08+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -9867,7 +10887,7 @@
           "source_post_id": "16967",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -9877,7 +10897,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -7,
+      "d_day": -8,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -9936,7 +10956,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -7,
+      "d_day": -8,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -9999,7 +11019,7 @@
       "event_start": "2026-10-23",
       "event_end": "2026-10-23",
       "date_kind": "exact",
-      "d_day": -7,
+      "d_day": -8,
       "eligibility": "",
       "benefits": "",
       "location": "서울 종로구",
@@ -10061,7 +11081,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -7,
+      "d_day": -8,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 340만원",
       "location": "",
@@ -10121,7 +11141,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -7,
+      "d_day": -8,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -10180,7 +11200,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -7,
+      "d_day": -8,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -10242,7 +11262,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -7,
+      "d_day": -8,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 30만원",
       "location": "",
@@ -10300,7 +11320,7 @@
       "event_start": "2026-10-22",
       "event_end": "2026-10-22",
       "date_kind": "exact",
-      "d_day": -8,
+      "d_day": -9,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -10361,7 +11381,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -8,
+      "d_day": -9,
       "eligibility": "대상 제한 없음",
       "benefits": "",
       "location": "",
@@ -10420,7 +11440,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -8,
+      "d_day": -9,
       "eligibility": "대학생, 직장인/일반인",
       "benefits": "상금 230만원",
       "location": "",
@@ -10478,7 +11498,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -8,
+      "d_day": -9,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -10542,7 +11562,7 @@
       "event_start": "2026-10-22",
       "event_end": "2026-10-22",
       "date_kind": "exact",
-      "d_day": -8,
+      "d_day": -9,
       "eligibility": "",
       "benefits": "",
       "location": "서울 마포구",
@@ -10601,7 +11621,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -8,
+      "d_day": -9,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -10660,7 +11680,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -8,
+      "d_day": -9,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -10719,7 +11739,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -8,
+      "d_day": -9,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -10779,7 +11799,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -8,
+      "d_day": -9,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -10838,7 +11858,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -8,
+      "d_day": -9,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -10897,7 +11917,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -8,
+      "d_day": -9,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -10956,7 +11976,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -8,
+      "d_day": -9,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -11016,7 +12036,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -8,
+      "d_day": -9,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -11077,7 +12097,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -8,
+      "d_day": -9,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -11138,7 +12158,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -8,
+      "d_day": -9,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 240만원",
       "location": "",
@@ -11196,7 +12216,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -8,
+      "d_day": -9,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -11255,7 +12275,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -8,
+      "d_day": -9,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -11316,7 +12336,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -8,
+      "d_day": -9,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -11380,7 +12400,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -8,
+      "d_day": -9,
       "eligibility": "대학생, 직장인/일반인",
       "benefits": "",
       "location": "",
@@ -11439,7 +12459,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -8,
+      "d_day": -9,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -11502,7 +12522,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -8,
+      "d_day": -9,
       "eligibility": "대학생, 직장인/일반인",
       "benefits": "상금 550만원",
       "location": "",
@@ -11560,7 +12580,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -8,
+      "d_day": -9,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 61만원",
       "location": "",
@@ -11617,7 +12637,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -8,
+      "d_day": -9,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -11674,7 +12694,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -8,
+      "d_day": -9,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -11732,7 +12752,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -8,
+      "d_day": -9,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 1600만원",
       "location": "",
@@ -11792,7 +12812,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -8,
+      "d_day": -9,
       "eligibility": "직장인/일반인",
       "benefits": "상금 1700만원",
       "location": "",
@@ -11853,7 +12873,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -8,
+      "d_day": -9,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -11913,7 +12933,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -9,
+      "d_day": -10,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 100만원",
       "location": "",
@@ -11971,7 +12991,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -9,
+      "d_day": -10,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -12041,7 +13061,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -9,
+      "d_day": -10,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 500만원",
       "location": "",
@@ -12102,7 +13122,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -9,
+      "d_day": -10,
       "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
       "benefits": "",
       "location": "",
@@ -12161,7 +13181,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -9,
+      "d_day": -10,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -12223,7 +13243,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -9,
+      "d_day": -10,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -12267,7 +13287,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-27T23:04:23+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -12276,7 +13296,7 @@
           "source_post_id": "111278",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -12286,7 +13306,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -9,
+      "d_day": -10,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -12346,7 +13366,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -9,
+      "d_day": -10,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -12411,7 +13431,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -9,
+      "d_day": -10,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 300만원",
       "location": "",
@@ -12468,7 +13488,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -9,
+      "d_day": -10,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -12529,7 +13549,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -9,
+      "d_day": -10,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -12589,7 +13609,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -9,
+      "d_day": -10,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -12649,7 +13669,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -9,
+      "d_day": -10,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 170만원",
       "location": "",
@@ -12706,7 +13726,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -9,
+      "d_day": -10,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -12767,7 +13787,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -9,
+      "d_day": -10,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 250만원",
       "location": "",
@@ -12826,7 +13846,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -9,
+      "d_day": -10,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -12885,7 +13905,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -9,
+      "d_day": -10,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -12945,7 +13965,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -9,
+      "d_day": -10,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -13004,7 +14024,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -9,
+      "d_day": -10,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -13064,7 +14084,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -9,
+      "d_day": -10,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -13129,7 +14149,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -9,
+      "d_day": -10,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -13197,7 +14217,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -10,
+      "d_day": -11,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -13257,7 +14277,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -10,
+      "d_day": -11,
       "eligibility": "대상 제한 없음",
       "benefits": "",
       "location": "",
@@ -13315,7 +14335,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -10,
+      "d_day": -11,
       "eligibility": "청소년",
       "benefits": "",
       "location": "",
@@ -13376,7 +14396,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -10,
+      "d_day": -11,
       "eligibility": "대학생, 직장인/일반인",
       "benefits": "상금 5900만원",
       "location": "",
@@ -13453,7 +14473,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -10,
+      "d_day": -11,
       "eligibility": "대학생, 대학원생, 일반인",
       "benefits": "상금 100만원",
       "location": "",
@@ -13514,7 +14534,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -10,
+      "d_day": -11,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 1만원",
       "location": "",
@@ -13573,7 +14593,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -10,
+      "d_day": -11,
       "eligibility": "대상 제한 없음",
       "benefits": "",
       "location": "",
@@ -13633,7 +14653,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -10,
+      "d_day": -11,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 1000만원",
       "location": "",
@@ -13690,7 +14710,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -10,
+      "d_day": -11,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -13749,7 +14769,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -10,
+      "d_day": -11,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -13810,7 +14830,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -10,
+      "d_day": -11,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 10만원",
       "location": "",
@@ -13868,7 +14888,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -10,
+      "d_day": -11,
       "eligibility": "청소년",
       "benefits": "상금 20만원",
       "location": "",
@@ -13907,7 +14927,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T00:33:00+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -13916,7 +14936,7 @@
           "source_post_id": "111311",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -13926,7 +14946,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -10,
+      "d_day": -11,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -13986,7 +15006,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -10,
+      "d_day": -11,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -14045,7 +15065,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -10,
+      "d_day": -11,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -14104,7 +15124,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -11,
+      "d_day": -12,
       "eligibility": "초등학생, 중학생, 고등학생",
       "benefits": "상금 초등 50만원, 중고등 100만원",
       "location": "",
@@ -14150,7 +15170,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -14159,7 +15179,7 @@
           "source_post_id": "110349",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         },
         {
           "source_id": "thinkcontest",
@@ -14168,7 +15188,7 @@
           "source_post_id": "110275",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -14178,7 +15198,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -11,
+      "d_day": -12,
       "eligibility": "고등학생, 대학생",
       "benefits": "상금 1000000",
       "location": "",
@@ -14238,7 +15258,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -11,
+      "d_day": -12,
       "eligibility": "대학생",
       "benefits": "상금 140만원",
       "location": "",
@@ -14296,7 +15316,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -11,
+      "d_day": -12,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 300만원",
       "location": "",
@@ -14354,7 +15374,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -11,
+      "d_day": -12,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 90만원",
       "location": "",
@@ -14412,7 +15432,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -11,
+      "d_day": -12,
       "eligibility": "청소년",
       "benefits": "상금 450만원",
       "location": "",
@@ -14473,7 +15493,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -11,
+      "d_day": -12,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 800만원",
       "location": "",
@@ -14532,7 +15552,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -11,
+      "d_day": -12,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -14573,7 +15593,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -14582,7 +15602,7 @@
           "source_post_id": "110585",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -14592,7 +15612,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -11,
+      "d_day": -12,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -14651,7 +15671,7 @@
       "event_start": "2026-10-18",
       "event_end": "2026-10-18",
       "date_kind": "exact",
-      "d_day": -12,
+      "d_day": -13,
       "eligibility": "",
       "benefits": "",
       "location": "서울 강남구",
@@ -14711,7 +15731,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -12,
+      "d_day": -13,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -14754,7 +15774,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-17T02:02:45+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -14763,7 +15783,7 @@
           "source_post_id": "110981",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -14773,7 +15793,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -12,
+      "d_day": -13,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -14833,7 +15853,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -13,
+      "d_day": -14,
       "eligibility": "대상 제한 없음",
       "benefits": "",
       "location": "",
@@ -14894,7 +15914,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -13,
+      "d_day": -14,
       "eligibility": "대학생, 대학원생, 일반인",
       "benefits": "",
       "location": "",
@@ -14937,7 +15957,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-27T23:04:23+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -14946,7 +15966,7 @@
           "source_post_id": "111279",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -14956,7 +15976,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -13,
+      "d_day": -14,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -15016,7 +16036,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -13,
+      "d_day": -14,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 100만원",
       "location": "",
@@ -15080,7 +16100,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -13,
+      "d_day": -14,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -15140,7 +16160,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -13,
+      "d_day": -14,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -15199,7 +16219,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -13,
+      "d_day": -14,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -15260,7 +16280,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -13,
+      "d_day": -14,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 100만원",
       "location": "",
@@ -15317,7 +16337,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -13,
+      "d_day": -14,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -15376,7 +16396,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -13,
+      "d_day": -14,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -15437,7 +16457,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -13,
+      "d_day": -14,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -15498,7 +16518,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -13,
+      "d_day": -14,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 350만원",
       "location": "",
@@ -15555,7 +16575,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -13,
+      "d_day": -14,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -15612,7 +16632,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -13,
+      "d_day": -14,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -15675,7 +16695,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -13,
+      "d_day": -14,
       "eligibility": "대학생, 대학원생, 일반인",
       "benefits": "상금 500만원",
       "location": "",
@@ -15738,7 +16758,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -13,
+      "d_day": -14,
       "eligibility": "",
       "benefits": "- 사업자 주소지 지원 - AI 콘텐츠 캠퍼스 내 공간, 장비 사용 및 우편함 제공 - 문화창업플래너 컨설팅 지원 등",
       "location": "경기",
@@ -15801,7 +16821,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -13,
+      "d_day": -14,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 1300만원",
       "location": "",
@@ -15842,7 +16862,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-14T15:22:12+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -15851,7 +16871,7 @@
           "source_post_id": "110953",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -15861,7 +16881,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -13,
+      "d_day": -14,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -15924,7 +16944,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -13,
+      "d_day": -14,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 100만원",
       "location": "",
@@ -15982,7 +17002,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -14,
+      "d_day": -15,
       "eligibility": "대상 제한 없음",
       "benefits": "",
       "location": "",
@@ -16040,7 +17060,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -14,
+      "d_day": -15,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -16099,7 +17119,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -14,
+      "d_day": -15,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -16160,7 +17180,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -14,
+      "d_day": -15,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -16221,7 +17241,7 @@
       "event_start": "2026-10-16",
       "event_end": "2026-10-16",
       "date_kind": "exact",
-      "d_day": -14,
+      "d_day": -15,
       "eligibility": "",
       "benefits": "",
       "location": "서울 강남구",
@@ -16282,7 +17302,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -14,
+      "d_day": -15,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -16343,7 +17363,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -14,
+      "d_day": -15,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -16404,7 +17424,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -14,
+      "d_day": -15,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -16465,7 +17485,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -14,
+      "d_day": -15,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -16525,7 +17545,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -14,
+      "d_day": -15,
       "eligibility": "어린이, 초등학생",
       "benefits": "상금 30만원(지역상품권)",
       "location": "",
@@ -16586,7 +17606,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -14,
+      "d_day": -15,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -16644,7 +17664,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -14,
+      "d_day": -15,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 108만원",
       "location": "",
@@ -16702,7 +17722,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -14,
+      "d_day": -15,
       "eligibility": "직장인/일반인",
       "benefits": "상금 1000만원",
       "location": "",
@@ -16746,7 +17766,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-15T06:37:40+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -16755,7 +17775,7 @@
           "source_post_id": "111359",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -16765,7 +17785,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -14,
+      "d_day": -15,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -16822,7 +17842,7 @@
       "event_start": "2026-10-13",
       "event_end": "2026-10-14",
       "date_kind": "exact",
-      "d_day": -15,
+      "d_day": -16,
       "eligibility": "",
       "benefits": "",
       "location": "서울 강남구",
@@ -16885,7 +17905,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -15,
+      "d_day": -16,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -16944,7 +17964,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -15,
+      "d_day": -16,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -17003,7 +18023,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -15,
+      "d_day": -16,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -17064,7 +18084,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -15,
+      "d_day": -16,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -17125,7 +18145,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -15,
+      "d_day": -16,
       "eligibility": "",
       "benefits": "▣ 도쿄 XR & 메타버스 페어(11.11~11.13) - (공통) 공동관 부스 임차(B2B 72sqm, B2C 54sqm) 및 비품 제공 - (공통) 마켓 배지 제공(1개사 당 ",
       "location": "경기",
@@ -17192,7 +18212,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -15,
+      "d_day": -16,
       "eligibility": "대상 제한 없음",
       "benefits": "",
       "location": "",
@@ -17256,7 +18276,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -15,
+      "d_day": -16,
       "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 제한 없음",
       "benefits": "",
       "location": "",
@@ -17297,7 +18317,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-22T04:33:07+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -17306,7 +18326,7 @@
           "source_post_id": "111124",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -17316,7 +18336,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -15,
+      "d_day": -16,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -17389,7 +18409,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -16,
+      "d_day": -17,
       "eligibility": "대상 제한 없음",
       "benefits": "상금 500만원",
       "location": "",
@@ -17452,7 +18472,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -16,
+      "d_day": -17,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -17494,7 +18514,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-21T15:25:11+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -17503,7 +18523,7 @@
           "source_post_id": "111185",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -17513,7 +18533,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -16,
+      "d_day": -17,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -17573,7 +18593,7 @@
       "event_start": "2026-10-14",
       "event_end": "2026-10-14",
       "date_kind": "exact",
-      "d_day": -16,
+      "d_day": -17,
       "eligibility": "",
       "benefits": "",
       "location": "서울 강남구",
@@ -17632,7 +18652,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -16,
+      "d_day": -17,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -17691,7 +18711,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -16,
+      "d_day": -17,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -17752,7 +18772,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -16,
+      "d_day": -17,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -17812,7 +18832,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -16,
+      "d_day": -17,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -17871,7 +18891,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -16,
+      "d_day": -17,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -17912,7 +18932,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-13T09:35:11+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -17921,7 +18941,7 @@
           "source_post_id": "111122",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -17931,7 +18951,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -16,
+      "d_day": -17,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -17989,7 +19009,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -16,
+      "d_day": -17,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -18048,7 +19068,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -16,
+      "d_day": -17,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -18107,7 +19127,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -17,
+      "d_day": -18,
       "eligibility": "기타",
       "benefits": "상금 50만원",
       "location": "",
@@ -18151,7 +19171,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-11T06:37:51+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -18160,7 +19180,7 @@
           "source_post_id": "111322",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -18170,7 +19190,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -18,
+      "d_day": -19,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -18215,7 +19235,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T15:10:10+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -18224,7 +19244,7 @@
           "source_post_id": "16953",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -18234,7 +19254,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -19,
+      "d_day": -20,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -18273,7 +19293,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-08T08:02:27+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -18282,7 +19302,7 @@
           "source_post_id": "107956",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -18292,7 +19312,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -21,
+      "d_day": -22,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -18335,7 +19355,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-08T08:02:27+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -18344,7 +19364,7 @@
           "source_post_id": "110675",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -18354,7 +19374,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -21,
+      "d_day": -22,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -18395,7 +19415,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-07T02:14:05+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -18404,7 +19424,7 @@
           "source_post_id": "110678",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -18414,7 +19434,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -22,
+      "d_day": -23,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -18458,7 +19478,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-07T02:14:05+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -18467,7 +19487,7 @@
           "source_post_id": "110710",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -18477,7 +19497,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -22,
+      "d_day": -23,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -18549,7 +19569,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -23,
+      "d_day": -24,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -18609,7 +19629,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -26,
+      "d_day": -27,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -18652,7 +19672,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-03T03:27:29+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -18661,7 +19681,7 @@
           "source_post_id": "110843",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -18671,7 +19691,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -27,
+      "d_day": -28,
       "eligibility": "일반인, 기업",
       "benefits": "상금 2억원",
       "location": "",
@@ -18715,7 +19735,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-01T04:24:53+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -18724,7 +19744,7 @@
           "source_post_id": "111047",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -18734,7 +19754,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -28,
+      "d_day": -29,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -18778,7 +19798,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-01T04:24:53+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -18787,7 +19807,7 @@
           "source_post_id": "110223",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -18797,7 +19817,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -28,
+      "d_day": -29,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -18840,7 +19860,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-01T04:24:53+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -18849,7 +19869,7 @@
           "source_post_id": "109888",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -18859,7 +19879,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -28,
+      "d_day": -29,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -18899,7 +19919,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-01T04:24:53+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -18908,7 +19928,7 @@
           "source_post_id": "108984",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -18918,7 +19938,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -28,
+      "d_day": -29,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -18960,7 +19980,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-07T03:44:26+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -18969,7 +19989,7 @@
           "source_post_id": "109017",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -18979,7 +19999,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -29,
+      "d_day": -30,
       "eligibility": "일반인",
       "benefits": "",
       "location": "",
@@ -19020,7 +20040,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-16T20:41:58+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -19029,7 +20049,7 @@
           "source_post_id": "111062",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -19039,7 +20059,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -29,
+      "d_day": -30,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -19081,7 +20101,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -19090,7 +20110,7 @@
           "source_post_id": "236753",
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -19100,7 +20120,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -29,
+      "d_day": -30,
       "eligibility": "",
       "benefits": "상금 4,200만 원",
       "location": "",
@@ -19147,7 +20167,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-18T10:52:38+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -19156,7 +20176,7 @@
           "source_post_id": "236749",
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -19166,7 +20186,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -29,
+      "d_day": -30,
       "eligibility": "",
       "benefits": "상금 4,200만 원",
       "location": "",
@@ -19216,7 +20236,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-11T20:47:16+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -19225,7 +20245,7 @@
           "source_post_id": "16931",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -19235,7 +20255,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -29,
+      "d_day": -30,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -19276,7 +20296,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-30T00:55:58+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -19285,7 +20305,7 @@
           "source_post_id": "110962",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -19295,7 +20315,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -29,
+      "d_day": -30,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -19346,7 +20366,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-02T04:34:42+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -19355,7 +20375,7 @@
           "source_post_id": "110096",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -19365,7 +20385,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -29,
+      "d_day": -30,
       "eligibility": "어린이, 초등학생, 중학생, 고등학생, 동 연령대 청소년, 대학생, 대학원생, 일반인, 기업, 제한 없음, 지역 제한, 기타",
       "benefits": "",
       "location": "",
@@ -19407,7 +20427,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T00:33:00+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -19416,7 +20436,7 @@
           "source_post_id": "110633",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -19426,7 +20446,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -30,
+      "d_day": -31,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -19469,7 +20489,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-23T15:01:53+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -19478,7 +20498,7 @@
           "source_post_id": "111265",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -19488,7 +20508,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -30,
+      "d_day": -31,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -19531,7 +20551,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T00:33:00+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -19540,7 +20560,7 @@
           "source_post_id": "110836",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -19550,7 +20570,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -30,
+      "d_day": -31,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -19597,7 +20617,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-12T15:44:29+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -19606,7 +20626,7 @@
           "source_post_id": "110127",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         },
         {
           "source_id": "wevity",
@@ -19615,7 +20635,7 @@
           "source_post_id": "110065",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -19625,7 +20645,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -31,
+      "d_day": -32,
       "eligibility": "고등학생",
       "benefits": "",
       "location": "",
@@ -19671,7 +20691,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -19680,7 +20700,7 @@
           "source_post_id": "16921",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -19690,7 +20710,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -36,
+      "d_day": -37,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -19733,7 +20753,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-23T03:57:14+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -19742,7 +20762,7 @@
           "source_post_id": "110623",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -19752,7 +20772,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -36,
+      "d_day": -37,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -19796,7 +20816,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-23T03:57:14+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -19805,7 +20825,7 @@
           "source_post_id": "110767",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -19815,7 +20835,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -36,
+      "d_day": -37,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -19859,7 +20879,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-21T01:50:16+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -19868,7 +20888,7 @@
           "source_post_id": "110264",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -19878,7 +20898,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -37,
+      "d_day": -38,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -19924,7 +20944,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-22T04:33:07+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -19933,7 +20953,7 @@
           "source_post_id": "109958",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -19943,7 +20963,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -37,
+      "d_day": -38,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -19986,7 +21006,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-22T04:33:07+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -19995,7 +21015,7 @@
           "source_post_id": "110053",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -20005,7 +21025,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -37,
+      "d_day": -38,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -20049,7 +21069,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -20058,7 +21078,7 @@
           "source_post_id": "110419",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -20068,7 +21088,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -38,
+      "d_day": -39,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -20111,7 +21131,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -20120,7 +21140,7 @@
           "source_post_id": "110360",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -20130,7 +21150,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -38,
+      "d_day": -39,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -20173,7 +21193,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-19T14:57:57+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -20182,7 +21202,7 @@
           "source_post_id": "236767",
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -20192,7 +21212,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -39,
+      "d_day": -40,
       "eligibility": "",
       "benefits": "상금 1,000만원",
       "location": "",
@@ -20241,7 +21261,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-19T01:28:00+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -20250,7 +21270,7 @@
           "source_post_id": "110576",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -20260,7 +21280,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -40,
+      "d_day": -41,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -20320,7 +21340,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -40,
+      "d_day": -41,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -20365,7 +21385,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-18T03:17:24+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -20374,7 +21394,7 @@
           "source_post_id": "110622",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -20384,7 +21404,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -41,
+      "d_day": -42,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -20449,7 +21469,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -42,
+      "d_day": -43,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -20491,7 +21511,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-26T18:04:35+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -20500,7 +21520,7 @@
           "source_post_id": "110498",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -20510,7 +21530,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -43,
+      "d_day": -44,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -20556,7 +21576,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "nipa",
@@ -20565,7 +21585,7 @@
           "source_post_id": "16922",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -20575,7 +21595,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -44,
+      "d_day": -45,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -20615,7 +21635,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-14T01:22:56+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -20624,7 +21644,7 @@
           "source_post_id": "109883",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -20634,7 +21654,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -45,
+      "d_day": -46,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -20679,7 +21699,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -20688,7 +21708,7 @@
           "source_post_id": "109674",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -20698,7 +21718,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -47,
+      "d_day": -48,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -20740,7 +21760,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-12T01:32:05+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -20749,7 +21769,7 @@
           "source_post_id": "109003",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -20759,7 +21779,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -47,
+      "d_day": -48,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -20803,7 +21823,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-12T01:32:05+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -20812,7 +21832,7 @@
           "source_post_id": "109792",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -20822,7 +21842,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -47,
+      "d_day": -48,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -20871,7 +21891,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-12T19:52:19+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -20880,7 +21900,7 @@
           "source_post_id": "109686",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -20890,7 +21910,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -48,
+      "d_day": -49,
       "eligibility": "제한 없음, 기타",
       "benefits": "상금 2,000,000",
       "location": "",
@@ -20930,7 +21950,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-10T01:41:50+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -20939,7 +21959,7 @@
           "source_post_id": "110653",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -20949,7 +21969,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -49,
+      "d_day": -50,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -21014,7 +22034,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -51,
+      "d_day": -52,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -21061,7 +22081,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-07T19:23:50+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -21070,7 +22090,7 @@
           "source_post_id": "110169",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         },
         {
           "source_id": "wevity",
@@ -21079,7 +22099,7 @@
           "source_post_id": "110003",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -21089,7 +22109,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -52,
+      "d_day": -53,
       "eligibility": "중학생, 고등학생, 대학생, 대학원생, 일반인, 지역 제한, 기타",
       "benefits": "상금 10000000",
       "location": "",
@@ -21132,7 +22152,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -21141,7 +22161,7 @@
           "source_post_id": "110012",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -21151,7 +22171,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -52,
+      "d_day": -53,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -21194,7 +22214,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-04T01:28:50+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -21203,7 +22223,7 @@
           "source_post_id": "107135",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -21213,7 +22233,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -55,
+      "d_day": -56,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -21259,7 +22279,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -21268,7 +22288,7 @@
           "source_post_id": "110070",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -21278,7 +22298,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -55,
+      "d_day": -56,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -21321,7 +22341,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -21330,7 +22350,7 @@
           "source_post_id": "236743",
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -21340,7 +22360,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -57,
+      "d_day": -58,
       "eligibility": "",
       "benefits": "상금 본선 진출",
       "location": "",
@@ -21388,7 +22408,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T17:36:15+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -21397,7 +22417,7 @@
           "source_post_id": "108767",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -21407,7 +22427,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -58,
+      "d_day": -59,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -21472,7 +22492,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -59,
+      "d_day": -60,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -21519,7 +22539,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -21528,7 +22548,7 @@
           "source_post_id": "109864",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -21538,7 +22558,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -59,
+      "d_day": -60,
       "eligibility": "대학생, 대학원생, 일반인, 기타",
       "benefits": "상금 500만 원",
       "location": "",
@@ -21579,7 +22599,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -21588,7 +22608,7 @@
           "source_post_id": "110355",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -21598,7 +22618,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -61,
+      "d_day": -62,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -21639,7 +22659,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -21648,7 +22668,7 @@
           "source_post_id": "109568",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -21658,7 +22678,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -61,
+      "d_day": -62,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -21720,7 +22740,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -61,
+      "d_day": -62,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -21763,7 +22783,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -21772,7 +22792,7 @@
           "source_post_id": "109905",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -21782,7 +22802,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -61,
+      "d_day": -62,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -21828,7 +22848,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-29T03:46:06+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -21837,7 +22857,7 @@
           "source_post_id": "108495",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -21847,7 +22867,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -61,
+      "d_day": -62,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -21888,7 +22908,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-28T05:33:27+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -21897,7 +22917,7 @@
           "source_post_id": "108733",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -21907,7 +22927,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -62,
+      "d_day": -63,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -21949,7 +22969,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-07T03:44:26+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -21958,7 +22978,7 @@
           "source_post_id": "236746",
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -21968,7 +22988,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -62,
+      "d_day": -63,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -22008,7 +23028,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -22017,7 +23037,7 @@
           "source_post_id": "110121",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -22027,7 +23047,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -63,
+      "d_day": -64,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -22091,7 +23111,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -66,
+      "d_day": -67,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -22132,7 +23152,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -22141,7 +23161,7 @@
           "source_post_id": "109974",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -22151,7 +23171,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -66,
+      "d_day": -67,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -22194,7 +23214,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-23T00:37:44+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -22203,7 +23223,7 @@
           "source_post_id": "108046",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -22213,7 +23233,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -67,
+      "d_day": -68,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -22257,7 +23277,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -22266,7 +23286,7 @@
           "source_post_id": "109956",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -22276,7 +23296,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -68,
+      "d_day": -69,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -22320,7 +23340,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -22329,7 +23349,7 @@
           "source_post_id": "110040",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -22339,7 +23359,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -70,
+      "d_day": -71,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -22381,7 +23401,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-07T03:44:26+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -22390,7 +23410,7 @@
           "source_post_id": "236736",
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -22400,7 +23420,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -70,
+      "d_day": -71,
       "eligibility": "",
       "benefits": "상금 900만 원",
       "location": "",
@@ -22441,7 +23461,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -22450,7 +23470,7 @@
           "source_post_id": "109142",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -22460,7 +23480,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -71,
+      "d_day": -72,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -22505,7 +23525,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -22514,7 +23534,7 @@
           "source_post_id": "109144",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -22524,7 +23544,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -72,
+      "d_day": -73,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -22584,7 +23604,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -75,
+      "d_day": -76,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -22624,7 +23644,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -22633,7 +23653,7 @@
           "source_post_id": "109527",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -22643,7 +23663,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -75,
+      "d_day": -76,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -22685,7 +23705,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "dacon",
@@ -22694,7 +23714,7 @@
           "source_post_id": "236727",
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -22704,7 +23724,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -76,
+      "d_day": -77,
       "eligibility": "",
       "benefits": "상금 2,500만 원",
       "location": "",
@@ -22751,7 +23771,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -22760,7 +23780,7 @@
           "source_post_id": "109851",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -22770,7 +23790,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -77,
+      "d_day": -78,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -22830,7 +23850,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -78,
+      "d_day": -79,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -22871,7 +23891,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -22880,7 +23900,7 @@
           "source_post_id": "109554",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -22890,7 +23910,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -79,
+      "d_day": -80,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -22934,7 +23954,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -22943,7 +23963,7 @@
           "source_post_id": "109182",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -22953,7 +23973,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -79,
+      "d_day": -80,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -22995,7 +24015,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -23004,7 +24024,7 @@
           "source_post_id": "107518",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -23014,7 +24034,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -83,
+      "d_day": -84,
       "eligibility": "제한 없음",
       "benefits": "",
       "location": "",
@@ -23054,7 +24074,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-06T00:29:54+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -23063,7 +24083,7 @@
           "source_post_id": "109265",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -23073,7 +24093,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -84,
+      "d_day": -85,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -23114,7 +24134,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -23123,7 +24143,7 @@
           "source_post_id": "109141",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -23133,7 +24153,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -86,
+      "d_day": -87,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -23178,7 +24198,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -23187,7 +24207,7 @@
           "source_post_id": "106780",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -23197,7 +24217,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -86,
+      "d_day": -87,
       "eligibility": "중학생, 고등학생, 대학생, 대학원생, 일반인",
       "benefits": "상금 2000000",
       "location": "",
@@ -23241,7 +24261,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-07T03:44:26+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -23250,7 +24270,7 @@
           "source_post_id": "108764",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -23260,7 +24280,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -87,
+      "d_day": -88,
       "eligibility": "대학생, 대학원생, 일반인",
       "benefits": "상금 3,000만원",
       "location": "",
@@ -23302,7 +24322,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-10-07T03:44:26+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -23311,7 +24331,7 @@
           "source_post_id": "108712",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -23321,7 +24341,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -87,
+      "d_day": -88,
       "eligibility": "초등학생",
       "benefits": "상금 50만원(문화상품권)",
       "location": "",
@@ -23364,7 +24384,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -23373,7 +24393,7 @@
           "source_post_id": "109162",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -23383,7 +24403,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -88,
+      "d_day": -89,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -23426,7 +24446,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T17:36:15+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -23435,7 +24455,7 @@
           "source_post_id": "108830",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -23445,7 +24465,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -89,
+      "d_day": -90,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -23507,7 +24527,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -89,
+      "d_day": -90,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -23551,7 +24571,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T17:36:15+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -23560,7 +24580,7 @@
           "source_post_id": "108752",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -23570,7 +24590,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -89,
+      "d_day": -90,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -23617,7 +24637,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-07-30T16:37:20+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -23626,7 +24646,7 @@
           "source_post_id": "108109",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         },
         {
           "source_id": "wevity",
@@ -23635,7 +24655,7 @@
           "source_post_id": "109174",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -23645,7 +24665,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -89,
+      "d_day": -90,
       "eligibility": "제한 없음",
       "benefits": "상금 갤럭시탭S11",
       "location": "",
@@ -23692,7 +24712,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-01T00:30:58+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -23701,7 +24721,7 @@
           "source_post_id": "107427",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -23711,7 +24731,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -89,
+      "d_day": -90,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -23753,7 +24773,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-01T00:30:58+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -23762,7 +24782,7 @@
           "source_post_id": "108288",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -23772,7 +24792,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -89,
+      "d_day": -90,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -23814,7 +24834,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-08-01T00:30:58+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -23823,7 +24843,7 @@
           "source_post_id": "109315",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -23833,7 +24853,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -89,
+      "d_day": -90,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -23875,7 +24895,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-29T17:36:15+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "wevity",
@@ -23884,7 +24904,7 @@
           "source_post_id": "108794",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -23894,7 +24914,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -89,
+      "d_day": -90,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -23956,7 +24976,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -90,
+      "d_day": -91,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -24018,7 +25038,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -90,
+      "d_day": -91,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -24083,7 +25103,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -90,
+      "d_day": -91,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -24129,7 +25149,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -24138,7 +25158,7 @@
           "source_post_id": "108151",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -24148,7 +25168,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -91,
+      "d_day": -92,
       "eligibility": "대학생, 대학원생, 일반인, 지역 제한",
       "benefits": "",
       "location": "",
@@ -24191,7 +25211,7 @@
         "decision": "publish"
       },
       "first_seen_at": "2026-09-08T14:40:59+09:00",
-      "last_seen_at": "2026-10-29T07:31:12+09:00",
+      "last_seen_at": "2026-10-30T07:42:07+09:00",
       "sources": [
         {
           "source_id": "thinkcontest",
@@ -24200,7 +25220,7 @@
           "source_post_id": "108180",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-10-29T07:31:12+09:00"
+          "fetched_at": "2026-10-30T07:42:07+09:00"
         }
       ],
       "application_url": null,
@@ -24210,7 +25230,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -91,
+      "d_day": -92,
       "eligibility": "초등학생, 중학생, 고등학생, 동 연령대 청소년, 기타",
       "benefits": "",
       "location": "",
