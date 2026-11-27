@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T10:45:30+09:00",
+  "generated_at": "2026-11-27T10:41:27+09:00",
   "items": [
     {
       "id": "116070c367b636e9f880",
@@ -26,7 +26,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-29T22:18:03+09:00",
-      "last_seen_at": "2026-11-26T10:45:30+09:00",
+      "last_seen_at": "2026-11-27T10:41:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -35,7 +35,7 @@
           "source_post_id": "PBLN_000000000124402",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-11-26T10:45:30+09:00"
+          "fetched_at": "2026-11-27T10:41:27+09:00"
         }
       ],
       "application_url": null,
@@ -86,7 +86,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-16T06:19:02+09:00",
-      "last_seen_at": "2026-11-26T10:45:30+09:00",
+      "last_seen_at": "2026-11-27T10:41:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -95,7 +95,7 @@
           "source_post_id": "PBLN_000000000126213",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-11-26T10:45:30+09:00"
+          "fetched_at": "2026-11-27T10:41:27+09:00"
         }
       ],
       "application_url": null,
@@ -144,7 +144,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-16T06:19:02+09:00",
-      "last_seen_at": "2026-11-26T10:45:30+09:00",
+      "last_seen_at": "2026-11-27T10:41:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -153,7 +153,7 @@
           "source_post_id": "PBLN_000000000125008",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-11-26T10:45:30+09:00"
+          "fetched_at": "2026-11-27T10:41:27+09:00"
         }
       ],
       "application_url": null,
@@ -163,7 +163,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 22,
+      "d_day": 21,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -203,7 +203,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-16T06:19:02+09:00",
-      "last_seen_at": "2026-11-26T10:45:30+09:00",
+      "last_seen_at": "2026-11-27T10:41:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -212,7 +212,7 @@
           "source_post_id": "PBLN_000000000124300",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-11-26T10:45:30+09:00"
+          "fetched_at": "2026-11-27T10:41:27+09:00"
         }
       ],
       "application_url": null,
@@ -249,7 +249,7 @@
         "디지털 콘텐츠"
       ],
       "audience_tags": [],
-      "status": "open",
+      "status": "urgent",
       "relevance": {
         "score": 69,
         "reasons": [
@@ -261,7 +261,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-09-18T02:15:03+09:00",
-      "last_seen_at": "2026-11-26T10:45:30+09:00",
+      "last_seen_at": "2026-11-27T10:41:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -270,7 +270,7 @@
           "source_post_id": "EVEN_000000000068698",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-11-26T10:45:30+09:00"
+          "fetched_at": "2026-11-27T10:41:27+09:00"
         }
       ],
       "application_url": null,
@@ -280,7 +280,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 4,
+      "d_day": 3,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -345,7 +345,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -3,
+      "d_day": -4,
       "eligibility": "",
       "benefits": "o 지원관련 세부사항은 진흥원 누리집(사업공고) 참고",
       "location": "경기",
@@ -405,7 +405,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -9,
+      "d_day": -10,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -468,7 +468,7 @@
       "event_start": "2026-11-13",
       "event_end": "2026-11-13",
       "date_kind": "exact",
-      "d_day": -16,
+      "d_day": -17,
       "eligibility": "",
       "benefits": "",
       "location": "서울 강남구",
@@ -530,7 +530,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -20,
+      "d_day": -21,
       "eligibility": "",
       "benefits": "",
       "location": "전남광주",
@@ -588,7 +588,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -34,
+      "d_day": -35,
       "eligibility": "",
       "benefits": "",
       "location": "충북",
@@ -648,7 +648,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -36,
+      "d_day": -37,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -708,7 +708,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -35,
+      "d_day": -36,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -773,7 +773,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -37,
+      "d_day": -38,
       "eligibility": "",
       "benefits": "- IP개발 및 제작 - 유통/판로 지원 - 실증검증 - 마케팅/해외진출 지원 등",
       "location": "경기",
@@ -836,7 +836,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -41,
+      "d_day": -42,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -894,7 +894,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -42,
+      "d_day": -43,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -934,7 +934,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-11-20T09:34:58+09:00",
-      "last_seen_at": "2026-11-26T10:45:30+09:00",
+      "last_seen_at": "2026-11-27T10:41:27+09:00",
       "sources": [
         {
           "source_id": "eventus",
@@ -943,7 +943,7 @@
           "source_post_id": "139138",
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-11-26T10:45:30+09:00"
+          "fetched_at": "2026-11-27T10:41:27+09:00"
         }
       ],
       "application_url": "https://event-us.kr/fujifilmbikr/event/139138",
@@ -953,7 +953,7 @@
       "event_start": "2026-12-02",
       "event_end": "2026-12-02",
       "date_kind": "exact",
-      "d_day": 6,
+      "d_day": 5,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -967,66 +967,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "후지필름bi다들쓰고있는데나만몰랐던microsoft365활용법|한국후지필름비즈니스이노베이션|2026-12-02"
-    },
-    {
-      "id": "85f8ec7e5dcd196a142a",
-      "title": "ClickHouse x OliveYoung x NxtCloud 서울 밋업",
-      "source_name": "Dev-Event GitHub",
-      "source_url": "https://luma.com/clickh-gb3i",
-      "organizer": "ClickHouse · 올리브영 · 넥스트클라우드",
-      "summary": "- 분류: 오프라인(서울 서초구), 무료, 모임, 기술일반, AI - 주최: ClickHouse · 올리브영 · 넥스트클라우드 - 일시: 11. 25(수) 18:30 ~ 11. 25(수) 21:30",
-      "primary_type": "event",
-      "field_tags": [
-        "AI",
-        "클라우드·보안"
-      ],
-      "audience_tags": [],
-      "status": "unknown",
-      "relevance": {
-        "score": 68,
-        "reasons": [
-          "본문·분류 키워드: ai, 클라우드",
-          "공고 유형: event",
-          "IT·게임 전문 출처"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-11-05T08:37:24+09:00",
-      "last_seen_at": "2026-11-26T10:45:30+09:00",
-      "sources": [
-        {
-          "source_id": "dev_event",
-          "source_name": "Dev-Event GitHub",
-          "source_url": "https://luma.com/clickh-gb3i",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-11-26T10:45:30+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": null,
-      "recruit_end": null,
-      "event_start": "2026-11-25",
-      "event_end": "2026-11-25",
-      "date_kind": "unknown",
-      "d_day": null,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "offline",
-      "fee": "free",
-      "is_adjacent": false,
-      "domain": "it",
-      "regions": [
-        "서울"
-      ],
-      "prize_manwon": null,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "clickhousexoliveyoungxnxtcloud서울밋업|clickhouse올리브영넥스트클라우드|"
     },
     {
       "id": "92a76a133dc0483f349e",
@@ -1052,7 +992,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-11-21T08:57:58+09:00",
-      "last_seen_at": "2026-11-26T10:45:30+09:00",
+      "last_seen_at": "2026-11-27T10:41:27+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1061,7 +1001,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-11-26T10:45:30+09:00"
+          "fetched_at": "2026-11-27T10:41:27+09:00"
         }
       ],
       "application_url": null,
@@ -1071,7 +1011,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 2,
+      "d_day": 1,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1112,7 +1052,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-11-13T08:33:14+09:00",
-      "last_seen_at": "2026-11-26T10:45:30+09:00",
+      "last_seen_at": "2026-11-27T10:41:27+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1121,7 +1061,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-11-26T10:45:30+09:00"
+          "fetched_at": "2026-11-27T10:41:27+09:00"
         }
       ],
       "application_url": null,
@@ -1131,7 +1071,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 10,
+      "d_day": 9,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1147,6 +1087,66 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "microsoftignite2026recap전문가와함께최신기술짚어보기|microsoftmvp커뮤니티|2026-12-06"
+    },
+    {
+      "id": "7315b0d4821f1067a586",
+      "title": "LISAthon-ADAPT 2026 (Attack & Defense Arena for Platform Threats)",
+      "source_name": "Dev-Event GitHub",
+      "source_url": "https://schlisa.org/",
+      "organizer": "순천향대학교 시스템보안연구실(LISA)",
+      "summary": "- 분류: 온라인, 오프라인(충남 아산), 무료, 대회, 기술일반 - 주최: 순천향대학교 시스템보안연구실(LISA) - 접수: 11. 26(목) ~ 12. 11(금) 23:59",
+      "primary_type": "contest",
+      "field_tags": [
+        "소프트웨어",
+        "클라우드·보안"
+      ],
+      "audience_tags": [],
+      "status": "open",
+      "relevance": {
+        "score": 68,
+        "reasons": [
+          "본문·분류 키워드: 보안, 시스템",
+          "공고 유형: contest",
+          "IT·게임 전문 출처"
+        ],
+        "decision": "review"
+      },
+      "first_seen_at": "2026-11-27T10:41:27+09:00",
+      "last_seen_at": "2026-11-27T10:41:27+09:00",
+      "sources": [
+        {
+          "source_id": "dev_event",
+          "source_name": "Dev-Event GitHub",
+          "source_url": "https://schlisa.org/",
+          "source_post_id": null,
+          "kind": "specialist",
+          "priority": 60,
+          "fetched_at": "2026-11-27T10:41:27+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-11-26",
+      "recruit_end": "2026-12-11",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": 14,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "hybrid",
+      "fee": "free",
+      "is_adjacent": false,
+      "domain": "it",
+      "regions": [
+        "충남"
+      ],
+      "prize_manwon": null,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "lisathonadapt2026attackdefensearenaforplatformthreats|순천향대학교시스템보안연구실lisa|2026-12-11"
     },
     {
       "id": "640522e8e10655ed8850",
@@ -1191,7 +1191,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -20,
+      "d_day": -21,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1251,7 +1251,7 @@
       "event_start": "2026-10-16",
       "event_end": "2026-10-16",
       "date_kind": "exact",
-      "d_day": -42,
+      "d_day": -43,
       "eligibility": "",
       "benefits": "",
       "location": "서울 서초구",
@@ -1311,7 +1311,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -43,
+      "d_day": -44,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1352,7 +1352,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-11-13T08:33:14+09:00",
-      "last_seen_at": "2026-11-26T10:45:30+09:00",
+      "last_seen_at": "2026-11-27T10:41:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -1361,7 +1361,7 @@
           "source_post_id": "EVEN_000000000069823",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-11-26T10:45:30+09:00"
+          "fetched_at": "2026-11-27T10:41:27+09:00"
         }
       ],
       "application_url": null,
@@ -1371,7 +1371,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 7,
+      "d_day": 6,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1429,7 +1429,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -8,
+      "d_day": -9,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1491,7 +1491,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -26,
+      "d_day": -27,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1551,7 +1551,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -43,
+      "d_day": -44,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1591,7 +1591,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-11-26T10:45:30+09:00",
-      "last_seen_at": "2026-11-26T10:45:30+09:00",
+      "last_seen_at": "2026-11-27T10:41:27+09:00",
       "sources": [
         {
           "source_id": "eventus",
@@ -1600,7 +1600,7 @@
           "source_post_id": "141081",
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-11-26T10:45:30+09:00"
+          "fetched_at": "2026-11-27T10:41:27+09:00"
         }
       ],
       "application_url": "https://event-us.kr/hsoperation/event/141081",
@@ -1610,7 +1610,7 @@
       "event_start": "2026-12-17",
       "event_end": "2026-12-17",
       "date_kind": "exact",
-      "d_day": 21,
+      "d_day": 20,
       "eligibility": "",
       "benefits": "",
       "location": "서울 강남구",
@@ -1628,63 +1628,6 @@
       "dedupe_key": "숙박왕권대표숙박업운영12월세미나|권아카데미|2026-12-17"
     },
     {
-      "id": "3ff087bcdf1294874a53",
-      "title": "잡코리아 프로덕트 컨퍼런스 | 흩어진 경계, 흔들리는 기준",
-      "source_name": "Dev-Event GitHub",
-      "source_url": "https://www.jobkorea.co.kr/goodjob/Tip/View?News_No=22687",
-      "organizer": "잡코리아(웍스피어)",
-      "summary": "- 분류: 온라인, 무료, 세미나, AI - 주최: 잡코리아(웍스피어) - 접수: 11. 05(목) ~ 11. 25(수)",
-      "primary_type": "event",
-      "field_tags": [
-        "AI"
-      ],
-      "audience_tags": [],
-      "status": "closed",
-      "relevance": {
-        "score": 65,
-        "reasons": [
-          "본문·분류 키워드: ai",
-          "공고 유형: event",
-          "IT·게임 전문 출처"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-11-17T10:50:57+09:00",
-      "last_seen_at": "2026-11-26T10:45:30+09:00",
-      "sources": [
-        {
-          "source_id": "dev_event",
-          "source_name": "Dev-Event GitHub",
-          "source_url": "https://www.jobkorea.co.kr/goodjob/Tip/View?News_No=22687",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-11-26T10:45:30+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-11-05",
-      "recruit_end": "2026-11-25",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": -1,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "online",
-      "fee": "free",
-      "is_adjacent": false,
-      "domain": "it",
-      "regions": [],
-      "prize_manwon": null,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "잡코리아프로덕트컨퍼런스흩어진경계흔들리는기준|잡코리아웍스피어|2026-11-25"
-    },
-    {
       "id": "d4dc9f211b73037126db",
       "title": "2026 FDE Field Forum: FDE가 전달하는 현장의 이야기",
       "source_name": "Dev-Event GitHub",
@@ -1696,7 +1639,7 @@
         "AI"
       ],
       "audience_tags": [],
-      "status": "urgent",
+      "status": "today",
       "relevance": {
         "score": 65,
         "reasons": [
@@ -1707,7 +1650,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-28T07:08:58+09:00",
-      "last_seen_at": "2026-11-26T10:45:30+09:00",
+      "last_seen_at": "2026-11-27T10:41:27+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1716,7 +1659,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-11-26T10:45:30+09:00"
+          "fetched_at": "2026-11-27T10:41:27+09:00"
         }
       ],
       "application_url": null,
@@ -1726,7 +1669,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 1,
+      "d_day": 0,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1755,7 +1698,7 @@
         "AI"
       ],
       "audience_tags": [],
-      "status": "urgent",
+      "status": "today",
       "relevance": {
         "score": 65,
         "reasons": [
@@ -1766,7 +1709,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-28T07:08:58+09:00",
-      "last_seen_at": "2026-11-26T10:45:30+09:00",
+      "last_seen_at": "2026-11-27T10:41:27+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1775,7 +1718,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-11-26T10:45:30+09:00"
+          "fetched_at": "2026-11-27T10:41:27+09:00"
         }
       ],
       "application_url": null,
@@ -1785,7 +1728,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 1,
+      "d_day": 0,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1814,7 +1757,7 @@
         "AI"
       ],
       "audience_tags": [],
-      "status": "urgent",
+      "status": "today",
       "relevance": {
         "score": 65,
         "reasons": [
@@ -1825,7 +1768,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-11-02T06:58:10+09:00",
-      "last_seen_at": "2026-11-26T10:45:30+09:00",
+      "last_seen_at": "2026-11-27T10:41:27+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1834,7 +1777,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-11-26T10:45:30+09:00"
+          "fetched_at": "2026-11-27T10:41:27+09:00"
         }
       ],
       "application_url": null,
@@ -1844,7 +1787,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 1,
+      "d_day": 0,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1889,7 +1832,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-11-02T06:58:10+09:00",
-      "last_seen_at": "2026-11-26T10:45:30+09:00",
+      "last_seen_at": "2026-11-27T10:41:27+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1898,7 +1841,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-11-26T10:45:30+09:00"
+          "fetched_at": "2026-11-27T10:41:27+09:00"
         }
       ],
       "application_url": null,
@@ -1908,7 +1851,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 2,
+      "d_day": 1,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -1948,7 +1891,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-11-24T12:56:38+09:00",
-      "last_seen_at": "2026-11-26T10:45:30+09:00",
+      "last_seen_at": "2026-11-27T10:41:27+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -1957,7 +1900,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-11-26T10:45:30+09:00"
+          "fetched_at": "2026-11-27T10:41:27+09:00"
         }
       ],
       "application_url": null,
@@ -1967,7 +1910,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 3,
+      "d_day": 2,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2007,7 +1950,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-11-17T10:50:57+09:00",
-      "last_seen_at": "2026-11-26T10:45:30+09:00",
+      "last_seen_at": "2026-11-27T10:41:27+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2016,7 +1959,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-11-26T10:45:30+09:00"
+          "fetched_at": "2026-11-27T10:41:27+09:00"
         }
       ],
       "application_url": null,
@@ -2026,7 +1969,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 3,
+      "d_day": 2,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2066,7 +2009,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-11-17T10:50:57+09:00",
-      "last_seen_at": "2026-11-26T10:45:30+09:00",
+      "last_seen_at": "2026-11-27T10:41:27+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2075,7 +2018,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-11-26T10:45:30+09:00"
+          "fetched_at": "2026-11-27T10:41:27+09:00"
         }
       ],
       "application_url": null,
@@ -2085,7 +2028,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 6,
+      "d_day": 5,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2125,7 +2068,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-11-24T12:56:38+09:00",
-      "last_seen_at": "2026-11-26T10:45:30+09:00",
+      "last_seen_at": "2026-11-27T10:41:27+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2134,7 +2077,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-11-26T10:45:30+09:00"
+          "fetched_at": "2026-11-27T10:41:27+09:00"
         }
       ],
       "application_url": null,
@@ -2144,7 +2087,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 7,
+      "d_day": 6,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2184,7 +2127,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-11-10T10:29:13+09:00",
-      "last_seen_at": "2026-11-26T10:45:30+09:00",
+      "last_seen_at": "2026-11-27T10:41:27+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2193,7 +2136,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-11-26T10:45:30+09:00"
+          "fetched_at": "2026-11-27T10:41:27+09:00"
         }
       ],
       "application_url": null,
@@ -2203,7 +2146,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 7,
+      "d_day": 6,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2241,7 +2184,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-11-10T10:29:13+09:00",
-      "last_seen_at": "2026-11-26T10:45:30+09:00",
+      "last_seen_at": "2026-11-27T10:41:27+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2250,7 +2193,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-11-26T10:45:30+09:00"
+          "fetched_at": "2026-11-27T10:41:27+09:00"
         }
       ],
       "application_url": null,
@@ -2300,7 +2243,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-11-17T10:50:57+09:00",
-      "last_seen_at": "2026-11-26T10:45:30+09:00",
+      "last_seen_at": "2026-11-27T10:41:27+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2309,7 +2252,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-11-26T10:45:30+09:00"
+          "fetched_at": "2026-11-27T10:41:27+09:00"
         }
       ],
       "application_url": null,
@@ -2319,7 +2262,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 8,
+      "d_day": 7,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2335,6 +2278,65 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "agentops에이전트최적화핸즈온워크샵|microsoft커뮤니티이벤트한국마이크로소프트devrel|2026-12-04"
+    },
+    {
+      "id": "7f8fb47863fb1abe1ff0",
+      "title": "Codex Community Hackathon – Suwon",
+      "source_name": "Dev-Event GitHub",
+      "source_url": "https://luma.com/hwl5f9xx",
+      "organizer": "Codex Community",
+      "summary": "- 분류: 오프라인(경기 수원), 무료, 대회, AI - 주최: Codex Community - 일시: 12. 05(토) 12:00 ~ 12. 05(토) 19:00",
+      "primary_type": "contest",
+      "field_tags": [
+        "AI"
+      ],
+      "audience_tags": [],
+      "status": "unknown",
+      "relevance": {
+        "score": 65,
+        "reasons": [
+          "본문·분류 키워드: ai",
+          "공고 유형: contest",
+          "IT·게임 전문 출처"
+        ],
+        "decision": "review"
+      },
+      "first_seen_at": "2026-11-27T10:41:27+09:00",
+      "last_seen_at": "2026-11-27T10:41:27+09:00",
+      "sources": [
+        {
+          "source_id": "dev_event",
+          "source_name": "Dev-Event GitHub",
+          "source_url": "https://luma.com/hwl5f9xx",
+          "source_post_id": null,
+          "kind": "specialist",
+          "priority": 60,
+          "fetched_at": "2026-11-27T10:41:27+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": null,
+      "recruit_end": null,
+      "event_start": "2026-12-05",
+      "event_end": "2026-12-05",
+      "date_kind": "unknown",
+      "d_day": null,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "offline",
+      "fee": "free",
+      "is_adjacent": false,
+      "domain": "it",
+      "regions": [
+        "경기"
+      ],
+      "prize_manwon": null,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "codexcommunityhackathonsuwon|codexcommunity|"
     },
     {
       "id": "2d005c826f9a8c7e7aa4",
@@ -2359,7 +2361,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-11-24T12:56:38+09:00",
-      "last_seen_at": "2026-11-26T10:45:30+09:00",
+      "last_seen_at": "2026-11-27T10:41:27+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2368,7 +2370,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-11-26T10:45:30+09:00"
+          "fetched_at": "2026-11-27T10:41:27+09:00"
         }
       ],
       "application_url": null,
@@ -2378,7 +2380,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 10,
+      "d_day": 9,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2418,7 +2420,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-11-17T10:50:57+09:00",
-      "last_seen_at": "2026-11-26T10:45:30+09:00",
+      "last_seen_at": "2026-11-27T10:41:27+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2427,7 +2429,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-11-26T10:45:30+09:00"
+          "fetched_at": "2026-11-27T10:41:27+09:00"
         }
       ],
       "application_url": null,
@@ -2437,7 +2439,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 15,
+      "d_day": 14,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2477,7 +2479,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-10-13T09:35:11+09:00",
-      "last_seen_at": "2026-11-26T10:45:30+09:00",
+      "last_seen_at": "2026-11-27T10:41:27+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -2486,7 +2488,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-11-26T10:45:30+09:00"
+          "fetched_at": "2026-11-27T10:41:27+09:00"
         }
       ],
       "application_url": null,
@@ -2496,7 +2498,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 16,
+      "d_day": 15,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2514,6 +2516,63 @@
       ],
       "is_manual_reviewed": false,
       "dedupe_key": "devfestincheon2026|gdgincheon|2026-12-12"
+    },
+    {
+      "id": "3ff087bcdf1294874a53",
+      "title": "잡코리아 프로덕트 컨퍼런스 | 흩어진 경계, 흔들리는 기준",
+      "source_name": "Dev-Event GitHub",
+      "source_url": "https://www.jobkorea.co.kr/goodjob/Tip/View?News_No=22687",
+      "organizer": "잡코리아(웍스피어)",
+      "summary": "- 분류: 온라인, 무료, 세미나, AI - 주최: 잡코리아(웍스피어) - 접수: 11. 05(목) ~ 11. 25(수)",
+      "primary_type": "event",
+      "field_tags": [
+        "AI"
+      ],
+      "audience_tags": [],
+      "status": "closed",
+      "relevance": {
+        "score": 65,
+        "reasons": [
+          "본문·분류 키워드: ai",
+          "공고 유형: event",
+          "IT·게임 전문 출처"
+        ],
+        "decision": "review"
+      },
+      "first_seen_at": "2026-11-17T10:50:57+09:00",
+      "last_seen_at": "2026-11-26T10:45:30+09:00",
+      "sources": [
+        {
+          "source_id": "dev_event",
+          "source_name": "Dev-Event GitHub",
+          "source_url": "https://www.jobkorea.co.kr/goodjob/Tip/View?News_No=22687",
+          "source_post_id": null,
+          "kind": "specialist",
+          "priority": 60,
+          "fetched_at": "2026-11-26T10:45:30+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-11-05",
+      "recruit_end": "2026-11-25",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -2,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "online",
+      "fee": "free",
+      "is_adjacent": false,
+      "domain": "it",
+      "regions": [],
+      "prize_manwon": null,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "잡코리아프로덕트컨퍼런스흩어진경계흔들리는기준|잡코리아웍스피어|2026-11-25"
     },
     {
       "id": "b5fc70e098424e93d21f",
@@ -2557,7 +2616,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2616,7 +2675,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2675,7 +2734,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -5,
+      "d_day": -6,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2734,7 +2793,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -8,
+      "d_day": -9,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2795,7 +2854,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -7,
+      "d_day": -8,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2854,7 +2913,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -13,
+      "d_day": -14,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2913,7 +2972,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -10,
+      "d_day": -11,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -2972,7 +3031,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -20,
+      "d_day": -21,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -3031,7 +3090,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -19,
+      "d_day": -20,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -3090,7 +3149,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -28,
+      "d_day": -29,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -3149,7 +3208,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -27,
+      "d_day": -28,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -3208,7 +3267,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -27,
+      "d_day": -28,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -3267,7 +3326,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -26,
+      "d_day": -27,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -3337,7 +3396,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -34,
+      "d_day": -35,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -3398,7 +3457,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -31,
+      "d_day": -32,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -3457,7 +3516,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -31,
+      "d_day": -32,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -3516,7 +3575,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -31,
+      "d_day": -32,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -3573,7 +3632,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -43,
+      "d_day": -44,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -3632,7 +3691,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -41,
+      "d_day": -42,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -3673,7 +3732,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-11-20T09:34:58+09:00",
-      "last_seen_at": "2026-11-26T10:45:30+09:00",
+      "last_seen_at": "2026-11-27T10:41:27+09:00",
       "sources": [
         {
           "source_id": "bizinfo",
@@ -3682,7 +3741,7 @@
           "source_post_id": "EVEN_000000000069875",
           "kind": "government",
           "priority": 80,
-          "fetched_at": "2026-11-26T10:45:30+09:00"
+          "fetched_at": "2026-11-27T10:41:27+09:00"
         }
       ],
       "application_url": null,
@@ -3692,7 +3751,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 7,
+      "d_day": 6,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -3733,7 +3792,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-11-24T12:56:38+09:00",
-      "last_seen_at": "2026-11-26T10:45:30+09:00",
+      "last_seen_at": "2026-11-27T10:41:27+09:00",
       "sources": [
         {
           "source_id": "momo365",
@@ -3742,7 +3801,7 @@
           "source_post_id": "179963",
           "kind": "aggregate",
           "priority": 40,
-          "fetched_at": "2026-11-26T10:45:30+09:00"
+          "fetched_at": "2026-11-27T10:41:27+09:00"
         }
       ],
       "application_url": null,
@@ -3752,7 +3811,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 8,
+      "d_day": 7,
       "eligibility": "",
       "benefits": "",
       "location": "전국",
@@ -3810,7 +3869,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -14,
+      "d_day": -15,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -3868,7 +3927,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -20,
+      "d_day": -21,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -3926,7 +3985,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -26,
+      "d_day": -27,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -3984,7 +4043,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -28,
+      "d_day": -29,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -4042,7 +4101,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -44,
+      "d_day": -45,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -4085,7 +4144,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-11-24T12:56:38+09:00",
-      "last_seen_at": "2026-11-26T10:45:30+09:00",
+      "last_seen_at": "2026-11-27T10:41:27+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -4094,7 +4153,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-11-26T10:45:30+09:00"
+          "fetched_at": "2026-11-27T10:41:27+09:00"
         }
       ],
       "application_url": null,
@@ -4104,7 +4163,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 13,
+      "d_day": 12,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -4163,7 +4222,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -29,
+      "d_day": -30,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -4224,7 +4283,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -31,
+      "d_day": -32,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -4240,122 +4299,6 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "awskrug부산지역소모임10월26일월|awskrug|2026-10-26"
-    },
-    {
-      "id": "c17b82281269c9f52208",
-      "title": "3rd vLLM Korea Meetup",
-      "source_name": "Dev-Event GitHub",
-      "source_url": "https://event-us.kr/vllmkr/event/137780",
-      "organizer": "vLLM Korea · 리벨리온 · 스퀴즈비츠",
-      "summary": "- 분류: 오프라인(서울 서초구), 무료, 모임, AI - 주최: vLLM Korea · 리벨리온 · 스퀴즈비츠 - 접수: 11. 03(화) 14:00 ~ 11. 23(월) 23:59",
-      "primary_type": "other",
-      "field_tags": [
-        "AI"
-      ],
-      "audience_tags": [],
-      "status": "closed",
-      "relevance": {
-        "score": 53,
-        "reasons": [
-          "본문·분류 키워드: ai",
-          "IT·게임 전문 출처"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-11-05T08:37:24+09:00",
-      "last_seen_at": "2026-11-26T10:45:30+09:00",
-      "sources": [
-        {
-          "source_id": "dev_event",
-          "source_name": "Dev-Event GitHub",
-          "source_url": "https://event-us.kr/vllmkr/event/137780",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-11-26T10:45:30+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-11-03",
-      "recruit_end": "2026-11-23",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": -3,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "offline",
-      "fee": "free",
-      "is_adjacent": false,
-      "domain": "it",
-      "regions": [
-        "서울"
-      ],
-      "prize_manwon": null,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "3rdvllmkoreameetup|vllmkorea리벨리온스퀴즈비츠|2026-11-23"
-    },
-    {
-      "id": "19ea7a55a90503b89799",
-      "title": "AWSKRUG 인천 지역 #incheon 소모임 - 11월 26일 (목)",
-      "source_name": "Dev-Event GitHub",
-      "source_url": "https://www.meetup.com/awskrug/events/317378266",
-      "organizer": "AWSKRUG",
-      "summary": "- 분류: 오프라인(인천), 무료, 모임, 클라우드 - 주최: AWSKRUG - 접수: 11. 11(수) ~ 11. 26(목) 19:30",
-      "primary_type": "other",
-      "field_tags": [
-        "클라우드·보안"
-      ],
-      "audience_tags": [],
-      "status": "today",
-      "relevance": {
-        "score": 53,
-        "reasons": [
-          "본문·분류 키워드: 클라우드",
-          "IT·게임 전문 출처"
-        ],
-        "decision": "review"
-      },
-      "first_seen_at": "2026-11-13T08:33:14+09:00",
-      "last_seen_at": "2026-11-26T10:45:30+09:00",
-      "sources": [
-        {
-          "source_id": "dev_event",
-          "source_name": "Dev-Event GitHub",
-          "source_url": "https://www.meetup.com/awskrug/events/317378266",
-          "source_post_id": null,
-          "kind": "specialist",
-          "priority": 60,
-          "fetched_at": "2026-11-26T10:45:30+09:00"
-        }
-      ],
-      "application_url": null,
-      "document_url": null,
-      "recruit_start": "2026-11-11",
-      "recruit_end": "2026-11-26",
-      "event_start": null,
-      "event_end": null,
-      "date_kind": "exact",
-      "d_day": 0,
-      "eligibility": "",
-      "benefits": "",
-      "location": "",
-      "mode": "offline",
-      "fee": "free",
-      "is_adjacent": false,
-      "domain": "it",
-      "regions": [
-        "인천"
-      ],
-      "prize_manwon": null,
-      "last_changed_at": null,
-      "change_flags": [],
-      "is_manual_reviewed": false,
-      "dedupe_key": "awskrug인천지역incheon소모임11월26일목|awskrug|2026-11-26"
     },
     {
       "id": "050122436d180071d25d",
@@ -4379,7 +4322,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-11-24T12:56:38+09:00",
-      "last_seen_at": "2026-11-26T10:45:30+09:00",
+      "last_seen_at": "2026-11-27T10:41:27+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -4388,7 +4331,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-11-26T10:45:30+09:00"
+          "fetched_at": "2026-11-27T10:41:27+09:00"
         }
       ],
       "application_url": null,
@@ -4437,7 +4380,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-11-21T08:57:58+09:00",
-      "last_seen_at": "2026-11-26T10:45:30+09:00",
+      "last_seen_at": "2026-11-27T10:41:27+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -4446,7 +4389,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-11-26T10:45:30+09:00"
+          "fetched_at": "2026-11-27T10:41:27+09:00"
         }
       ],
       "application_url": null,
@@ -4495,7 +4438,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-11-17T10:50:57+09:00",
-      "last_seen_at": "2026-11-26T10:45:30+09:00",
+      "last_seen_at": "2026-11-27T10:41:27+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -4504,7 +4447,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-11-26T10:45:30+09:00"
+          "fetched_at": "2026-11-27T10:41:27+09:00"
         }
       ],
       "application_url": null,
@@ -4553,7 +4496,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-11-17T10:50:57+09:00",
-      "last_seen_at": "2026-11-26T10:45:30+09:00",
+      "last_seen_at": "2026-11-27T10:41:27+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -4562,7 +4505,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-11-26T10:45:30+09:00"
+          "fetched_at": "2026-11-27T10:41:27+09:00"
         }
       ],
       "application_url": null,
@@ -4611,7 +4554,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-11-24T12:56:38+09:00",
-      "last_seen_at": "2026-11-26T10:45:30+09:00",
+      "last_seen_at": "2026-11-27T10:41:27+09:00",
       "sources": [
         {
           "source_id": "dev_event",
@@ -4620,7 +4563,7 @@
           "source_post_id": null,
           "kind": "specialist",
           "priority": 60,
-          "fetched_at": "2026-11-26T10:45:30+09:00"
+          "fetched_at": "2026-11-27T10:41:27+09:00"
         }
       ],
       "application_url": null,
@@ -4646,6 +4589,122 @@
       "change_flags": [],
       "is_manual_reviewed": false,
       "dedupe_key": "mugseouldec2026mongodb2026highlights|seoulmongodbusergroup|"
+    },
+    {
+      "id": "c17b82281269c9f52208",
+      "title": "3rd vLLM Korea Meetup",
+      "source_name": "Dev-Event GitHub",
+      "source_url": "https://event-us.kr/vllmkr/event/137780",
+      "organizer": "vLLM Korea · 리벨리온 · 스퀴즈비츠",
+      "summary": "- 분류: 오프라인(서울 서초구), 무료, 모임, AI - 주최: vLLM Korea · 리벨리온 · 스퀴즈비츠 - 접수: 11. 03(화) 14:00 ~ 11. 23(월) 23:59",
+      "primary_type": "other",
+      "field_tags": [
+        "AI"
+      ],
+      "audience_tags": [],
+      "status": "closed",
+      "relevance": {
+        "score": 53,
+        "reasons": [
+          "본문·분류 키워드: ai",
+          "IT·게임 전문 출처"
+        ],
+        "decision": "review"
+      },
+      "first_seen_at": "2026-11-05T08:37:24+09:00",
+      "last_seen_at": "2026-11-26T10:45:30+09:00",
+      "sources": [
+        {
+          "source_id": "dev_event",
+          "source_name": "Dev-Event GitHub",
+          "source_url": "https://event-us.kr/vllmkr/event/137780",
+          "source_post_id": null,
+          "kind": "specialist",
+          "priority": 60,
+          "fetched_at": "2026-11-26T10:45:30+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-11-03",
+      "recruit_end": "2026-11-23",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -4,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "offline",
+      "fee": "free",
+      "is_adjacent": false,
+      "domain": "it",
+      "regions": [
+        "서울"
+      ],
+      "prize_manwon": null,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "3rdvllmkoreameetup|vllmkorea리벨리온스퀴즈비츠|2026-11-23"
+    },
+    {
+      "id": "19ea7a55a90503b89799",
+      "title": "AWSKRUG 인천 지역 #incheon 소모임 - 11월 26일 (목)",
+      "source_name": "Dev-Event GitHub",
+      "source_url": "https://www.meetup.com/awskrug/events/317378266",
+      "organizer": "AWSKRUG",
+      "summary": "- 분류: 오프라인(인천), 무료, 모임, 클라우드 - 주최: AWSKRUG - 접수: 11. 11(수) ~ 11. 26(목) 19:30",
+      "primary_type": "other",
+      "field_tags": [
+        "클라우드·보안"
+      ],
+      "audience_tags": [],
+      "status": "closed",
+      "relevance": {
+        "score": 53,
+        "reasons": [
+          "본문·분류 키워드: 클라우드",
+          "IT·게임 전문 출처"
+        ],
+        "decision": "review"
+      },
+      "first_seen_at": "2026-11-13T08:33:14+09:00",
+      "last_seen_at": "2026-11-26T10:45:30+09:00",
+      "sources": [
+        {
+          "source_id": "dev_event",
+          "source_name": "Dev-Event GitHub",
+          "source_url": "https://www.meetup.com/awskrug/events/317378266",
+          "source_post_id": null,
+          "kind": "specialist",
+          "priority": 60,
+          "fetched_at": "2026-11-26T10:45:30+09:00"
+        }
+      ],
+      "application_url": null,
+      "document_url": null,
+      "recruit_start": "2026-11-11",
+      "recruit_end": "2026-11-26",
+      "event_start": null,
+      "event_end": null,
+      "date_kind": "exact",
+      "d_day": -1,
+      "eligibility": "",
+      "benefits": "",
+      "location": "",
+      "mode": "offline",
+      "fee": "free",
+      "is_adjacent": false,
+      "domain": "it",
+      "regions": [
+        "인천"
+      ],
+      "prize_manwon": null,
+      "last_changed_at": null,
+      "change_flags": [],
+      "is_manual_reviewed": false,
+      "dedupe_key": "awskrug인천지역incheon소모임11월26일목|awskrug|2026-11-26"
     },
     {
       "id": "ef2162fa66676d1ada46",
@@ -4688,7 +4747,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -4746,7 +4805,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -4804,7 +4863,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -10,
+      "d_day": -11,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -4862,7 +4921,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -15,
+      "d_day": -16,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -4920,7 +4979,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -22,
+      "d_day": -23,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -4982,7 +5041,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -57,
+      "d_day": -58,
       "eligibility": "",
       "benefits": "상금 4,200만 원",
       "location": "",
@@ -5045,7 +5104,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -28,
+      "d_day": -29,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -5103,7 +5162,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -31,
+      "d_day": -32,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -5159,7 +5218,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -35,
+      "d_day": -36,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -5217,7 +5276,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -42,
+      "d_day": -43,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -5277,7 +5336,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -40,
+      "d_day": -41,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -5335,7 +5394,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -39,
+      "d_day": -40,
       "eligibility": "",
       "benefits": "",
       "location": "",
@@ -5379,7 +5438,7 @@
         "decision": "review"
       },
       "first_seen_at": "2026-11-05T08:37:24+09:00",
-      "last_seen_at": "2026-11-26T10:45:30+09:00",
+      "last_seen_at": "2026-11-27T10:41:27+09:00",
       "sources": [
         {
           "source_id": "gcon",
@@ -5388,7 +5447,7 @@
           "source_post_id": "11242",
           "kind": "official",
           "priority": 100,
-          "fetched_at": "2026-11-26T10:45:30+09:00"
+          "fetched_at": "2026-11-27T10:41:27+09:00"
         }
       ],
       "application_url": null,
@@ -5398,7 +5457,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": 5,
+      "d_day": 4,
       "eligibility": "",
       "benefits": "ㅇ 사무공간 지원 - 개방형 지정석 사무공간 24시간 개방 - 부대시설 이용(회의실, 탕비실, 휘트니스센터, 정보자료실 등) 지원 - 사물함, 우편함 제공 ㅇ 프로그램 지원 - 콘",
       "location": "경기",
@@ -5461,7 +5520,7 @@
       "event_start": null,
       "event_end": null,
       "date_kind": "exact",
-      "d_day": -6,
+      "d_day": -7,
       "eligibility": "",
       "benefits": "□ 지원내용 ○ 비상주 사업자등록 주소지 사용 허가 1) 사업자등록 시 사업장 소재(주소지) 사용 ※ 경기도 부천시 부천로 198번길 18 춘의테크노파크 2차 202동 10층 서부",
       "location": "경기",
